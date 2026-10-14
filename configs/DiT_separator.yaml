@@ -1,0 +1,14 @@
+# Query-conditioned DiT separator. Train with: bash train_dit_separator.sh
+
+defaults:
+- model: DiT_separator
+- data: separator
+- optimizer: DiT_separator
+- trainer: DiT_separator
+- _self_
+hydra:
+  output_subdir: null
+  run:
+    dir: .
+  sweep:
+    dir: .

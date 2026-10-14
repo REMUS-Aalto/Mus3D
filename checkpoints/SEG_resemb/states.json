@@ -1,0 +1,6 @@
+{
+  "global_step": 400001,
+  "best_metrics": 0.0,
+  "prev_metrics": Infinity,
+  "latest_metrics": 0.0
+}

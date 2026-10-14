@@ -1,0 +1,1066 @@
+song,segment_index,n_predicted,n_true,n_matched,n_missed,n_unmatched,n_merged,predicted_prompts,predicted_families,true_names
+0358fd1e-244a-4422-9a42-29b5d68f6e4b,0,4,2,2,0,1,1,drum|acoustic guitar|male voice|female voice,drums|guitar|vocals,drums|guitar
+0358fd1e-244a-4422-9a42-29b5d68f6e4b,1,2,2,1,1,1,0,acoustic guitar|male voice singing,guitar|vocals,drums|guitar
+0358fd1e-244a-4422-9a42-29b5d68f6e4b,2,2,2,1,1,1,0,acoustic guitar|male voice singing,guitar|vocals,drums|guitar
+0358fd1e-244a-4422-9a42-29b5d68f6e4b,3,4,3,3,0,1,0,drum kit|bass guitar|acoustic guitar|male voice singing,bass|drums|guitar|vocals,drums|guitar|vocals
+0358fd1e-244a-4422-9a42-29b5d68f6e4b,4,3,3,2,1,1,0,Acoustic guitar|male voice singing softly|shaker,guitar|percussion|vocals,drums|guitar|vocals
+0358fd1e-244a-4422-9a42-29b5d68f6e4b,5,2,3,2,1,0,0,Acoustic guitar|male voice singing softly,guitar|vocals,drums|guitar|vocals
+0358fd1e-244a-4422-9a42-29b5d68f6e4b,6,2,3,2,1,0,0,Acoustic guitar|male voice,guitar|vocals,drums|guitar|vocals
+0358fd1e-244a-4422-9a42-29b5d68f6e4b,7,2,3,2,1,0,0,acoustic guitar|male voice singing,guitar|vocals,drums|guitar|vocals
+0358fd1e-244a-4422-9a42-29b5d68f6e4b,8,3,3,2,1,1,0,acoustic guitar|male voice singing|drums,drums|guitar|vocals,drums|guitar|piano
+0358fd1e-244a-4422-9a42-29b5d68f6e4b,9,2,3,2,1,0,0,acoustic guitar|male voice,guitar|vocals,drums|guitar|vocals
+0358fd1e-244a-4422-9a42-29b5d68f6e4b,10,2,3,2,1,0,0,acoustic guitar|male voice,guitar|vocals,drums|guitar|vocals
+0358fd1e-244a-4422-9a42-29b5d68f6e4b,11,4,3,3,0,1,0,acoustic guitar|male voice singing|drums|bassline,bass|drums|guitar|vocals,drums|guitar|vocals
+0358fd1e-244a-4422-9a42-29b5d68f6e4b,12,4,3,3,0,1,0,acoustic guitar|bass guitar|drums|male voice,bass|drums|guitar|vocals,drums|guitar|vocals
+0358fd1e-244a-4422-9a42-29b5d68f6e4b,13,4,3,2,1,1,1,acoustic guitar|male voice singing|shaker|tambourine,guitar|percussion|vocals,drums|guitar|vocals
+0358fd1e-244a-4422-9a42-29b5d68f6e4b,14,2,3,1,2,1,0,acoustic_guitar|male_vocals,guitar|vocals,drums|guitar|piano
+0358fd1e-244a-4422-9a42-29b5d68f6e4b,15,3,5,3,2,0,0,acoustic guitar|drums|male voice,drums|guitar|vocals,drums|guitar|other keys|piano|vocals
+0358fd1e-244a-4422-9a42-29b5d68f6e4b,16,2,4,2,2,0,0,Acoustic guitar|male voice singing softly,guitar|vocals,drums|guitar|other keys|vocals
+0358fd1e-244a-4422-9a42-29b5d68f6e4b,17,2,4,2,2,0,0,Acoustic guitar|male voice singing,guitar|vocals,drums|guitar|other keys|vocals
+0358fd1e-244a-4422-9a42-29b5d68f6e4b,18,2,4,2,2,0,0,acoustic guitar|male voice,guitar|vocals,drums|guitar|other keys|vocals
+0358fd1e-244a-4422-9a42-29b5d68f6e4b,19,2,4,2,2,0,0,acoustic guitar|male voice,guitar|vocals,drums|guitar|other keys|vocals
+0358fd1e-244a-4422-9a42-29b5d68f6e4b,20,5,4,2,2,2,1,Acoustic guitar|male voice singing|female voice singing|bass guitar|drums,bass|drums|guitar|vocals,drums|guitar|other keys|piano
+0358fd1e-244a-4422-9a42-29b5d68f6e4b,21,2,3,1,2,1,0,Acoustic guitar|male voice singing,guitar|vocals,drums|guitar|piano
+0358fd1e-244a-4422-9a42-29b5d68f6e4b,22,2,4,2,2,0,0,acoustic guitar|male voice,guitar|vocals,drums|guitar|other keys|vocals
+0358fd1e-244a-4422-9a42-29b5d68f6e4b,23,2,4,0,4,1,1,['Eb'|'Cm7'],other,drums|guitar|other keys|vocals
+0358fd1e-244a-4422-9a42-29b5d68f6e4b,24,4,4,4,0,0,0,acoustic guitar|male voice|theremin|drums,drums|guitar|other keys|vocals,drums|guitar|other keys|vocals
+0358fd1e-244a-4422-9a42-29b5d68f6e4b,25,3,4,0,4,1,2,['Cm7'|'Bb6'|'Abmaj7'],other,drums|guitar|other keys|vocals
+0358fd1e-244a-4422-9a42-29b5d68f6e4b,26,5,4,4,0,1,0,acoustic guitar|bass guitar|drums|male voice|theremin,bass|drums|guitar|other keys|vocals,drums|guitar|other keys|vocals
+0358fd1e-244a-4422-9a42-29b5d68f6e4b,27,4,5,2,3,2,0,acoustic guitar|drums|bass guitar|male voice singing,bass|drums|guitar|vocals,drums|guitar|other keys|percussion|piano
+0358fd1e-244a-4422-9a42-29b5d68f6e4b,28,3,4,2,2,1,0,electric guitar|acoustic drums|male voice singing,drums|guitar|vocals,guitar|percussion|piano|vocals
+0358fd1e-244a-4422-9a42-29b5d68f6e4b,29,3,4,2,2,1,0,drums|electric guitar|male voice singing,drums|guitar|vocals,guitar|percussion|piano|vocals
+0358fd1e-244a-4422-9a42-29b5d68f6e4b,30,3,5,3,2,0,0,drums|electric guitar|male voice singing,drums|guitar|vocals,drums|guitar|percussion|piano|vocals
+0358fd1e-244a-4422-9a42-29b5d68f6e4b,31,5,2,2,0,1,2,acoustic guitar|shaker|kick drum|snare hit|tambourine,drums|guitar|percussion,drums|guitar
+05e7af85-9721-4b42-952a-ccd34feb6033,0,4,3,3,0,1,0,drum|bass guitar|electric guitar|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar
+05e7af85-9721-4b42-952a-ccd34feb6033,1,5,3,3,0,1,1,Electric guitar|bass guitar|drums|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|drums|guitar
+05e7af85-9721-4b42-952a-ccd34feb6033,2,4,4,4,0,0,0,electric_bass|drums|guitar|male voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+05e7af85-9721-4b42-952a-ccd34feb6033,3,4,4,4,0,0,0,drums|bass guitar|electric guitars|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+05e7af85-9721-4b42-952a-ccd34feb6033,4,4,4,4,0,0,0,Drums|electric guitar|bass guitar|male vocals,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+05e7af85-9721-4b42-952a-ccd34feb6033,5,5,4,4,0,0,1,Drums|electric guitar|bass guitar|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+05e7af85-9721-4b42-952a-ccd34feb6033,6,4,4,4,0,0,0,Drums|electric guitar|bass guitar|male vocals,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+05e7af85-9721-4b42-952a-ccd34feb6033,7,4,4,4,0,0,0,electric guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+05e7af85-9721-4b42-952a-ccd34feb6033,8,4,4,4,0,0,0,Drums|electric guitar|bass guitar|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+05e7af85-9721-4b42-952a-ccd34feb6033,9,4,4,4,0,0,0,Drums|electric guitar|bass guitar|male vocals,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+05e7af85-9721-4b42-952a-ccd34feb6033,10,4,4,4,0,0,0,Drums|electric guitar|bass guitar|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+05e7af85-9721-4b42-952a-ccd34feb6033,11,4,4,4,0,0,0,Drums|electric guitar|bass guitar|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+05e7af85-9721-4b42-952a-ccd34feb6033,12,4,4,4,0,0,0,Drums|electric guitar|bass guitar|male vocals,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+05e7af85-9721-4b42-952a-ccd34feb6033,13,4,4,4,0,0,0,Drums|electric guitar|bass guitar|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+05e7af85-9721-4b42-952a-ccd34feb6033,14,4,4,4,0,0,0,Drums|electric guitar|bass guitar|male singing voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+05e7af85-9721-4b42-952a-ccd34feb6033,15,4,4,4,0,0,0,Drums|electric guitar|bass guitar|male singing voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+05e7af85-9721-4b42-952a-ccd34feb6033,16,4,4,4,0,0,0,Drums|electric guitar|bass guitar|male singing voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+06bfc6e7-e5ac-4827-bf8e-ffaf1675872f,0,5,3,3,0,1,1,Acoustic guitar|bass guitar|drums|male lead vocals|female backing vocals,bass|drums|guitar|vocals,bass|drums|guitar
+06bfc6e7-e5ac-4827-bf8e-ffaf1675872f,1,4,4,4,0,0,0,female voice|acoustic guitar|bass guitar|drums,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+06bfc6e7-e5ac-4827-bf8e-ffaf1675872f,2,6,4,4,0,2,0,Children's choir|piano|drums|bass guitar|electric guitar|synth strings,bass|bowed strings|drums|guitar|piano|vocals,bass|drums|guitar|vocals
+06bfc6e7-e5ac-4827-bf8e-ffaf1675872f,3,8,4,3,1,3,2,Children's music|female singing voice|piano|drums|bass guitar|xylophone|tambourine|wood block,bass|drums|other|percussion|piano|vocals,bass|drums|guitar|vocals
+06bfc6e7-e5ac-4827-bf8e-ffaf1675872f,4,8,4,3,1,3,2,Children's music|Music for children|Singing|Piano|Bass guitar|Drums|Synthesizer|Female singing voice,bass|drums|other|other keys|piano|vocals,bass|drums|guitar|vocals
+07fb2df2-91d6-458d-9230-9638b4edac08,0,2,2,1,1,1,0,acoustic guitar|male voice singing,guitar|vocals,guitar|piano
+07fb2df2-91d6-458d-9230-9638b4edac08,1,6,4,3,1,1,2,Acoustic guitar|electric guitar|bass guitar|drums|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|piano
+07fb2df2-91d6-458d-9230-9638b4edac08,2,5,5,5,0,0,0,Acoustic guitar|electric piano|bass guitar|drums|male voice singing,bass|drums|guitar|piano|vocals,bass|drums|guitar|piano|vocals
+07fb2df2-91d6-458d-9230-9638b4edac08,3,4,5,4,1,0,0,Acoustic guitar|electric bass|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|piano|vocals
+07fb2df2-91d6-458d-9230-9638b4edac08,4,5,5,4,1,0,1,Acoustic guitar|electric bass|drums|male lead vocals|female backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|piano|vocals
+07fb2df2-91d6-458d-9230-9638b4edac08,5,4,5,4,1,0,0,electric guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|piano|vocals
+07fb2df2-91d6-458d-9230-9638b4edac08,6,4,5,4,1,0,0,Acoustic guitar|electric bass|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|piano|vocals
+07fb2df2-91d6-458d-9230-9638b4edac08,7,5,6,4,2,0,1,Acoustic guitar|electric guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|bowed strings|drums|guitar|piano|vocals
+07fb2df2-91d6-458d-9230-9638b4edac08,8,4,6,4,2,0,0,Acoustic guitar|electric bass|drums|male voice singing,bass|drums|guitar|vocals,bass|bowed strings|drums|guitar|piano|vocals
+07fb2df2-91d6-458d-9230-9638b4edac08,9,4,6,4,2,0,0,electric guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|bowed strings|drums|guitar|piano|vocals
+07fb2df2-91d6-458d-9230-9638b4edac08,10,4,6,4,2,0,0,electric guitar|bass guitar|drums|male voice,bass|drums|guitar|vocals,bass|bowed strings|drums|guitar|piano|vocals
+07fb2df2-91d6-458d-9230-9638b4edac08,11,5,6,4,2,0,1,Electric guitar|bass guitar|drums|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|bowed strings|drums|guitar|piano|vocals
+07fb2df2-91d6-458d-9230-9638b4edac08,12,4,6,4,2,0,0,electric_bass|drums|guitar|male voice,bass|drums|guitar|vocals,bass|bowed strings|drums|guitar|piano|vocals
+07fb2df2-91d6-458d-9230-9638b4edac08,13,4,6,4,2,0,0,electric guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|bowed strings|drums|guitar|piano|vocals
+07fb2df2-91d6-458d-9230-9638b4edac08,14,5,6,4,2,0,1,Acoustic guitar|electric bass|drums|male lead vocals|female backing vocals,bass|drums|guitar|vocals,bass|bowed strings|drums|guitar|piano|vocals
+07fb2df2-91d6-458d-9230-9638b4edac08,15,4,5,4,1,0,0,electric guitar|acoustic drums|e-bass|male voice,bass|drums|guitar|vocals,bass|drums|guitar|piano|vocals
+07fb2df2-91d6-458d-9230-9638b4edac08,16,4,5,4,1,0,0,Guitar|bass guitar|drums|male singing voice,bass|drums|guitar|vocals,bass|drums|guitar|piano|vocals
+07fb2df2-91d6-458d-9230-9638b4edac08,17,4,5,4,1,0,0,electric guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|piano|vocals
+07fb2df2-91d6-458d-9230-9638b4edac08,18,5,5,4,1,0,1,Drums|electric guitar|bass guitar|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|piano|vocals
+07fb2df2-91d6-458d-9230-9638b4edac08,19,5,5,4,1,0,1,acoustic guitar|electric bass|drums|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|piano|vocals
+0d528a19-cb0f-4421-b250-444f9343e51c,0,2,2,2,0,0,0,vocals|acoustic guitar,guitar|vocals,guitar|vocals
+0d528a19-cb0f-4421-b250-444f9343e51c,1,3,2,1,1,2,0,electric_bass|piano|male singer,bass|piano|vocals,guitar|vocals
+0d528a19-cb0f-4421-b250-444f9343e51c,2,3,4,3,1,0,0,electric_bass|acoustic drums|male voice singing,bass|drums|vocals,bass|drums|guitar|vocals
+0d528a19-cb0f-4421-b250-444f9343e51c,3,4,4,4,0,0,0,Drums|electric guitar|bass guitar|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+0d528a19-cb0f-4421-b250-444f9343e51c,4,4,4,4,0,0,0,Drums|electric guitar|bass guitar|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+0d528a19-cb0f-4421-b250-444f9343e51c,5,5,4,4,0,0,1,Distorted electric guitar|bass guitar|acoustic drums|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+0d528a19-cb0f-4421-b250-444f9343e51c,6,4,4,4,0,0,0,Drums|electric guitar|bass guitar|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+0d528a19-cb0f-4421-b250-444f9343e51c,7,4,4,4,0,0,0,Drums|electric guitar|bass guitar|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+11845abc-8ca3-4fb2-bd84-521aeeff56f4,0,4,3,3,0,1,0,acoustic guitar|drums|bass guitar|male voice,bass|drums|guitar|vocals,drums|guitar|vocals
+11845abc-8ca3-4fb2-bd84-521aeeff56f4,1,4,4,4,0,0,0,acoustic guitar|drums|bass|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+11845abc-8ca3-4fb2-bd84-521aeeff56f4,2,4,4,4,0,0,0,acoustic guitar|electric bass|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+11845abc-8ca3-4fb2-bd84-521aeeff56f4,3,5,5,4,1,1,0,acoustic guitar|electric piano|bass guitar|drums|male voice singing,bass|drums|guitar|piano|vocals,bass|drums|guitar|other keys|vocals
+11845abc-8ca3-4fb2-bd84-521aeeff56f4,4,5,5,4,1,1,0,acoustic guitar|electric piano|bass guitar|drums|male voice,bass|drums|guitar|piano|vocals,bass|drums|guitar|other keys|vocals
+11845abc-8ca3-4fb2-bd84-521aeeff56f4,5,4,5,4,1,0,0,acoustic guitar|electric bass|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|other keys|vocals
+11845abc-8ca3-4fb2-bd84-521aeeff56f4,6,4,4,3,1,1,0,acoustic guitar|drums|electric bass|male voice,bass|drums|guitar|vocals,drums|guitar|other keys|vocals
+11845abc-8ca3-4fb2-bd84-521aeeff56f4,7,4,2,2,0,2,0,acoustic guitar|drums|bass guitar|male voice singing,bass|drums|guitar|vocals,drums|guitar
+11845abc-8ca3-4fb2-bd84-521aeeff56f4,8,2,3,2,1,0,0,acoustic guitar|male voice singing,guitar|vocals,drums|guitar|vocals
+11845abc-8ca3-4fb2-bd84-521aeeff56f4,9,4,4,4,0,0,0,acoustic guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+11845abc-8ca3-4fb2-bd84-521aeeff56f4,10,4,4,4,0,0,0,drum kit|electric guitar|bass guitar|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+11845abc-8ca3-4fb2-bd84-521aeeff56f4,11,5,5,4,1,0,1,drums|bass guitar|acoustic rhythm guitar|electric lead guitar|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|other keys|vocals
+11845abc-8ca3-4fb2-bd84-521aeeff56f4,12,4,5,4,1,0,0,Acoustic guitar|electric bass|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|other keys|vocals
+11845abc-8ca3-4fb2-bd84-521aeeff56f4,13,4,5,4,1,0,0,acoustic guitar|electric bass|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|other keys|vocals
+11845abc-8ca3-4fb2-bd84-521aeeff56f4,14,4,5,4,1,0,0,acoustic guitar|electric bass|drums|male voice,bass|drums|guitar|vocals,bass|drums|guitar|other keys|vocals
+11845abc-8ca3-4fb2-bd84-521aeeff56f4,15,4,3,3,0,1,0,acoustic guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar
+11845abc-8ca3-4fb2-bd84-521aeeff56f4,16,5,4,4,0,1,0,acoustic guitar|electric piano|bass guitar|drums|male voice singing,bass|drums|guitar|piano|vocals,bass|drums|guitar|vocals
+11845abc-8ca3-4fb2-bd84-521aeeff56f4,17,2,4,2,2,0,0,acoustic guitar|male voice singing,guitar|vocals,bass|drums|guitar|vocals
+11845abc-8ca3-4fb2-bd84-521aeeff56f4,18,6,4,4,0,2,0,vocals|acoustic guitar|electric bass|drums|piano|tambourine,bass|drums|guitar|percussion|piano|vocals,bass|drums|guitar|vocals
+11845abc-8ca3-4fb2-bd84-521aeeff56f4,19,4,4,4,0,0,0,acoustic guitar|electric bass|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+11845abc-8ca3-4fb2-bd84-521aeeff56f4,20,6,3,3,0,2,1,acoustic guitar|electric piano|bass guitar|drums|male lead vocals|female backing vocals,bass|drums|guitar|piano|vocals,bass|drums|guitar
+11845abc-8ca3-4fb2-bd84-521aeeff56f4,21,2,2,1,1,1,0,Acoustic guitar|male voice singing,guitar|vocals,bass|guitar
+125fc63d-9b69-4170-a46a-42c91bc28446,0,7,4,4,0,2,1,saxophone|drums|bass guitar|electric piano|acoustic rhythm guitar|male lead vocals|female backing vocals,bass|drums|guitar|piano|vocals|wind,bass|drums|guitar|wind
+125fc63d-9b69-4170-a46a-42c91bc28446,1,4,5,4,1,0,0,electric guitar|bass guitar|drums|female voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals|wind
+125fc63d-9b69-4170-a46a-42c91bc28446,2,5,5,4,1,0,1,female singing|electric guitar|bass guitar|acoustic drums|male backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|vocals|wind
+125fc63d-9b69-4170-a46a-42c91bc28446,3,6,5,4,1,1,1,saxophone|female voice|acoustic drums|electric bass guitar|piano|brass section,bass|drums|piano|vocals|wind,bass|drums|guitar|vocals|wind
+125fc63d-9b69-4170-a46a-42c91bc28446,4,5,5,4,1,1,0,electric_bass|drums|guitar|piano|female singing,bass|drums|guitar|piano|vocals,bass|drums|guitar|vocals|wind
+125fc63d-9b69-4170-a46a-42c91bc28446,5,4,5,4,1,0,0,female singer|electric guitar|bass guitar|drums,bass|drums|guitar|vocals,bass|drums|guitar|vocals|wind
+125fc63d-9b69-4170-a46a-42c91bc28446,6,4,5,4,1,0,0,female singing|electric guitar|bass guitar|drums,bass|drums|guitar|vocals,bass|drums|guitar|vocals|wind
+125fc63d-9b69-4170-a46a-42c91bc28446,7,6,5,5,0,1,0,female singing|drums|electric guitar|saxophone|piano|bass guitar,bass|drums|guitar|piano|vocals|wind,bass|drums|guitar|vocals|wind
+125fc63d-9b69-4170-a46a-42c91bc28446,8,6,5,5,0,1,0,female singing|drums|electric guitar|saxophone|piano|bass guitar,bass|drums|guitar|piano|vocals|wind,bass|drums|guitar|vocals|wind
+125fc63d-9b69-4170-a46a-42c91bc28446,9,5,5,4,1,1,0,female singer|electric guitar|bass guitar|drums|organ,bass|drums|guitar|other keys|vocals,bass|drums|guitar|vocals|wind
+125fc63d-9b69-4170-a46a-42c91bc28446,10,5,5,4,1,0,1,Drums|electric guitar|bass guitar|female lead vocals|male backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|vocals|wind
+125fc63d-9b69-4170-a46a-42c91bc28446,11,7,5,5,0,1,1,female singing|electric guitar|bass guitar|drums|piano|saxophone|trumpet,bass|drums|guitar|piano|vocals|wind,bass|drums|guitar|vocals|wind
+125fc63d-9b69-4170-a46a-42c91bc28446,12,5,5,4,1,1,0,electric_bass|drums|guitar|piano|female singing,bass|drums|guitar|piano|vocals,bass|drums|guitar|vocals|wind
+125fc63d-9b69-4170-a46a-42c91bc28446,13,6,5,5,0,1,0,female singing|drums|electric guitar|saxophone|piano|bass guitar,bass|drums|guitar|piano|vocals|wind,bass|drums|guitar|vocals|wind
+125fc63d-9b69-4170-a46a-42c91bc28446,14,4,5,4,1,0,0,female singing|acoustic guitar strumming chords|bass guitar playing root notes|drums keeping time on the beat,bass|drums|guitar|vocals,bass|drums|guitar|vocals|wind
+125fc63d-9b69-4170-a46a-42c91bc28446,15,7,5,5,0,0,2,female singer|drums|electric guitar|bass guitar|saxophone|trombone|trumpet,bass|drums|guitar|vocals|wind,bass|drums|guitar|vocals|wind
+125fc63d-9b69-4170-a46a-42c91bc28446,16,5,5,5,0,0,0,saxophone|female voice|drums|electric guitar|bass guitar,bass|drums|guitar|vocals|wind,bass|drums|guitar|vocals|wind
+125fc63d-9b69-4170-a46a-42c91bc28446,17,5,4,4,0,1,0,saxophone|drums|electric guitar|bass guitar|male voice,bass|drums|guitar|vocals|wind,bass|drums|guitar|wind
+1a32e987-cae8-458f-9c26-d9a6abf5348d,0,2,2,2,0,0,0,Acoustic guitar|male voice,guitar|vocals,guitar|vocals
+1a32e987-cae8-458f-9c26-d9a6abf5348d,1,3,2,2,0,1,0,Acoustic guitar|male voice|piano,guitar|piano|vocals,guitar|vocals
+1a32e987-cae8-458f-9c26-d9a6abf5348d,2,2,3,2,1,0,0,Acoustic guitar|male lead vocals,guitar|vocals,guitar|piano|vocals
+1a32e987-cae8-458f-9c26-d9a6abf5348d,3,6,5,5,0,0,1,Acoustic guitar|male voice|drums|bass guitar|electric piano|female backing vocals,bass|drums|guitar|piano|vocals,bass|drums|guitar|piano|vocals
+1a32e987-cae8-458f-9c26-d9a6abf5348d,4,4,5,4,1,0,0,Drums|electric guitar|bass guitar|male vocals,bass|drums|guitar|vocals,bass|drums|guitar|piano|vocals
+1a32e987-cae8-458f-9c26-d9a6abf5348d,5,5,5,4,1,0,1,Acoustic guitar|electric bass|drums|male lead vocals|female backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|piano|vocals
+1a32e987-cae8-458f-9c26-d9a6abf5348d,6,5,5,4,1,0,1,Acoustic guitar|electric bass|drums|male lead vocals|female backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|piano|vocals
+1a32e987-cae8-458f-9c26-d9a6abf5348d,7,5,5,4,1,0,1,Electric guitar|bass guitar|drums|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|piano|vocals
+1a32e987-cae8-458f-9c26-d9a6abf5348d,8,5,5,4,1,0,1,Acoustic guitar|electric bass|drums|male lead vocals|female backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|piano|vocals
+1a32e987-cae8-458f-9c26-d9a6abf5348d,9,6,5,5,0,0,1,Piano|drums|bass guitar|electric guitar|male lead vocals|backing vocals,bass|drums|guitar|piano|vocals,bass|drums|guitar|piano|vocals
+1a32e987-cae8-458f-9c26-d9a6abf5348d,10,5,5,4,1,0,1,Electric guitar|bass guitar|drums|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|piano|vocals
+1a32e987-cae8-458f-9c26-d9a6abf5348d,11,4,5,4,1,0,0,electric guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|piano|vocals
+1a32e987-cae8-458f-9c26-d9a6abf5348d,12,5,5,4,1,0,1,electric guitar|bass guitar|drums|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|piano|vocals
+1a32e987-cae8-458f-9c26-d9a6abf5348d,13,5,5,4,1,0,1,Acoustic guitar|electric bass|drums|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|piano|vocals
+1a32e987-cae8-458f-9c26-d9a6abf5348d,14,6,5,5,0,0,1,female lead vocals|acoustic guitar|bass guitar|drums|electric piano|male backing vocals,bass|drums|guitar|piano|vocals,bass|drums|guitar|piano|vocals
+1a32e987-cae8-458f-9c26-d9a6abf5348d,15,5,5,4,1,0,1,electric guitar|bass guitar|drums|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|piano|vocals
+1a32e987-cae8-458f-9c26-d9a6abf5348d,16,5,5,4,1,0,1,Acoustic guitar|electric bass|drums|male lead vocals|female backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|piano|vocals
+1a32e987-cae8-458f-9c26-d9a6abf5348d,17,4,5,4,1,0,0,drums|electric guitar|bass guitar|male voice,bass|drums|guitar|vocals,bass|drums|guitar|piano|vocals
+1a32e987-cae8-458f-9c26-d9a6abf5348d,18,5,5,4,1,0,1,Acoustic guitar|electric bass|drums|male lead vocals|female backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|piano|vocals
+1a32e987-cae8-458f-9c26-d9a6abf5348d,19,2,5,2,3,0,0,Acoustic guitar|male voice singing,guitar|vocals,bass|drums|guitar|piano|vocals
+1a32e987-cae8-458f-9c26-d9a6abf5348d,20,5,5,4,1,0,1,Acoustic guitar|electric bass|drums|male lead vocals|female backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|piano|vocals
+1a32e987-cae8-458f-9c26-d9a6abf5348d,21,5,5,4,1,0,1,electric guitar|bass guitar|drums|male lead vocals|female backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|piano|vocals
+1a32e987-cae8-458f-9c26-d9a6abf5348d,22,5,5,4,1,0,1,Electric guitar|bass guitar|drums|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|piano|vocals
+1a32e987-cae8-458f-9c26-d9a6abf5348d,23,4,5,4,1,0,0,drums|electric guitar|bass guitar|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|piano|vocals
+1afe1b3b-3e2e-48d3-b859-f50e222cbaf4,0,5,5,3,2,1,1,acoustic guitar|electric bass|drums|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|bowed strings|drums|guitar|piano
+1afe1b3b-3e2e-48d3-b859-f50e222cbaf4,1,4,5,4,1,0,0,Acoustic guitar|electric bass|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|piano|vocals
+1afe1b3b-3e2e-48d3-b859-f50e222cbaf4,2,5,5,4,1,0,1,Acoustic guitar|electric bass|drums|male lead vocals|female backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|piano|vocals
+1afe1b3b-3e2e-48d3-b859-f50e222cbaf4,3,4,5,4,1,0,0,acoustic guitar|electric bass|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|piano|vocals
+1afe1b3b-3e2e-48d3-b859-f50e222cbaf4,4,5,5,4,1,0,1,electric guitar|bass guitar|drums|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|piano|vocals
+1afe1b3b-3e2e-48d3-b859-f50e222cbaf4,5,4,5,4,1,0,0,Drums|electric guitar|bass guitar|male voice,bass|drums|guitar|vocals,bass|drums|guitar|piano|vocals
+1afe1b3b-3e2e-48d3-b859-f50e222cbaf4,6,5,5,4,1,0,1,electric guitar|acoustic drums|bass guitar|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|piano|vocals
+1afe1b3b-3e2e-48d3-b859-f50e222cbaf4,7,5,6,4,2,0,1,Electric guitar|bass guitar|drums|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|bowed strings|drums|guitar|piano|vocals
+1afe1b3b-3e2e-48d3-b859-f50e222cbaf4,8,5,6,4,2,0,1,Electric guitar|bass guitar|drums|male lead vocals|female backing vocals,bass|drums|guitar|vocals,bass|bowed strings|drums|guitar|piano|vocals
+1afe1b3b-3e2e-48d3-b859-f50e222cbaf4,9,4,6,4,2,0,0,electric guitar|bass guitar|drums|male voice,bass|drums|guitar|vocals,bass|bowed strings|drums|guitar|piano|vocals
+1afe1b3b-3e2e-48d3-b859-f50e222cbaf4,10,4,6,4,2,0,0,drums|electric guitar|bass guitar|male vocals,bass|drums|guitar|vocals,bass|bowed strings|drums|guitar|piano|vocals
+1afe1b3b-3e2e-48d3-b859-f50e222cbaf4,11,5,6,4,2,0,1,Drums|electric guitar|bass guitar|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|bowed strings|drums|guitar|piano|vocals
+1afe1b3b-3e2e-48d3-b859-f50e222cbaf4,12,4,6,4,2,0,0,drums|bass guitar|electric guitars|male voice singing the melody,bass|drums|guitar|vocals,bass|bowed strings|drums|guitar|piano|vocals
+1afe1b3b-3e2e-48d3-b859-f50e222cbaf4,13,4,5,4,1,0,0,electric guitar|acoustic drums|bass guitar|male voice,bass|drums|guitar|vocals,bass|drums|guitar|piano|vocals
+1afe1b3b-3e2e-48d3-b859-f50e222cbaf4,14,5,4,4,0,0,1,electric guitar|acoustic drums|bass guitar|male lead vocals|female backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+1afe1b3b-3e2e-48d3-b859-f50e222cbaf4,15,5,6,4,2,0,1,electric guitar|bass guitar|drums|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|bowed strings|drums|guitar|piano|vocals
+1afe1b3b-3e2e-48d3-b859-f50e222cbaf4,16,4,5,3,2,1,0,electric guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|bowed strings|drums|guitar|piano
+1afe1b3b-3e2e-48d3-b859-f50e222cbaf4,17,5,6,4,2,0,1,electric guitar|bass guitar|drums|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|bowed strings|drums|guitar|piano|vocals
+1afe1b3b-3e2e-48d3-b859-f50e222cbaf4,18,5,6,4,2,0,1,Drums|electric guitar|bass guitar|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|bowed strings|drums|guitar|piano|vocals
+1afe1b3b-3e2e-48d3-b859-f50e222cbaf4,19,5,6,4,2,0,1,Electric guitar|bass guitar|drums|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|bowed strings|drums|guitar|piano|vocals
+1afe1b3b-3e2e-48d3-b859-f50e222cbaf4,20,4,6,4,2,0,0,Acoustic guitar|electric bass|drums|male voice singing,bass|drums|guitar|vocals,bass|bowed strings|drums|guitar|piano|vocals
+1afe1b3b-3e2e-48d3-b859-f50e222cbaf4,21,4,6,4,2,0,0,electric guitar|bass guitar|drums|male voice,bass|drums|guitar|vocals,bass|bowed strings|drums|guitar|piano|vocals
+1afe1b3b-3e2e-48d3-b859-f50e222cbaf4,22,7,6,4,2,1,2,electric guitar|acoustic guitar|bass guitar|drums|keyboard harmony|male lead voice|backing vocals,bass|drums|guitar|other keys|vocals,bass|bowed strings|drums|guitar|piano|vocals
+1f98fe4d-26c7-460f-9f68-33964bc4d8d3,0,4,1,1,0,3,0,drum|bass guitar|electric guitar|male voice,bass|drums|guitar|vocals,guitar
+1f98fe4d-26c7-460f-9f68-33964bc4d8d3,1,4,4,4,0,0,0,electric guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+1f98fe4d-26c7-460f-9f68-33964bc4d8d3,2,6,4,4,0,1,1,Male lead vocals|acoustic guitar|bass guitar|drums|electric piano|male backing vocals,bass|drums|guitar|piano|vocals,bass|drums|guitar|vocals
+1f98fe4d-26c7-460f-9f68-33964bc4d8d3,3,4,4,4,0,0,0,acoustic guitar|electric bass|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+1f98fe4d-26c7-460f-9f68-33964bc4d8d3,4,4,4,4,0,0,0,drums|electric guitar|bass guitar|male voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+1f98fe4d-26c7-460f-9f68-33964bc4d8d3,5,4,4,4,0,0,0,electric guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+1f98fe4d-26c7-460f-9f68-33964bc4d8d3,6,4,4,4,0,0,0,electric guitar|bass guitar|drums|male voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+1f98fe4d-26c7-460f-9f68-33964bc4d8d3,7,4,4,4,0,0,0,electric guitar|bass guitar|drums|male voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+1f98fe4d-26c7-460f-9f68-33964bc4d8d3,8,4,4,4,0,0,0,drums|electric guitar|bass guitar|male voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+1f98fe4d-26c7-460f-9f68-33964bc4d8d3,9,4,4,4,0,0,0,drums|electric guitar|bass guitar|male singing voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+1f98fe4d-26c7-460f-9f68-33964bc4d8d3,10,4,4,4,0,0,0,electric guitar|bass guitar|drums|male voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+1f98fe4d-26c7-460f-9f68-33964bc4d8d3,11,4,4,4,0,0,0,electric guitar|bass guitar|drums|male voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+1f98fe4d-26c7-460f-9f68-33964bc4d8d3,12,5,4,4,0,0,1,Male lead vocals|acoustic guitar|electric bass|drums|male backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+1f98fe4d-26c7-460f-9f68-33964bc4d8d3,13,4,4,4,0,0,0,drum kit|bass guitar|electric guitar|male voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+1f98fe4d-26c7-460f-9f68-33964bc4d8d3,14,4,4,4,0,0,0,Guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+1f98fe4d-26c7-460f-9f68-33964bc4d8d3,15,4,4,4,0,0,0,drums|electric guitar|bass guitar|male voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+1f98fe4d-26c7-460f-9f68-33964bc4d8d3,16,5,4,4,0,0,1,Drums|electric guitar|bass guitar|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+1f98fe4d-26c7-460f-9f68-33964bc4d8d3,17,4,4,4,0,0,0,Drums|electric guitar|bass guitar|male vocals,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+1f98fe4d-26c7-460f-9f68-33964bc4d8d3,18,4,4,4,0,0,0,Drums|electric guitar|bass guitar|male vocals,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+1f98fe4d-26c7-460f-9f68-33964bc4d8d3,19,4,4,4,0,0,0,distorted electric guitar|bass guitar|drums|male lead vocals,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+215391aa-1168-42dd-9cab-f8b0c6ff566b,0,4,3,2,1,2,0,drum kit|bass guitar|electric guitar|male singing voice,bass|drums|guitar|vocals,bass|drums|percussion
+215391aa-1168-42dd-9cab-f8b0c6ff566b,1,5,4,2,2,2,1,drums|bass guitar|electric guitar|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|drums|other keys|percussion
+215391aa-1168-42dd-9cab-f8b0c6ff566b,2,5,5,4,1,1,0,drums|bass guitar|electric guitar|keyboard|male singing voice,bass|drums|guitar|other keys|vocals,bass|drums|guitar|other keys|percussion
+215391aa-1168-42dd-9cab-f8b0c6ff566b,3,4,6,3,3,0,1,Synthesizer|electronic drums|male lead vocals|backing vocals,drums|other keys|vocals,bass|drums|guitar|other keys|percussion|vocals
+215391aa-1168-42dd-9cab-f8b0c6ff566b,4,4,6,4,2,0,0,electric guitar|bass guitar|drums|male voice,bass|drums|guitar|vocals,bass|drums|guitar|other keys|percussion|vocals
+215391aa-1168-42dd-9cab-f8b0c6ff566b,5,4,6,4,2,0,0,electric guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|other keys|percussion|vocals
+215391aa-1168-42dd-9cab-f8b0c6ff566b,6,5,6,5,1,0,0,vocals|bass guitar|drums|electric guitar|synthesizer,bass|drums|guitar|other keys|vocals,bass|drums|guitar|other keys|percussion|vocals
+215391aa-1168-42dd-9cab-f8b0c6ff566b,7,6,6,5,1,0,1,Male lead vocals|male backing vocals|electric guitar|bass guitar|drums|keyboard,bass|drums|guitar|other keys|vocals,bass|drums|guitar|other keys|percussion|vocals
+215391aa-1168-42dd-9cab-f8b0c6ff566b,8,4,6,4,2,0,0,electric guitar|bass guitar|drums|male voice,bass|drums|guitar|vocals,bass|drums|guitar|other keys|percussion|vocals
+215391aa-1168-42dd-9cab-f8b0c6ff566b,9,4,6,4,2,0,0,drum kit|bass guitar|electric guitar|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|other keys|percussion|vocals
+215391aa-1168-42dd-9cab-f8b0c6ff566b,10,4,6,4,2,0,0,electric guitar|bass guitar|drums|male singing voice,bass|drums|guitar|vocals,bass|drums|guitar|other keys|percussion|vocals
+215391aa-1168-42dd-9cab-f8b0c6ff566b,11,3,6,3,3,0,0,Synthesizer|electronic drums|male voice,drums|other keys|vocals,bass|drums|guitar|other keys|percussion|vocals
+215391aa-1168-42dd-9cab-f8b0c6ff566b,12,3,6,3,3,0,0,Synthesizer|electronic drums|male vocals,drums|other keys|vocals,bass|drums|guitar|other keys|percussion|vocals
+215391aa-1168-42dd-9cab-f8b0c6ff566b,13,4,6,3,3,0,1,Synthesizer|electronic drums|male vocals|female backing vocals,drums|other keys|vocals,bass|drums|guitar|other keys|percussion|vocals
+215391aa-1168-42dd-9cab-f8b0c6ff566b,14,5,6,5,1,0,0,Synthesizer|drums|bass guitar|electric guitar|male vocals,bass|drums|guitar|other keys|vocals,bass|drums|guitar|other keys|percussion|vocals
+215391aa-1168-42dd-9cab-f8b0c6ff566b,15,4,6,3,3,0,1,Synthesizer|electronic drums|male lead vocals|backing vocals,drums|other keys|vocals,bass|drums|guitar|other keys|percussion|vocals
+215391aa-1168-42dd-9cab-f8b0c6ff566b,16,4,6,4,2,0,0,electric guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|other keys|percussion|vocals
+215391aa-1168-42dd-9cab-f8b0c6ff566b,17,3,6,3,3,0,0,Synthesizer|electronic drums|male voice,drums|other keys|vocals,bass|drums|guitar|other keys|percussion|vocals
+215391aa-1168-42dd-9cab-f8b0c6ff566b,18,5,6,5,1,0,0,vocals|bass guitar|drum kit|electric guitar|synthesizer pad,bass|drums|guitar|other keys|vocals,bass|drums|guitar|other keys|percussion|vocals
+215391aa-1168-42dd-9cab-f8b0c6ff566b,19,4,6,3,3,0,1,Synthesizer|electronic drums|male lead vocals|backing vocals,drums|other keys|vocals,bass|drums|guitar|other keys|percussion|vocals
+215391aa-1168-42dd-9cab-f8b0c6ff566b,20,5,6,4,2,0,1,drums|electric guitar|bass guitar|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|other keys|percussion|vocals
+25789239-1075-43b9-bfc9-51dff4a29590,0,8,5,5,0,2,1,Male singing|female singing|electric guitar|bass guitar|drums|synthesizer pad|synth strings|piano chords,bass|bowed strings|drums|guitar|other keys|piano|vocals,bass|drums|guitar|other keys|vocals
+25789239-1075-43b9-bfc9-51dff4a29590,1,5,4,3,1,1,1,Electric guitar|bass guitar|drums|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|other keys
+25789239-1075-43b9-bfc9-51dff4a29590,2,4,5,4,1,0,0,Electric guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|other keys|vocals
+25789239-1075-43b9-bfc9-51dff4a29590,3,4,5,4,1,0,0,Drums|electric guitar|bass guitar|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|other keys|vocals
+25789239-1075-43b9-bfc9-51dff4a29590,4,5,5,4,1,0,1,Drums|electric guitar|bass guitar|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|other keys|vocals
+25789239-1075-43b9-bfc9-51dff4a29590,5,5,5,4,1,0,1,Distorted electric guitar|bass guitar|drums|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|other keys|vocals
+25789239-1075-43b9-bfc9-51dff4a29590,6,5,5,4,1,0,1,Drums|electric guitar|bass guitar|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|other keys|vocals
+25789239-1075-43b9-bfc9-51dff4a29590,7,4,5,4,1,0,0,Drums|electric guitar|bass guitar|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|other keys|vocals
+25789239-1075-43b9-bfc9-51dff4a29590,8,5,5,4,1,0,1,Drums|electric guitar|bass guitar|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|other keys|vocals
+25789239-1075-43b9-bfc9-51dff4a29590,9,5,5,4,1,0,1,Drums|electric guitar|bass guitar|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|other keys|vocals
+25789239-1075-43b9-bfc9-51dff4a29590,10,6,4,4,0,1,1,Drums|electric guitar|bass guitar|keyboard|male lead vocals|backing vocals,bass|drums|guitar|other keys|vocals,bass|drums|guitar|other keys
+25789239-1075-43b9-bfc9-51dff4a29590,11,4,4,3,1,1,0,Drums|electric guitar|bass guitar|male vocals,bass|drums|guitar|vocals,bass|drums|guitar|other keys
+25789239-1075-43b9-bfc9-51dff4a29590,12,5,4,3,1,1,1,Drums|electric guitar|bass guitar|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|other keys
+25789239-1075-43b9-bfc9-51dff4a29590,13,4,4,3,1,1,0,Drums|electric guitar|bass guitar|male vocals,bass|drums|guitar|vocals,bass|drums|guitar|other keys
+25789239-1075-43b9-bfc9-51dff4a29590,14,4,5,4,1,0,0,Drums|electric guitar|bass guitar|male voice,bass|drums|guitar|vocals,bass|drums|guitar|other keys|vocals
+25789239-1075-43b9-bfc9-51dff4a29590,15,5,5,4,1,0,1,Electric guitar|bass guitar|drums|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|other keys|vocals
+25789239-1075-43b9-bfc9-51dff4a29590,16,4,5,4,1,0,0,distorted electric guitar|bass guitar|drums|male lead vocals,bass|drums|guitar|vocals,bass|drums|guitar|other keys|vocals
+28748b6e-6125-42f7-998d-2ad734e39b6c,0,4,1,1,0,3,0,drums|bass guitar|electric guitar|male voice singing,bass|drums|guitar|vocals,bass
+28748b6e-6125-42f7-998d-2ad734e39b6c,1,5,2,2,0,2,1,Synthesizer|bass guitar|drum kit|male voice|female voice,bass|drums|other keys|vocals,bass|drums
+28748b6e-6125-42f7-998d-2ad734e39b6c,2,4,2,2,0,2,0,drum kit|bass guitar|synth organ keys|male voice singing,bass|drums|other keys|vocals,bass|drums
+28748b6e-6125-42f7-998d-2ad734e39b6c,3,5,3,2,1,3,0,drum kit|bass guitar|electric guitar|keyboard|male voice singing,bass|drums|guitar|other keys|vocals,bass|drums|other
+28748b6e-6125-42f7-998d-2ad734e39b6c,4,8,4,2,2,1,5,drum kit|snare drum|kick drum|hi-hat|cymbals|tambourine|synth lead sound|organ keys chords,drums|other keys|percussion,bass|drums|other|other keys
+28748b6e-6125-42f7-998d-2ad734e39b6c,5,5,3,2,1,3,0,electric_bass|acoustic drums|guitar|synth strings|female voice,bass|bowed strings|drums|guitar|vocals,bass|drums|other keys
+28748b6e-6125-42f7-998d-2ad734e39b6c,6,5,5,4,1,1,0,female voice|drums|bass guitar|electric guitar playing chords|synth sound playing single notes,bass|drums|guitar|other keys|vocals,bass|drums|other|other keys|vocals
+28748b6e-6125-42f7-998d-2ad734e39b6c,7,2,4,1,3,0,1,['E'|'Em7'],other,bass|drums|other|vocals
+28748b6e-6125-42f7-998d-2ad734e39b6c,8,2,5,1,4,0,1,['E'|'Bm7b5,other,bass|drums|other|percussion|vocals
+28748b6e-6125-42f7-998d-2ad734e39b6c,9,5,5,4,1,0,1,female voice|drums|bass guitar|organ keys chords|synth lead melody,bass|drums|other keys|vocals,bass|drums|other|other keys|vocals
+28748b6e-6125-42f7-998d-2ad734e39b6c,10,4,5,3,2,1,0,drum|bass guitar|electric guitar|female voice,bass|drums|guitar|vocals,bass|drums|other|other keys|vocals
+28748b6e-6125-42f7-998d-2ad734e39b6c,11,6,5,3,2,2,1,female lead vocal|male backing vocals|electric guitar|bass guitar|acoustic drums|tambourine,bass|drums|guitar|percussion|vocals,bass|drums|other|other keys|vocals
+28748b6e-6125-42f7-998d-2ad734e39b6c,12,5,5,4,1,1,0,drum|bass guitar|electric guitar|keyboard|male voice singing,bass|drums|guitar|other keys|vocals,bass|drums|other|other keys|vocals
+28748b6e-6125-42f7-998d-2ad734e39b6c,13,4,5,3,2,1,0,drum|bass guitar|electric guitar|female voice,bass|drums|guitar|vocals,bass|drums|other|other keys|vocals
+28748b6e-6125-42f7-998d-2ad734e39b6c,14,5,4,3,1,1,1,female lead vocal|electric guitar|bass guitar|acoustic drums|male backing vocals,bass|drums|guitar|vocals,bass|drums|other|vocals
+28748b6e-6125-42f7-998d-2ad734e39b6c,15,6,4,3,1,2,1,female voice|male voice|electric bass guitar|acoustic drums|synth brass melody|organ keys chords,bass|drums|other keys|vocals|wind,bass|drums|other|vocals
+28748b6e-6125-42f7-998d-2ad734e39b6c,16,4,5,3,2,1,0,female voice|electric guitar|bass guitar|acoustic drums,bass|drums|guitar|vocals,bass|drums|other|other keys|vocals
+28748b6e-6125-42f7-998d-2ad734e39b6c,17,4,5,3,2,1,0,drum kit|bass guitar|electric guitar|male voice singing,bass|drums|guitar|vocals,bass|drums|other|other keys|vocals
+28748b6e-6125-42f7-998d-2ad734e39b6c,18,7,5,4,1,2,1,Drums|electric guitar|bass guitar|male lead vocals|backing vocals|organ|tambourine,bass|drums|guitar|other keys|percussion|vocals,bass|drums|other|other keys|vocals
+28748b6e-6125-42f7-998d-2ad734e39b6c,19,6,5,4,1,1,1,drums|bass guitar|electric guitar|synthesizer|male lead vocals|female backing vocals,bass|drums|guitar|other keys|vocals,bass|drums|other|other keys|vocals
+35983cdd-3903-46cb-b184-f96274ced57b,0,6,1,1,0,4,1,Synthesizer|electric piano|bass guitar|drums|female lead vocals|male backing vocals,bass|drums|other keys|piano|vocals,other keys
+35983cdd-3903-46cb-b184-f96274ced57b,1,4,4,3,1,1,0,electric guitar|bass guitar|drums|male voice,bass|drums|guitar|vocals,bass|drums|guitar|other keys
+35983cdd-3903-46cb-b184-f96274ced57b,2,6,5,5,0,0,1,Synthesizer|electric guitar|bass guitar|acoustic drums|male lead vocals|female backing vocals,bass|drums|guitar|other keys|vocals,bass|drums|guitar|other keys|vocals
+35983cdd-3903-46cb-b184-f96274ced57b,3,4,5,4,1,0,0,electric guitar|bass guitar|drums|male voice,bass|drums|guitar|vocals,bass|drums|guitar|other keys|vocals
+35983cdd-3903-46cb-b184-f96274ced57b,4,4,5,4,1,0,0,Bass guitar|drums|e-guitar|female voice singing,bass|drums|guitar|vocals,bass|drums|guitar|other keys|vocals
+35983cdd-3903-46cb-b184-f96274ced57b,5,4,5,4,1,0,0,Electric guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|other keys|vocals
+35983cdd-3903-46cb-b184-f96274ced57b,6,5,5,5,0,0,0,Drum|bass guitar|electric guitar|keyboard|male voice singing,bass|drums|guitar|other keys|vocals,bass|drums|guitar|other keys|vocals
+35983cdd-3903-46cb-b184-f96274ced57b,7,6,5,5,0,0,1,Drums|electric guitar|bass guitar|synthesizer|female lead vocals|male backing vocals,bass|drums|guitar|other keys|vocals,bass|drums|guitar|other keys|vocals
+35983cdd-3903-46cb-b184-f96274ced57b,8,6,6,5,1,0,1,Drums|electric guitar|bass guitar|synthesizer|female lead vocals|male backing vocals,bass|drums|guitar|other keys|vocals,bass|drums|guitar|other|other keys|vocals
+35983cdd-3903-46cb-b184-f96274ced57b,9,4,5,4,1,0,0,female singing|electric guitar|bass guitar|acoustic drums,bass|drums|guitar|vocals,bass|drums|guitar|other|vocals
+35983cdd-3903-46cb-b184-f96274ced57b,10,4,4,4,0,0,0,drum kit|electric guitar|bass guitar|male singing voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+35983cdd-3903-46cb-b184-f96274ced57b,11,5,5,4,1,0,1,Drums|electric guitar|bass guitar|male voice singing|female backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|other keys|vocals
+35983cdd-3903-46cb-b184-f96274ced57b,12,4,5,4,1,0,0,Drums|electric guitar|bass guitar|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|other keys|vocals
+35983cdd-3903-46cb-b184-f96274ced57b,13,4,5,4,1,0,0,Drums|electric guitar|bass guitar|male vocals,bass|drums|guitar|vocals,bass|drums|guitar|other keys|vocals
+35983cdd-3903-46cb-b184-f96274ced57b,14,5,5,4,1,0,1,female lead vocals|electric guitar|bass guitar|acoustic drums|male backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|other keys|vocals
+35983cdd-3903-46cb-b184-f96274ced57b,15,6,5,5,0,0,1,Drums|electric guitar|bass guitar|synthesizer|male lead vocals|backing vocals,bass|drums|guitar|other keys|vocals,bass|drums|guitar|other keys|vocals
+35983cdd-3903-46cb-b184-f96274ced57b,16,4,5,4,1,0,0,Electric guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|other keys|vocals
+35983cdd-3903-46cb-b184-f96274ced57b,17,5,6,4,2,0,1,Drums|bass guitar|electric guitars|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|other|other keys|vocals
+35983cdd-3903-46cb-b184-f96274ced57b,18,4,6,3,3,0,1,drum kit|snare drum|female voice|electric guitar,drums|guitar|vocals,bass|drums|guitar|other|other keys|vocals
+35983cdd-3903-46cb-b184-f96274ced57b,19,5,6,5,1,0,0,drum|electric guitar|bass guitar|keyboard|male voice,bass|drums|guitar|other keys|vocals,bass|drums|guitar|other keys|piano|vocals
+35983cdd-3903-46cb-b184-f96274ced57b,20,4,3,1,2,2,1,piano|strings|cello|female voice singing,bowed strings|piano|vocals,bass|guitar|piano
+3c3b5fdb-f15e-4ba4-884a-b083ce2426c6,0,5,3,3,0,1,1,Drum kit|electric guitar|bass guitar|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|drums|guitar
+3c3b5fdb-f15e-4ba4-884a-b083ce2426c6,1,4,4,4,0,0,0,Drums|electric guitar|bass guitar|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+3c3b5fdb-f15e-4ba4-884a-b083ce2426c6,2,4,4,4,0,0,0,electric guitar|bass guitar|drums|male voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+3c3b5fdb-f15e-4ba4-884a-b083ce2426c6,3,4,4,4,0,0,0,Drums|electric guitar|bass guitar|male singing voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+3c3b5fdb-f15e-4ba4-884a-b083ce2426c6,4,4,3,3,0,1,0,Drums|electric guitar|bass guitar|male vocals,bass|drums|guitar|vocals,bass|drums|guitar
+3c3b5fdb-f15e-4ba4-884a-b083ce2426c6,5,5,4,4,0,1,0,Drum|electric guitar|bass guitar|synthesizer pad|male voice singing,bass|drums|guitar|other keys|vocals,bass|drums|guitar|vocals
+3c3b5fdb-f15e-4ba4-884a-b083ce2426c6,6,4,4,4,0,0,0,Drums|electric guitar|bass guitar|male vocals,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+3c3b5fdb-f15e-4ba4-884a-b083ce2426c6,7,4,4,4,0,0,0,Drums|electric guitar|bass guitar|male vocals,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+3c3b5fdb-f15e-4ba4-884a-b083ce2426c6,8,4,4,4,0,0,0,drums|electric guitar|bass guitar|male voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+3c3b5fdb-f15e-4ba4-884a-b083ce2426c6,9,4,4,4,0,0,0,drum kit|bass guitar|electric guitar|male voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+3c3b5fdb-f15e-4ba4-884a-b083ce2426c6,10,4,4,4,0,0,0,Electric guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+3c3b5fdb-f15e-4ba4-884a-b083ce2426c6,11,4,4,4,0,0,0,Drums|electric guitar|bass guitar|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+3c3b5fdb-f15e-4ba4-884a-b083ce2426c6,12,4,4,4,0,0,0,drums|electric guitar|bass guitar|male voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+3c3b5fdb-f15e-4ba4-884a-b083ce2426c6,13,5,4,4,0,0,1,Drums|electric guitar|bass guitar|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+3c3b5fdb-f15e-4ba4-884a-b083ce2426c6,14,4,4,4,0,0,0,drum|electric guitar|bass guitar|male voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+3c3b5fdb-f15e-4ba4-884a-b083ce2426c6,15,4,4,4,0,0,0,Drums|electric guitar|bass guitar|male vocals,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+3c3b5fdb-f15e-4ba4-884a-b083ce2426c6,16,4,4,4,0,0,0,drums|electric guitar|bass guitar|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+3c3b5fdb-f15e-4ba4-884a-b083ce2426c6,17,4,4,4,0,0,0,electric guitar|bass guitar|drums|male voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+3c557409-3a34-43c2-9159-5421bbad5ecb,0,2,1,0,1,2,0,noises|male voice speaking indistinctly,other|vocals,guitar
+3c557409-3a34-43c2-9159-5421bbad5ecb,1,2,1,1,0,1,0,distorted electric guitar|male voice,guitar|vocals,guitar
+3c557409-3a34-43c2-9159-5421bbad5ecb,2,4,3,3,0,1,0,Electric guitar|drums|bass guitar|male voice,bass|drums|guitar|vocals,bass|drums|guitar
+3c557409-3a34-43c2-9159-5421bbad5ecb,3,4,3,3,0,1,0,drum kit|electric guitar|bass guitar|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar
+3c557409-3a34-43c2-9159-5421bbad5ecb,4,4,3,3,0,1,0,Electric guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar
+3c557409-3a34-43c2-9159-5421bbad5ecb,5,4,3,3,0,1,0,Drums|electric guitar|bass guitar|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar
+3c557409-3a34-43c2-9159-5421bbad5ecb,6,4,3,3,0,1,0,distorted electric guitar|bass guitar|drums|male vocals,bass|drums|guitar|vocals,bass|drums|guitar
+3c557409-3a34-43c2-9159-5421bbad5ecb,7,4,3,3,0,1,0,distorted electric guitar|bass guitar|drums|male vocals,bass|drums|guitar|vocals,bass|drums|guitar
+3c557409-3a34-43c2-9159-5421bbad5ecb,8,4,3,3,0,1,0,drums|electric guitar|bass guitar|vocals,bass|drums|guitar|vocals,bass|drums|guitar
+3c557409-3a34-43c2-9159-5421bbad5ecb,9,4,3,3,0,1,0,distorted electric guitar|bass guitar|acoustic drums|male voice,bass|drums|guitar|vocals,bass|drums|guitar
+3c557409-3a34-43c2-9159-5421bbad5ecb,10,4,3,3,0,1,0,distorted electric guitar|bass guitar|drums|male vocals,bass|drums|guitar|vocals,bass|drums|guitar
+3c557409-3a34-43c2-9159-5421bbad5ecb,11,4,3,3,0,1,0,electric guitar|bass guitar|drums|male voice,bass|drums|guitar|vocals,bass|drums|guitar
+3c557409-3a34-43c2-9159-5421bbad5ecb,12,4,3,3,0,1,0,electric guitar|bass guitar|drums|male voice,bass|drums|guitar|vocals,bass|drums|guitar
+3c557409-3a34-43c2-9159-5421bbad5ecb,13,4,4,4,0,0,0,Drums|electric guitar|bass guitar|male vocals,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+3c557409-3a34-43c2-9159-5421bbad5ecb,14,4,4,4,0,0,0,Drums|electric guitar|bass guitar|male singing voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+3c557409-3a34-43c2-9159-5421bbad5ecb,15,4,4,4,0,0,0,distorted electric guitar|bass guitar|drums|male vocals,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+3c557409-3a34-43c2-9159-5421bbad5ecb,16,4,4,4,0,0,0,distorted electric guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+3c557409-3a34-43c2-9159-5421bbad5ecb,17,4,3,3,0,1,0,Electric guitar|bass guitar|drums|male voice,bass|drums|guitar|vocals,bass|drums|guitar
+3c557409-3a34-43c2-9159-5421bbad5ecb,18,4,3,3,0,1,0,electric guitar|bass guitar|drums|male voice,bass|drums|guitar|vocals,bass|drums|guitar
+3c557409-3a34-43c2-9159-5421bbad5ecb,19,4,3,3,0,1,0,electric guitar|bass guitar|drums|male singing voice,bass|drums|guitar|vocals,bass|drums|guitar
+3c557409-3a34-43c2-9159-5421bbad5ecb,20,4,3,3,0,1,0,electric guitar|bass guitar|drums|male voice,bass|drums|guitar|vocals,bass|drums|guitar
+3c557409-3a34-43c2-9159-5421bbad5ecb,21,4,4,4,0,0,0,Drums|electric guitar|bass guitar|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+3c557409-3a34-43c2-9159-5421bbad5ecb,22,4,4,4,0,0,0,distorted electric guitar|bass guitar|drums|male vocals,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+3c557409-3a34-43c2-9159-5421bbad5ecb,23,4,4,4,0,0,0,Drums|electric guitar|bass guitar|male vocals,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+3c557409-3a34-43c2-9159-5421bbad5ecb,24,4,4,4,0,0,0,Electric guitar|bass guitar|drums|male vocals,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+3c557409-3a34-43c2-9159-5421bbad5ecb,25,5,3,3,0,1,1,Electric guitar|bass guitar|drums|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|drums|guitar
+3c557409-3a34-43c2-9159-5421bbad5ecb,26,4,4,4,0,0,0,Drums|electric guitar|bass guitar|male vocals,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+3c557409-3a34-43c2-9159-5421bbad5ecb,27,4,4,4,0,0,0,Drums|electric guitar|bass guitar|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+3c557409-3a34-43c2-9159-5421bbad5ecb,28,4,4,4,0,0,0,Guitar|bass guitar|drums|male voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+3c557409-3a34-43c2-9159-5421bbad5ecb,29,4,4,4,0,0,0,Drums|electric guitar|bass guitar|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+3c557409-3a34-43c2-9159-5421bbad5ecb,30,4,4,4,0,0,0,Guitar|bass guitar|drums|male voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+3c557409-3a34-43c2-9159-5421bbad5ecb,31,4,3,3,0,1,0,electric guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar
+3c557409-3a34-43c2-9159-5421bbad5ecb,32,5,3,3,0,1,1,Electric guitar|bass guitar|drums|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|drums|guitar
+3c557409-3a34-43c2-9159-5421bbad5ecb,33,4,4,4,0,0,0,Drums|electric guitar|bass guitar|male singing voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+3c557409-3a34-43c2-9159-5421bbad5ecb,34,4,4,4,0,0,0,distorted electric guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+3c557409-3a34-43c2-9159-5421bbad5ecb,35,4,4,4,0,0,0,Guitar|drums|bass guitar|male voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+3c557409-3a34-43c2-9159-5421bbad5ecb,36,4,4,4,0,0,0,Guitar|bass guitar|drums|male voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+3c557409-3a34-43c2-9159-5421bbad5ecb,37,4,3,3,0,1,0,Electric guitar|bass guitar|drums|male voice,bass|drums|guitar|vocals,bass|drums|guitar
+3c557409-3a34-43c2-9159-5421bbad5ecb,38,4,4,4,0,0,0,distorted electric guitar|bass guitar|drums|male vocals,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+3c557409-3a34-43c2-9159-5421bbad5ecb,39,4,4,4,0,0,0,Drums|electric guitar|bass guitar|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+3c557409-3a34-43c2-9159-5421bbad5ecb,40,5,4,4,0,0,1,Guitar|drums|bass guitar|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+3c557409-3a34-43c2-9159-5421bbad5ecb,41,4,4,4,0,0,0,Drums|electric guitar|bass guitar|male voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+3c557409-3a34-43c2-9159-5421bbad5ecb,42,5,4,4,0,0,1,Distorted electric guitar|bass guitar|acoustic drums|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+3c557409-3a34-43c2-9159-5421bbad5ecb,43,3,3,2,1,1,0,drum kit|electric guitar|male voice,drums|guitar|vocals,bass|drums|guitar
+3c557409-3a34-43c2-9159-5421bbad5ecb,44,4,3,3,0,1,0,Drums|electric guitar|bass guitar|male vocals,bass|drums|guitar|vocals,bass|drums|guitar
+3c557409-3a34-43c2-9159-5421bbad5ecb,45,4,3,3,0,1,0,Drums|electric guitar|bass guitar|male vocals,bass|drums|guitar|vocals,bass|drums|guitar
+3c557409-3a34-43c2-9159-5421bbad5ecb,46,4,3,3,0,1,0,Electric guitar|bass guitar|drums|male voice,bass|drums|guitar|vocals,bass|drums|guitar
+3c557409-3a34-43c2-9159-5421bbad5ecb,47,4,3,3,0,1,0,Electric guitar|bass guitar|drums|male voice,bass|drums|guitar|vocals,bass|drums|guitar
+3c557409-3a34-43c2-9159-5421bbad5ecb,48,5,3,3,0,1,1,Electric guitar|bass guitar|drums|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|drums|guitar
+3c557409-3a34-43c2-9159-5421bbad5ecb,49,4,3,3,0,1,0,electric guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar
+3c557409-3a34-43c2-9159-5421bbad5ecb,50,4,3,3,0,1,0,Electric guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar
+3c557409-3a34-43c2-9159-5421bbad5ecb,51,4,4,4,0,0,0,Drums|electric guitar|bass guitar|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+3c557409-3a34-43c2-9159-5421bbad5ecb,52,4,4,4,0,0,0,Guitar|drums|bass guitar|male voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+3c557409-3a34-43c2-9159-5421bbad5ecb,53,4,4,4,0,0,0,distorted electric guitar|bass guitar|drums|male vocals,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+3c557409-3a34-43c2-9159-5421bbad5ecb,54,4,4,4,0,0,0,Drums|electric guitar|bass guitar|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+3c557409-3a34-43c2-9159-5421bbad5ecb,55,4,4,4,0,0,0,Guitar|bass guitar|drums|male voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+3c557409-3a34-43c2-9159-5421bbad5ecb,56,4,3,3,0,1,0,Drums|electric guitar|bass guitar|male vocals,bass|drums|guitar|vocals,bass|drums|guitar
+3c557409-3a34-43c2-9159-5421bbad5ecb,57,5,3,3,0,1,1,Electric guitar|bass guitar|drums|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|drums|guitar
+3c557409-3a34-43c2-9159-5421bbad5ecb,58,5,2,2,0,2,1,electric guitar|bass guitar|drums|male voice|female voice,bass|drums|guitar|vocals,bass|guitar
+3e656eec-84d4-4a45-b410-d3817d849f92,0,3,3,2,1,0,1,female singing|acoustic guitar strumming|male humming,guitar|vocals,bass|guitar|vocals
+3e656eec-84d4-4a45-b410-d3817d849f92,1,6,4,4,0,1,1,Acoustic guitar|male voice singing softly|soft bassline|punchy kick|snappy rimshots|shimmering hi-hats,bass|drums|guitar|other|vocals,bass|drums|guitar|vocals
+3e656eec-84d4-4a45-b410-d3817d849f92,2,2,3,2,1,0,0,Acoustic guitar|male voice singing softly,guitar|vocals,drums|guitar|vocals
+3e656eec-84d4-4a45-b410-d3817d849f92,3,5,3,3,0,1,1,Acoustic guitar|electric bass|drums|male lead vocals|female backing vocals,bass|drums|guitar|vocals,drums|guitar|vocals
+3e656eec-84d4-4a45-b410-d3817d849f92,4,5,4,4,0,0,1,Acoustic guitar|electric bass|drums|male lead vocals|female backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+3e656eec-84d4-4a45-b410-d3817d849f92,5,5,4,4,0,0,1,Acoustic guitar|electric bass|drums|male lead vocals|female backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+3e656eec-84d4-4a45-b410-d3817d849f92,6,5,4,4,0,0,1,Acoustic guitar|electric bass|drums|male lead vocals|female backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+3e656eec-84d4-4a45-b410-d3817d849f92,7,2,4,0,4,1,1,['Eb'|'major'],other,bass|drums|guitar|vocals
+3e656eec-84d4-4a45-b410-d3817d849f92,8,5,6,4,2,0,1,Acoustic guitar|electric guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|bowed strings|drums|guitar|piano|vocals
+3e656eec-84d4-4a45-b410-d3817d849f92,9,5,6,4,2,0,1,Acoustic guitar|electric bass|drums|male lead vocals|female backing vocals,bass|drums|guitar|vocals,bass|bowed strings|drums|guitar|piano|vocals
+3e656eec-84d4-4a45-b410-d3817d849f92,10,5,7,4,3,0,1,Guitar|drums|bass guitar|male lead vocals|female backing vocals,bass|drums|guitar|vocals,bass|bowed strings|drums|guitar|other keys|piano|vocals
+3e656eec-84d4-4a45-b410-d3817d849f92,11,5,7,4,3,0,1,Acoustic guitar|electric bass|drums|male lead vocals|female backing vocals,bass|drums|guitar|vocals,bass|bowed strings|drums|guitar|other keys|piano|vocals
+3e656eec-84d4-4a45-b410-d3817d849f92,12,5,7,4,3,0,1,drums|bass guitar|electric guitar lead|male vocals|harmonizing male vocals,bass|drums|guitar|vocals,bass|bowed strings|drums|guitar|other keys|piano|vocals
+3e656eec-84d4-4a45-b410-d3817d849f92,13,5,7,4,3,0,1,drum kit|bass guitar|electric guitar|male voice|female voice,bass|drums|guitar|vocals,bass|bowed strings|drums|guitar|other keys|piano|vocals
+3e656eec-84d4-4a45-b410-d3817d849f92,14,5,7,4,3,0,1,Drums|electric guitar|bass guitar|male vocals|female backing vocals,bass|drums|guitar|vocals,bass|bowed strings|drums|guitar|other keys|piano|vocals
+3e656eec-84d4-4a45-b410-d3817d849f92,15,5,6,5,1,0,0,Vocals|electric guitar|bass guitar|drums|organ,bass|drums|guitar|other keys|vocals,bass|drums|guitar|other keys|piano|vocals
+3e656eec-84d4-4a45-b410-d3817d849f92,16,5,4,3,1,1,1,Acoustic guitar|electric bass|drums|male lead vocals|female backing vocals,bass|drums|guitar|vocals,drums|guitar|other keys|vocals
+3e656eec-84d4-4a45-b410-d3817d849f92,17,6,5,4,1,0,2,Acoustic guitar|electric guitar melody|male lead vocal|female backing vocals|drums|bass guitar,bass|drums|guitar|vocals,bass|drums|guitar|piano|vocals
+3e656eec-84d4-4a45-b410-d3817d849f92,18,5,6,4,2,0,1,drums|bass guitar|electric guitar|male voice|female voice,bass|drums|guitar|vocals,bass|bowed strings|drums|guitar|piano|vocals
+3e656eec-84d4-4a45-b410-d3817d849f92,19,5,6,4,2,0,1,Electric guitar|bass guitar|drums|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|bowed strings|drums|guitar|piano|vocals
+3e656eec-84d4-4a45-b410-d3817d849f92,20,5,6,4,2,0,1,Acoustic guitar|electric bass|drums|male voice|female voice,bass|drums|guitar|vocals,bass|bowed strings|drums|guitar|piano|vocals
+3e656eec-84d4-4a45-b410-d3817d849f92,21,5,6,4,2,0,1,Drums|electric guitar|bass guitar|male vocals|female backing vocals,bass|drums|guitar|vocals,bass|bowed strings|drums|guitar|piano|vocals
+3e656eec-84d4-4a45-b410-d3817d849f92,22,4,6,4,2,0,0,drum|bass guitar|electric guitar|male voice singing,bass|drums|guitar|vocals,bass|bowed strings|drums|guitar|piano|vocals
+3e656eec-84d4-4a45-b410-d3817d849f92,23,5,6,4,2,0,1,Acoustic guitar|electric bass|drums|male voice|female backing vocals,bass|drums|guitar|vocals,bass|bowed strings|drums|guitar|piano|vocals
+4380ad97-2620-4419-a011-ddfa29a87f54,0,4,3,2,1,2,0,piano|bass guitar|drums|male voice singing,bass|drums|piano|vocals,bass|percussion|piano
+4380ad97-2620-4419-a011-ddfa29a87f54,1,4,5,3,2,1,0,electric_bass|piano|drums|male voice speaking,bass|drums|piano|vocals,bass|drums|guitar|percussion|piano
+4380ad97-2620-4419-a011-ddfa29a87f54,2,4,6,4,2,0,0,drum kit|bass guitar|electric guitar|male singing voice,bass|drums|guitar|vocals,bass|drums|guitar|percussion|piano|vocals
+4380ad97-2620-4419-a011-ddfa29a87f54,3,5,6,4,2,0,1,Drums|electric guitar|bass guitar|male lead vocals|female backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|percussion|piano|vocals
+4380ad97-2620-4419-a011-ddfa29a87f54,4,2,6,0,6,1,1,['G'|'major'],other,bass|drums|guitar|percussion|piano|vocals
+4380ad97-2620-4419-a011-ddfa29a87f54,5,8,6,6,0,1,1,Drums|electric guitar|bass guitar|male voice singing the main melody|female backing vocals providing harmonies|tambourine|piano|occasional brass stabs for emphasis,bass|drums|guitar|percussion|piano|vocals|wind,bass|drums|guitar|percussion|piano|vocals
+4380ad97-2620-4419-a011-ddfa29a87f54,6,5,6,4,2,0,1,Drums|electric guitar|bass guitar|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|percussion|piano|vocals
+4380ad97-2620-4419-a011-ddfa29a87f54,7,5,6,4,2,0,1,Drum kit|electric guitar|bass guitar|male lead vocal|harmonizing background vocals,bass|drums|guitar|vocals,bass|drums|guitar|percussion|piano|vocals
+4380ad97-2620-4419-a011-ddfa29a87f54,8,8,6,6,0,1,1,Drums|electric guitar|bass guitar|male voice singing the main melody|female backing vocals harmonizing|piano playing chords|organ providing sustained notes for harmony|tambourine adding rhythmic accents,bass|drums|guitar|other keys|percussion|piano|vocals,bass|drums|guitar|percussion|piano|vocals
+4380ad97-2620-4419-a011-ddfa29a87f54,9,4,6,4,2,0,0,drums|bass guitar|electric guitar|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|percussion|piano|vocals
+4380ad97-2620-4419-a011-ddfa29a87f54,10,4,5,2,3,2,0,electric_bass|drums|keyboard|male voice singing,bass|drums|other keys|vocals,bass|drums|guitar|percussion|piano
+4380ad97-2620-4419-a011-ddfa29a87f54,11,5,5,4,1,1,0,electric_bass|drums|piano|guitar|female voice singing,bass|drums|guitar|piano|vocals,bass|drums|guitar|percussion|piano
+4380ad97-2620-4419-a011-ddfa29a87f54,12,6,5,4,1,1,1,Drums|bass guitar|electric piano|acoustic guitar|male lead vocals|female backing vocals,bass|drums|guitar|piano|vocals,bass|drums|guitar|percussion|piano
+4380ad97-2620-4419-a011-ddfa29a87f54,13,4,5,3,2,1,0,electric_bass|acoustic drums|electric guitar|keyboard,bass|drums|guitar|other keys,bass|drums|guitar|percussion|piano
+4380ad97-2620-4419-a011-ddfa29a87f54,14,4,6,4,2,0,0,Drums|electric guitar|bass guitar|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|percussion|piano|vocals
+4380ad97-2620-4419-a011-ddfa29a87f54,15,4,6,4,2,0,0,drum|bass guitar|electric guitar|male voice,bass|drums|guitar|vocals,bass|drums|guitar|percussion|piano|vocals
+4380ad97-2620-4419-a011-ddfa29a87f54,16,5,6,4,2,0,1,Drums|electric guitar|bass guitar|male lead vocals|female backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|percussion|piano|vocals
+4380ad97-2620-4419-a011-ddfa29a87f54,17,5,6,4,2,0,1,drum kit|bass guitar|electric guitar|male voice|female voice,bass|drums|guitar|vocals,bass|drums|guitar|percussion|piano|vocals
+4380ad97-2620-4419-a011-ddfa29a87f54,18,5,7,4,3,0,1,Drums|electric guitar|bass guitar|male lead vocals|female backing vocals,bass|drums|guitar|vocals,bass|bowed strings|drums|guitar|percussion|piano|vocals
+4380ad97-2620-4419-a011-ddfa29a87f54,19,4,7,4,3,0,0,drum kit|e-bass guitar|electric guitar|male voice singing,bass|drums|guitar|vocals,bass|bowed strings|drums|guitar|percussion|piano|vocals
+4380ad97-2620-4419-a011-ddfa29a87f54,20,4,7,4,3,0,0,Drums|electric guitar|bass guitar|male voice,bass|drums|guitar|vocals,bass|bowed strings|drums|guitar|percussion|piano|vocals
+48c78ca6-18e9-42f2-9f05-fdbee90a7786,0,2,1,1,0,1,0,Acoustic guitar|male voice,guitar|vocals,guitar
+48c78ca6-18e9-42f2-9f05-fdbee90a7786,1,4,4,4,0,0,0,Acoustic guitar|electric bass|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+48c78ca6-18e9-42f2-9f05-fdbee90a7786,2,4,4,4,0,0,0,drum kit|electric guitar|bass guitar|male singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+48c78ca6-18e9-42f2-9f05-fdbee90a7786,3,4,5,4,1,0,0,acoustic guitar|electric bass|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|other keys|vocals
+48c78ca6-18e9-42f2-9f05-fdbee90a7786,4,5,5,4,1,0,1,drums|bass guitar|acoustic rhythm guitar|electric lead melody|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|other keys|vocals
+48c78ca6-18e9-42f2-9f05-fdbee90a7786,5,4,5,4,1,0,0,Acoustic guitar|electric bass|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|percussion|vocals
+48c78ca6-18e9-42f2-9f05-fdbee90a7786,6,4,6,4,2,0,0,drum kit|electric guitar|bass guitar|male voice,bass|drums|guitar|vocals,bass|drums|guitar|other keys|percussion|vocals
+48c78ca6-18e9-42f2-9f05-fdbee90a7786,7,6,6,4,2,2,0,Male voice|acoustic rhythm guitar panned to the left|piano melody|walking bassline|drums holding a simple steady groove|harmonica solo,bass|drums|guitar|piano|vocals|wind,bass|drums|guitar|other keys|percussion|vocals
+48c78ca6-18e9-42f2-9f05-fdbee90a7786,8,4,6,4,2,0,0,acoustic guitar|bass guitar|drums|male voice,bass|drums|guitar|vocals,bass|drums|guitar|other keys|percussion|vocals
+48c78ca6-18e9-42f2-9f05-fdbee90a7786,9,5,5,4,1,1,0,Acoustic guitar|electric piano|bass guitar|drums|male voice singing,bass|drums|guitar|piano|vocals,bass|drums|guitar|percussion|vocals
+48c78ca6-18e9-42f2-9f05-fdbee90a7786,10,5,7,4,3,0,1,acoustic guitar|bass guitar|drums|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|other keys|percussion|vocals|wind
+48c78ca6-18e9-42f2-9f05-fdbee90a7786,11,4,6,3,3,1,0,electric guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|other keys|percussion|wind
+48c78ca6-18e9-42f2-9f05-fdbee90a7786,12,5,6,3,3,2,0,piano|bass guitar|drums|electric guitar|male voice singing,bass|drums|guitar|piano|vocals,bass|drums|guitar|other keys|percussion|wind
+48c78ca6-18e9-42f2-9f05-fdbee90a7786,13,4,7,4,3,0,0,acoustic guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|other keys|percussion|vocals|wind
+48c78ca6-18e9-42f2-9f05-fdbee90a7786,14,2,5,0,5,1,1,['D'|'major'],other,bass|drums|guitar|percussion|vocals
+48c78ca6-18e9-42f2-9f05-fdbee90a7786,15,4,6,4,2,0,0,Acoustic guitar|electric bass|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|other keys|percussion|vocals
+48c78ca6-18e9-42f2-9f05-fdbee90a7786,16,4,6,4,2,0,0,electric guitar|acoustic drums|bass guitar|male voice,bass|drums|guitar|vocals,bass|drums|guitar|other keys|percussion|vocals
+491c1ff5-1e7b-4046-8029-a82d4a8aefb4,0,2,4,2,2,0,0,Piano|male voice,piano|vocals,drums|guitar|piano|vocals
+491c1ff5-1e7b-4046-8029-a82d4a8aefb4,1,5,5,4,1,1,0,Acoustic guitar|electric piano|bass guitar|drums|male lead vocals,bass|drums|guitar|piano|vocals,drums|guitar|percussion|piano|vocals
+491c1ff5-1e7b-4046-8029-a82d4a8aefb4,2,3,6,2,4,0,1,acoustic guitar|electric guitar|male voice,guitar|vocals,bass|drums|guitar|percussion|piano|vocals
+491c1ff5-1e7b-4046-8029-a82d4a8aefb4,3,5,7,5,2,0,0,acoustic guitar|electric piano|bass guitar|drums|male voice singing,bass|drums|guitar|piano|vocals,bass|drums|guitar|other keys|percussion|piano|vocals
+491c1ff5-1e7b-4046-8029-a82d4a8aefb4,4,4,7,4,3,0,0,Acoustic guitar|bass guitar|piano chords|male voice singing,bass|guitar|piano|vocals,bass|drums|guitar|other keys|percussion|piano|vocals
+491c1ff5-1e7b-4046-8029-a82d4a8aefb4,5,5,7,5,2,0,0,drum kit|bass guitar|acoustic rhythm guitar|piano melody|male voice singing,bass|drums|guitar|piano|vocals,bass|drums|guitar|other keys|percussion|piano|vocals
+491c1ff5-1e7b-4046-8029-a82d4a8aefb4,6,4,6,4,2,0,0,Acoustic guitar|electric bass|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|other keys|piano|vocals
+491c1ff5-1e7b-4046-8029-a82d4a8aefb4,7,5,6,5,1,0,0,acoustic guitar|electric piano|bass guitar|drums|male voice singing,bass|drums|guitar|piano|vocals,bass|drums|guitar|other keys|piano|vocals
+491c1ff5-1e7b-4046-8029-a82d4a8aefb4,8,6,6,5,1,0,1,Piano|drums|bass guitar|electric guitar|male lead vocals|female backing vocals,bass|drums|guitar|piano|vocals,bass|drums|guitar|other keys|piano|vocals
+491c1ff5-1e7b-4046-8029-a82d4a8aefb4,9,5,6,5,1,0,0,piano|drums|bass guitar|electric guitar|male voice,bass|drums|guitar|piano|vocals,bass|drums|guitar|other keys|piano|vocals
+491c1ff5-1e7b-4046-8029-a82d4a8aefb4,10,2,2,1,1,1,0,drum kit|male vocals,drums|vocals,bass|drums
+491c1ff5-1e7b-4046-8029-a82d4a8aefb4,11,6,1,1,0,1,4,Drum kit|snare drum|bass drum|cymbal|hi-hat|male voice singing,drums|vocals,drums
+491c1ff5-1e7b-4046-8029-a82d4a8aefb4,12,5,1,1,0,0,4,Drum kit|snare drum|bass drum|hi-hat cymbal|crash cymbal,drums,drums
+491c1ff5-1e7b-4046-8029-a82d4a8aefb4,13,7,1,1,0,2,4,Drum kit|snare drum|bass drum|cymbal|hi-hat|percussion instrument|male voice speaking,drums|percussion|vocals,drums
+491c1ff5-1e7b-4046-8029-a82d4a8aefb4,14,2,1,1,0,1,0,drums|percussion,drums|percussion,drums
+491c1ff5-1e7b-4046-8029-a82d4a8aefb4,15,6,1,1,0,1,4,Drum kit|snare drum|bass drum|cymbal|hi-hat|male voice singing,drums|vocals,drums
+491c1ff5-1e7b-4046-8029-a82d4a8aefb4,16,7,1,1,0,2,4,Drum kit|snare drum|bass drum|cymbal|hi-hat|percussion instrument|male voice singing,drums|percussion|vocals,drums
+491c1ff5-1e7b-4046-8029-a82d4a8aefb4,17,7,1,1,0,2,4,Drum kit|cymbal|snare drum|hi-hat|bass drum|percussion instrument|male voice,drums|percussion|vocals,drums
+491c1ff5-1e7b-4046-8029-a82d4a8aefb4,18,3,1,1,0,2,0,drums|percussion|male voice,drums|percussion|vocals,drums
+491c1ff5-1e7b-4046-8029-a82d4a8aefb4,19,6,1,1,0,1,4,Drum kit|snare drum|bass drum|cymbal|hi-hat|male voice,drums|vocals,drums
+491c1ff5-1e7b-4046-8029-a82d4a8aefb4,20,5,1,1,0,3,1,Drum kit|snare drum|bass guitar|electric guitar|male voice singing,bass|drums|guitar|vocals,drums
+491c1ff5-1e7b-4046-8029-a82d4a8aefb4,21,8,1,1,0,2,5,Drum kit|cymbal|snare drum|bass drum|hi-hat|percussion instrument|male voice|female voice,drums|percussion|vocals,drums
+491c1ff5-1e7b-4046-8029-a82d4a8aefb4,22,7,1,1,0,2,4,Drum kit|cymbal|snare drum|bass drum|hi-hat|percussion instrument|male voice,drums|percussion|vocals,drums
+491c1ff5-1e7b-4046-8029-a82d4a8aefb4,23,5,1,1,0,3,1,Drum kit|snare drum|bass guitar|electric guitar|male voice singing,bass|drums|guitar|vocals,drums
+491c1ff5-1e7b-4046-8029-a82d4a8aefb4,24,4,1,1,0,3,0,drum kit|bass guitar|electric guitar|male singing voice,bass|drums|guitar|vocals,drums
+4999a0bf-a753-4e0e-85b1-690259dabf96,0,3,1,1,0,1,1,Synthesizer|female voice|male voice,other keys|vocals,other keys
+4999a0bf-a753-4e0e-85b1-690259dabf96,1,6,6,5,1,0,1,drum kit|electric guitar|bass guitar|synthesizer pad|male lead vocals|female backing vocals,bass|drums|guitar|other keys|vocals,bass|drums|guitar|other|other keys|vocals
+4999a0bf-a753-4e0e-85b1-690259dabf96,2,5,6,4,2,0,1,Drums|electric guitar|bass guitar|male lead vocals|female backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|other|other keys|vocals
+4999a0bf-a753-4e0e-85b1-690259dabf96,3,7,6,5,1,1,1,Male lead vocals|acoustic guitar|electric bass|drums|synthesizer pads|electronic percussion elements|female backing vocals providing harmonies,bass|drums|guitar|other keys|percussion|vocals,bass|drums|guitar|other|other keys|vocals
+4999a0bf-a753-4e0e-85b1-690259dabf96,4,5,4,2,2,3,0,Male rap vocals|acoustic guitar strumming|light percussion|subtle bassline|ambient background sounds,bass|guitar|other|percussion|vocals,bass|drums|other keys|vocals
+4999a0bf-a753-4e0e-85b1-690259dabf96,5,5,4,4,0,0,1,Male voice|bass guitar|drum kit|keyboard|male rap vocals,bass|drums|other keys|vocals,bass|drums|other keys|vocals
+4999a0bf-a753-4e0e-85b1-690259dabf96,6,5,4,2,2,2,1,Male rap vocals|acoustic guitar strumming|light percussion|subtle bassline|occasional vocal samples,bass|guitar|percussion|vocals,bass|drums|other keys|vocals
+4999a0bf-a753-4e0e-85b1-690259dabf96,7,6,6,5,1,0,1,Male lead vocals|acoustic guitar strumming|electric bass providing the low end|drums playing a steady rhythm|subtle synth pads adding texture|occasional vocal harmonies,bass|drums|guitar|other keys|vocals,bass|drums|guitar|other|other keys|vocals
+4999a0bf-a753-4e0e-85b1-690259dabf96,8,6,6,4,2,1,1,female lead vocal|acoustic guitar|electric bass|drums|piano|male backing vocals,bass|drums|guitar|piano|vocals,bass|drums|guitar|other|other keys|vocals
+4999a0bf-a753-4e0e-85b1-690259dabf96,9,5,6,4,2,0,1,Drums|electric guitar|bass guitar|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|other|other keys|vocals
+4999a0bf-a753-4e0e-85b1-690259dabf96,10,7,6,5,1,1,1,Male lead vocals|male backing vocals|acoustic guitar strumming chords|electric bass playing root notes of the chord progression|electronic drums providing a steady beat|synth pads adding atmospheric texture|piano accents for melodic embellishment,bass|drums|guitar|other keys|piano|vocals,bass|drums|guitar|other|other keys|vocals
+4999a0bf-a753-4e0e-85b1-690259dabf96,11,5,4,4,0,1,0,Male rap vocals|drums|bass guitar|synthesizer pads|turntable scratches,bass|drums|other|other keys|vocals,bass|drums|other keys|vocals
+4999a0bf-a753-4e0e-85b1-690259dabf96,12,5,4,2,2,2,1,Male rap vocals|acoustic guitar strumming|light percussion|bassline|female backing vocals,bass|guitar|percussion|vocals,bass|drums|other keys|vocals
+4999a0bf-a753-4e0e-85b1-690259dabf96,13,5,4,4,0,0,1,Male rap vocals|electronic drums|synth bass|atmospheric pads|female backing vocals,bass|drums|other keys|vocals,bass|drums|other keys|vocals
+4999a0bf-a753-4e0e-85b1-690259dabf96,14,5,6,4,2,0,1,drum kit|bass guitar|electric guitar|male voice|female voice,bass|drums|guitar|vocals,bass|drums|guitar|other|other keys|vocals
+4999a0bf-a753-4e0e-85b1-690259dabf96,15,5,6,4,2,0,1,Drums|electric guitar|bass guitar|male lead vocals|female backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|other|other keys|vocals
+4999a0bf-a753-4e0e-85b1-690259dabf96,16,5,6,4,2,0,1,drum kit|electric guitar|bass guitar|male voice|harmonizing vocals,bass|drums|guitar|vocals,bass|drums|guitar|other|other keys|vocals
+4999a0bf-a753-4e0e-85b1-690259dabf96,17,3,6,3,3,0,0,electric guitar|acoustic drums|male voice singing,drums|guitar|vocals,bass|drums|guitar|other|other keys|vocals
+4999a0bf-a753-4e0e-85b1-690259dabf96,18,5,6,4,2,0,1,Electric guitar|bass guitar|drums|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|other|other keys|vocals
+4999a0bf-a753-4e0e-85b1-690259dabf96,19,4,6,4,2,0,0,drum kit|bass guitar|electric guitar riff|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|other|other keys|vocals
+4999a0bf-a753-4e0e-85b1-690259dabf96,20,3,3,2,1,0,1,Synthesizer|female voice|male voice,other keys|vocals,bass|other keys|vocals
+5640831d-7853-4d06-8166-988e2844b652,0,3,3,2,1,1,0,Synthesizer|electronic drums|male vocals,drums|other keys|vocals,bass|drums|other keys
+5640831d-7853-4d06-8166-988e2844b652,1,5,4,4,0,0,1,Synth|drums|bass guitar|female voice singing the main melody|male backing vocals providing harmonies,bass|drums|other keys|vocals,bass|drums|other keys|vocals
+5640831d-7853-4d06-8166-988e2844b652,2,4,4,3,1,1,0,drums|bass guitar|electric guitar|female voice singing,bass|drums|guitar|vocals,bass|drums|other keys|vocals
+5640831d-7853-4d06-8166-988e2844b652,3,2,4,0,4,1,1,['D'|'minor'],other,bass|drums|other keys|vocals
+5640831d-7853-4d06-8166-988e2844b652,4,6,4,3,1,1,2,female voice|synth bass guitar|punchy kick|shimmering hi hats|groovy snare backbeat|sustained strings melody,bass|bowed strings|drums|vocals,bass|drums|other keys|vocals
+5640831d-7853-4d06-8166-988e2844b652,5,4,4,3,1,1,0,female voice|electric guitar|bass guitar|acoustic drums,bass|drums|guitar|vocals,bass|drums|other keys|vocals
+5640831d-7853-4d06-8166-988e2844b652,6,4,5,4,1,0,0,drum kit|bass guitar|electric guitar|female voice,bass|drums|guitar|vocals,bass|drums|guitar|other keys|vocals
+5640831d-7853-4d06-8166-988e2844b652,7,4,5,4,1,0,0,drums|electric guitar|bass guitar|female voice,bass|drums|guitar|vocals,bass|drums|guitar|other keys|vocals
+5640831d-7853-4d06-8166-988e2844b652,8,5,5,4,1,0,1,female singing|male singing|electric guitar|bass guitar|drums,bass|drums|guitar|vocals,bass|drums|guitar|other keys|vocals
+5640831d-7853-4d06-8166-988e2844b652,9,5,5,4,1,0,1,drums|electric guitar|bass guitar|male voice|female voice,bass|drums|guitar|vocals,bass|drums|guitar|other keys|vocals
+5640831d-7853-4d06-8166-988e2844b652,10,4,5,4,1,0,0,female singing|electric guitar|bass guitar|drums,bass|drums|guitar|vocals,bass|drums|guitar|other keys|vocals
+5640831d-7853-4d06-8166-988e2844b652,11,4,4,3,1,1,0,Synthesizer chords|groovy bassline|electronic drums|female vocals processed as an instrument,bass|drums|other keys|vocals,bass|guitar|other keys|vocals
+5640831d-7853-4d06-8166-988e2844b652,12,4,5,4,1,0,0,electric guitar|bass guitar|drums|female vocals,bass|drums|guitar|vocals,bass|drums|guitar|other keys|vocals
+5640831d-7853-4d06-8166-988e2844b652,13,4,5,4,1,0,0,female singer|electric guitar|bass guitar|drums,bass|drums|guitar|vocals,bass|drums|guitar|other keys|vocals
+5640831d-7853-4d06-8166-988e2844b652,14,6,5,5,0,0,1,female lead vocal|female backing vocals|drums|electric guitar|bass guitar|keyboard,bass|drums|guitar|other keys|vocals,bass|drums|guitar|other keys|vocals
+5640831d-7853-4d06-8166-988e2844b652,15,5,5,4,1,0,1,drums|electric guitar|bass guitar|female voice|male backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|other keys|vocals
+5640831d-7853-4d06-8166-988e2844b652,16,4,5,4,1,0,0,drums|bass guitar|electric guitar|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|other keys|vocals
+5640831d-7853-4d06-8166-988e2844b652,17,4,5,4,1,0,0,drums|electric guitar|synth pad chords|female voice singing,drums|guitar|other keys|vocals,bass|drums|guitar|other keys|vocals
+5a6df5c7-a58a-479e-bdfb-c5946c221933,0,6,6,5,1,0,1,piano|drums|bass guitar|electric guitar|male voice|female voice,bass|drums|guitar|piano|vocals,bass|drums|guitar|piano|vocals|wind
+5a6df5c7-a58a-479e-bdfb-c5946c221933,1,5,7,4,3,0,1,Drums|electric guitar|bass guitar|male lead vocals|female backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|other keys|piano|vocals|wind
+5a6df5c7-a58a-479e-bdfb-c5946c221933,2,5,7,4,3,0,1,Acoustic guitar|electric bass|drums|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|other keys|piano|vocals|wind
+5a6df5c7-a58a-479e-bdfb-c5946c221933,3,6,7,5,2,0,1,Drums|electric guitar|bass guitar|keyboard|male lead vocals|backing vocals,bass|drums|guitar|other keys|vocals,bass|drums|guitar|other keys|piano|vocals|wind
+5a6df5c7-a58a-479e-bdfb-c5946c221933,4,6,7,5,2,0,1,Drums|electric guitar|bass guitar|keyboard|male lead vocals|backing vocals,bass|drums|guitar|other keys|vocals,bass|drums|guitar|other keys|piano|vocals|wind
+5a6df5c7-a58a-479e-bdfb-c5946c221933,5,6,8,5,3,0,1,Acoustic guitar|electric bass|drums|male lead vocals|harmonica|female backing vocals,bass|drums|guitar|vocals|wind,bass|drums|guitar|other keys|other plucked|piano|vocals|wind
+5a6df5c7-a58a-479e-bdfb-c5946c221933,6,5,8,4,4,0,1,Electric guitar|bass guitar|drums|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|other keys|other plucked|piano|vocals|wind
+5a6df5c7-a58a-479e-bdfb-c5946c221933,7,5,7,4,3,0,1,Drums|electric guitar|bass guitar|male lead vocals|female backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|other keys|piano|vocals|wind
+5a6df5c7-a58a-479e-bdfb-c5946c221933,8,5,7,4,3,0,1,drum kit|bass guitar|electric guitar|male voice|female voice,bass|drums|guitar|vocals,bass|drums|guitar|other keys|piano|vocals|wind
+5a6df5c7-a58a-479e-bdfb-c5946c221933,9,7,8,5,3,1,1,drum kit|bass guitar|electric guitar|male vocals|female voice|brass section|strings,bass|bowed strings|drums|guitar|vocals|wind,bass|drums|guitar|other keys|other plucked|piano|vocals|wind
+5a6df5c7-a58a-479e-bdfb-c5946c221933,10,6,8,5,3,0,1,Drums|electric guitar|bass guitar|keyboard|male lead vocals|female backing vocals,bass|drums|guitar|other keys|vocals,bass|drums|guitar|other keys|other plucked|piano|vocals|wind
+5a6df5c7-a58a-479e-bdfb-c5946c221933,11,6,6,5,1,0,1,Piano|drums|bass guitar|electric guitar|male lead vocals|female backing vocals,bass|drums|guitar|piano|vocals,bass|drums|guitar|piano|vocals|wind
+5a6df5c7-a58a-479e-bdfb-c5946c221933,12,5,5,4,1,0,1,female singing|acoustic guitar strumming chords|bass playing root notes|drums keeping rhythm|male backing vocals providing harmonies,bass|drums|guitar|vocals,bass|drums|guitar|piano|vocals
+5a6df5c7-a58a-479e-bdfb-c5946c221933,13,6,4,4,0,1,1,Piano|drums|bass guitar|electric guitar playing arpeggios|male lead vocals|backing vocals,bass|drums|guitar|piano|vocals,bass|drums|piano|vocals
+5a6df5c7-a58a-479e-bdfb-c5946c221933,14,6,6,5,1,0,1,female lead vocal|male choir backing vocals|acoustic guitar strumming chords|electric bass playing root notes of the chord progression|drums providing steady rhythm|piano adding harmonic support,bass|drums|guitar|piano|vocals,bass|drums|guitar|piano|vocals|wind
+5a6df5c7-a58a-479e-bdfb-c5946c221933,15,5,6,4,2,0,1,Drums|electric guitar|bass guitar|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|piano|vocals|wind
+5a6df5c7-a58a-479e-bdfb-c5946c221933,16,7,5,4,1,2,1,Male lead vocals|male backing vocals|electric guitar|bass guitar|drums|keyboard|orchestral strings,bass|bowed strings|drums|guitar|other keys|vocals,bass|drums|guitar|piano|vocals
+5a6df5c7-a58a-479e-bdfb-c5946c221933,17,7,7,4,3,1,2,Drums|electric guitar|bass guitar|keyboard|male lead vocals|female backing vocals|mixed choir,bass|drums|guitar|other keys|vocals,bass|drums|guitar|percussion|piano|vocals|wind
+606e3380-b062-4b74-88ac-b60d6f4d0a37,0,2,4,2,2,0,0,acoustic guitar|male voice singing,guitar|vocals,bass|drums|guitar|vocals
+606e3380-b062-4b74-88ac-b60d6f4d0a37,1,2,4,2,2,0,0,Acoustic guitar|male voice,guitar|vocals,bass|drums|guitar|vocals
+606e3380-b062-4b74-88ac-b60d6f4d0a37,2,2,4,2,2,0,0,Acoustic guitar|male voice singing,guitar|vocals,bass|drums|guitar|vocals
+606e3380-b062-4b74-88ac-b60d6f4d0a37,3,2,4,2,2,0,0,Acoustic guitar|male voice singing softly,guitar|vocals,bass|drums|guitar|vocals
+606e3380-b062-4b74-88ac-b60d6f4d0a37,4,2,4,2,2,0,0,acoustic guitar|male voice singing,guitar|vocals,bass|drums|guitar|vocals
+606e3380-b062-4b74-88ac-b60d6f4d0a37,5,2,4,2,2,0,0,Acoustic guitar|male voice singing,guitar|vocals,bass|drums|guitar|vocals
+606e3380-b062-4b74-88ac-b60d6f4d0a37,6,2,4,2,2,0,0,Acoustic guitar|male voice singing,guitar|vocals,bass|drums|guitar|vocals
+606e3380-b062-4b74-88ac-b60d6f4d0a37,7,2,4,0,4,1,1,['B'|'Ebm7'],other,bass|drums|guitar|vocals
+606e3380-b062-4b74-88ac-b60d6f4d0a37,8,2,4,2,2,0,0,acoustic guitar|male voice singing,guitar|vocals,bass|drums|guitar|vocals
+606e3380-b062-4b74-88ac-b60d6f4d0a37,9,5,4,4,0,0,1,Acoustic guitar|electric bass|drums|male lead vocals|female backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+606e3380-b062-4b74-88ac-b60d6f4d0a37,10,4,4,4,0,0,0,acoustic guitar|bass guitar|drums|male voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+606e3380-b062-4b74-88ac-b60d6f4d0a37,11,4,4,4,0,0,0,acoustic guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+606e3380-b062-4b74-88ac-b60d6f4d0a37,12,5,4,4,0,0,1,Acoustic guitar|electric bass|drums|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+606e3380-b062-4b74-88ac-b60d6f4d0a37,13,2,4,2,2,0,0,acoustic guitar|male voice singing,guitar|vocals,bass|drums|guitar|vocals
+606e3380-b062-4b74-88ac-b60d6f4d0a37,14,2,4,2,2,0,0,Acoustic guitar|male voice singing,guitar|vocals,bass|drums|guitar|vocals
+606e3380-b062-4b74-88ac-b60d6f4d0a37,15,4,4,4,0,0,0,acoustic guitar|drums|bass guitar|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+606e3380-b062-4b74-88ac-b60d6f4d0a37,16,5,3,3,0,1,1,Acoustic guitar|electric guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar
+606e3380-b062-4b74-88ac-b60d6f4d0a37,17,4,3,3,0,1,0,electric_bass|acoustic drums|electric guitar|male voice,bass|drums|guitar|vocals,bass|drums|guitar
+606e3380-b062-4b74-88ac-b60d6f4d0a37,18,4,3,3,0,1,0,electric_bass|drums|electric guitar|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar
+606e3380-b062-4b74-88ac-b60d6f4d0a37,19,4,4,4,0,0,0,drums|electric guitar|bass guitar|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+606e3380-b062-4b74-88ac-b60d6f4d0a37,20,4,4,4,0,0,0,drum kit|electric guitar|bass guitar|male voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+606e3380-b062-4b74-88ac-b60d6f4d0a37,21,4,4,4,0,0,0,acoustic guitar|electric bass|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+606e3380-b062-4b74-88ac-b60d6f4d0a37,22,2,4,0,4,1,1,['B'|'major'],other,bass|drums|guitar|vocals
+606e3380-b062-4b74-88ac-b60d6f4d0a37,23,3,4,2,2,1,0,Acoustic guitar|male voice singing softly|shaker rhythm instrument,guitar|percussion|vocals,bass|drums|guitar|vocals
+606e3380-b062-4b74-88ac-b60d6f4d0a37,24,2,4,0,4,1,1,['B'|'major'],other,bass|drums|guitar|vocals
+6b48c9de-fa34-4635-9718-04e01a03a0fe,0,3,1,1,0,1,1,electric guitar|distorted electric guitar|male voice,guitar|vocals,guitar
+6b48c9de-fa34-4635-9718-04e01a03a0fe,1,5,3,3,0,1,1,Electric guitar|bass guitar|drums|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|drums|guitar
+6b48c9de-fa34-4635-9718-04e01a03a0fe,2,4,4,4,0,0,0,distorted electric guitar|bass guitar|drums|male vocals,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+6b48c9de-fa34-4635-9718-04e01a03a0fe,3,4,4,4,0,0,0,Electric guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+6b48c9de-fa34-4635-9718-04e01a03a0fe,4,4,4,4,0,0,0,Drums|electric guitar|bass guitar|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+6b48c9de-fa34-4635-9718-04e01a03a0fe,5,4,4,4,0,0,0,Drums|electric guitar|bass guitar|male vocals,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+6b48c9de-fa34-4635-9718-04e01a03a0fe,6,4,4,4,0,0,0,Drums|electric guitar|bass guitar|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+6b48c9de-fa34-4635-9718-04e01a03a0fe,7,5,4,4,0,0,1,Drums|electric guitar|bass guitar|male voice|female voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+6b48c9de-fa34-4635-9718-04e01a03a0fe,8,4,4,4,0,0,0,Guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+6b48c9de-fa34-4635-9718-04e01a03a0fe,9,5,4,4,0,0,1,Distorted electric guitar|bass guitar|acoustic drums|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+6b48c9de-fa34-4635-9718-04e01a03a0fe,10,4,4,4,0,0,0,Drums|electric guitar|bass guitar|male singing voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+6b48c9de-fa34-4635-9718-04e01a03a0fe,11,4,4,4,0,0,0,Electric guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+6b48c9de-fa34-4635-9718-04e01a03a0fe,12,4,4,4,0,0,0,distorted electric guitar|bass guitar|drums|male voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+6b48c9de-fa34-4635-9718-04e01a03a0fe,13,4,4,4,0,0,0,Drums|electric guitar|bass guitar|male singing voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+6b48c9de-fa34-4635-9718-04e01a03a0fe,14,4,4,4,0,0,0,Drums|electric guitar|bass guitar|male vocals,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+6b48c9de-fa34-4635-9718-04e01a03a0fe,15,4,4,4,0,0,0,Guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+6b48c9de-fa34-4635-9718-04e01a03a0fe,16,4,4,4,0,0,0,Guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+6b48c9de-fa34-4635-9718-04e01a03a0fe,17,4,4,4,0,0,0,Guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+6b48c9de-fa34-4635-9718-04e01a03a0fe,18,5,3,3,0,1,1,Electric guitar|bass guitar|drums|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|drums|guitar
+6b48c9de-fa34-4635-9718-04e01a03a0fe,19,4,4,4,0,0,0,Electric guitar|bass guitar|drums|male vocals,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+6b48c9de-fa34-4635-9718-04e01a03a0fe,20,4,4,4,0,0,0,drums|electric guitar|bass guitar|male voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+6b48c9de-fa34-4635-9718-04e01a03a0fe,21,4,4,4,0,0,0,drums|electric guitar|bass guitar|male voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+6b48c9de-fa34-4635-9718-04e01a03a0fe,22,4,4,4,0,0,0,Drums|electric guitar|bass guitar|male singing voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+6b48c9de-fa34-4635-9718-04e01a03a0fe,23,4,4,4,0,0,0,Drums|electric guitar|bass guitar|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+6b48c9de-fa34-4635-9718-04e01a03a0fe,24,4,4,4,0,0,0,Drums|electric guitar|bass guitar|male voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+6b48c9de-fa34-4635-9718-04e01a03a0fe,25,4,4,4,0,0,0,Drums|electric guitar|bass guitar|male vocals,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+6b48c9de-fa34-4635-9718-04e01a03a0fe,26,4,4,4,0,0,0,Drums|electric guitar|bass guitar|male vocals,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+6b48c9de-fa34-4635-9718-04e01a03a0fe,27,4,4,4,0,0,0,Electric guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+6de41c50-0c49-4528-b60b-75c45d3630f4,0,4,2,2,0,2,0,drum|bass guitar|electric guitar|male voice,bass|drums|guitar|vocals,bass|drums
+6de41c50-0c49-4528-b60b-75c45d3630f4,1,4,3,3,0,1,0,electric guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar
+6de41c50-0c49-4528-b60b-75c45d3630f4,2,4,3,3,0,1,0,electric guitar|bass guitar|drums|male voice,bass|drums|guitar|vocals,bass|drums|guitar
+6de41c50-0c49-4528-b60b-75c45d3630f4,3,5,3,3,0,1,1,Electric guitar|bass guitar|drums|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|drums|guitar
+6de41c50-0c49-4528-b60b-75c45d3630f4,4,4,4,4,0,0,0,drums|electric guitar|bass guitar|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+6de41c50-0c49-4528-b60b-75c45d3630f4,5,4,4,4,0,0,0,drums|electric guitar|bass guitar|male voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+6de41c50-0c49-4528-b60b-75c45d3630f4,6,4,3,3,0,1,0,electric guitar|bass guitar|drums|male voice,bass|drums|guitar|vocals,bass|drums|guitar
+6de41c50-0c49-4528-b60b-75c45d3630f4,7,4,4,4,0,0,0,Electric guitar|bass guitar|drums|male voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+6de41c50-0c49-4528-b60b-75c45d3630f4,8,4,4,4,0,0,0,Drums|electric guitar|bass guitar|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+6de41c50-0c49-4528-b60b-75c45d3630f4,9,4,4,4,0,0,0,drum kit|electric guitar|bass guitar|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+6de41c50-0c49-4528-b60b-75c45d3630f4,10,4,4,4,0,0,0,electric guitar|bass guitar|drums|male singing voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+6de41c50-0c49-4528-b60b-75c45d3630f4,11,5,4,4,0,0,1,Electric guitar|bass guitar|drums|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+6de41c50-0c49-4528-b60b-75c45d3630f4,12,5,3,3,0,1,1,Electric guitar|bass guitar|drums|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|drums|guitar
+6de41c50-0c49-4528-b60b-75c45d3630f4,13,4,4,4,0,0,0,electric guitar|bass guitar|drums|male voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+6de41c50-0c49-4528-b60b-75c45d3630f4,14,5,4,4,0,0,1,distorted electric guitar|bass guitar|drums|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+6de41c50-0c49-4528-b60b-75c45d3630f4,15,4,4,4,0,0,0,Drums|electric guitar|bass guitar|male vocals,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+6de41c50-0c49-4528-b60b-75c45d3630f4,16,4,3,3,0,1,0,electric guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar
+6de41c50-0c49-4528-b60b-75c45d3630f4,17,4,4,4,0,0,0,Drums|electric guitar|bass guitar|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+6de41c50-0c49-4528-b60b-75c45d3630f4,18,4,4,4,0,0,0,Drums|electric guitar|bass guitar|male singing voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+6de41c50-0c49-4528-b60b-75c45d3630f4,19,4,4,4,0,0,0,Drums|electric guitar|bass guitar|male vocals,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+6de41c50-0c49-4528-b60b-75c45d3630f4,20,4,4,4,0,0,0,Drums|electric guitar|bass guitar|male singing voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+6de41c50-0c49-4528-b60b-75c45d3630f4,21,4,4,4,0,0,0,Drums|electric guitar|bass guitar|male voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+6de41c50-0c49-4528-b60b-75c45d3630f4,22,4,4,4,0,0,0,drums|electric guitar|bass guitar|male singing voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+6de41c50-0c49-4528-b60b-75c45d3630f4,23,4,4,4,0,0,0,distorted electric guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+6de41c50-0c49-4528-b60b-75c45d3630f4,24,4,3,3,0,1,0,Drums|electric guitar|bass guitar|male vocals,bass|drums|guitar|vocals,bass|drums|guitar
+6de41c50-0c49-4528-b60b-75c45d3630f4,25,5,3,3,0,1,1,Drums|electric guitar|bass guitar|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|drums|guitar
+6de41c50-0c49-4528-b60b-75c45d3630f4,26,4,4,4,0,0,0,Drums|electric guitar|bass guitar|male vocals,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+6de41c50-0c49-4528-b60b-75c45d3630f4,27,4,4,4,0,0,0,Drums|electric guitar|bass guitar|male singing voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+704f1de9-1d02-4c2b-af05-107a7700a51d,0,5,3,3,0,1,1,Acoustic guitar|electric bass|acoustic drums|male lead vocals|female backing vocals,bass|drums|guitar|vocals,bass|drums|guitar
+704f1de9-1d02-4c2b-af05-107a7700a51d,1,4,4,4,0,0,0,electric guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+704f1de9-1d02-4c2b-af05-107a7700a51d,2,4,4,4,0,0,0,Acoustic guitar|electric bass|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+704f1de9-1d02-4c2b-af05-107a7700a51d,3,4,4,4,0,0,0,Electric guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+704f1de9-1d02-4c2b-af05-107a7700a51d,4,4,4,4,0,0,0,Electric guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+704f1de9-1d02-4c2b-af05-107a7700a51d,5,4,4,4,0,0,0,Electric guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+704f1de9-1d02-4c2b-af05-107a7700a51d,6,4,4,4,0,0,0,electric guitar|bass guitar|drums|male voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+704f1de9-1d02-4c2b-af05-107a7700a51d,7,5,4,4,0,0,1,Electric guitar|bass guitar|drums|male voice singing the main melody|backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+704f1de9-1d02-4c2b-af05-107a7700a51d,8,4,4,4,0,0,0,electric_bass|drums|guitar|male voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+704f1de9-1d02-4c2b-af05-107a7700a51d,9,5,3,3,0,1,1,Acoustic guitar|bass guitar|drums|male lead vocals|female backing vocals,bass|drums|guitar|vocals,bass|drums|guitar
+704f1de9-1d02-4c2b-af05-107a7700a51d,10,5,4,4,0,0,1,Acoustic guitar|electric bass|drums|male lead vocals|female backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+704f1de9-1d02-4c2b-af05-107a7700a51d,11,4,4,4,0,0,0,Acoustic guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+704f1de9-1d02-4c2b-af05-107a7700a51d,12,4,4,4,0,0,0,Acoustic guitar|electric bass|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+704f1de9-1d02-4c2b-af05-107a7700a51d,13,5,4,4,0,0,1,Electric guitar|bass guitar|drums|male voice singing the main melody|backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+704f1de9-1d02-4c2b-af05-107a7700a51d,14,4,4,4,0,0,0,electric guitar|bass guitar|drums|male singing voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+704f1de9-1d02-4c2b-af05-107a7700a51d,15,4,4,4,0,0,0,Acoustic guitar|electric bass|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+704f1de9-1d02-4c2b-af05-107a7700a51d,16,5,3,3,0,1,1,Acoustic guitar|bass guitar|drums|male lead vocals|female backing vocals,bass|drums|guitar|vocals,bass|drums|guitar
+704f1de9-1d02-4c2b-af05-107a7700a51d,17,5,3,3,0,1,1,Acoustic guitar|electric bass|drums|male lead vocals|female backing vocals,bass|drums|guitar|vocals,bass|drums|guitar
+704f1de9-1d02-4c2b-af05-107a7700a51d,18,5,3,3,0,1,1,Acoustic guitar|electric bass|drums|male lead vocals|female backing vocals,bass|drums|guitar|vocals,bass|drums|guitar
+704f1de9-1d02-4c2b-af05-107a7700a51d,19,5,3,3,0,1,1,Acoustic guitar|electric bass|drums|male lead vocals|female backing vocals,bass|drums|guitar|vocals,bass|drums|guitar
+704f1de9-1d02-4c2b-af05-107a7700a51d,20,5,3,3,0,1,1,electric guitar|acoustic rhythm guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar
+704f1de9-1d02-4c2b-af05-107a7700a51d,21,4,3,3,0,1,0,acoustic guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,drums|guitar|vocals
+704f1de9-1d02-4c2b-af05-107a7700a51d,22,2,3,2,1,0,0,Acoustic guitar|male voice singing,guitar|vocals,drums|guitar|vocals
+704f1de9-1d02-4c2b-af05-107a7700a51d,23,2,3,2,1,0,0,Acoustic guitar|male voice singing,guitar|vocals,drums|guitar|vocals
+704f1de9-1d02-4c2b-af05-107a7700a51d,24,4,4,3,1,1,0,electric_bass|acoustic drums|piano|male voice,bass|drums|piano|vocals,bass|drums|guitar|vocals
+704f1de9-1d02-4c2b-af05-107a7700a51d,25,4,4,4,0,0,0,Drums|electric guitar|bass guitar|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+704f1de9-1d02-4c2b-af05-107a7700a51d,26,4,4,4,0,0,0,Guitar|drums|bass guitar|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+704f1de9-1d02-4c2b-af05-107a7700a51d,27,4,4,4,0,0,0,electric_bass|drums|guitar|male voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+78ef22ce-472f-4f82-8656-16df73b9465f,0,5,4,3,1,1,1,Electric guitar|bass guitar|acoustic drums|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|wind
+78ef22ce-472f-4f82-8656-16df73b9465f,1,5,5,4,1,0,1,Drums|electric guitar|bass guitar|female lead vocals|male backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|vocals|wind
+78ef22ce-472f-4f82-8656-16df73b9465f,2,5,5,4,1,1,0,female singing|drums|electric guitar|keyboard|bass guitar,bass|drums|guitar|other keys|vocals,bass|drums|guitar|vocals|wind
+78ef22ce-472f-4f82-8656-16df73b9465f,3,2,5,0,5,1,1,['Bm'|'Em7'],other,bass|drums|guitar|vocals|wind
+78ef22ce-472f-4f82-8656-16df73b9465f,4,4,5,4,1,0,0,drums|electric guitar|bass guitar|female voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals|wind
+78ef22ce-472f-4f82-8656-16df73b9465f,5,6,5,5,0,1,0,female singing|drums|electric guitar|saxophone|piano|bass guitar,bass|drums|guitar|piano|vocals|wind,bass|drums|guitar|vocals|wind
+78ef22ce-472f-4f82-8656-16df73b9465f,6,4,5,4,1,0,0,drum kit|bass guitar|electric guitar|female voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals|wind
+78ef22ce-472f-4f82-8656-16df73b9465f,7,4,5,4,1,0,0,Drums|electric guitar|bass guitar|female voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals|wind
+78ef22ce-472f-4f82-8656-16df73b9465f,8,4,5,4,1,0,0,drums|electric guitar|bass guitar|female voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals|wind
+78ef22ce-472f-4f82-8656-16df73b9465f,9,4,5,4,1,0,0,drums|electric guitar|bass guitar|female voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals|wind
+78ef22ce-472f-4f82-8656-16df73b9465f,10,4,5,4,1,0,0,electric guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals|wind
+78ef22ce-472f-4f82-8656-16df73b9465f,11,6,4,4,0,2,0,drum|bass guitar|electric guitar|saxophone|keyboard|male voice,bass|drums|guitar|other keys|vocals|wind,bass|drums|guitar|wind
+78ef22ce-472f-4f82-8656-16df73b9465f,12,6,5,5,0,1,0,female singing|drums|electric guitar|saxophone|piano|bass guitar,bass|drums|guitar|piano|vocals|wind,bass|drums|guitar|vocals|wind
+78ef22ce-472f-4f82-8656-16df73b9465f,13,4,5,4,1,0,0,drums|electric guitar|bass guitar|female singing voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals|wind
+78ef22ce-472f-4f82-8656-16df73b9465f,14,4,5,4,1,0,0,Drums|electric guitar|bass guitar|female voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals|wind
+78ef22ce-472f-4f82-8656-16df73b9465f,15,4,5,4,1,0,0,drums|electric guitar|bass guitar|female voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals|wind
+78ef22ce-472f-4f82-8656-16df73b9465f,16,4,5,4,1,0,0,electric_bass|drums|guitar|male voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals|wind
+78ef22ce-472f-4f82-8656-16df73b9465f,17,5,5,4,1,1,0,female lead vocals|electric guitar|bass guitar|acoustic drums|tambourine,bass|drums|guitar|percussion|vocals,bass|drums|guitar|vocals|wind
+7bfa233c-24ed-4c7a-9096-11e3aa00c55d,0,2,2,2,0,0,0,piano|male voice singing,piano|vocals,piano|vocals
+7bfa233c-24ed-4c7a-9096-11e3aa00c55d,1,2,2,2,0,0,0,piano|male voice,piano|vocals,piano|vocals
+7bfa233c-24ed-4c7a-9096-11e3aa00c55d,2,2,2,2,0,0,0,Piano|male voice,piano|vocals,piano|vocals
+7bfa233c-24ed-4c7a-9096-11e3aa00c55d,3,2,3,2,1,0,0,piano|male voice,piano|vocals,bowed strings|piano|vocals
+7bfa233c-24ed-4c7a-9096-11e3aa00c55d,4,2,2,2,0,0,0,piano|male voice singing,piano|vocals,piano|vocals
+7bfa233c-24ed-4c7a-9096-11e3aa00c55d,5,2,2,2,0,0,0,Piano|male voice,piano|vocals,piano|vocals
+7bfa233c-24ed-4c7a-9096-11e3aa00c55d,6,2,2,2,0,0,0,piano|male voice singing softly,piano|vocals,piano|vocals
+7bfa233c-24ed-4c7a-9096-11e3aa00c55d,7,4,6,4,2,0,0,piano|bass guitar|drums|female voice singing,bass|drums|piano|vocals,bass|drums|guitar|piano|vocals|wind
+7bfa233c-24ed-4c7a-9096-11e3aa00c55d,8,5,6,4,2,0,1,Acoustic guitar|electric bass|drums|male lead vocals|female backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|piano|vocals|wind
+7bfa233c-24ed-4c7a-9096-11e3aa00c55d,9,2,6,2,4,0,0,groovy bass guitar|acoustic rhythm guitar,bass|guitar,bass|bowed strings|drums|guitar|piano|vocals
+7bfa233c-24ed-4c7a-9096-11e3aa00c55d,10,5,6,4,2,0,1,Drums|bass guitar|acoustic rhythm guitar|male lead vocal|female backing vocals,bass|drums|guitar|vocals,bass|bowed strings|drums|guitar|piano|vocals
+7bfa233c-24ed-4c7a-9096-11e3aa00c55d,11,5,6,4,2,0,1,Drums|electric guitar|bass guitar|male lead vocals|female backing vocals,bass|drums|guitar|vocals,bass|bowed strings|drums|guitar|piano|vocals
+7bfa233c-24ed-4c7a-9096-11e3aa00c55d,12,5,6,5,1,0,0,Drums|electric guitar|bass guitar|piano|male voice,bass|drums|guitar|piano|vocals,bass|bowed strings|drums|guitar|piano|vocals
+7bfa233c-24ed-4c7a-9096-11e3aa00c55d,13,4,5,3,2,1,0,groovy bass guitar|electric rhythm guitar chords|strings melody and shimmering hi hats. It sounds soft|emotional and addictive - thanks to that cadence,bass|drums|guitar|other,bass|drums|guitar|piano|vocals
+7bfa233c-24ed-4c7a-9096-11e3aa00c55d,14,4,6,4,2,0,0,Drums|electric guitar|bass guitar|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|percussion|piano|vocals
+7bfa233c-24ed-4c7a-9096-11e3aa00c55d,15,4,6,4,2,0,0,electric guitar|bass guitar|drums|male voice,bass|drums|guitar|vocals,bass|drums|guitar|percussion|piano|vocals
+7bfa233c-24ed-4c7a-9096-11e3aa00c55d,16,4,6,4,2,0,0,Drums|electric guitar|bass guitar|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|percussion|piano|vocals
+7bfa233c-24ed-4c7a-9096-11e3aa00c55d,17,4,5,4,1,0,0,piano|male voice|drums|bass guitar,bass|drums|piano|vocals,bass|drums|guitar|piano|vocals
+7bfa233c-24ed-4c7a-9096-11e3aa00c55d,18,6,2,1,1,4,1,Female lead vocal|male backing vocals|acoustic guitar strumming chords|bass playing root notes of the chord progression|light drums providing rhythm|subtle keyboard pads adding texture,bass|drums|guitar|other keys|vocals,piano|vocals
+7bfa233c-24ed-4c7a-9096-11e3aa00c55d,19,6,4,4,0,2,0,Vocals|acoustic guitar|electric bass|drums|piano|synthesizer,bass|drums|guitar|other keys|piano|vocals,bass|drums|piano|vocals
+7bfa233c-24ed-4c7a-9096-11e3aa00c55d,20,5,4,4,0,1,0,piano|drums|bass guitar|electric guitar|male voice,bass|drums|guitar|piano|vocals,bass|drums|piano|vocals
+7bfa233c-24ed-4c7a-9096-11e3aa00c55d,21,2,3,2,1,0,0,piano|male voice,piano|vocals,bass|piano|vocals
+7bfa233c-24ed-4c7a-9096-11e3aa00c55d,22,3,5,3,2,0,0,acoustic guitar|piano|male voice,guitar|piano|vocals,bass|drums|guitar|piano|vocals
+7bfa233c-24ed-4c7a-9096-11e3aa00c55d,23,6,6,5,1,0,1,drums|electric guitar|bass guitar|piano|male voice|female voice,bass|drums|guitar|piano|vocals,bass|drums|guitar|piano|vocals|wind
+7bfa233c-24ed-4c7a-9096-11e3aa00c55d,24,6,6,5,1,0,1,Drums|electric guitar|bass guitar|piano|male lead vocals|backing vocals,bass|drums|guitar|piano|vocals,bass|drums|guitar|piano|vocals|wind
+7bfa233c-24ed-4c7a-9096-11e3aa00c55d,25,5,6,4,2,0,1,Acoustic guitar|bass guitar|drums|male voice|female voice,bass|drums|guitar|vocals,bass|drums|guitar|piano|vocals|wind
+7bfa233c-24ed-4c7a-9096-11e3aa00c55d,26,6,6,5,1,0,1,Piano|drums|bass guitar|electric guitars|male lead vocals|backing vocals,bass|drums|guitar|piano|vocals,bass|drums|guitar|piano|vocals|wind
+7bfa233c-24ed-4c7a-9096-11e3aa00c55d,27,3,4,3,1,0,0,electric_bass|piano|male voice,bass|piano|vocals,bass|piano|vocals|wind
+7bfa233c-24ed-4c7a-9096-11e3aa00c55d,28,5,5,4,1,1,0,Acoustic guitar|electric piano|bass guitar|drums|male voice singing,bass|drums|guitar|piano|vocals,bass|bowed strings|drums|piano|vocals
+7bfa233c-24ed-4c7a-9096-11e3aa00c55d,29,5,5,4,1,1,0,piano|drums|bass guitar|electric guitar|male voice,bass|drums|guitar|piano|vocals,bass|bowed strings|drums|piano|vocals
+7bfa233c-24ed-4c7a-9096-11e3aa00c55d,30,2,4,2,2,0,0,piano|female voice,piano|vocals,bass|bowed strings|piano|vocals
+7dd515b0-e218-425d-b8bf-a75056237d6a,0,2,2,2,0,0,0,piano|male voice singing,piano|vocals,piano|vocals
+7dd515b0-e218-425d-b8bf-a75056237d6a,1,2,2,2,0,0,0,piano|male voice singing softly,piano|vocals,piano|vocals
+7dd515b0-e218-425d-b8bf-a75056237d6a,2,2,2,2,0,0,0,piano|male voice singing,piano|vocals,piano|vocals
+7dd515b0-e218-425d-b8bf-a75056237d6a,3,2,2,2,0,0,0,piano|male voice,piano|vocals,piano|vocals
+7dd515b0-e218-425d-b8bf-a75056237d6a,4,2,2,2,0,0,0,piano|female voice,piano|vocals,piano|vocals
+7dd515b0-e218-425d-b8bf-a75056237d6a,5,5,2,2,0,3,0,piano|electric guitar|bass guitar|drums|male voice singing,bass|drums|guitar|piano|vocals,piano|vocals
+7dd515b0-e218-425d-b8bf-a75056237d6a,6,2,2,2,0,0,0,piano|male voice,piano|vocals,piano|vocals
+7dd515b0-e218-425d-b8bf-a75056237d6a,7,2,2,2,0,0,0,piano|male voice singing,piano|vocals,piano|vocals
+7dd515b0-e218-425d-b8bf-a75056237d6a,8,2,2,2,0,0,0,piano|male voice singing,piano|vocals,piano|vocals
+7dd515b0-e218-425d-b8bf-a75056237d6a,9,2,2,2,0,0,0,piano|male voice,piano|vocals,piano|vocals
+7dd515b0-e218-425d-b8bf-a75056237d6a,10,2,2,2,0,0,0,piano|male voice,piano|vocals,piano|vocals
+7dd515b0-e218-425d-b8bf-a75056237d6a,11,2,2,2,0,0,0,piano|male voice,piano|vocals,piano|vocals
+7dd515b0-e218-425d-b8bf-a75056237d6a,12,2,2,2,0,0,0,piano|male voice singing melodically,piano|vocals,piano|vocals
+7dd515b0-e218-425d-b8bf-a75056237d6a,13,2,2,2,0,0,0,piano|male voice singing,piano|vocals,piano|vocals
+8042b88a-6179-406b-9ec4-b45a4cdd4a71,0,2,1,1,0,1,0,electric guitar|male voice,guitar|vocals,guitar
+8042b88a-6179-406b-9ec4-b45a4cdd4a71,1,3,2,1,1,1,1,electric guitar|female voice|male voice,guitar|vocals,guitar|other keys
+8042b88a-6179-406b-9ec4-b45a4cdd4a71,2,4,7,3,4,1,0,electric_bass|piano|male voice rapping|synth lead melody,bass|other keys|piano|vocals,bass|drums|guitar|other|other keys|percussion|vocals
+8042b88a-6179-406b-9ec4-b45a4cdd4a71,3,6,5,4,1,1,1,Male rap vocals|acoustic guitar strumming|bassline|electronic drums|synth pad chords|female backing vocals,bass|drums|guitar|other keys|vocals,bass|drums|guitar|percussion|vocals
+8042b88a-6179-406b-9ec4-b45a4cdd4a71,4,6,6,5,1,0,1,Male voice|drums|bass guitar|electric guitar|synthesizer|female backing vocals,bass|drums|guitar|other keys|vocals,bass|drums|guitar|other keys|percussion|vocals
+8042b88a-6179-406b-9ec4-b45a4cdd4a71,5,6,6,4,2,1,1,Male rap vocals|drums|bass guitar|synthesizer pads|piano chords|female backing vocals,bass|drums|other keys|piano|vocals,bass|drums|guitar|other keys|percussion|vocals
+8042b88a-6179-406b-9ec4-b45a4cdd4a71,6,5,7,4,3,0,1,Drums|electric guitar|bass guitar|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|other|other keys|percussion|vocals
+8042b88a-6179-406b-9ec4-b45a4cdd4a71,7,4,6,4,2,0,0,Synthesizer|bass guitar|acoustic drums|male voice singing,bass|drums|other keys|vocals,bass|drums|guitar|other keys|percussion|vocals
+8042b88a-6179-406b-9ec4-b45a4cdd4a71,8,5,6,4,2,0,1,Synthesizer|bass guitar|drums|female lead voice|male backing vocals,bass|drums|other keys|vocals,bass|drums|guitar|other keys|percussion|vocals
+8042b88a-6179-406b-9ec4-b45a4cdd4a71,9,7,6,5,1,1,1,Male lead vocals|male backing vocals|acoustic guitar|electric bass|drums|synthesizer pads|piano chords,bass|drums|guitar|other keys|piano|vocals,bass|drums|guitar|other keys|percussion|vocals
+8042b88a-6179-406b-9ec4-b45a4cdd4a71,10,5,5,4,1,1,0,Male rap vocals|acoustic guitar strumming|light percussion|bassline|subtle synth pads,bass|guitar|other keys|percussion|vocals,bass|drums|guitar|percussion|vocals
+8042b88a-6179-406b-9ec4-b45a4cdd4a71,11,5,6,3,3,1,1,Male rap vocals|female backing vocals|piano|electronic drum kit providing the beat|bass guitar,bass|drums|piano|vocals,bass|drums|guitar|other keys|percussion|vocals
+8042b88a-6179-406b-9ec4-b45a4cdd4a71,12,3,6,3,3,0,0,Synthesizer|electronic drums|male rap vocals,drums|other keys|vocals,bass|drums|guitar|other keys|percussion|vocals
+8042b88a-6179-406b-9ec4-b45a4cdd4a71,13,5,7,4,3,0,1,Synthesizer|male voice rapping|female backing vocals|electronic drums|bass guitar,bass|drums|other keys|vocals,bass|drums|guitar|other|other keys|percussion|vocals
+8042b88a-6179-406b-9ec4-b45a4cdd4a71,14,4,6,3,3,0,1,Synthesizer|electronic drums|male lead vocals|female backing vocals,drums|other keys|vocals,bass|drums|guitar|other keys|percussion|vocals
+8042b88a-6179-406b-9ec4-b45a4cdd4a71,15,8,6,6,0,0,2,female singing|male singing|drums|bass guitar|electric guitar|keyboard|synthesizer|percussion,bass|drums|guitar|other keys|percussion|vocals,bass|drums|guitar|other keys|percussion|vocals
+8042b88a-6179-406b-9ec4-b45a4cdd4a71,16,7,5,4,1,2,1,Male voice|drums|bass guitar|electric guitar|synthesizer|piano|backing vocals,bass|drums|guitar|other keys|piano|vocals,bass|drums|guitar|percussion|vocals
+8042b88a-6179-406b-9ec4-b45a4cdd4a71,17,6,5,4,1,2,0,Male rap vocals|acoustic guitar strumming|electronic drums|bassline|synth pads|piano chords,bass|drums|guitar|other keys|piano|vocals,bass|drums|guitar|percussion|vocals
+8042b88a-6179-406b-9ec4-b45a4cdd4a71,18,5,5,4,1,1,0,Male rap vocals|acoustic guitar strumming|electronic drums|synth bassline|subtle synth pads,bass|drums|guitar|other keys|vocals,bass|drums|guitar|percussion|vocals
+8042b88a-6179-406b-9ec4-b45a4cdd4a71,19,8,5,5,0,0,3,Male rap vocals|acoustic guitar strumming|bassline|drums|hi-hats|shakers|tambourine|background male vocal harmonies,bass|drums|guitar|percussion|vocals,bass|drums|guitar|percussion|vocals
+8042b88a-6179-406b-9ec4-b45a4cdd4a71,20,8,7,5,2,2,1,Male lead vocals|male backing vocals|acoustic guitar strumming chords|electric bass playing root notes of the chord progression|electronic drums providing hip-hop beats|synth pad adding atmospheric texture|piano melody contributing to harmonic richness|subtle string pads enhancing emotional depth,bass|bowed strings|drums|guitar|other keys|piano|vocals,bass|drums|guitar|other|other keys|percussion|vocals
+8042b88a-6179-406b-9ec4-b45a4cdd4a71,21,5,6,4,2,0,1,Synthesizer|electronic drums|bass guitar|male lead vocal|female backing vocals,bass|drums|other keys|vocals,bass|drums|guitar|other keys|percussion|vocals
+8042b88a-6179-406b-9ec4-b45a4cdd4a71,22,4,6,4,2,0,0,Drums|electric guitar|bass guitar|male vocals,bass|drums|guitar|vocals,bass|drums|guitar|other keys|percussion|vocals
+8042b88a-6179-406b-9ec4-b45a4cdd4a71,23,4,4,3,1,1,0,electric guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,drums|guitar|other keys|vocals
+8042b88a-6179-406b-9ec4-b45a4cdd4a71,24,4,4,3,1,1,0,female lead vocal|acoustic guitar|electric bass|drums,bass|drums|guitar|vocals,drums|guitar|other keys|vocals
+88b545e5-4d06-4d55-a306-1bd3a2915ee5,0,4,3,3,0,1,0,electric guitar|bass guitar|drums|male voice,bass|drums|guitar|vocals,bass|drums|guitar
+88b545e5-4d06-4d55-a306-1bd3a2915ee5,1,4,3,3,0,1,0,electric guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar
+88b545e5-4d06-4d55-a306-1bd3a2915ee5,2,4,4,4,0,0,0,electric guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+88b545e5-4d06-4d55-a306-1bd3a2915ee5,3,4,4,4,0,0,0,drum kit|electric guitar|bass guitar|male voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+88b545e5-4d06-4d55-a306-1bd3a2915ee5,4,4,4,4,0,0,0,Drums|electric guitar|bass guitar|male vocals,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+88b545e5-4d06-4d55-a306-1bd3a2915ee5,5,4,4,4,0,0,0,drums|electric guitar|bass guitar|male voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+88b545e5-4d06-4d55-a306-1bd3a2915ee5,6,4,4,4,0,0,0,drums|electric guitar|bass guitar|male voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+88b545e5-4d06-4d55-a306-1bd3a2915ee5,7,4,4,4,0,0,0,Guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+88b545e5-4d06-4d55-a306-1bd3a2915ee5,8,3,4,3,1,0,0,electric_bass|drums|male voice,bass|drums|vocals,bass|drums|guitar|vocals
+88b545e5-4d06-4d55-a306-1bd3a2915ee5,9,4,4,4,0,0,0,drum|electric guitar|bass guitar|male voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+88b545e5-4d06-4d55-a306-1bd3a2915ee5,10,3,4,3,1,0,0,drum kit|electric guitar|male voice,drums|guitar|vocals,bass|drums|guitar|vocals
+88b545e5-4d06-4d55-a306-1bd3a2915ee5,11,4,4,3,1,1,0,electric_bass|drums|keyboard|male voice,bass|drums|other keys|vocals,bass|drums|guitar|vocals
+88b545e5-4d06-4d55-a306-1bd3a2915ee5,12,4,4,4,0,0,0,drums|electric guitar|bass guitar|male voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+88b545e5-4d06-4d55-a306-1bd3a2915ee5,13,4,4,4,0,0,0,distorted electric guitar|bass guitar|drums|male voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+88b545e5-4d06-4d55-a306-1bd3a2915ee5,14,4,4,4,0,0,0,drum kit|electric guitar|bass guitar|male voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+88b545e5-4d06-4d55-a306-1bd3a2915ee5,15,4,4,4,0,0,0,drum kit|electric guitar|bass guitar|male voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+88b545e5-4d06-4d55-a306-1bd3a2915ee5,16,4,4,4,0,0,0,drums|electric guitar|bass guitar|male voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+88b545e5-4d06-4d55-a306-1bd3a2915ee5,17,4,4,4,0,0,0,drums|electric guitar|bass guitar|male voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+88b545e5-4d06-4d55-a306-1bd3a2915ee5,18,4,4,4,0,0,0,drum kit|electric guitar|bass guitar|male voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+88b545e5-4d06-4d55-a306-1bd3a2915ee5,19,5,4,4,0,0,1,Electric guitar|bass guitar|drums|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+88b545e5-4d06-4d55-a306-1bd3a2915ee5,20,4,3,3,0,1,0,Drums|electric guitar|bass guitar|male singing voice,bass|drums|guitar|vocals,bass|drums|guitar
+88b545e5-4d06-4d55-a306-1bd3a2915ee5,21,4,3,3,0,1,0,Electric guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar
+88b545e5-4d06-4d55-a306-1bd3a2915ee5,22,5,3,3,0,1,1,electric guitar|distortion guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar
+88b545e5-4d06-4d55-a306-1bd3a2915ee5,23,4,3,3,0,1,0,Drums|electric guitar|bass guitar|male vocals,bass|drums|guitar|vocals,bass|drums|guitar
+88b545e5-4d06-4d55-a306-1bd3a2915ee5,24,4,3,3,0,1,0,Drums|electric guitar|bass guitar|male vocals,bass|drums|guitar|vocals,bass|drums|guitar
+88b545e5-4d06-4d55-a306-1bd3a2915ee5,25,4,3,3,0,1,0,Drums|electric guitar|bass guitar|male vocals,bass|drums|guitar|vocals,bass|drums|guitar
+88b545e5-4d06-4d55-a306-1bd3a2915ee5,26,4,3,2,1,1,1,electric guitar|acoustic guitar|drums|male voice singing,drums|guitar|vocals,bass|drums|guitar
+88b545e5-4d06-4d55-a306-1bd3a2915ee5,27,4,3,3,0,1,0,Drums|electric guitar|bass guitar|male vocals,bass|drums|guitar|vocals,bass|drums|guitar
+88b545e5-4d06-4d55-a306-1bd3a2915ee5,28,4,4,4,0,0,0,Distorted electric guitar|bass guitar|acoustic drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+88b545e5-4d06-4d55-a306-1bd3a2915ee5,29,4,4,4,0,0,0,Drums|electric guitar|bass guitar|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+88b545e5-4d06-4d55-a306-1bd3a2915ee5,30,4,4,4,0,0,0,drum kit|electric guitar|bass guitar|male voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+88b545e5-4d06-4d55-a306-1bd3a2915ee5,31,4,4,4,0,0,0,drum|bass guitar|electric guitar|male voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+88b545e5-4d06-4d55-a306-1bd3a2915ee5,32,4,4,4,0,0,0,drum kit|electric guitar|bass guitar|male voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+88b545e5-4d06-4d55-a306-1bd3a2915ee5,33,4,4,4,0,0,0,drum kit|electric guitar|bass guitar|male voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+88b545e5-4d06-4d55-a306-1bd3a2915ee5,34,4,4,4,0,0,0,drum kit|electric guitar|bass guitar|male voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+88b545e5-4d06-4d55-a306-1bd3a2915ee5,35,4,4,3,1,0,1,drum kit|electric guitar|male voice|female voice,drums|guitar|vocals,bass|drums|guitar|vocals
+8a6c9c1f-4865-404f-a805-1949de36a33c,0,6,5,3,2,2,1,Acoustic guitar|drums|bass guitar|electric piano|female lead vocals|male backing vocals,bass|drums|guitar|piano|vocals,bass|drums|guitar|other keys|percussion
+8a6c9c1f-4865-404f-a805-1949de36a33c,1,5,6,5,1,0,0,female vocalist|acoustic guitar melody|bass guitar root notes|simple kick drum beat|shimmering shakers,bass|drums|guitar|percussion|vocals,bass|drums|guitar|other keys|percussion|vocals
+8a6c9c1f-4865-404f-a805-1949de36a33c,2,5,6,5,1,0,0,female singing|acoustic guitar strumming chords|bassline playing root notes of the chord progression|simple drum beat|tambourine,bass|drums|guitar|percussion|vocals,bass|drums|guitar|other keys|percussion|vocals
+8a6c9c1f-4865-404f-a805-1949de36a33c,3,4,6,4,2,0,0,Acoustic guitar|bass guitar|drums|female voice singing,bass|drums|guitar|vocals,bass|drums|guitar|other keys|percussion|vocals
+8a6c9c1f-4865-404f-a805-1949de36a33c,4,4,6,4,2,0,0,female singing|acoustic guitar|bass guitar|drums,bass|drums|guitar|vocals,bass|drums|guitar|other keys|percussion|vocals
+8a6c9c1f-4865-404f-a805-1949de36a33c,5,4,6,4,2,0,0,Acoustic guitar|bass guitar|drums|female voice singing,bass|drums|guitar|vocals,bass|drums|guitar|other keys|percussion|vocals
+8a6c9c1f-4865-404f-a805-1949de36a33c,6,5,6,5,1,0,0,female singing|acoustic guitar strumming|bassline|light drums|tambourine,bass|drums|guitar|percussion|vocals,bass|drums|guitar|other keys|percussion|vocals
+8a6c9c1f-4865-404f-a805-1949de36a33c,7,5,6,5,1,0,0,female singing|acoustic guitar strumming chords|bass guitar playing root notes|simple drum beat|tambourine accents on beats 2 and 4,bass|drums|guitar|percussion|vocals,bass|drums|guitar|other keys|percussion|vocals
+8a6c9c1f-4865-404f-a805-1949de36a33c,8,5,6,4,2,1,0,female singing|drums|electric guitar|piano|bass guitar,bass|drums|guitar|piano|vocals,bass|drums|guitar|other keys|percussion|vocals
+8a6c9c1f-4865-404f-a805-1949de36a33c,9,6,5,3,2,2,1,acoustic_guitar|bass|drums|electric_bass|piano|voice,bass|drums|guitar|piano|vocals,bass|drums|guitar|other keys|percussion
+8f36f17f-c033-4c1b-a793-80dce43d507b,0,6,3,3,0,2,1,Acoustic guitar|electric piano|bass guitar|drums|male lead vocals|female backing vocals,bass|drums|guitar|piano|vocals,bass|drums|guitar
+8f36f17f-c033-4c1b-a793-80dce43d507b,1,5,4,4,0,1,0,acoustic guitar|electric piano|bass guitar|drums|male voice singing,bass|drums|guitar|piano|vocals,bass|drums|guitar|vocals
+8f36f17f-c033-4c1b-a793-80dce43d507b,2,4,4,4,0,0,0,Acoustic guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+8f36f17f-c033-4c1b-a793-80dce43d507b,3,4,4,4,0,0,0,Acoustic guitar|electric bass|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+8f36f17f-c033-4c1b-a793-80dce43d507b,4,5,4,4,0,1,0,Acoustic guitar|male voice singing softly|bass guitar playing root notes|drums providing rhythm|piano adding harmonic texture,bass|drums|guitar|piano|vocals,bass|drums|guitar|vocals
+8f36f17f-c033-4c1b-a793-80dce43d507b,5,4,5,4,1,0,0,Acoustic guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals|wind
+8f36f17f-c033-4c1b-a793-80dce43d507b,6,3,5,0,5,1,2,['Bb'|'Eb'|'Gm7'],other,bass|drums|guitar|vocals|wind
+8f36f17f-c033-4c1b-a793-80dce43d507b,7,5,5,4,1,1,0,singing|drums|electric guitar|piano|bass guitar,bass|drums|guitar|piano|vocals,bass|drums|guitar|vocals|wind
+8f36f17f-c033-4c1b-a793-80dce43d507b,8,4,6,0,6,1,3,['C#'|'F#maj7'|'Eb7'|'Bbm'],other,bass|drums|guitar|piano|vocals|wind
+8f36f17f-c033-4c1b-a793-80dce43d507b,9,4,4,4,0,0,0,Acoustic guitar|electric bass|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+8f36f17f-c033-4c1b-a793-80dce43d507b,10,4,4,4,0,0,0,Acoustic guitar|electric bass|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+8f36f17f-c033-4c1b-a793-80dce43d507b,11,5,5,4,1,1,0,acoustic guitar|electric piano|bass guitar|drums|male voice singing,bass|drums|guitar|piano|vocals,bass|bowed strings|drums|guitar|vocals
+8f36f17f-c033-4c1b-a793-80dce43d507b,12,4,5,4,1,0,0,Acoustic guitar|electric bass|drums|male voice singing,bass|drums|guitar|vocals,bass|bowed strings|drums|guitar|vocals
+8f36f17f-c033-4c1b-a793-80dce43d507b,13,3,6,0,6,1,2,['Eb'|'Bb'|'Eb'],other,bass|bowed strings|drums|guitar|vocals|wind
+8f36f17f-c033-4c1b-a793-80dce43d507b,14,6,5,4,1,2,0,female voice|piano|drums|bass guitar|electric guitar|synthesizer pad,bass|drums|guitar|other keys|piano|vocals,bass|drums|guitar|vocals|wind
+8f36f17f-c033-4c1b-a793-80dce43d507b,15,4,6,0,6,1,3,['Bb'|'Cm7'|'F'|'Eb6'],other,bass|drums|guitar|piano|vocals|wind
+8f36f17f-c033-4c1b-a793-80dce43d507b,16,5,5,3,2,1,1,acoustic guitar|electric guitar melody|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|bowed strings|drums|guitar|piano
+8f36f17f-c033-4c1b-a793-80dce43d507b,17,6,5,4,1,1,1,acoustic guitar|electric piano|bass guitar|drums|male lead vocals|female backing vocals,bass|drums|guitar|piano|vocals,bass|bowed strings|drums|guitar|piano
+8f36f17f-c033-4c1b-a793-80dce43d507b,18,5,5,3,2,1,1,acoustic guitar|electric piano|synth strings|female voice singing the main melody|male spoken word vocals,bowed strings|guitar|piano|vocals,bass|bowed strings|drums|guitar|piano
+8f36f17f-c033-4c1b-a793-80dce43d507b,19,6,5,4,1,1,1,acoustic guitar|electric piano|bass guitar|drums|female lead vocals|male backing vocals,bass|drums|guitar|piano|vocals,bass|bowed strings|drums|guitar|piano
+8f36f17f-c033-4c1b-a793-80dce43d507b,20,5,5,4,1,1,0,electric guitar|acoustic drums|bass guitar|synth strings|female voice,bass|bowed strings|drums|guitar|vocals,bass|bowed strings|drums|guitar|piano
+8f36f17f-c033-4c1b-a793-80dce43d507b,21,4,5,0,5,1,3,['Bb'|'Fm'|'Eb'|'C#6'],other,bass|drums|guitar|vocals|wind
+8f36f17f-c033-4c1b-a793-80dce43d507b,22,5,5,0,5,1,4,['Eb'|'Bbm7'|'Eb6'|'Ab'|'Gm'],other,bass|drums|guitar|vocals|wind
+8f36f17f-c033-4c1b-a793-80dce43d507b,23,4,5,0,5,1,3,['Bb'|'F'|'Cm7'|'Bbm'],other,bass|drums|guitar|vocals|wind
+8f36f17f-c033-4c1b-a793-80dce43d507b,24,6,5,4,1,1,1,female voice|acoustic guitar|bass guitar|drums|electric piano|male backing vocals,bass|drums|guitar|piano|vocals,bass|drums|guitar|vocals|wind
+8f36f17f-c033-4c1b-a793-80dce43d507b,25,5,4,3,1,1,1,piano|bass guitar|drums|male voice singing the main melody|female backing vocals,bass|drums|piano|vocals,bass|guitar|piano|vocals
+8f36f17f-c033-4c1b-a793-80dce43d507b,26,5,4,3,1,1,1,acoustic guitar|piano|strings|female voice singing|male voice speaking,bowed strings|guitar|piano|vocals,bass|guitar|piano|vocals
+8f36f17f-c033-4c1b-a793-80dce43d507b,27,2,4,0,4,1,1,['Bb'|'Eb6'],other,bass|guitar|piano|vocals
+8f36f17f-c033-4c1b-a793-80dce43d507b,28,4,2,2,0,1,1,acoustic guitar|electric guitar|bass guitar|male voice singing,bass|guitar|vocals,bass|guitar
+8f36f17f-c033-4c1b-a793-80dce43d507b,29,2,2,1,1,1,0,acoustic guitar|male voice,guitar|vocals,bass|guitar
+93dda0e8-dd76-49e4-b08f-54a82387cdf6,0,4,2,1,1,2,1,piano|synth pad|female voice|male voice,other keys|piano|vocals,bass|other keys
+93dda0e8-dd76-49e4-b08f-54a82387cdf6,1,2,4,0,4,1,1,['C'|'Gm'],other,bass|guitar|other keys|vocals
+93dda0e8-dd76-49e4-b08f-54a82387cdf6,2,3,4,0,4,1,2,['F'|'C'|'F'],other,bass|guitar|other keys|vocals
+93dda0e8-dd76-49e4-b08f-54a82387cdf6,3,4,5,2,3,1,1,piano|female voice|strings ensemble|cello,bowed strings|piano|vocals,bass|guitar|other keys|piano|vocals
+93dda0e8-dd76-49e4-b08f-54a82387cdf6,4,4,6,4,2,0,0,female voice|electric guitar|bass guitar|drums,bass|drums|guitar|vocals,bass|drums|guitar|other keys|piano|vocals
+93dda0e8-dd76-49e4-b08f-54a82387cdf6,5,6,6,4,2,0,2,female voice|electric piano|groovy bass guitar|soft kick hits|reverberant snare hits|shimmering cymbals,bass|drums|piano|vocals,bass|drums|guitar|other keys|piano|vocals
+93dda0e8-dd76-49e4-b08f-54a82387cdf6,6,5,5,4,1,1,0,piano|drums|bass guitar|electric guitar|female voice,bass|drums|guitar|piano|vocals,bass|drums|other keys|piano|vocals
+93dda0e8-dd76-49e4-b08f-54a82387cdf6,7,6,6,4,2,0,2,female vocals|electric guitar melody|smooth bass guitar|punchy kick|soft snare hits|shimmering hi hats,bass|drums|guitar|vocals,bass|drums|guitar|other keys|piano|vocals
+93dda0e8-dd76-49e4-b08f-54a82387cdf6,8,6,6,5,1,0,1,electric guitar|organ keys chords|smooth bassline|punchy kick drum hits|shimmering cymbals|passionate female vocals,bass|drums|guitar|other keys|vocals,bass|drums|guitar|other keys|piano|vocals
+93dda0e8-dd76-49e4-b08f-54a82387cdf6,9,5,6,5,1,0,0,piano|drums|bass guitar|electric guitar|female voice,bass|drums|guitar|piano|vocals,bass|drums|guitar|other keys|piano|vocals
+93dda0e8-dd76-49e4-b08f-54a82387cdf6,10,5,6,5,1,0,0,piano|drums|bass guitar|electric guitar|female singing voice,bass|drums|guitar|piano|vocals,bass|drums|guitar|other keys|piano|vocals
+93dda0e8-dd76-49e4-b08f-54a82387cdf6,11,5,6,5,1,0,0,piano|drums|bass guitar|electric guitar|female singing voice,bass|drums|guitar|piano|vocals,bass|drums|guitar|other keys|piano|vocals
+93dda0e8-dd76-49e4-b08f-54a82387cdf6,12,7,6,5,1,0,2,female singer|male singer|choir|electric guitar|bass guitar|drums|organ,bass|drums|guitar|other keys|vocals,bass|drums|guitar|other keys|piano|vocals
+93dda0e8-dd76-49e4-b08f-54a82387cdf6,13,2,6,0,6,1,1,['F'|'G7'],other,bass|bowed strings|guitar|other keys|piano|vocals
+93dda0e8-dd76-49e4-b08f-54a82387cdf6,14,5,6,3,3,1,1,drum kit|electric guitar|bass guitar|male voice|female voice,bass|drums|guitar|vocals,bass|bowed strings|drums|guitar|other keys|piano
+93dda0e8-dd76-49e4-b08f-54a82387cdf6,15,4,6,3,3,1,0,Electric guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|bowed strings|drums|guitar|other keys|piano
+93dda0e8-dd76-49e4-b08f-54a82387cdf6,16,5,6,3,3,1,1,drums|electric guitar|acoustic guitar|strings section|female voice singing,bowed strings|drums|guitar|vocals,bass|bowed strings|drums|guitar|other keys|piano
+93dda0e8-dd76-49e4-b08f-54a82387cdf6,17,4,6,3,3,1,0,electric guitar|acoustic drums|bass guitar|male voice singing,bass|drums|guitar|vocals,bass|bowed strings|drums|guitar|other keys|piano
+93dda0e8-dd76-49e4-b08f-54a82387cdf6,18,6,5,3,2,2,1,piano|strings|drums|bass guitar|female lead vocals|male backing vocals,bass|bowed strings|drums|piano|vocals,bass|bowed strings|drums|guitar|other keys
+93dda0e8-dd76-49e4-b08f-54a82387cdf6,19,6,2,1,1,2,3,Violins|violas|cellos|piano|male lead vocal|female backing vocals,bowed strings|piano|vocals,bowed strings|other keys
+a199697c-3cdc-47c7-a9c7-c1b07dd6c9dd,0,2,0,0,0,2,0,acoustic guitar|male voice singing,guitar|vocals,
+a199697c-3cdc-47c7-a9c7-c1b07dd6c9dd,1,2,0,0,0,2,0,Acoustic guitar|male voice singing,guitar|vocals,
+a199697c-3cdc-47c7-a9c7-c1b07dd6c9dd,2,6,2,2,0,3,1,piano|acoustic guitar|bass guitar|drums|male lead vocals|backing vocals,bass|drums|guitar|piano|vocals,guitar|piano
+a199697c-3cdc-47c7-a9c7-c1b07dd6c9dd,3,5,6,3,3,1,1,electric guitar|acoustic guitar|bass|drums|male voice singing,bass|drums|guitar|vocals,bass|bowed strings|drums|guitar|other|piano
+a199697c-3cdc-47c7-a9c7-c1b07dd6c9dd,4,5,7,4,3,0,1,Drums|electric guitar|bass guitar|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|bowed strings|drums|guitar|other|piano|vocals
+a199697c-3cdc-47c7-a9c7-c1b07dd6c9dd,5,5,6,4,2,0,1,Drums|bass guitar|electric guitars|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|bowed strings|drums|guitar|piano|vocals
+a199697c-3cdc-47c7-a9c7-c1b07dd6c9dd,6,6,7,4,3,1,1,male voice|harmonizing background vocals|acoustic drum beat|bass guitar playing root notes of chords|piano melody|synth lead sound imitating strings,bass|drums|other keys|piano|vocals,bass|bowed strings|drums|guitar|other|piano|vocals
+a199697c-3cdc-47c7-a9c7-c1b07dd6c9dd,7,7,5,5,0,1,1,Male lead vocals|male backing vocals|electric guitar|bass guitar|acoustic drums|synthesizer pads|piano chords,bass|drums|guitar|other keys|piano|vocals,bass|drums|guitar|piano|vocals
+a199697c-3cdc-47c7-a9c7-c1b07dd6c9dd,8,6,6,4,2,1,1,male voice|drums|bass guitar|electric guitar|synthesizer|keyboard,bass|drums|guitar|other keys|vocals,bass|drums|guitar|other|piano|vocals
+a199697c-3cdc-47c7-a9c7-c1b07dd6c9dd,9,5,6,4,2,1,0,Male singing|drums|bass guitar|synthesizer pads|turntable scratches,bass|drums|other|other keys|vocals,bass|drums|guitar|other|piano|vocals
+a199697c-3cdc-47c7-a9c7-c1b07dd6c9dd,10,5,7,4,3,0,1,Drums|electric guitar|bass guitar|male lead vocals|female backing vocals,bass|drums|guitar|vocals,bass|bowed strings|drums|guitar|other|piano|vocals
+a199697c-3cdc-47c7-a9c7-c1b07dd6c9dd,11,5,6,4,2,0,1,Drums|electric guitar|bass guitar|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|bowed strings|drums|guitar|piano|vocals
+a199697c-3cdc-47c7-a9c7-c1b07dd6c9dd,12,6,6,4,2,0,2,Drums|bass guitar|electric guitars playing chords|lead guitar melody|male voice singing the main melody|female backing vocals harmonizing with the singer,bass|drums|guitar|vocals,bass|bowed strings|drums|guitar|piano|vocals
+a199697c-3cdc-47c7-a9c7-c1b07dd6c9dd,13,5,7,4,3,0,1,drums|electric guitar|bass guitar|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|bowed strings|drums|guitar|other|piano|vocals
+a199697c-3cdc-47c7-a9c7-c1b07dd6c9dd,14,6,5,4,1,1,1,Male lead vocals|acoustic guitar strumming|electric bass playing root notes|electronic drums providing the beat|synthesizer pads|occasional vocal samples,bass|drums|guitar|other keys|vocals,bass|drums|guitar|piano|vocals
+a199697c-3cdc-47c7-a9c7-c1b07dd6c9dd,15,5,6,4,2,0,1,drums|bass guitar|electric guitars|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|other|piano|vocals
+a199697c-3cdc-47c7-a9c7-c1b07dd6c9dd,16,4,5,2,3,1,1,Synthesizer|electronic drums|male lead vocals|backing vocals,drums|other keys|vocals,bass|drums|guitar|piano|vocals
+a199697c-3cdc-47c7-a9c7-c1b07dd6c9dd,17,5,7,4,3,0,1,drums|electric guitar|bass guitar|male voice|female voice,bass|drums|guitar|vocals,bass|bowed strings|drums|guitar|other|piano|vocals
+a199697c-3cdc-47c7-a9c7-c1b07dd6c9dd,18,6,6,4,2,1,1,Drums|electric guitar|bass guitar|synthesizer|male lead vocals|backing vocals,bass|drums|guitar|other keys|vocals,bass|bowed strings|drums|guitar|piano|vocals
+a199697c-3cdc-47c7-a9c7-c1b07dd6c9dd,19,5,6,4,2,0,1,Drums|bass guitar|electric guitars|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|bowed strings|drums|guitar|piano|vocals
+a199697c-3cdc-47c7-a9c7-c1b07dd6c9dd,20,2,6,2,4,0,0,piano|male voice singing,piano|vocals,bass|bowed strings|drums|guitar|piano|vocals
+a199697c-3cdc-47c7-a9c7-c1b07dd6c9dd,21,3,2,2,0,0,1,piano|violin|cello,bowed strings|piano,bowed strings|piano
+a1dcaeb2-f4e6-4818-b490-09f44d624afc,0,4,2,2,0,2,0,Drum kit|bass guitar|electric guitar|male singing voice,bass|drums|guitar|vocals,bass|drums
+a1dcaeb2-f4e6-4818-b490-09f44d624afc,1,4,4,4,0,0,0,electric guitar|bass guitar|drums|male voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+a1dcaeb2-f4e6-4818-b490-09f44d624afc,2,4,4,4,0,0,0,electric guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+a1dcaeb2-f4e6-4818-b490-09f44d624afc,3,4,4,4,0,0,0,electric guitar|bass guitar|drums|male voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+a1dcaeb2-f4e6-4818-b490-09f44d624afc,4,4,4,4,0,0,0,electric guitar|bass guitar|drums|male singing voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+a1dcaeb2-f4e6-4818-b490-09f44d624afc,5,8,4,4,0,0,4,Male vocals|electric guitar melody|acoustic rhythm guitar chords|bass guitar|soft kick hits|punchy snare|shimmering hi hats|wide toms roll,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+a1dcaeb2-f4e6-4818-b490-09f44d624afc,6,4,4,4,0,0,0,Drums|electric guitar|bass guitar|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+a1dcaeb2-f4e6-4818-b490-09f44d624afc,7,4,4,4,0,0,0,Male singing|electric guitar|bass guitar|drums,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+a1dcaeb2-f4e6-4818-b490-09f44d624afc,8,4,4,4,0,0,0,Electric guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+a1dcaeb2-f4e6-4818-b490-09f44d624afc,9,4,4,4,0,0,0,electric_bass|drums|guitar|male voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+a1dcaeb2-f4e6-4818-b490-09f44d624afc,10,4,4,4,0,0,0,electric guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+a1dcaeb2-f4e6-4818-b490-09f44d624afc,11,4,4,4,0,0,0,Electric guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+a1dcaeb2-f4e6-4818-b490-09f44d624afc,12,4,4,4,0,0,0,Drums|electric guitar|bass guitar|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+a1dcaeb2-f4e6-4818-b490-09f44d624afc,13,4,4,4,0,0,0,drum kit|bass guitar|electric guitar|male voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+a1dcaeb2-f4e6-4818-b490-09f44d624afc,14,4,4,4,0,0,0,vocals|electric guitar|bass guitar|drums,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+a1dcaeb2-f4e6-4818-b490-09f44d624afc,15,4,3,3,0,1,0,electric guitar|bass guitar|drums|male voice,bass|drums|guitar|vocals,bass|drums|guitar
+a1dcaeb2-f4e6-4818-b490-09f44d624afc,16,4,3,3,0,1,0,electric guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar
+a1dcaeb2-f4e6-4818-b490-09f44d624afc,17,4,3,3,0,1,0,electric guitar|bass guitar|acoustic drums|female voice singing,bass|drums|guitar|vocals,bass|drums|guitar
+a1dcaeb2-f4e6-4818-b490-09f44d624afc,18,4,3,3,0,1,0,Electric guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar
+a1dcaeb2-f4e6-4818-b490-09f44d624afc,19,4,3,3,0,1,0,Electric guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar
+a1dcaeb2-f4e6-4818-b490-09f44d624afc,20,5,4,4,0,1,0,drum|bass guitar|electric guitar|keyboard|male voice,bass|drums|guitar|other keys|vocals,bass|drums|guitar|vocals
+a1dcaeb2-f4e6-4818-b490-09f44d624afc,21,4,4,4,0,0,0,singing|electric guitar|bass guitar|acoustic drum kit,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+a1dcaeb2-f4e6-4818-b490-09f44d624afc,22,4,4,4,0,0,0,E-bass|drums|electric guitar|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+a1dcaeb2-f4e6-4818-b490-09f44d624afc,23,4,3,3,0,1,0,electric guitar|bass guitar|drums|male voice,bass|drums|guitar|vocals,bass|drums|guitar
+a56d9450-3a26-485c-8ac3-24b6b54e2c1d,0,4,3,3,0,1,0,acoustic guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar
+a56d9450-3a26-485c-8ac3-24b6b54e2c1d,1,4,4,4,0,0,0,acoustic guitar|bass guitar|drums|female voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+a56d9450-3a26-485c-8ac3-24b6b54e2c1d,2,5,4,4,0,0,1,Acoustic guitar|bass guitar|drums|female lead vocals|children's choir,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+a56d9450-3a26-485c-8ac3-24b6b54e2c1d,3,5,3,3,0,1,1,acoustic guitar|bass guitar|drums|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|drums|guitar
+a56d9450-3a26-485c-8ac3-24b6b54e2c1d,4,5,4,4,0,1,0,female singing|acoustic guitar strumming|bass line|drums playing rhythmically|piano chords,bass|drums|guitar|piano|vocals,bass|drums|guitar|vocals
+a56d9450-3a26-485c-8ac3-24b6b54e2c1d,5,5,4,4,0,1,0,female voice|acoustic guitar|bass guitar|drums|piano,bass|drums|guitar|piano|vocals,bass|drums|guitar|vocals
+a56d9450-3a26-485c-8ac3-24b6b54e2c1d,6,6,4,4,0,2,0,female voice|acoustic guitar|bass guitar|drums|tambourine|piano,bass|drums|guitar|percussion|piano|vocals,bass|drums|guitar|vocals
+aa600069-0a98-45e6-94fa-4000bfe46c25,0,5,4,3,1,1,1,Electric guitar|bass guitar|acoustic drums|male lead vocals|female backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|piano
+aa600069-0a98-45e6-94fa-4000bfe46c25,1,6,6,5,1,0,1,female singing|acoustic guitar|bass guitar|drums|electric piano|male backing vocals,bass|drums|guitar|piano|vocals,bass|bowed strings|drums|guitar|piano|vocals
+aa600069-0a98-45e6-94fa-4000bfe46c25,2,5,5,4,1,0,1,Acoustic guitar|electric bass|drums|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|piano|vocals
+aa600069-0a98-45e6-94fa-4000bfe46c25,3,5,5,4,1,0,1,drum|bass guitar|electric guitar|male voice|female voice,bass|drums|guitar|vocals,bass|drums|guitar|piano|vocals
+aa600069-0a98-45e6-94fa-4000bfe46c25,4,4,5,4,1,0,0,Drums|electric guitar|bass guitar|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|piano|vocals
+aa600069-0a98-45e6-94fa-4000bfe46c25,5,5,5,4,1,1,0,Vocals|electric guitar|bass guitar|drums|keyboard,bass|drums|guitar|other keys|vocals,bass|drums|guitar|piano|vocals
+aa600069-0a98-45e6-94fa-4000bfe46c25,6,5,5,4,1,0,1,Electric guitar|bass guitar|drums|male lead vocals|female backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|piano|vocals
+aa600069-0a98-45e6-94fa-4000bfe46c25,7,5,5,4,1,0,1,Drums|electric guitar|bass guitar|male lead vocals|female backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|piano|vocals
+aa600069-0a98-45e6-94fa-4000bfe46c25,8,5,5,4,1,0,1,Acoustic guitar|electric bass|drums|male lead vocals|female backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|piano|vocals
+aa600069-0a98-45e6-94fa-4000bfe46c25,9,5,6,4,2,0,1,electric guitar|bass guitar|drums|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|piano|vocals|wind
+aa600069-0a98-45e6-94fa-4000bfe46c25,10,5,6,4,2,0,1,Electric guitar|bass guitar|drums|male lead vocals|female backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|piano|vocals|wind
+aa600069-0a98-45e6-94fa-4000bfe46c25,11,6,5,4,1,1,1,Vocals|electric guitar|bass guitar|drums|keyboard|male voice,bass|drums|guitar|other keys|vocals,bass|drums|guitar|piano|vocals
+aa600069-0a98-45e6-94fa-4000bfe46c25,12,4,6,4,2,0,0,electric guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|piano|vocals|wind
+aa600069-0a98-45e6-94fa-4000bfe46c25,13,5,6,4,2,0,1,Electric guitar|bass guitar|drums|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|piano|vocals|wind
+aa600069-0a98-45e6-94fa-4000bfe46c25,14,5,6,4,2,0,1,Electric guitar|bass guitar|drums|male lead vocals|female backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|piano|vocals|wind
+aa600069-0a98-45e6-94fa-4000bfe46c25,15,4,5,4,1,0,0,electric guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|piano|vocals
+aa600069-0a98-45e6-94fa-4000bfe46c25,16,5,5,4,1,0,1,Electric guitar|bass guitar|drums|male lead vocals|female backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|piano|vocals
+aa600069-0a98-45e6-94fa-4000bfe46c25,17,5,5,4,1,0,1,Drums|electric guitar|bass guitar|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|piano|vocals
+aa600069-0a98-45e6-94fa-4000bfe46c25,18,5,7,4,3,0,1,drums|electric guitar|bass guitar|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|bowed strings|drums|guitar|piano|vocals|wind
+aa600069-0a98-45e6-94fa-4000bfe46c25,19,5,7,4,3,0,1,Electric guitar|bass guitar|drums|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|bowed strings|drums|guitar|piano|vocals|wind
+aa600069-0a98-45e6-94fa-4000bfe46c25,20,5,6,4,2,0,1,Drums|electric guitar|bass guitar|male lead vocals|female backing vocals,bass|drums|guitar|vocals,bass|bowed strings|drums|guitar|piano|vocals
+aa600069-0a98-45e6-94fa-4000bfe46c25,21,4,5,4,1,0,0,vocals|electric guitar|bass guitar|drums,bass|drums|guitar|vocals,bass|drums|guitar|piano|vocals
+aa600069-0a98-45e6-94fa-4000bfe46c25,22,5,2,2,0,2,1,electric guitar|bass guitar|drums|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|drums
+ad9bbefc-8762-46c9-b847-da14b10802b6,0,4,4,3,1,1,0,drum|bass guitar|electric guitar|male voice,bass|drums|guitar|vocals,bass|drums|guitar|other keys
+ad9bbefc-8762-46c9-b847-da14b10802b6,1,4,4,3,1,1,0,electric_bass|drums|electric guitar|male voice,bass|drums|guitar|vocals,bass|drums|guitar|other keys
+ad9bbefc-8762-46c9-b847-da14b10802b6,2,4,5,4,1,0,0,acoustic guitar|electric bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|other keys|vocals
+ad9bbefc-8762-46c9-b847-da14b10802b6,3,4,5,4,1,0,0,Acoustic guitar|electric bass|drums|male vocals,bass|drums|guitar|vocals,bass|drums|guitar|other keys|vocals
+ad9bbefc-8762-46c9-b847-da14b10802b6,4,4,5,4,1,0,0,Acoustic guitar|electric bass|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|other keys|vocals
+ad9bbefc-8762-46c9-b847-da14b10802b6,5,5,5,4,1,0,1,drum kit|electric guitar|bass guitar|male voice|female voice,bass|drums|guitar|vocals,bass|drums|guitar|other keys|vocals
+ad9bbefc-8762-46c9-b847-da14b10802b6,6,4,5,4,1,0,0,Acoustic guitar|electric bass|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|other keys|vocals
+ad9bbefc-8762-46c9-b847-da14b10802b6,7,4,5,4,1,0,0,Drums|electric guitar|bass guitar|male vocals,bass|drums|guitar|vocals,bass|drums|guitar|other keys|vocals
+ad9bbefc-8762-46c9-b847-da14b10802b6,8,4,5,4,1,0,0,Guitar|drums|bass guitar|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|other keys|vocals
+ad9bbefc-8762-46c9-b847-da14b10802b6,9,5,4,3,1,1,1,Drums|electric guitar|bass guitar|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|other keys
+ad9bbefc-8762-46c9-b847-da14b10802b6,10,4,4,3,1,1,0,electric guitar|drums|bass guitar|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|other keys
+ad9bbefc-8762-46c9-b847-da14b10802b6,11,4,5,4,1,0,0,drum|bass guitar|electric guitar|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|other keys|vocals
+ad9bbefc-8762-46c9-b847-da14b10802b6,12,4,5,4,1,0,0,Guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|other keys|vocals
+ad9bbefc-8762-46c9-b847-da14b10802b6,13,5,4,3,1,1,1,Electric guitar|bass guitar|drums|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|other keys
+ad9bbefc-8762-46c9-b847-da14b10802b6,14,4,4,3,1,1,0,Acoustic guitar|electric bass|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|other keys
+ad9bbefc-8762-46c9-b847-da14b10802b6,15,4,4,3,1,1,0,electric guitar|bass guitar|drums|male voice,bass|drums|guitar|vocals,bass|drums|guitar|other keys
+adb5e3fd-d039-42e4-b09b-fd0784fa0c82,0,4,3,1,2,2,1,Synthesizer|electronic drums|male lead vocals|backing vocals,drums|other keys|vocals,other|other keys|piano
+adb5e3fd-d039-42e4-b09b-fd0784fa0c82,1,5,8,4,4,0,1,Drums|electric guitar|bass guitar|male lead vocal|backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|other|other keys|percussion|piano|vocals
+adb5e3fd-d039-42e4-b09b-fd0784fa0c82,2,6,8,5,3,0,1,Synthesizer|electric guitar|bass guitar|acoustic drums|male lead voice|female backing vocals,bass|drums|guitar|other keys|vocals,bass|drums|guitar|other|other keys|percussion|piano|vocals
+adb5e3fd-d039-42e4-b09b-fd0784fa0c82,3,5,8,5,3,0,0,Drums|electric guitar|bass guitar|synthesizer|male rap vocals,bass|drums|guitar|other keys|vocals,bass|drums|guitar|other|other keys|percussion|piano|vocals
+adb5e3fd-d039-42e4-b09b-fd0784fa0c82,4,5,8,5,3,0,0,Male rap vocals|drums|bass guitar|synthesizer pads|turntable scratches,bass|drums|other|other keys|vocals,bass|drums|guitar|other|other keys|percussion|piano|vocals
+adb5e3fd-d039-42e4-b09b-fd0784fa0c82,5,7,7,5,2,1,1,Male lead vocals|male backing vocals|acoustic guitar|electric bass|drums|synthesizer pads|turntable scratches,bass|drums|guitar|other|other keys|vocals,bass|drums|guitar|other keys|percussion|piano|vocals
+adb5e3fd-d039-42e4-b09b-fd0784fa0c82,6,7,8,6,2,0,1,Male singing|drums|bass guitar|electric guitar playing chords|synthesizer pads|piano|backing vocals,bass|drums|guitar|other keys|piano|vocals,bass|drums|guitar|other|other keys|percussion|piano|vocals
+adb5e3fd-d039-42e4-b09b-fd0784fa0c82,7,5,8,4,4,0,1,Drums|electric guitar|bass guitar|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|other|other keys|percussion|piano|vocals
+adb5e3fd-d039-42e4-b09b-fd0784fa0c82,8,6,8,4,4,0,2,drums|bass guitar|electric guitar riff|male voice rapping|male backing vocals singing harmonies|female lead vocalist,bass|drums|guitar|vocals,bass|drums|guitar|other|other keys|percussion|piano|vocals
+adb5e3fd-d039-42e4-b09b-fd0784fa0c82,9,4,8,4,4,0,0,distorted electric guitar|bass guitar|drums|male vocals,bass|drums|guitar|vocals,bass|drums|guitar|other|other keys|percussion|piano|vocals
+adb5e3fd-d039-42e4-b09b-fd0784fa0c82,10,5,8,4,4,1,0,Male vocals|electric guitar|bass guitar|acoustic drums|harmonica,bass|drums|guitar|vocals|wind,bass|drums|guitar|other|other keys|percussion|piano|vocals
+adb5e3fd-d039-42e4-b09b-fd0784fa0c82,11,4,7,3,4,1,0,Drums|electric guitar|bass guitar|male singing voice,bass|drums|guitar|vocals,bass|drums|other|other keys|percussion|piano|vocals
+adb5e3fd-d039-42e4-b09b-fd0784fa0c82,12,5,6,4,2,0,1,Synthesizer|electronic drums|male lead vocals|backing vocals|crowd cheering sounds,drums|other|other keys|vocals,drums|guitar|other|other keys|piano|vocals
+adb5e3fd-d039-42e4-b09b-fd0784fa0c82,13,5,8,4,4,0,1,Drums|electric guitar|bass guitar|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|other|other keys|percussion|piano|vocals
+adb5e3fd-d039-42e4-b09b-fd0784fa0c82,14,4,8,3,5,0,1,Synthesizer|electronic drums|male rap voice|female backing vocals,drums|other keys|vocals,bass|drums|guitar|other|other keys|percussion|piano|vocals
+adb5e3fd-d039-42e4-b09b-fd0784fa0c82,15,8,8,6,2,0,2,Male singing|rapping|drums|bass guitar|electric piano|synthesizer pads|turntable scratches|vinyl record sound effects,bass|drums|other|other keys|piano|vocals,bass|drums|guitar|other|other keys|percussion|piano|vocals
+adb5e3fd-d039-42e4-b09b-fd0784fa0c82,16,4,8,4,4,0,0,Drums|electric guitar|bass guitar|male voice rapping over the top of these elements,bass|drums|guitar|vocals,bass|drums|guitar|other|other keys|percussion|piano|vocals
+adb5e3fd-d039-42e4-b09b-fd0784fa0c82,17,5,8,4,4,0,1,Drums|electric guitar|bass guitar|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|other|other keys|percussion|piano|vocals
+adb5e3fd-d039-42e4-b09b-fd0784fa0c82,18,5,8,4,4,0,1,Drums|bass guitar|electric guitar|male vocals|backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|other|other keys|percussion|piano|vocals
+adb5e3fd-d039-42e4-b09b-fd0784fa0c82,19,6,8,4,4,0,2,drums|bass guitar|electric guitar|male voice rapping|male backing vocals singing harmonies|female lead vocalist singing the main melody,bass|drums|guitar|vocals,bass|drums|guitar|other|other keys|percussion|piano|vocals
+adb5e3fd-d039-42e4-b09b-fd0784fa0c82,20,4,8,3,5,0,1,Synthesizer|electronic drums|male rap vocals|male spoken word voice,drums|other keys|vocals,bass|drums|guitar|other|other keys|percussion|piano|vocals
+adb5e3fd-d039-42e4-b09b-fd0784fa0c82,21,6,7,3,4,1,2,Male voice|drums|bass guitar|electric piano|male lead vocals|backing vocals,bass|drums|piano|vocals,drums|guitar|other|other keys|percussion|piano|vocals
+bb45cf1a-4c58-4fe3-88ea-97ef27527507,0,3,3,1,2,2,0,Synthesizer|electronic drums|female voice,drums|other keys|vocals,guitar|piano|vocals
+bb45cf1a-4c58-4fe3-88ea-97ef27527507,1,5,5,4,1,1,0,Synthesizer|electric guitar|bass guitar|drums|female voice,bass|drums|guitar|other keys|vocals,bass|drums|guitar|piano|vocals
+bb45cf1a-4c58-4fe3-88ea-97ef27527507,2,5,4,4,0,0,1,female lead vocal|piano|synth bass|electronic drums|male backing vocals,bass|drums|piano|vocals,bass|drums|piano|vocals
+bb45cf1a-4c58-4fe3-88ea-97ef27527507,3,6,5,4,1,1,1,Synthesizer|electronic drums|bass guitar|electric piano|female lead vocals|backing vocals,bass|drums|other keys|piano|vocals,bass|drums|guitar|piano|vocals
+bb45cf1a-4c58-4fe3-88ea-97ef27527507,4,6,7,5,2,0,1,Drums|electric guitar|synthesizer|bass guitar|female lead vocals|male backing vocals,bass|drums|guitar|other keys|vocals,bass|bowed strings|drums|guitar|other keys|piano|vocals
+bb45cf1a-4c58-4fe3-88ea-97ef27527507,5,4,7,4,3,0,0,Synthesizer|electronic drums|bass guitar|female voice,bass|drums|other keys|vocals,bass|bowed strings|drums|guitar|other keys|piano|vocals
+bb45cf1a-4c58-4fe3-88ea-97ef27527507,6,6,7,5,2,0,1,Drums|electric guitar|bass guitar|synthesizer|female lead vocals|male backing vocals,bass|drums|guitar|other keys|vocals,bass|bowed strings|drums|guitar|other keys|piano|vocals
+bb45cf1a-4c58-4fe3-88ea-97ef27527507,7,4,4,3,1,1,0,Synthesizer|electronic drums|bass guitar|female lead vocals,bass|drums|other keys|vocals,bass|drums|piano|vocals
+bb45cf1a-4c58-4fe3-88ea-97ef27527507,8,5,5,3,2,1,1,Synthesizer|electronic drums|bass guitar|female lead vocals|backing vocals,bass|drums|other keys|vocals,bass|drums|guitar|piano|vocals
+bb45cf1a-4c58-4fe3-88ea-97ef27527507,9,4,6,4,2,0,0,Synthesizer|electronic drums|bass guitar|female lead vocals,bass|drums|other keys|vocals,bass|drums|guitar|other keys|piano|vocals
+bb45cf1a-4c58-4fe3-88ea-97ef27527507,10,5,7,4,3,0,1,Synthesizer|electronic drums|bass guitar|female lead vocals|backing vocals,bass|drums|other keys|vocals,bass|bowed strings|drums|guitar|other keys|piano|vocals
+bb45cf1a-4c58-4fe3-88ea-97ef27527507,11,5,7,4,3,0,1,Synthesizer|electronic drums|bass guitar|female lead vocals|male backing vocals,bass|drums|other keys|vocals,bass|bowed strings|drums|guitar|other keys|piano|vocals
+bb45cf1a-4c58-4fe3-88ea-97ef27527507,12,4,5,3,2,1,0,Synthesizer|electronic drums|bass guitar|female lead vocals,bass|drums|other keys|vocals,bass|drums|guitar|piano|vocals
+bb45cf1a-4c58-4fe3-88ea-97ef27527507,13,3,3,2,1,1,0,Synthesizer|electronic drums|female lead vocals,drums|other keys|vocals,other keys|piano|vocals
+bb45cf1a-4c58-4fe3-88ea-97ef27527507,14,7,7,5,2,1,1,female vocalist|backup singers|piano|synth bass|electronic drums|synthesizer pads|clapping sounds,bass|drums|other|other keys|piano|vocals,bass|bowed strings|drums|guitar|other keys|piano|vocals
+bb45cf1a-4c58-4fe3-88ea-97ef27527507,15,5,7,5,2,0,0,Synthesizer|electric guitar|bass guitar|drums|female voice,bass|drums|guitar|other keys|vocals,bass|bowed strings|drums|guitar|other keys|piano|vocals
+bb45cf1a-4c58-4fe3-88ea-97ef27527507,16,6,7,5,2,0,1,Drums|electric guitar|synthesizer|bass guitar|female lead vocals|male backing vocals,bass|drums|guitar|other keys|vocals,bass|bowed strings|drums|guitar|other keys|piano|vocals
+bb45cf1a-4c58-4fe3-88ea-97ef27527507,17,6,7,5,2,0,1,Synthesizer|electric guitar|bass guitar|drums|female lead vocals|backing vocals,bass|drums|guitar|other keys|vocals,bass|bowed strings|drums|guitar|other keys|piano|vocals
+bb45cf1a-4c58-4fe3-88ea-97ef27527507,18,5,5,3,2,2,0,Female singing|electric guitar|bass guitar|drums|keyboard,bass|drums|guitar|other keys|vocals,bass|bowed strings|guitar|piano|vocals
+c6d73235-1dd5-4085-a3b3-50a3466c6168,0,5,4,4,0,1,0,electric guitar|acoustic drums|bass guitar|saxophone|male voice singing,bass|drums|guitar|vocals|wind,bass|drums|guitar|wind
+c6d73235-1dd5-4085-a3b3-50a3466c6168,1,5,4,3,1,1,1,Acoustic guitar|bass guitar|drums|male lead vocals|female backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|wind
+c6d73235-1dd5-4085-a3b3-50a3466c6168,2,4,5,4,1,0,0,female voice|electric guitar|bass guitar|acoustic drums,bass|drums|guitar|vocals,bass|drums|guitar|vocals|wind
+c6d73235-1dd5-4085-a3b3-50a3466c6168,3,7,5,4,1,2,1,Female lead vocals|acoustic guitar|bass guitar|drums|tambourine|electric piano|male backing vocals,bass|drums|guitar|percussion|piano|vocals,bass|drums|guitar|vocals|wind
+c6d73235-1dd5-4085-a3b3-50a3466c6168,4,6,5,5,0,1,0,female singing|drums|electric guitar|saxophone|piano|bass guitar,bass|drums|guitar|piano|vocals|wind,bass|drums|guitar|vocals|wind
+c6d73235-1dd5-4085-a3b3-50a3466c6168,5,4,5,4,1,0,0,electric guitar|bass guitar|drums|female voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals|wind
+c6d73235-1dd5-4085-a3b3-50a3466c6168,6,5,5,4,1,0,1,Drums|electric guitar|bass guitar|female lead vocals|male backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|vocals|wind
+c6d73235-1dd5-4085-a3b3-50a3466c6168,7,5,5,5,0,0,0,female singer|acoustic guitar|electric bass|saxophone|drums,bass|drums|guitar|vocals|wind,bass|drums|guitar|vocals|wind
+c6d73235-1dd5-4085-a3b3-50a3466c6168,8,6,5,5,0,0,1,Saxophone|drums|bass guitar|electric guitar|female lead vocals|male backing vocals,bass|drums|guitar|vocals|wind,bass|drums|guitar|vocals|wind
+c6d73235-1dd5-4085-a3b3-50a3466c6168,9,4,5,4,1,0,0,female singing|acoustic guitar|bass guitar|drums,bass|drums|guitar|vocals,bass|drums|guitar|vocals|wind
+c6d73235-1dd5-4085-a3b3-50a3466c6168,10,6,5,5,0,0,1,harmonica|acoustic guitar|bass guitar|drums|female voice|male voice,bass|drums|guitar|vocals|wind,bass|drums|guitar|vocals|wind
+c6d73235-1dd5-4085-a3b3-50a3466c6168,11,4,5,4,1,0,0,Drums|electric guitar|bass guitar|female voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals|wind
+c6d73235-1dd5-4085-a3b3-50a3466c6168,12,4,5,3,2,1,0,electric_bass|drums|piano|female voice,bass|drums|piano|vocals,bass|drums|guitar|vocals|wind
+c6d73235-1dd5-4085-a3b3-50a3466c6168,13,6,5,5,0,1,0,female singing|drums|electric guitar|saxophone|piano|bass guitar,bass|drums|guitar|piano|vocals|wind,bass|drums|guitar|vocals|wind
+c6d73235-1dd5-4085-a3b3-50a3466c6168,14,5,5,4,1,0,1,female singer|acoustic guitar|electric guitar|bass guitar|drums,bass|drums|guitar|vocals,bass|drums|guitar|vocals|wind
+c6d73235-1dd5-4085-a3b3-50a3466c6168,15,5,5,5,0,0,0,saxophone|drums|electric guitar|bass guitar|male voice singing,bass|drums|guitar|vocals|wind,bass|drums|guitar|vocals|wind
+c6d73235-1dd5-4085-a3b3-50a3466c6168,16,8,4,3,1,2,3,saxophone|drums|bass guitar|electric piano|acoustic piano|trombone|trumpet|male vocals,bass|drums|piano|vocals|wind,bass|drums|guitar|wind
+c6d73235-1dd5-4085-a3b3-50a3466c6168,17,4,4,3,1,1,0,electric guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|wind
+c6d73235-1dd5-4085-a3b3-50a3466c6168,18,4,5,4,1,0,0,electric guitar|bass guitar|drums|female voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals|wind
+c6d73235-1dd5-4085-a3b3-50a3466c6168,19,5,5,5,0,0,0,Saxophone|acoustic guitar|bass guitar|drums|female voice singing,bass|drums|guitar|vocals|wind,bass|drums|guitar|vocals|wind
+c6d73235-1dd5-4085-a3b3-50a3466c6168,20,3,4,2,2,1,0,clarinet|cello|female voice,bowed strings|vocals|wind,bass|guitar|vocals|wind
+c70471f9-9c4a-41c9-b8f8-20ac38847a8e,0,6,2,2,0,3,1,Acoustic guitar|electric piano|bass guitar|drums|male lead vocals|backing vocals,bass|drums|guitar|piano|vocals,bass|guitar
+c70471f9-9c4a-41c9-b8f8-20ac38847a8e,1,4,5,4,1,0,0,electric guitar|bass guitar|acoustic drums|female voice singing,bass|drums|guitar|vocals,bass|drums|guitar|other keys|vocals
+c70471f9-9c4a-41c9-b8f8-20ac38847a8e,2,4,5,4,1,0,0,female voice|electric guitar|bass guitar|drums,bass|drums|guitar|vocals,bass|drums|guitar|other keys|vocals
+c70471f9-9c4a-41c9-b8f8-20ac38847a8e,3,5,5,4,1,1,0,female voice|electric guitar|bass guitar|piano|drums,bass|drums|guitar|piano|vocals,bass|drums|guitar|other keys|vocals
+c70471f9-9c4a-41c9-b8f8-20ac38847a8e,4,4,5,4,1,0,0,female voice|electric guitar|bass guitar|acoustic drums,bass|drums|guitar|vocals,bass|drums|guitar|other keys|vocals
+c70471f9-9c4a-41c9-b8f8-20ac38847a8e,5,7,5,5,0,0,2,female voice|electric guitar melody|synth pad chords|punchy kick|soft snare hits|groovy bass guitar|shimmering hi-hats,bass|drums|guitar|other keys|vocals,bass|drums|guitar|other keys|vocals
+c70471f9-9c4a-41c9-b8f8-20ac38847a8e,6,2,5,0,5,1,1,['A'|'major'],other,bass|drums|guitar|other keys|vocals
+c70471f9-9c4a-41c9-b8f8-20ac38847a8e,7,7,5,4,1,1,2,female voice|electric guitar melody|piano chords|groovy bass|soft kick hits|snare rhythm|shimmering cymbals,bass|drums|guitar|piano|vocals,bass|drums|guitar|other keys|vocals
+c70471f9-9c4a-41c9-b8f8-20ac38847a8e,8,7,6,4,2,1,2,female voice|electric guitar|bass guitar|piano chords|soft kick hits|snare|crash cymbal,bass|drums|guitar|piano|vocals,bass|drums|guitar|other keys|percussion|vocals
+c70471f9-9c4a-41c9-b8f8-20ac38847a8e,9,5,5,4,1,1,0,female lead vocal|electric guitar|bass guitar|drums|piano,bass|drums|guitar|piano|vocals,bass|drums|guitar|other keys|vocals
+c70471f9-9c4a-41c9-b8f8-20ac38847a8e,10,5,5,3,2,2,0,female voice|drums|bass guitar|electric piano|strings,bass|bowed strings|drums|piano|vocals,bass|drums|guitar|other keys|vocals
+c70471f9-9c4a-41c9-b8f8-20ac38847a8e,11,5,5,5,0,0,0,female voice|electric guitar|bass guitar|acoustic drums|synth keys melody,bass|drums|guitar|other keys|vocals,bass|drums|guitar|other keys|vocals
+c70471f9-9c4a-41c9-b8f8-20ac38847a8e,12,4,5,4,1,0,0,female voice|electric guitar|bass guitar|acoustic drums,bass|drums|guitar|vocals,bass|drums|guitar|other keys|vocals
+c70471f9-9c4a-41c9-b8f8-20ac38847a8e,13,6,5,4,1,1,1,female lead vocal|female backing vocals|drums|electric guitar|bass guitar|piano,bass|drums|guitar|piano|vocals,bass|drums|guitar|other keys|vocals
+c70471f9-9c4a-41c9-b8f8-20ac38847a8e,14,5,5,4,1,1,0,female voice|electric guitar|bass guitar|piano|drums,bass|drums|guitar|piano|vocals,bass|drums|guitar|other keys|vocals
+c70471f9-9c4a-41c9-b8f8-20ac38847a8e,15,5,5,4,1,0,1,female voice|male voice|electric guitar|bass guitar|drums,bass|drums|guitar|vocals,bass|drums|guitar|other keys|vocals
+c70471f9-9c4a-41c9-b8f8-20ac38847a8e,16,5,4,3,1,1,1,drums|bass guitar|electric guitars|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|bowed strings|drums|guitar
+c70471f9-9c4a-41c9-b8f8-20ac38847a8e,17,5,6,4,2,1,0,Synthesizer|drums|bass guitar|electric guitar|male vocals,bass|drums|guitar|other keys|vocals,bass|bowed strings|drums|guitar|percussion|vocals
+c70471f9-9c4a-41c9-b8f8-20ac38847a8e,18,4,8,4,4,0,0,drum kit|electric guitar|bass guitar|female voice,bass|drums|guitar|vocals,bass|bowed strings|drums|guitar|other keys|percussion|piano|vocals
+c70471f9-9c4a-41c9-b8f8-20ac38847a8e,19,5,8,5,3,0,0,female voice|piano|drums|bass guitar|electric guitar,bass|drums|guitar|piano|vocals,bass|bowed strings|drums|guitar|other keys|percussion|piano|vocals
+c70471f9-9c4a-41c9-b8f8-20ac38847a8e,20,5,8,5,3,0,0,female voice|drums|bass guitar|electric guitar|piano,bass|drums|guitar|piano|vocals,bass|bowed strings|drums|guitar|other keys|percussion|piano|vocals
+c70471f9-9c4a-41c9-b8f8-20ac38847a8e,21,4,8,4,4,0,0,female voice|drums|bass guitar|electric guitar,bass|drums|guitar|vocals,bass|bowed strings|drums|guitar|other keys|percussion|piano|vocals
+c70471f9-9c4a-41c9-b8f8-20ac38847a8e,22,4,8,4,4,0,0,drums|bass guitar|electric guitar|female voice,bass|drums|guitar|vocals,bass|bowed strings|drums|guitar|other keys|percussion|piano|vocals
+c70471f9-9c4a-41c9-b8f8-20ac38847a8e,23,4,5,4,1,0,0,female voice|electric guitar|drums|bass,bass|drums|guitar|vocals,bass|drums|guitar|other keys|vocals
+c70471f9-9c4a-41c9-b8f8-20ac38847a8e,24,2,3,1,2,1,0,piano|female singing voice,piano|vocals,guitar|other keys|vocals
+c70471f9-9c4a-41c9-b8f8-20ac38847a8e,25,2,4,2,2,0,0,piano|female voice,piano|vocals,guitar|other keys|piano|vocals
+c70471f9-9c4a-41c9-b8f8-20ac38847a8e,26,2,2,0,2,2,0,piano|female voice singing,piano|vocals,guitar|other keys
+dc61c44e-a771-47a9-8934-a0eb8f3e08ac,0,4,2,1,1,3,0,drum kit|bass guitar|electric guitar|male voice singing,bass|drums|guitar|vocals,drums|other keys
+dc61c44e-a771-47a9-8934-a0eb8f3e08ac,1,5,4,4,0,1,0,Drums|electric guitar|bass guitar|synthesizer|male voice singing,bass|drums|guitar|other keys|vocals,bass|drums|guitar|other keys
+dc61c44e-a771-47a9-8934-a0eb8f3e08ac,2,4,5,4,1,0,0,Drums|electric guitar|bass guitar|male vocals,bass|drums|guitar|vocals,bass|drums|guitar|other keys|vocals
+dc61c44e-a771-47a9-8934-a0eb8f3e08ac,3,4,5,4,1,0,0,drum kit|electric guitar|bass guitar|male voice,bass|drums|guitar|vocals,bass|drums|guitar|other keys|vocals
+dc61c44e-a771-47a9-8934-a0eb8f3e08ac,4,4,5,4,1,0,0,drums|electric guitar|bass guitar|male voice,bass|drums|guitar|vocals,bass|drums|guitar|other keys|vocals
+dc61c44e-a771-47a9-8934-a0eb8f3e08ac,5,4,5,4,1,0,0,drums|electric guitar|bass guitar|male voice,bass|drums|guitar|vocals,bass|drums|guitar|other keys|vocals
+dc61c44e-a771-47a9-8934-a0eb8f3e08ac,6,6,5,5,0,0,1,Drums|electric guitar|bass guitar|keyboard|male lead vocals|backing vocals,bass|drums|guitar|other keys|vocals,bass|drums|guitar|other keys|vocals
+dc61c44e-a771-47a9-8934-a0eb8f3e08ac,7,4,5,4,1,0,0,drums|electric guitar|bass guitar|male voice,bass|drums|guitar|vocals,bass|drums|guitar|other keys|vocals
+dc61c44e-a771-47a9-8934-a0eb8f3e08ac,8,4,5,4,1,0,0,drums|electric guitar|bass guitar|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|other keys|vocals
+dc61c44e-a771-47a9-8934-a0eb8f3e08ac,9,5,5,5,0,0,0,drum kit|electric guitar|bass guitar|male voice|synth pad,bass|drums|guitar|other keys|vocals,bass|drums|guitar|other keys|vocals
+dc61c44e-a771-47a9-8934-a0eb8f3e08ac,10,4,5,4,1,0,0,electric guitar|bass guitar|drums|male voice,bass|drums|guitar|vocals,bass|drums|guitar|other keys|vocals
+dc61c44e-a771-47a9-8934-a0eb8f3e08ac,11,4,5,4,1,0,0,drums|electric guitar|bass guitar|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|other keys|vocals
+dc61c44e-a771-47a9-8934-a0eb8f3e08ac,12,4,5,4,1,0,0,drums|electric guitar|bass guitar|male voice,bass|drums|guitar|vocals,bass|drums|guitar|other keys|vocals
+dc61c44e-a771-47a9-8934-a0eb8f3e08ac,13,4,5,4,1,0,0,drums|electric guitar|bass guitar|male singing voice,bass|drums|guitar|vocals,bass|drums|guitar|other keys|vocals
+dc61c44e-a771-47a9-8934-a0eb8f3e08ac,14,4,5,4,1,0,0,electric guitar|bass guitar|drums|male voice,bass|drums|guitar|vocals,bass|drums|guitar|other keys|vocals
+dc61c44e-a771-47a9-8934-a0eb8f3e08ac,15,4,5,4,1,0,0,Drums|electric guitar|bass guitar|male vocals,bass|drums|guitar|vocals,bass|drums|guitar|other keys|vocals
+dc61c44e-a771-47a9-8934-a0eb8f3e08ac,16,4,5,4,1,0,0,Drums|electric guitar|bass guitar|male voice,bass|drums|guitar|vocals,bass|drums|guitar|other keys|vocals
+dc61c44e-a771-47a9-8934-a0eb8f3e08ac,17,5,3,3,0,2,0,Drums|electric guitar|bass guitar|synthesizer|male voice,bass|drums|guitar|other keys|vocals,drums|guitar|other keys
+dc61c44e-a771-47a9-8934-a0eb8f3e08ac,18,4,3,2,1,2,0,electric guitar|bass guitar|drums|male voice,bass|drums|guitar|vocals,drums|guitar|other keys
+dda2c057-6d73-43fa-a130-d7d6562c09ca,0,4,2,2,0,2,0,Electric guitar|bass guitar|drums|male singing voice,bass|drums|guitar|vocals,bass|drums
+dda2c057-6d73-43fa-a130-d7d6562c09ca,1,4,2,2,0,2,0,drums|electric guitar|bass guitar|male voice singing,bass|drums|guitar|vocals,bass|drums
+dda2c057-6d73-43fa-a130-d7d6562c09ca,2,5,3,3,0,1,1,drum kit|snare drum|bass guitar|electric guitar|male singing,bass|drums|guitar|vocals,bass|drums|vocals
+dda2c057-6d73-43fa-a130-d7d6562c09ca,3,4,3,3,0,1,0,Drums|bass guitar|electric guitar|male voice singing,bass|drums|guitar|vocals,bass|drums|vocals
+dda2c057-6d73-43fa-a130-d7d6562c09ca,4,5,3,3,0,2,0,Male voice|bass guitar|drums|electric guitar|synthesizer pad,bass|drums|guitar|other keys|vocals,bass|drums|vocals
+dda2c057-6d73-43fa-a130-d7d6562c09ca,5,2,3,0,3,1,1,['E'|'F#m7b5'],other,bass|drums|vocals
+dda2c057-6d73-43fa-a130-d7d6562c09ca,6,4,4,4,0,0,0,drum kit|bass guitar|e-guitar|male voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+dda2c057-6d73-43fa-a130-d7d6562c09ca,7,4,4,4,0,0,0,electric guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+dda2c057-6d73-43fa-a130-d7d6562c09ca,8,4,4,4,0,0,0,Drums|electric guitar|bass guitar|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+dda2c057-6d73-43fa-a130-d7d6562c09ca,9,5,4,4,0,0,1,Drums|electric guitar|bass guitar|male voice|female voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+dda2c057-6d73-43fa-a130-d7d6562c09ca,10,4,4,3,1,1,0,E-bass|acoustic drums|organ|male singer,bass|drums|other keys|vocals,bass|drums|guitar|vocals
+dda2c057-6d73-43fa-a130-d7d6562c09ca,11,4,4,4,0,0,0,Drums|electric guitar|bass guitar|male vocals,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+dda2c057-6d73-43fa-a130-d7d6562c09ca,12,4,4,4,0,0,0,vocals|electric guitar|bass guitar|acoustic drums,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+dda2c057-6d73-43fa-a130-d7d6562c09ca,13,4,4,4,0,0,0,Vocals|electric guitar|bass guitar|drums,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+dda2c057-6d73-43fa-a130-d7d6562c09ca,14,5,4,4,0,0,1,Male lead vocals|electric guitar|bass guitar|acoustic drums|male backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+dda2c057-6d73-43fa-a130-d7d6562c09ca,15,4,4,4,0,0,0,drum kit|electric guitar|bass guitar|male singing voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+dda2c057-6d73-43fa-a130-d7d6562c09ca,16,4,4,4,0,0,0,Electric guitar|bass guitar|drums|male voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+dda2c057-6d73-43fa-a130-d7d6562c09ca,17,5,3,3,0,1,1,Electric guitar|bass guitar|drums|male voice|female voice,bass|drums|guitar|vocals,bass|drums|vocals
+dda2c057-6d73-43fa-a130-d7d6562c09ca,18,4,4,4,0,0,0,E-bass|acoustic drum groove|wide electric guitar chords|male singer with deep reverb,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+dda2c057-6d73-43fa-a130-d7d6562c09ca,19,4,4,4,0,0,0,Guitar|bass guitar|drums|male voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+dda2c057-6d73-43fa-a130-d7d6562c09ca,20,4,4,3,1,1,0,Synthesizer|bass guitar|drums|male voice,bass|drums|other keys|vocals,bass|drums|guitar|vocals
+dda2c057-6d73-43fa-a130-d7d6562c09ca,21,4,4,4,0,0,0,Electric guitar|bass guitar|drums|male voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+dda2c057-6d73-43fa-a130-d7d6562c09ca,22,5,4,4,0,0,1,Guitar|bass guitar|drums|male voice|female voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+dda2c057-6d73-43fa-a130-d7d6562c09ca,23,5,4,4,0,0,1,Male vocals|electric guitar|bass guitar|acoustic drums|male voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+dda2c057-6d73-43fa-a130-d7d6562c09ca,24,4,4,4,0,0,0,Acoustic guitar|electric bass|drums|male voice singing softly and intimately,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+dda2c057-6d73-43fa-a130-d7d6562c09ca,25,4,4,4,0,0,0,Acoustic guitar|electric bass|drums|male voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+dda2c057-6d73-43fa-a130-d7d6562c09ca,26,5,4,3,1,2,0,male singer|electric bass guitar|acoustic drum kit|synth pad chord progression|tambourine,bass|drums|other keys|percussion|vocals,bass|drums|guitar|vocals
+dda2c057-6d73-43fa-a130-d7d6562c09ca,27,4,4,4,0,0,0,electric guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+dda2c057-6d73-43fa-a130-d7d6562c09ca,28,6,4,4,0,2,0,Male lead vocals|electric guitar|bass guitar|acoustic drums|tambourine|organ,bass|drums|guitar|other keys|percussion|vocals,bass|drums|guitar|vocals
+dda2c057-6d73-43fa-a130-d7d6562c09ca,29,4,4,4,0,0,0,drum kit|electric guitar|bass guitar|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+dda2c057-6d73-43fa-a130-d7d6562c09ca,30,4,4,4,0,0,0,electric guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+dda2c057-6d73-43fa-a130-d7d6562c09ca,31,5,3,3,0,1,1,Electric guitar|bass guitar|drums|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|drums|guitar
+dda2c057-6d73-43fa-a130-d7d6562c09ca,32,4,3,3,0,1,0,Electric guitar|bass guitar|drums|male voice,bass|drums|guitar|vocals,bass|drums|guitar
+dda2c057-6d73-43fa-a130-d7d6562c09ca,33,4,3,3,0,1,0,electric guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar
+dda2c057-6d73-43fa-a130-d7d6562c09ca,34,4,3,3,0,1,0,Electric guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar
+dda2c057-6d73-43fa-a130-d7d6562c09ca,35,4,3,3,0,1,0,Drums|electric guitar|bass guitar|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar
+dda2c057-6d73-43fa-a130-d7d6562c09ca,36,4,3,3,0,1,0,Electric guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar
+dda2c057-6d73-43fa-a130-d7d6562c09ca,37,4,3,3,0,1,0,electric guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar
+dda2c057-6d73-43fa-a130-d7d6562c09ca,38,4,3,3,0,1,0,electric guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar
+dda2c057-6d73-43fa-a130-d7d6562c09ca,39,4,4,4,0,0,0,electric guitar|bass guitar|drums|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+dda2c057-6d73-43fa-a130-d7d6562c09ca,40,4,4,4,0,0,0,drum kit|bass guitar|electric guitar|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+dda2c057-6d73-43fa-a130-d7d6562c09ca,41,4,4,4,0,0,0,electric guitar|bass guitar|drums|male voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+dda2c057-6d73-43fa-a130-d7d6562c09ca,42,4,4,4,0,0,0,Drums|electric guitar|bass guitar|male voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+dda2c057-6d73-43fa-a130-d7d6562c09ca,43,5,4,4,0,0,1,electric guitar|bass guitar|drums|male voice|female voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+dda2c057-6d73-43fa-a130-d7d6562c09ca,44,4,4,4,0,0,0,electric guitar|bass guitar|drums|male voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+dda2c057-6d73-43fa-a130-d7d6562c09ca,45,4,4,4,0,0,0,electric guitar|bass guitar|drums|male voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+dda2c057-6d73-43fa-a130-d7d6562c09ca,46,4,4,4,0,0,0,Electric guitar|bass guitar|drums|male voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+dda2c057-6d73-43fa-a130-d7d6562c09ca,47,4,4,4,0,0,0,Drums|electric guitar|bass guitar|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+dda2c057-6d73-43fa-a130-d7d6562c09ca,48,5,4,4,0,0,1,drum kit|electric guitar|bass guitar|male voice|female voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+dda2c057-6d73-43fa-a130-d7d6562c09ca,49,4,4,4,0,0,0,Drums|electric guitar|bass guitar|male voice singing,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+dda2c057-6d73-43fa-a130-d7d6562c09ca,50,4,4,4,0,0,0,Acoustic guitar|electric bass|drums|male voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+dda2c057-6d73-43fa-a130-d7d6562c09ca,51,5,4,4,0,0,1,drum|bass guitar|electric guitar|male voice singing|male voice whispering,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+dda2c057-6d73-43fa-a130-d7d6562c09ca,52,5,4,4,0,0,1,drum kit|electric guitar|bass guitar|male voice|female voice,bass|drums|guitar|vocals,bass|drums|guitar|vocals
+dda2c057-6d73-43fa-a130-d7d6562c09ca,53,5,3,3,0,1,1,Drums|electric guitar|bass guitar|male voice|female voice,bass|drums|guitar|vocals,bass|drums|vocals
+dda2c057-6d73-43fa-a130-d7d6562c09ca,54,4,2,2,0,2,0,Male vocals|acoustic guitar|electric bass|drums,bass|drums|guitar|vocals,bass|drums
+dda2c057-6d73-43fa-a130-d7d6562c09ca,55,5,0,0,0,4,1,Male voice|female voice|acoustic guitar|bass guitar|drums,bass|drums|guitar|vocals,
+f0c565c5-fc73-4da1-b979-0fac0167f671,0,5,4,3,1,1,1,acoustic guitar|bass guitar|drums|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|percussion
+f0c565c5-fc73-4da1-b979-0fac0167f671,1,6,5,5,0,1,0,Children's choir|acoustic guitar|bass guitar|drums|tambourine|piano,bass|drums|guitar|percussion|piano|vocals,bass|drums|guitar|percussion|vocals
+f0c565c5-fc73-4da1-b979-0fac0167f671,2,4,5,4,1,0,0,female singing|acoustic guitar|bass guitar|drums,bass|drums|guitar|vocals,bass|drums|guitar|percussion|vocals
+f0c565c5-fc73-4da1-b979-0fac0167f671,3,4,5,4,1,0,0,female singing|acoustic guitar strumming|bassline|simple drum beat,bass|drums|guitar|vocals,bass|drums|guitar|percussion|vocals
+f0c565c5-fc73-4da1-b979-0fac0167f671,4,5,5,4,1,0,1,Acoustic guitar|bass guitar|drums|female lead vocals|male backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|percussion|vocals
+f0c565c5-fc73-4da1-b979-0fac0167f671,5,2,4,2,2,0,0,female voice|acoustic guitar,guitar|vocals,bass|drums|guitar|vocals
+fc3c9e48-e2ac-4088-af65-68404baa7f12,0,3,2,1,1,1,1,piano|male voice|female voice,piano|vocals,bass|piano
+fc3c9e48-e2ac-4088-af65-68404baa7f12,1,2,3,2,1,0,0,piano|male vocal,piano|vocals,bass|piano|vocals
+fc3c9e48-e2ac-4088-af65-68404baa7f12,2,5,6,4,2,0,1,drum kit|electric guitar|bass guitar|male vocals|female backing voice,bass|drums|guitar|vocals,bass|drums|guitar|other keys|piano|vocals
+fc3c9e48-e2ac-4088-af65-68404baa7f12,3,5,7,5,2,0,0,Vocals|electric guitar|bass guitar|drums|keyboard,bass|drums|guitar|other keys|vocals,bass|drums|guitar|other keys|percussion|piano|vocals
+fc3c9e48-e2ac-4088-af65-68404baa7f12,4,5,7,4,3,0,1,drums|electric guitar|bass guitar|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|other keys|piano|vocals|wind
+fc3c9e48-e2ac-4088-af65-68404baa7f12,5,5,6,4,2,0,1,saxophone|male voice singing|piano playing chords|synth brass melody|smooth bass guitar,bass|piano|vocals|wind,bass|guitar|other keys|piano|vocals|wind
+fc3c9e48-e2ac-4088-af65-68404baa7f12,6,2,5,2,3,0,0,piano|male voice,piano|vocals,bass|guitar|other keys|piano|vocals
+fc3c9e48-e2ac-4088-af65-68404baa7f12,7,5,7,4,3,0,1,drum kit|bass guitar|electric guitar|male voice|female voice,bass|drums|guitar|vocals,bass|drums|guitar|other keys|piano|vocals|wind
+fc3c9e48-e2ac-4088-af65-68404baa7f12,8,5,7,4,3,0,1,drums|electric guitar|bass guitar|male lead vocals|backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|other keys|percussion|piano|vocals
+fc3c9e48-e2ac-4088-af65-68404baa7f12,9,7,7,6,1,0,1,drum kit|bass guitar|electric guitar|male singing voice|tambourine|synth pad chords|female backing vocals,bass|drums|guitar|other keys|percussion|vocals,bass|drums|guitar|other keys|percussion|piano|vocals
+fc3c9e48-e2ac-4088-af65-68404baa7f12,10,7,8,6,2,0,1,Male lead vocals|male backing vocals|electric guitar|bass guitar|drums|synthesizer pads|piano chords,bass|drums|guitar|other keys|piano|vocals,bass|drums|guitar|other keys|percussion|piano|vocals|wind
+fc3c9e48-e2ac-4088-af65-68404baa7f12,11,2,6,2,4,0,0,piano|male voice,piano|vocals,bass|guitar|other keys|piano|vocals|wind
+fc3c9e48-e2ac-4088-af65-68404baa7f12,12,2,5,2,3,0,0,piano|male voice,piano|vocals,bass|guitar|other keys|piano|vocals
+fc3c9e48-e2ac-4088-af65-68404baa7f12,13,4,6,4,2,0,0,sustained synth bass|mellow piano melody|soft male vocal singing over it|wide sustained horn siren sound,bass|piano|vocals|wind,bass|guitar|other keys|piano|vocals|wind
+fc3c9e48-e2ac-4088-af65-68404baa7f12,14,5,7,4,3,0,1,drum kit|electric guitar|bass guitar|male voice|female backing vocals,bass|drums|guitar|vocals,bass|drums|guitar|other keys|percussion|piano|vocals
+fc3c9e48-e2ac-4088-af65-68404baa7f12,15,4,7,4,3,0,0,Electric guitar|drums|bass guitar|male voice,bass|drums|guitar|vocals,bass|drums|guitar|other keys|percussion|piano|vocals
+fc3c9e48-e2ac-4088-af65-68404baa7f12,16,7,7,6,1,0,1,Male lead vocals|male backing vocals|electric guitar|bass guitar|drums|synthesizer pads|piano chords,bass|drums|guitar|other keys|piano|vocals,bass|drums|guitar|other keys|percussion|piano|vocals
+fc3c9e48-e2ac-4088-af65-68404baa7f12,17,6,7,5,2,0,1,brass instrument|male singing|drums|electric guitar|piano|synth brass,drums|guitar|piano|vocals|wind,bass|drums|guitar|other keys|piano|vocals|wind
+fc3c9e48-e2ac-4088-af65-68404baa7f12,18,2,4,2,2,0,0,piano|male voice,piano|vocals,bass|guitar|piano|vocals
+fc3c9e48-e2ac-4088-af65-68404baa7f12,19,4,5,4,1,0,0,saxophone|male voice singing softly|piano playing chords|bass guitar providing low-end support,bass|piano|vocals|wind,bass|guitar|piano|vocals|wind
+fc3c9e48-e2ac-4088-af65-68404baa7f12,20,2,5,2,3,0,0,piano|male voice,piano|vocals,bass|guitar|piano|vocals|wind

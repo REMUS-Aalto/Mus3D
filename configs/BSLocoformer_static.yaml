@@ -1,0 +1,15 @@
+# Static VDBGPO BS-Locoformer baseline. Train with:
+#   CONFIG=BSLocoformer_static sbatch train_bslocoformer_separator.sh
+
+defaults:
+- model: BSLocoformer_static
+- data: separator_vdbgpo
+- optimizer: BSLocoformer
+- trainer: BSLocoformer
+- _self_
+hydra:
+  output_subdir: null
+  run:
+    dir: .
+  sweep:
+    dir: .

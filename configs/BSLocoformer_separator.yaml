@@ -1,0 +1,14 @@
+# Query-conditioned BS-Locoformer. Train with: bash train_bslocoformer_separator.sh
+
+defaults:
+- model: BSLocoformer_separator
+- data: separator
+- optimizer: BSLocoformer
+- trainer: BSLocoformer
+- _self_
+hydra:
+  output_subdir: null
+  run:
+    dir: .
+  sweep:
+    dir: .

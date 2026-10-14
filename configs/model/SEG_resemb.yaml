@@ -1,0 +1,9 @@
+# SEG variant additionally conditioned on the residual embedding generated at
+# the previous iteration ("SEG (with res. embedding)" in the discovery table).
+
+defaults:
+- SEG
+- _self_
+backbone:
+  res_emb_dim: 128
+use_residual_embedding: true

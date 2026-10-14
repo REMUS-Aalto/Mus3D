@@ -1,0 +1,24 @@
+# Static 6-stem (VDBGPO) BS-Locoformer baseline.
+
+backbone:
+  _target_: static_bslocoformer.backbone.BanditBSLocoformer
+  n_chan: 2
+  masking: true
+  sample_rate: 44100
+  n_bands: 64
+  emb_dim: 128
+  mlp_dim: 512
+  transformer_blocks: 6
+  ffn_hidden_dim:
+  - 192
+  - 192
+  attention_heads: 8
+  norm_groups: 8
+  n_src: 6
+loss:
+  _target_: query_conditioned_bslocoformer.loss.ThresSNRLossWithInactiveSource
+  n_src: 6
+  solve_perm: false
+  zeroref_weight: 0.1
+  only_denominator: false
+_target_: static_bslocoformer.regression.Regressor

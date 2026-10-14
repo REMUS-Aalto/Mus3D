@@ -1,0 +1,22 @@
+table,block_or_level,setting,paper_name,file_name,original_run
+separation,both,Ref.,Mixture,Ref_Mixture,_reference_mixture
+separation,both,Ref.,Ground truth (AE),Ref_GroundTruth-AE,_reference_dacvae
+separation,both,Ref.,Ideal Ratio Mask,Ref_IdealRatioMask,_oracle_irm2
+separation,groups,Static,HTDemucs,Static_HTDemucs,htdemucs_6s_fixed
+separation,groups,Static,BS-Locoformer,Static_BS-Locoformer,static-locoformer-med_fixed
+separation,both,Oracle,SAM-A.,Oracle_SAM-A,sam-audio-large_text
+separation,both,Oracle,BS-Locoformer,Oracle_BS-Locoformer,locoformer-qlevel-trainpca-stem_oracle
+separation,both,Oracle,DiT,Oracle_DiT,lfm-qmod-trainpca_churn0.5_oracle
+separation,groups,Blind,Banquet (other song),Blind_Banquet-other-song,banquet_other_song
+separation,groups,Blind,MusicFlam. + SAM-A.,Blind_MusicFlamingo+SAM-A,mf-bvoices+sam-audio-large_text
+separation,both,Blind,MuS3D (BS-Locoformer),Blind_MuS3D-BS-Locoformer,loco-med+seg-stem_segquery
+separation,both,Blind,MuS3D (DiT),Blind_MuS3D-DiT,seg-mixemb-small400k+lfm-qmod-trainpca_v1_stem_segraw_sepchurn0.5_churn0.1
+discovery,groups,,Multi-label Classifier,MultiLabelClassifier,mixture-tagger-trained
+discovery,groups,,MusicFlamingo,MusicFlamingo,mf-bvoices+sam-audio-large_text
+discovery,groups,,SEG,SEG,seg-mixemb-small400k+lfm-qmod-trainpca_v1_stem_segraw_sepchurn0.5_churn0.1
+discovery,groups,,SEG (with res. embedding),SEG-res-embedding,seg-resemb-small400k+lfm-qmod-trainpca_v1_stem_segraw_sepchurn0.5_churn0.1
+discovery,instruments,,Multi-label Classifier,MultiLabelClassifier,mixture-tagger-trained-track
+discovery,instruments,,MusicFlamingo,MusicFlamingo,mf-bvoices-track
+discovery,instruments,,SEG,SEG,seg-mixemb-trainpca-small400k-track_v1_track_segraw_churn0.1
+discovery,instruments,,SEG (with res. embedding),SEG-res-embedding,seg-resemb-trainpca-small400k-track_v1_track_segraw_churn0.1
+discovery,both,,Oracle Classifier,oracle_classifier,stem_classifier_pcatrain.pkl + true_emb_train.npz / true_emb_track_train.npz

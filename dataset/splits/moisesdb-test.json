@@ -1,0 +1,2906 @@
+{
+ "song_info": {
+  "1a32e987-cae8-458f-9c26-d9a6abf5348d": {
+   "sources": [
+    [
+     "bass guitar",
+     "./MoisesDB/moisesdb_v0.1/1a32e987-cae8-458f-9c26-d9a6abf5348d/bass/64af4955-93c8-4528-9305-5b977c5cab7c.wav"
+    ],
+    [
+     "acoustic guitar",
+     "./MoisesDB/moisesdb_v0.1/1a32e987-cae8-458f-9c26-d9a6abf5348d/guitar/ffc9457b-8372-4cb4-a4eb-089aa8cf2c17.wav"
+    ],
+    [
+     "lead male singer",
+     "./MoisesDB/moisesdb_v0.1/1a32e987-cae8-458f-9c26-d9a6abf5348d/vocals/7988bd23-22bb-4047-9671-efe84716f0b9.wav"
+    ],
+    [
+     "toms",
+     "./MoisesDB/moisesdb_v0.1/1a32e987-cae8-458f-9c26-d9a6abf5348d/drums/b7f38ba6-7d24-4758-8716-cf347f70753d.wav"
+    ],
+    [
+     "snare drum",
+     "./MoisesDB/moisesdb_v0.1/1a32e987-cae8-458f-9c26-d9a6abf5348d/drums/3d779c5a-bbfc-43bd-96d6-0c0cb84d3c61.wav"
+    ],
+    [
+     "overheads",
+     "./MoisesDB/moisesdb_v0.1/1a32e987-cae8-458f-9c26-d9a6abf5348d/drums/3c51e62c-aa6b-40c6-b997-06b9a0c8f313.wav"
+    ],
+    [
+     "kick drum",
+     "./MoisesDB/moisesdb_v0.1/1a32e987-cae8-458f-9c26-d9a6abf5348d/drums/063be701-187e-43fc-ae69-ddab7dc53678.wav"
+    ],
+    [
+     "hi hat",
+     "./MoisesDB/moisesdb_v0.1/1a32e987-cae8-458f-9c26-d9a6abf5348d/drums/3563633d-8a0c-4af3-a87f-7f3d8873dd80.wav"
+    ],
+    [
+     "grand piano",
+     "./MoisesDB/moisesdb_v0.1/1a32e987-cae8-458f-9c26-d9a6abf5348d/piano/789762e8-7a5a-44d9-ba29-81cd9fdaccd5.wav"
+    ]
+   ],
+   "artist": "Firefly",
+   "name": "Falling In Falling Out"
+  },
+  "25789239-1075-43b9-bfc9-51dff4a29590": {
+   "sources": [
+    [
+     "bass guitar",
+     "./MoisesDB/moisesdb_v0.1/25789239-1075-43b9-bfc9-51dff4a29590/bass/d2279fee-2f38-48ab-9adc-9ed16ad55e9b.wav"
+    ],
+    [
+     "distorted electric guitar",
+     "./MoisesDB/moisesdb_v0.1/25789239-1075-43b9-bfc9-51dff4a29590/guitar/57c8cb32-bbdc-4381-adca-8d07104e88eb.wav"
+    ],
+    [
+     "lead male singer",
+     "./MoisesDB/moisesdb_v0.1/25789239-1075-43b9-bfc9-51dff4a29590/vocals/9579cdc5-6a6e-4daa-9d66-eb687a9f7b81.wav"
+    ],
+    [
+     "background vocals",
+     "./MoisesDB/moisesdb_v0.1/25789239-1075-43b9-bfc9-51dff4a29590/vocals/8edb11c8-edd1-4d1d-9125-ed422d8b558a.wav"
+    ],
+    [
+     "overheads",
+     "./MoisesDB/moisesdb_v0.1/25789239-1075-43b9-bfc9-51dff4a29590/drums/be316848-ed58-4178-9953-5df1dd497689.wav"
+    ],
+    [
+     "kick drum",
+     "./MoisesDB/moisesdb_v0.1/25789239-1075-43b9-bfc9-51dff4a29590/drums/1ceb53e7-a57b-4b77-858d-ffddd846fcaf.wav"
+    ],
+    [
+     "toms",
+     "./MoisesDB/moisesdb_v0.1/25789239-1075-43b9-bfc9-51dff4a29590/drums/511c0f78-739c-4819-8501-fa88c4de72d3.wav"
+    ],
+    [
+     "snare drum",
+     "./MoisesDB/moisesdb_v0.1/25789239-1075-43b9-bfc9-51dff4a29590/drums/5490959d-a7c9-49a7-a7de-2d97442d3f0d.wav"
+    ],
+    [
+     "organ, electric organ",
+     "./MoisesDB/moisesdb_v0.1/25789239-1075-43b9-bfc9-51dff4a29590/other_keys/369aed96-50b2-4f3d-aa91-92fac9fa00ee.wav"
+    ]
+   ],
+   "artist": "Frank Sermon",
+   "name": "Fine Line"
+  },
+  "8f36f17f-c033-4c1b-a793-80dce43d507b": {
+   "sources": [
+    [
+     "contrabass double bass (bass of instrings)",
+     "./MoisesDB/moisesdb_v0.1/8f36f17f-c033-4c1b-a793-80dce43d507b/bass/a2852e09-46de-4b66-9e20-1e5f13d0b899.wav"
+    ],
+    [
+     "acoustic guitar",
+     "./MoisesDB/moisesdb_v0.1/8f36f17f-c033-4c1b-a793-80dce43d507b/guitar/b34f48ee-af64-4595-8385-5964f9b2c504.wav"
+    ],
+    [
+     "clean electric guitar",
+     "./MoisesDB/moisesdb_v0.1/8f36f17f-c033-4c1b-a793-80dce43d507b/guitar/9ec1f9ef-ccb4-448c-b491-9448fd9cfa07.wav"
+    ],
+    [
+     "lead male singer",
+     "./MoisesDB/moisesdb_v0.1/8f36f17f-c033-4c1b-a793-80dce43d507b/vocals/8308f1bf-e064-425a-9a90-c1e6344f741c.wav"
+    ],
+    [
+     "snare drum",
+     "./MoisesDB/moisesdb_v0.1/8f36f17f-c033-4c1b-a793-80dce43d507b/drums/9cb665f0-7d4f-4bf2-8636-323bbabaeaa8.wav"
+    ],
+    [
+     "hi hat",
+     "./MoisesDB/moisesdb_v0.1/8f36f17f-c033-4c1b-a793-80dce43d507b/drums/57673447-2eb8-4965-90d7-473bbdb41699.wav"
+    ],
+    [
+     "kick drum",
+     "./MoisesDB/moisesdb_v0.1/8f36f17f-c033-4c1b-a793-80dce43d507b/drums/d49deb85-dea3-47b6-b4aa-d4ede32bfeac.wav"
+    ],
+    [
+     "cymbals",
+     "./MoisesDB/moisesdb_v0.1/8f36f17f-c033-4c1b-a793-80dce43d507b/drums/e40eb3a2-2fec-4dae-8041-0d653bb30cf9.wav"
+    ],
+    [
+     "grand piano",
+     "./MoisesDB/moisesdb_v0.1/8f36f17f-c033-4c1b-a793-80dce43d507b/piano/7e554d96-e7e6-4b2f-a2f4-fc601289b3e7.wav"
+    ],
+    [
+     "viola (solo)",
+     "./MoisesDB/moisesdb_v0.1/8f36f17f-c033-4c1b-a793-80dce43d507b/bowed_strings/9aa3c81c-269e-415d-b2c8-aaa4d209f796.wav"
+    ],
+    [
+     "brass (trumpet, trombone, french horn, brass etc)",
+     "./MoisesDB/moisesdb_v0.1/8f36f17f-c033-4c1b-a793-80dce43d507b/wind/b4fbfd60-4579-48df-bcc6-e608ce27eb8c.wav"
+    ]
+   ],
+   "artist": "Juniper",
+   "name": "Nexus"
+  },
+  "3c3b5fdb-f15e-4ba4-884a-b083ce2426c6": {
+   "sources": [
+    [
+     "bass guitar",
+     "./MoisesDB/moisesdb_v0.1/3c3b5fdb-f15e-4ba4-884a-b083ce2426c6/bass/138374df-3d18-44aa-86be-5635ce1d1234.wav"
+    ],
+    [
+     "distorted electric guitar",
+     "./MoisesDB/moisesdb_v0.1/3c3b5fdb-f15e-4ba4-884a-b083ce2426c6/guitar/a7522bdb-9727-4dee-94d0-a5cc9c43b457.wav"
+    ],
+    [
+     "lead male singer",
+     "./MoisesDB/moisesdb_v0.1/3c3b5fdb-f15e-4ba4-884a-b083ce2426c6/vocals/42307f6c-f78e-4bc6-8f4d-505822216cc5.wav"
+    ],
+    [
+     "background vocals",
+     "./MoisesDB/moisesdb_v0.1/3c3b5fdb-f15e-4ba4-884a-b083ce2426c6/vocals/4182259d-c3c3-4f6f-89bd-d90ee44fb02e.wav"
+    ],
+    [
+     "kick drum",
+     "./MoisesDB/moisesdb_v0.1/3c3b5fdb-f15e-4ba4-884a-b083ce2426c6/drums/c00ca202-3e25-4467-96a7-7291723beb69.wav"
+    ],
+    [
+     "snare drum",
+     "./MoisesDB/moisesdb_v0.1/3c3b5fdb-f15e-4ba4-884a-b083ce2426c6/drums/9d40cbed-02d3-4dc5-8b59-967094b756f1.wav"
+    ],
+    [
+     "hi hat",
+     "./MoisesDB/moisesdb_v0.1/3c3b5fdb-f15e-4ba4-884a-b083ce2426c6/drums/56351395-8f1c-4e1b-8adc-bde641d082ab.wav"
+    ],
+    [
+     "toms",
+     "./MoisesDB/moisesdb_v0.1/3c3b5fdb-f15e-4ba4-884a-b083ce2426c6/drums/012fa6d0-af5f-4ff4-87ee-0aafdd77e860.wav"
+    ],
+    [
+     "cymbals",
+     "./MoisesDB/moisesdb_v0.1/3c3b5fdb-f15e-4ba4-884a-b083ce2426c6/drums/a5d06545-1f28-4039-b1de-6229f32a75f6.wav"
+    ]
+   ],
+   "artist": "Skipsam Soo",
+   "name": "The First Noel"
+  },
+  "8042b88a-6179-406b-9ec4-b45a4cdd4a71": {
+   "sources": [
+    [
+     "bass guitar",
+     "./MoisesDB/moisesdb_v0.1/8042b88a-6179-406b-9ec4-b45a4cdd4a71/bass/17312f8e-7543-4a54-b601-c7071d4da0c0.wav"
+    ],
+    [
+     "bass synthesizer (moog etc)",
+     "./MoisesDB/moisesdb_v0.1/8042b88a-6179-406b-9ec4-b45a4cdd4a71/bass/1da1c3b2-0fe1-46a4-a311-8b55772aee61.wav"
+    ],
+    [
+     "acoustic guitar",
+     "./MoisesDB/moisesdb_v0.1/8042b88a-6179-406b-9ec4-b45a4cdd4a71/guitar/7b9677da-c9de-4821-8164-2908ade552d6.wav"
+    ],
+    [
+     "clean electric guitar",
+     "./MoisesDB/moisesdb_v0.1/8042b88a-6179-406b-9ec4-b45a4cdd4a71/guitar/437f3c86-ec46-4a2d-9a31-6b462c22ed0f.wav"
+    ],
+    [
+     "clean electric guitar",
+     "./MoisesDB/moisesdb_v0.1/8042b88a-6179-406b-9ec4-b45a4cdd4a71/guitar/6241177a-fb70-4588-b690-b5a3e8092317.wav"
+    ],
+    [
+     "lead male singer",
+     "./MoisesDB/moisesdb_v0.1/8042b88a-6179-406b-9ec4-b45a4cdd4a71/vocals/7cb13229-ac10-434b-b1a9-59415e5a3536.wav"
+    ],
+    [
+     "background vocals",
+     "./MoisesDB/moisesdb_v0.1/8042b88a-6179-406b-9ec4-b45a4cdd4a71/vocals/986fc49e-bdad-4465-92cc-0dae7c398cb7.wav"
+    ],
+    [
+     "toms",
+     "./MoisesDB/moisesdb_v0.1/8042b88a-6179-406b-9ec4-b45a4cdd4a71/drums/c784bd04-684e-4722-a63d-b60280aa9d62.wav"
+    ],
+    [
+     "snare drum",
+     "./MoisesDB/moisesdb_v0.1/8042b88a-6179-406b-9ec4-b45a4cdd4a71/drums/83583dbe-e7f0-498d-b64e-4d6637e11f10.wav"
+    ],
+    [
+     "cymbals",
+     "./MoisesDB/moisesdb_v0.1/8042b88a-6179-406b-9ec4-b45a4cdd4a71/drums/ac9c9f4e-8d66-448e-be0a-71690a5025c6.wav"
+    ],
+    [
+     "kick drum",
+     "./MoisesDB/moisesdb_v0.1/8042b88a-6179-406b-9ec4-b45a4cdd4a71/drums/2347c3fc-825d-4652-9f20-4d4ffc666ed2.wav"
+    ],
+    [
+     "drum machine",
+     "./MoisesDB/moisesdb_v0.1/8042b88a-6179-406b-9ec4-b45a4cdd4a71/drums/4bcddac6-d1da-49b4-b670-edb3022f5941.wav"
+    ],
+    [
+     "hi hat",
+     "./MoisesDB/moisesdb_v0.1/8042b88a-6179-406b-9ec4-b45a4cdd4a71/drums/d75c2113-a86c-47df-a22b-bf648cb14f7b.wav"
+    ],
+    [
+     "a-tonal percussion (claps, shakers, congas, cowbell etc)",
+     "./MoisesDB/moisesdb_v0.1/8042b88a-6179-406b-9ec4-b45a4cdd4a71/percussion/2e5dbecf-4d9a-4bc4-8caa-a84a247fc665.wav"
+    ],
+    [
+     "synth lead",
+     "./MoisesDB/moisesdb_v0.1/8042b88a-6179-406b-9ec4-b45a4cdd4a71/other_keys/0f32628c-73ec-45ee-85e3-775fac0f437b.wav"
+    ],
+    [
+     "synth pad",
+     "./MoisesDB/moisesdb_v0.1/8042b88a-6179-406b-9ec4-b45a4cdd4a71/other_keys/9a1b45d6-8ebc-4801-9465-bdace72b98a1.wav"
+    ],
+    [
+     "fx processed sound, scratches, gun shots, explosions etc",
+     "./MoisesDB/moisesdb_v0.1/8042b88a-6179-406b-9ec4-b45a4cdd4a71/other/1b7792bf-9497-4d5f-948e-4b9445995048.wav"
+    ]
+   ],
+   "artist": "Rivum",
+   "name": "Go Quiet"
+  },
+  "ad9bbefc-8762-46c9-b847-da14b10802b6": {
+   "sources": [
+    [
+     "bass guitar",
+     "./MoisesDB/moisesdb_v0.1/ad9bbefc-8762-46c9-b847-da14b10802b6/bass/7571d6d6-8ca8-4493-b298-25978406a825.wav"
+    ],
+    [
+     "distorted electric guitar",
+     "./MoisesDB/moisesdb_v0.1/ad9bbefc-8762-46c9-b847-da14b10802b6/guitar/7989b129-518e-40ea-afdb-388ba9cf6045.wav"
+    ],
+    [
+     "lead male singer",
+     "./MoisesDB/moisesdb_v0.1/ad9bbefc-8762-46c9-b847-da14b10802b6/vocals/2fea06f8-518c-44af-ac4f-910099ecc0e6.wav"
+    ],
+    [
+     "overheads",
+     "./MoisesDB/moisesdb_v0.1/ad9bbefc-8762-46c9-b847-da14b10802b6/drums/bd2908bd-bbfc-46de-b893-1a354b34ba7c.wav"
+    ],
+    [
+     "kick drum",
+     "./MoisesDB/moisesdb_v0.1/ad9bbefc-8762-46c9-b847-da14b10802b6/drums/790f313a-7cb8-4831-add1-1c8b64df2bf7.wav"
+    ],
+    [
+     "toms",
+     "./MoisesDB/moisesdb_v0.1/ad9bbefc-8762-46c9-b847-da14b10802b6/drums/f82736e1-0aa4-4c87-9ae0-fb5e7a7c3624.wav"
+    ],
+    [
+     "snare drum",
+     "./MoisesDB/moisesdb_v0.1/ad9bbefc-8762-46c9-b847-da14b10802b6/drums/53732f0e-7c67-4215-aaff-96bfdc29adb8.wav"
+    ],
+    [
+     "synth pad",
+     "./MoisesDB/moisesdb_v0.1/ad9bbefc-8762-46c9-b847-da14b10802b6/other_keys/d7e738dd-1887-4964-9a9c-8d483ef9db38.wav"
+    ]
+   ],
+   "artist": "Mansa Musa",
+   "name": "Sightseers"
+  },
+  "1afe1b3b-3e2e-48d3-b859-f50e222cbaf4": {
+   "sources": [
+    [
+     "bass guitar",
+     "./MoisesDB/moisesdb_v0.1/1afe1b3b-3e2e-48d3-b859-f50e222cbaf4/bass/7ed0a774-b921-485b-828f-eb64fdba068c.wav"
+    ],
+    [
+     "acoustic guitar",
+     "./MoisesDB/moisesdb_v0.1/1afe1b3b-3e2e-48d3-b859-f50e222cbaf4/guitar/ddb98745-9efe-4dc6-b03c-839c2a1b979b.wav"
+    ],
+    [
+     "clean electric guitar",
+     "./MoisesDB/moisesdb_v0.1/1afe1b3b-3e2e-48d3-b859-f50e222cbaf4/guitar/5faabb79-9f30-41c4-aa05-65004872a776.wav"
+    ],
+    [
+     "distorted electric guitar",
+     "./MoisesDB/moisesdb_v0.1/1afe1b3b-3e2e-48d3-b859-f50e222cbaf4/guitar/7140f01c-96d1-4619-aff3-353b251d2bb8.wav"
+    ],
+    [
+     "lead male singer",
+     "./MoisesDB/moisesdb_v0.1/1afe1b3b-3e2e-48d3-b859-f50e222cbaf4/vocals/610a5ff5-9d7c-42cf-9689-b20eea0322a2.wav"
+    ],
+    [
+     "background vocals",
+     "./MoisesDB/moisesdb_v0.1/1afe1b3b-3e2e-48d3-b859-f50e222cbaf4/vocals/1644aa89-beb4-4562-b845-d0ace6e4eed1.wav"
+    ],
+    [
+     "hi hat",
+     "./MoisesDB/moisesdb_v0.1/1afe1b3b-3e2e-48d3-b859-f50e222cbaf4/drums/d319e235-87fa-4472-9c72-82211def8594.wav"
+    ],
+    [
+     "kick drum",
+     "./MoisesDB/moisesdb_v0.1/1afe1b3b-3e2e-48d3-b859-f50e222cbaf4/drums/f66eee41-a2b3-4041-a3c2-4310552d052a.wav"
+    ],
+    [
+     "overheads",
+     "./MoisesDB/moisesdb_v0.1/1afe1b3b-3e2e-48d3-b859-f50e222cbaf4/drums/c29a7e8e-3670-4eda-9d3e-a33b69b608a9.wav"
+    ],
+    [
+     "overheads",
+     "./MoisesDB/moisesdb_v0.1/1afe1b3b-3e2e-48d3-b859-f50e222cbaf4/drums/77097d5a-311c-4482-890a-534343ad6a11.wav"
+    ],
+    [
+     "toms",
+     "./MoisesDB/moisesdb_v0.1/1afe1b3b-3e2e-48d3-b859-f50e222cbaf4/drums/429372bc-763d-46a5-aac7-62764c5d2359.wav"
+    ],
+    [
+     "electric piano (rhodes, wurlitzer, piano sound alike)",
+     "./MoisesDB/moisesdb_v0.1/1afe1b3b-3e2e-48d3-b859-f50e222cbaf4/piano/4020ae67-d534-40ec-aec2-5ac9bb93fe50.wav"
+    ],
+    [
+     "string section",
+     "./MoisesDB/moisesdb_v0.1/1afe1b3b-3e2e-48d3-b859-f50e222cbaf4/bowed_strings/b24f13d3-add5-4d16-9986-c27fa59b77fb.wav"
+    ]
+   ],
+   "artist": "Firefly",
+   "name": "Big Life"
+  },
+  "78ef22ce-472f-4f82-8656-16df73b9465f": {
+   "sources": [
+    [
+     "bass guitar",
+     "./MoisesDB/moisesdb_v0.1/78ef22ce-472f-4f82-8656-16df73b9465f/bass/19ef1d12-693b-4285-afa1-71baf630a2ab.wav"
+    ],
+    [
+     "clean electric guitar",
+     "./MoisesDB/moisesdb_v0.1/78ef22ce-472f-4f82-8656-16df73b9465f/guitar/0c73c482-9cbb-417e-bdbc-f083782dc35a.wav"
+    ],
+    [
+     "lead female singer",
+     "./MoisesDB/moisesdb_v0.1/78ef22ce-472f-4f82-8656-16df73b9465f/vocals/b7c34503-aedd-4098-87f3-38eed8e80e0f.wav"
+    ],
+    [
+     "kick drum",
+     "./MoisesDB/moisesdb_v0.1/78ef22ce-472f-4f82-8656-16df73b9465f/drums/5f5bffd4-751c-45d8-b661-7b13a8fdb657.wav"
+    ],
+    [
+     "snare drum",
+     "./MoisesDB/moisesdb_v0.1/78ef22ce-472f-4f82-8656-16df73b9465f/drums/beb29dc2-bb25-45c5-bf77-7e4c10e64b6f.wav"
+    ],
+    [
+     "overheads",
+     "./MoisesDB/moisesdb_v0.1/78ef22ce-472f-4f82-8656-16df73b9465f/drums/e7f60bfc-f986-4097-851f-132bcff5a9ba.wav"
+    ],
+    [
+     "reeds (saxophone, clarinets, oboe, english horn, bagpipe)",
+     "./MoisesDB/moisesdb_v0.1/78ef22ce-472f-4f82-8656-16df73b9465f/wind/173981af-a135-4fa7-ad72-1d78c7c36f11.wav"
+    ]
+   ],
+   "artist": "Centenary",
+   "name": "Know Without Knowing"
+  },
+  "a199697c-3cdc-47c7-a9c7-c1b07dd6c9dd": {
+   "sources": [
+    [
+     "bass guitar",
+     "./MoisesDB/moisesdb_v0.1/a199697c-3cdc-47c7-a9c7-c1b07dd6c9dd/bass/6de76146-f1b0-4f8e-bc85-7597c2532a24.wav"
+    ],
+    [
+     "acoustic guitar",
+     "./MoisesDB/moisesdb_v0.1/a199697c-3cdc-47c7-a9c7-c1b07dd6c9dd/guitar/aebf409b-bdca-4af9-92e1-468cfb0eab35.wav"
+    ],
+    [
+     "clean electric guitar",
+     "./MoisesDB/moisesdb_v0.1/a199697c-3cdc-47c7-a9c7-c1b07dd6c9dd/guitar/1ae686be-b783-4150-a0a3-b0cb7b0ed9a9.wav"
+    ],
+    [
+     "lead male singer",
+     "./MoisesDB/moisesdb_v0.1/a199697c-3cdc-47c7-a9c7-c1b07dd6c9dd/vocals/8c6aede4-fa86-4b7b-b670-caea96238bba.wav"
+    ],
+    [
+     "background vocals",
+     "./MoisesDB/moisesdb_v0.1/a199697c-3cdc-47c7-a9c7-c1b07dd6c9dd/vocals/082097eb-c142-419d-a3a6-f502c3872c1d.wav"
+    ],
+    [
+     "snare drum",
+     "./MoisesDB/moisesdb_v0.1/a199697c-3cdc-47c7-a9c7-c1b07dd6c9dd/drums/cfb5079c-481c-4ccd-8004-cde142809656.wav"
+    ],
+    [
+     "cymbals",
+     "./MoisesDB/moisesdb_v0.1/a199697c-3cdc-47c7-a9c7-c1b07dd6c9dd/drums/2e61c6fa-1d11-4f29-b19c-65e7a3e34a7a.wav"
+    ],
+    [
+     "kick drum",
+     "./MoisesDB/moisesdb_v0.1/a199697c-3cdc-47c7-a9c7-c1b07dd6c9dd/drums/47c2bcb2-3f45-49c9-aeec-c0a8975f5ae0.wav"
+    ],
+    [
+     "drum machine",
+     "./MoisesDB/moisesdb_v0.1/a199697c-3cdc-47c7-a9c7-c1b07dd6c9dd/drums/d32b0d65-2b78-4491-a96c-cc1eae8965ce.wav"
+    ],
+    [
+     "hi hat",
+     "./MoisesDB/moisesdb_v0.1/a199697c-3cdc-47c7-a9c7-c1b07dd6c9dd/drums/07048947-83ef-4885-afcb-7a6f1f0abc3b.wav"
+    ],
+    [
+     "grand piano",
+     "./MoisesDB/moisesdb_v0.1/a199697c-3cdc-47c7-a9c7-c1b07dd6c9dd/piano/e4ef2dcf-45d9-4f35-b248-ff143c1b962a.wav"
+    ],
+    [
+     "string section",
+     "./MoisesDB/moisesdb_v0.1/a199697c-3cdc-47c7-a9c7-c1b07dd6c9dd/bowed_strings/6897baaa-b548-4ee3-9035-43b3ba7c3b52.wav"
+    ],
+    [
+     "fx processed sound, scratches, gun shots, explosions etc",
+     "./MoisesDB/moisesdb_v0.1/a199697c-3cdc-47c7-a9c7-c1b07dd6c9dd/other/94f18417-97c7-4699-83b6-6f78e683f28f.wav"
+    ]
+   ],
+   "artist": "Rivum",
+   "name": "Hating On Me"
+  },
+  "dda2c057-6d73-43fa-a130-d7d6562c09ca": {
+   "sources": [
+    [
+     "bass guitar",
+     "./MoisesDB/moisesdb_v0.1/dda2c057-6d73-43fa-a130-d7d6562c09ca/bass/aef88f56-6092-43bb-9cd4-1c309a22d34d.wav"
+    ],
+    [
+     "distorted electric guitar",
+     "./MoisesDB/moisesdb_v0.1/dda2c057-6d73-43fa-a130-d7d6562c09ca/guitar/af72ecda-2978-4d4d-89dc-a8ce8b2a9ac3.wav"
+    ],
+    [
+     "lead male singer",
+     "./MoisesDB/moisesdb_v0.1/dda2c057-6d73-43fa-a130-d7d6562c09ca/vocals/1d722cb1-451e-4f1a-8a27-22c6206356d2.wav"
+    ],
+    [
+     "snare drum",
+     "./MoisesDB/moisesdb_v0.1/dda2c057-6d73-43fa-a130-d7d6562c09ca/drums/2b7f685b-42ef-434d-9bf1-620259451125.wav"
+    ],
+    [
+     "kick drum",
+     "./MoisesDB/moisesdb_v0.1/dda2c057-6d73-43fa-a130-d7d6562c09ca/drums/31b69cd1-1b53-4f72-89a3-9815a7f3181a.wav"
+    ],
+    [
+     "cymbals",
+     "./MoisesDB/moisesdb_v0.1/dda2c057-6d73-43fa-a130-d7d6562c09ca/drums/9c03aa9c-fbe5-4e76-a213-b878d4f5e803.wav"
+    ]
+   ],
+   "artist": "Modified Freq",
+   "name": "Fire"
+  },
+  "c6d73235-1dd5-4085-a3b3-50a3466c6168": {
+   "sources": [
+    [
+     "bass guitar",
+     "./MoisesDB/moisesdb_v0.1/c6d73235-1dd5-4085-a3b3-50a3466c6168/bass/a51b0eec-edf0-4c8a-b6db-44de428da94b.wav"
+    ],
+    [
+     "clean electric guitar",
+     "./MoisesDB/moisesdb_v0.1/c6d73235-1dd5-4085-a3b3-50a3466c6168/guitar/4c782a02-c70b-4d34-902d-b2aca57b48a7.wav"
+    ],
+    [
+     "lead female singer",
+     "./MoisesDB/moisesdb_v0.1/c6d73235-1dd5-4085-a3b3-50a3466c6168/vocals/3d547647-3cec-4e1b-adf6-d64561fec1b2.wav"
+    ],
+    [
+     "overheads",
+     "./MoisesDB/moisesdb_v0.1/c6d73235-1dd5-4085-a3b3-50a3466c6168/drums/78a1d789-0bbd-4658-9422-f90b5e411299.wav"
+    ],
+    [
+     "kick drum",
+     "./MoisesDB/moisesdb_v0.1/c6d73235-1dd5-4085-a3b3-50a3466c6168/drums/6ae48790-0e5e-4a38-9d8b-b375b9ee04ea.wav"
+    ],
+    [
+     "snare drum",
+     "./MoisesDB/moisesdb_v0.1/c6d73235-1dd5-4085-a3b3-50a3466c6168/drums/fbf044e8-262b-49e4-8b48-b40ade9cd7d0.wav"
+    ],
+    [
+     "reeds (saxophone, clarinets, oboe, english horn, bagpipe)",
+     "./MoisesDB/moisesdb_v0.1/c6d73235-1dd5-4085-a3b3-50a3466c6168/wind/7e0b254d-d655-4c02-af67-d6543c007662.wav"
+    ]
+   ],
+   "artist": "Centenary",
+   "name": "Stay or Leave"
+  },
+  "88b545e5-4d06-4d55-a306-1bd3a2915ee5": {
+   "sources": [
+    [
+     "bass guitar",
+     "./MoisesDB/moisesdb_v0.1/88b545e5-4d06-4d55-a306-1bd3a2915ee5/bass/d151b65f-927e-4421-b266-8c8f8c88ed2d.wav"
+    ],
+    [
+     "distorted electric guitar",
+     "./MoisesDB/moisesdb_v0.1/88b545e5-4d06-4d55-a306-1bd3a2915ee5/guitar/52f90bb3-5e6d-43c8-a4ea-7d24dce31b24.wav"
+    ],
+    [
+     "distorted electric guitar",
+     "./MoisesDB/moisesdb_v0.1/88b545e5-4d06-4d55-a306-1bd3a2915ee5/guitar/135f070c-3ef3-48de-ad2e-e2c916af545f.wav"
+    ],
+    [
+     "lead male singer",
+     "./MoisesDB/moisesdb_v0.1/88b545e5-4d06-4d55-a306-1bd3a2915ee5/vocals/c5e50c76-f576-438a-abcf-b33e5fb30981.wav"
+    ],
+    [
+     "overheads",
+     "./MoisesDB/moisesdb_v0.1/88b545e5-4d06-4d55-a306-1bd3a2915ee5/drums/a309a621-616f-42fa-a99c-a64ea67e2ff5.wav"
+    ],
+    [
+     "kick drum",
+     "./MoisesDB/moisesdb_v0.1/88b545e5-4d06-4d55-a306-1bd3a2915ee5/drums/d6fcf50e-39d6-47f1-9438-d8b2fba4dbe1.wav"
+    ],
+    [
+     "snare drum",
+     "./MoisesDB/moisesdb_v0.1/88b545e5-4d06-4d55-a306-1bd3a2915ee5/drums/3f3c84a5-e98f-4b66-aac5-59f984206078.wav"
+    ]
+   ],
+   "artist": "Ritual Slaughter",
+   "name": "Stand Up"
+  },
+  "c70471f9-9c4a-41c9-b8f8-20ac38847a8e": {
+   "sources": [
+    [
+     "bass guitar",
+     "./MoisesDB/moisesdb_v0.1/c70471f9-9c4a-41c9-b8f8-20ac38847a8e/bass/1ed51fb2-6b5c-4972-8005-38209f622d04.wav"
+    ],
+    [
+     "clean electric guitar",
+     "./MoisesDB/moisesdb_v0.1/c70471f9-9c4a-41c9-b8f8-20ac38847a8e/guitar/e28635d3-3148-40eb-b36d-c771b7a4de45.wav"
+    ],
+    [
+     "clean electric guitar",
+     "./MoisesDB/moisesdb_v0.1/c70471f9-9c4a-41c9-b8f8-20ac38847a8e/guitar/d45e68cb-b2ce-4c38-ba00-421afdf21e62.wav"
+    ],
+    [
+     "distorted electric guitar",
+     "./MoisesDB/moisesdb_v0.1/c70471f9-9c4a-41c9-b8f8-20ac38847a8e/guitar/df574252-34db-480c-a179-8340d572c05f.wav"
+    ],
+    [
+     "distorted electric guitar",
+     "./MoisesDB/moisesdb_v0.1/c70471f9-9c4a-41c9-b8f8-20ac38847a8e/guitar/37f72978-d441-43ad-9df3-416b5a6d8e52.wav"
+    ],
+    [
+     "lead female singer",
+     "./MoisesDB/moisesdb_v0.1/c70471f9-9c4a-41c9-b8f8-20ac38847a8e/vocals/8d8c949a-dd62-49bf-98ea-5d35af405232.wav"
+    ],
+    [
+     "overheads",
+     "./MoisesDB/moisesdb_v0.1/c70471f9-9c4a-41c9-b8f8-20ac38847a8e/drums/f76f4319-2659-4d98-86fe-2753a991d2a9.wav"
+    ],
+    [
+     "kick drum",
+     "./MoisesDB/moisesdb_v0.1/c70471f9-9c4a-41c9-b8f8-20ac38847a8e/drums/8c12a2dd-8f62-4378-9ea7-433ead8a7b8a.wav"
+    ],
+    [
+     "toms",
+     "./MoisesDB/moisesdb_v0.1/c70471f9-9c4a-41c9-b8f8-20ac38847a8e/drums/8a96cce7-8f26-4d3e-b090-3d25c4676e40.wav"
+    ],
+    [
+     "snare drum",
+     "./MoisesDB/moisesdb_v0.1/c70471f9-9c4a-41c9-b8f8-20ac38847a8e/drums/990ca1b2-6d65-4d8b-80c1-3180545f737e.wav"
+    ],
+    [
+     "a-tonal percussion (claps, shakers, congas, cowbell etc)",
+     "./MoisesDB/moisesdb_v0.1/c70471f9-9c4a-41c9-b8f8-20ac38847a8e/percussion/3a9edef5-6bf5-4666-8d56-790a0f75f0c1.wav"
+    ],
+    [
+     "a-tonal percussion (claps, shakers, congas, cowbell etc)",
+     "./MoisesDB/moisesdb_v0.1/c70471f9-9c4a-41c9-b8f8-20ac38847a8e/percussion/7bb23b67-e177-46d0-935f-37ade4c9cc69.wav"
+    ],
+    [
+     "grand piano",
+     "./MoisesDB/moisesdb_v0.1/c70471f9-9c4a-41c9-b8f8-20ac38847a8e/piano/880dd354-8b0c-4899-9661-4b2b728e23a5.wav"
+    ],
+    [
+     "organ, electric organ",
+     "./MoisesDB/moisesdb_v0.1/c70471f9-9c4a-41c9-b8f8-20ac38847a8e/other_keys/8f318a1b-3929-468b-a138-0ae1f09d1675.wav"
+    ],
+    [
+     "organ, electric organ",
+     "./MoisesDB/moisesdb_v0.1/c70471f9-9c4a-41c9-b8f8-20ac38847a8e/other_keys/6d9134e3-7228-4208-91d3-951e6fdcfb17.wav"
+    ],
+    [
+     "other strings",
+     "./MoisesDB/moisesdb_v0.1/c70471f9-9c4a-41c9-b8f8-20ac38847a8e/bowed_strings/31556311-7dc7-4513-a719-e2f89e6c5eef.wav"
+    ]
+   ],
+   "artist": "Holy Magick",
+   "name": "Old Friends"
+  },
+  "48c78ca6-18e9-42f2-9f05-fdbee90a7786": {
+   "sources": [
+    [
+     "contrabass double bass (bass of instrings)",
+     "./MoisesDB/moisesdb_v0.1/48c78ca6-18e9-42f2-9f05-fdbee90a7786/bass/208781eb-b722-4235-80fc-6cc79f40282e.wav"
+    ],
+    [
+     "acoustic guitar",
+     "./MoisesDB/moisesdb_v0.1/48c78ca6-18e9-42f2-9f05-fdbee90a7786/guitar/1799dd7f-b741-4cbe-ad3b-d33d19d4c375.wav"
+    ],
+    [
+     "lead male singer",
+     "./MoisesDB/moisesdb_v0.1/48c78ca6-18e9-42f2-9f05-fdbee90a7786/vocals/a11bc35d-d85f-4158-8426-efc6b8abad12.wav"
+    ],
+    [
+     "toms",
+     "./MoisesDB/moisesdb_v0.1/48c78ca6-18e9-42f2-9f05-fdbee90a7786/drums/bdd2ca4b-1bdd-44c2-ad30-ac9e11cbf538.wav"
+    ],
+    [
+     "snare drum",
+     "./MoisesDB/moisesdb_v0.1/48c78ca6-18e9-42f2-9f05-fdbee90a7786/drums/52068ec7-4ae9-4318-a564-27643d064a66.wav"
+    ],
+    [
+     "overheads",
+     "./MoisesDB/moisesdb_v0.1/48c78ca6-18e9-42f2-9f05-fdbee90a7786/drums/0fc9c69f-9312-42ca-aa31-e81b1ca4a8bc.wav"
+    ],
+    [
+     "kick drum",
+     "./MoisesDB/moisesdb_v0.1/48c78ca6-18e9-42f2-9f05-fdbee90a7786/drums/ac203c39-52fc-4966-9b1c-785d0f97aa8f.wav"
+    ],
+    [
+     "hi hat",
+     "./MoisesDB/moisesdb_v0.1/48c78ca6-18e9-42f2-9f05-fdbee90a7786/drums/a93690f2-eb27-4740-9bc3-79bdb19faf42.wav"
+    ],
+    [
+     "a-tonal percussion (claps, shakers, congas, cowbell etc)",
+     "./MoisesDB/moisesdb_v0.1/48c78ca6-18e9-42f2-9f05-fdbee90a7786/percussion/b86c3036-d1c7-4301-adbd-267199a73ca0.wav"
+    ],
+    [
+     "other sounds (hapischord, melotron etc)",
+     "./MoisesDB/moisesdb_v0.1/48c78ca6-18e9-42f2-9f05-fdbee90a7786/other_keys/d11887e8-1535-4ed0-b68b-875b48af5d35.wav"
+    ],
+    [
+     "flutes (piccolo, bamboo flute, panpipes, flutes etc)",
+     "./MoisesDB/moisesdb_v0.1/48c78ca6-18e9-42f2-9f05-fdbee90a7786/wind/e31b1703-d0e4-4c2e-bb6f-51303948df96.wav"
+    ]
+   ],
+   "artist": "Iain Kerr & Friends",
+   "name": "Still Wont Get Me To Cry"
+  },
+  "fc3c9e48-e2ac-4088-af65-68404baa7f12": {
+   "sources": [
+    [
+     "bass guitar",
+     "./MoisesDB/moisesdb_v0.1/fc3c9e48-e2ac-4088-af65-68404baa7f12/bass/a12d3a88-9032-4741-b053-409e572ccf2f.wav"
+    ],
+    [
+     "bass synthesizer (moog etc)",
+     "./MoisesDB/moisesdb_v0.1/fc3c9e48-e2ac-4088-af65-68404baa7f12/bass/78cea825-f501-408c-8cf0-46498c2b8017.wav"
+    ],
+    [
+     "clean electric guitar",
+     "./MoisesDB/moisesdb_v0.1/fc3c9e48-e2ac-4088-af65-68404baa7f12/guitar/b0b0ee76-0b51-424a-98ca-66bd4f48099c.wav"
+    ],
+    [
+     "clean electric guitar",
+     "./MoisesDB/moisesdb_v0.1/fc3c9e48-e2ac-4088-af65-68404baa7f12/guitar/02283002-4bc6-448a-81ab-1e8aed2afcf9.wav"
+    ],
+    [
+     "lead male singer",
+     "./MoisesDB/moisesdb_v0.1/fc3c9e48-e2ac-4088-af65-68404baa7f12/vocals/f6e9adb6-f320-4ce2-803b-1d423cfe3c57.wav"
+    ],
+    [
+     "background vocals",
+     "./MoisesDB/moisesdb_v0.1/fc3c9e48-e2ac-4088-af65-68404baa7f12/vocals/f2da844f-37cf-48f9-9d9c-52b85261178b.wav"
+    ],
+    [
+     "toms",
+     "./MoisesDB/moisesdb_v0.1/fc3c9e48-e2ac-4088-af65-68404baa7f12/drums/4bcfa31c-f793-4bbc-ad82-944266edbee4.wav"
+    ],
+    [
+     "snare drum",
+     "./MoisesDB/moisesdb_v0.1/fc3c9e48-e2ac-4088-af65-68404baa7f12/drums/ea86b607-ec83-45b7-980f-5658f1aed8e6.wav"
+    ],
+    [
+     "cymbals",
+     "./MoisesDB/moisesdb_v0.1/fc3c9e48-e2ac-4088-af65-68404baa7f12/drums/9bae4b8c-a4fc-4249-ac21-6b695e50d9e1.wav"
+    ],
+    [
+     "kick drum",
+     "./MoisesDB/moisesdb_v0.1/fc3c9e48-e2ac-4088-af65-68404baa7f12/drums/f46a775f-cef0-4e7f-8d6b-1e1972bf567e.wav"
+    ],
+    [
+     "hi hat",
+     "./MoisesDB/moisesdb_v0.1/fc3c9e48-e2ac-4088-af65-68404baa7f12/drums/8bf497f6-2cfa-4c82-872c-97de6bf24e36.wav"
+    ],
+    [
+     "a-tonal percussion (claps, shakers, congas, cowbell etc)",
+     "./MoisesDB/moisesdb_v0.1/fc3c9e48-e2ac-4088-af65-68404baa7f12/percussion/58666b82-177d-410d-8c3e-fe84b2ab1fc3.wav"
+    ],
+    [
+     "grand piano",
+     "./MoisesDB/moisesdb_v0.1/fc3c9e48-e2ac-4088-af65-68404baa7f12/piano/9aad9be3-db8f-4f48-a16b-375397ad88e2.wav"
+    ],
+    [
+     "synth lead",
+     "./MoisesDB/moisesdb_v0.1/fc3c9e48-e2ac-4088-af65-68404baa7f12/other_keys/f16096cc-671e-4d93-8263-6c302ac509da.wav"
+    ],
+    [
+     "synth pad",
+     "./MoisesDB/moisesdb_v0.1/fc3c9e48-e2ac-4088-af65-68404baa7f12/other_keys/7ff62664-75a5-4aec-b32d-8fa78483eba5.wav"
+    ],
+    [
+     "synth pad",
+     "./MoisesDB/moisesdb_v0.1/fc3c9e48-e2ac-4088-af65-68404baa7f12/other_keys/daa3132c-425f-48f3-917b-31601274c0a9.wav"
+    ],
+    [
+     "brass (trumpet, trombone, french horn, brass etc)",
+     "./MoisesDB/moisesdb_v0.1/fc3c9e48-e2ac-4088-af65-68404baa7f12/wind/5e0f2b1e-adfe-430b-a271-71e42776e433.wav"
+    ]
+   ],
+   "artist": "Ben James",
+   "name": "We Were Young"
+  },
+  "0d528a19-cb0f-4421-b250-444f9343e51c": {
+   "sources": [
+    [
+     "bass guitar",
+     "./MoisesDB/moisesdb_v0.1/0d528a19-cb0f-4421-b250-444f9343e51c/bass/1667836a-8b38-4143-bd77-5609cf5b08d5.wav"
+    ],
+    [
+     "clean electric guitar",
+     "./MoisesDB/moisesdb_v0.1/0d528a19-cb0f-4421-b250-444f9343e51c/guitar/9517b60d-9f82-4ede-bb37-bf2e878b240f.wav"
+    ],
+    [
+     "distorted electric guitar",
+     "./MoisesDB/moisesdb_v0.1/0d528a19-cb0f-4421-b250-444f9343e51c/guitar/3eadd83e-6c34-4220-bc84-761ab5b96af0.wav"
+    ],
+    [
+     "distorted electric guitar",
+     "./MoisesDB/moisesdb_v0.1/0d528a19-cb0f-4421-b250-444f9343e51c/guitar/8d9f7f6f-8b2d-4b31-a3bd-02b691a7ff1c.wav"
+    ],
+    [
+     "lead male singer",
+     "./MoisesDB/moisesdb_v0.1/0d528a19-cb0f-4421-b250-444f9343e51c/vocals/0dcb5878-0060-4c09-a69d-0b59b069d978.wav"
+    ],
+    [
+     "background vocals",
+     "./MoisesDB/moisesdb_v0.1/0d528a19-cb0f-4421-b250-444f9343e51c/vocals/036b9cf0-e33e-48fa-b5ac-fdec34e2158a.wav"
+    ],
+    [
+     "toms",
+     "./MoisesDB/moisesdb_v0.1/0d528a19-cb0f-4421-b250-444f9343e51c/drums/12cee703-3760-4bb4-acb3-33de0920b74b.wav"
+    ],
+    [
+     "snare drum",
+     "./MoisesDB/moisesdb_v0.1/0d528a19-cb0f-4421-b250-444f9343e51c/drums/ebd2b268-294a-4a53-bc6d-b1f6233c9f68.wav"
+    ],
+    [
+     "cymbals",
+     "./MoisesDB/moisesdb_v0.1/0d528a19-cb0f-4421-b250-444f9343e51c/drums/aeef6072-c480-42a6-9885-fee23af36e6f.wav"
+    ],
+    [
+     "kick drum",
+     "./MoisesDB/moisesdb_v0.1/0d528a19-cb0f-4421-b250-444f9343e51c/drums/05a94652-6b10-4c6d-a8ee-a706e17c7539.wav"
+    ],
+    [
+     "hi hat",
+     "./MoisesDB/moisesdb_v0.1/0d528a19-cb0f-4421-b250-444f9343e51c/drums/72894dd4-2999-49a6-a177-8a790749508b.wav"
+    ]
+   ],
+   "artist": "Skipsam Soo",
+   "name": "Away In A Manger"
+  },
+  "4999a0bf-a753-4e0e-85b1-690259dabf96": {
+   "sources": [
+    [
+     "distorted electric guitar",
+     "./MoisesDB/moisesdb_v0.1/4999a0bf-a753-4e0e-85b1-690259dabf96/guitar/4ea44891-d98d-486c-ad7c-3e371cb70c75.wav"
+    ],
+    [
+     "distorted electric guitar",
+     "./MoisesDB/moisesdb_v0.1/4999a0bf-a753-4e0e-85b1-690259dabf96/guitar/189e0534-5e05-494d-a74a-3a4f701636ad.wav"
+    ],
+    [
+     "lead male singer",
+     "./MoisesDB/moisesdb_v0.1/4999a0bf-a753-4e0e-85b1-690259dabf96/vocals/6913beb2-fa82-4480-a10c-5c6c0e561756.wav"
+    ],
+    [
+     "background vocals",
+     "./MoisesDB/moisesdb_v0.1/4999a0bf-a753-4e0e-85b1-690259dabf96/vocals/0141ed1f-3b8d-4eba-a743-5968510c728b.wav"
+    ],
+    [
+     "toms",
+     "./MoisesDB/moisesdb_v0.1/4999a0bf-a753-4e0e-85b1-690259dabf96/drums/8686bc67-30da-46a9-a4ed-f789e13627bc.wav"
+    ],
+    [
+     "snare drum",
+     "./MoisesDB/moisesdb_v0.1/4999a0bf-a753-4e0e-85b1-690259dabf96/drums/a39a3eb6-180a-4373-814f-32e84a273a3a.wav"
+    ],
+    [
+     "cymbals",
+     "./MoisesDB/moisesdb_v0.1/4999a0bf-a753-4e0e-85b1-690259dabf96/drums/90012aff-aa73-46cc-a581-b94bd11bf16a.wav"
+    ],
+    [
+     "kick drum",
+     "./MoisesDB/moisesdb_v0.1/4999a0bf-a753-4e0e-85b1-690259dabf96/drums/b12d3c13-42be-439d-987a-cc8e723df16d.wav"
+    ],
+    [
+     "drum machine",
+     "./MoisesDB/moisesdb_v0.1/4999a0bf-a753-4e0e-85b1-690259dabf96/drums/3e5a09c8-55b8-4bd0-a7b9-bf28e24890f3.wav"
+    ],
+    [
+     "hi hat",
+     "./MoisesDB/moisesdb_v0.1/4999a0bf-a753-4e0e-85b1-690259dabf96/drums/2b208408-4572-4eef-9a25-6e6cc159a0ef.wav"
+    ],
+    [
+     "bass guitar",
+     "./MoisesDB/moisesdb_v0.1/4999a0bf-a753-4e0e-85b1-690259dabf96/bass/3e483c1f-846f-4dc1-87d2-e954d1910b5a.wav"
+    ],
+    [
+     "bass synthesizer (moog etc)",
+     "./MoisesDB/moisesdb_v0.1/4999a0bf-a753-4e0e-85b1-690259dabf96/bass/8b5a5c95-6e9e-40a3-9f0b-00d2bedd9b2f.wav"
+    ],
+    [
+     "fx processed sound, scratches, gun shots, explosions etc",
+     "./MoisesDB/moisesdb_v0.1/4999a0bf-a753-4e0e-85b1-690259dabf96/other/18c180a7-08e2-409c-b691-0998a6e62191.wav"
+    ],
+    [
+     "fx processed sound, scratches, gun shots, explosions etc",
+     "./MoisesDB/moisesdb_v0.1/4999a0bf-a753-4e0e-85b1-690259dabf96/other/38671c76-3f0d-4a6b-9578-16203c2ca864.wav"
+    ],
+    [
+     "synth pad",
+     "./MoisesDB/moisesdb_v0.1/4999a0bf-a753-4e0e-85b1-690259dabf96/other_keys/c8f15201-ff5e-4e4f-8223-e69b487cc15a.wav"
+    ],
+    [
+     "synth pad",
+     "./MoisesDB/moisesdb_v0.1/4999a0bf-a753-4e0e-85b1-690259dabf96/other_keys/1dd11a13-9736-497a-87ba-ee5a542a1e0f.wav"
+    ],
+    [
+     "synth pad",
+     "./MoisesDB/moisesdb_v0.1/4999a0bf-a753-4e0e-85b1-690259dabf96/other_keys/7c0dac47-436c-4e58-9e79-774a16e0515b.wav"
+    ],
+    [
+     "synth lead",
+     "./MoisesDB/moisesdb_v0.1/4999a0bf-a753-4e0e-85b1-690259dabf96/other_keys/b281e764-4bb1-4337-9e24-ee559762487b.wav"
+    ],
+    [
+     "synth lead",
+     "./MoisesDB/moisesdb_v0.1/4999a0bf-a753-4e0e-85b1-690259dabf96/other_keys/c07009e9-49ec-47fe-ae5c-44264510ee83.wav"
+    ]
+   ],
+   "artist": "Strugzy",
+   "name": "Reach Out"
+  },
+  "3e656eec-84d4-4a45-b410-d3817d849f92": {
+   "sources": [
+    [
+     "bass guitar",
+     "./MoisesDB/moisesdb_v0.1/3e656eec-84d4-4a45-b410-d3817d849f92/bass/d2190616-281a-4a53-8427-4264474499aa.wav"
+    ],
+    [
+     "acoustic guitar",
+     "./MoisesDB/moisesdb_v0.1/3e656eec-84d4-4a45-b410-d3817d849f92/guitar/12c1d2c2-0dc0-4d0f-a7a3-0fbf8b2ff15c.wav"
+    ],
+    [
+     "clean electric guitar",
+     "./MoisesDB/moisesdb_v0.1/3e656eec-84d4-4a45-b410-d3817d849f92/guitar/ff956022-ea72-47ac-b3ed-4a4f4e5d4f4e.wav"
+    ],
+    [
+     "clean electric guitar",
+     "./MoisesDB/moisesdb_v0.1/3e656eec-84d4-4a45-b410-d3817d849f92/guitar/bd7bf906-2862-4dfd-84c0-92ecbc13e1c3.wav"
+    ],
+    [
+     "distorted electric guitar",
+     "./MoisesDB/moisesdb_v0.1/3e656eec-84d4-4a45-b410-d3817d849f92/guitar/2fa345a7-6634-42b7-96a6-6e2a42450ca5.wav"
+    ],
+    [
+     "lead male singer",
+     "./MoisesDB/moisesdb_v0.1/3e656eec-84d4-4a45-b410-d3817d849f92/vocals/ac29eaa4-98c6-4c3f-88f3-fb9f73174d6e.wav"
+    ],
+    [
+     "background vocals",
+     "./MoisesDB/moisesdb_v0.1/3e656eec-84d4-4a45-b410-d3817d849f92/vocals/dc1ec64e-8ed4-464b-8290-bff2b3bbf369.wav"
+    ],
+    [
+     "toms",
+     "./MoisesDB/moisesdb_v0.1/3e656eec-84d4-4a45-b410-d3817d849f92/drums/2be36750-99ec-4bca-85ea-831c35cf2f87.wav"
+    ],
+    [
+     "snare drum",
+     "./MoisesDB/moisesdb_v0.1/3e656eec-84d4-4a45-b410-d3817d849f92/drums/7ef14902-5223-4374-a0bf-275c9f5d2b55.wav"
+    ],
+    [
+     "overheads",
+     "./MoisesDB/moisesdb_v0.1/3e656eec-84d4-4a45-b410-d3817d849f92/drums/1aacb509-85aa-449d-bb35-d682c4a57d3e.wav"
+    ],
+    [
+     "kick drum",
+     "./MoisesDB/moisesdb_v0.1/3e656eec-84d4-4a45-b410-d3817d849f92/drums/52ef949c-e6d7-46f1-905c-bc8181688673.wav"
+    ],
+    [
+     "hi hat",
+     "./MoisesDB/moisesdb_v0.1/3e656eec-84d4-4a45-b410-d3817d849f92/drums/cc724fae-07b7-4219-9c52-35e4a0059cad.wav"
+    ],
+    [
+     "grand piano",
+     "./MoisesDB/moisesdb_v0.1/3e656eec-84d4-4a45-b410-d3817d849f92/piano/4ea6a8b3-fd4b-496d-a8a3-f19fb63d8a1c.wav"
+    ],
+    [
+     "organ, electric organ",
+     "./MoisesDB/moisesdb_v0.1/3e656eec-84d4-4a45-b410-d3817d849f92/other_keys/272c2f39-1c8b-49aa-84ee-5c27556797d8.wav"
+    ],
+    [
+     "string section",
+     "./MoisesDB/moisesdb_v0.1/3e656eec-84d4-4a45-b410-d3817d849f92/bowed_strings/3ac9ba9b-dd52-4856-8465-b54a71af0dca.wav"
+    ]
+   ],
+   "artist": "Firefly",
+   "name": "You Can Bring The Sunshine"
+  },
+  "8a6c9c1f-4865-404f-a805-1949de36a33c": {
+   "sources": [
+    [
+     "bass guitar",
+     "./MoisesDB/moisesdb_v0.1/8a6c9c1f-4865-404f-a805-1949de36a33c/bass/6ee553ba-9c92-4785-bd49-24d384b30237.wav"
+    ],
+    [
+     "acoustic guitar",
+     "./MoisesDB/moisesdb_v0.1/8a6c9c1f-4865-404f-a805-1949de36a33c/guitar/af260af1-6c22-4765-b0d6-6a135663d2a3.wav"
+    ],
+    [
+     "lead female singer",
+     "./MoisesDB/moisesdb_v0.1/8a6c9c1f-4865-404f-a805-1949de36a33c/vocals/229a29e3-4ea1-4cb0-a4c2-637e6f2cb1dd.wav"
+    ],
+    [
+     "snare drum",
+     "./MoisesDB/moisesdb_v0.1/8a6c9c1f-4865-404f-a805-1949de36a33c/drums/8d1c7bf0-69dd-4fb5-a74b-2da1331b899c.wav"
+    ],
+    [
+     "hi hat",
+     "./MoisesDB/moisesdb_v0.1/8a6c9c1f-4865-404f-a805-1949de36a33c/drums/693d8e42-caab-40ee-ac87-3f861ce3a548.wav"
+    ],
+    [
+     "kick drum",
+     "./MoisesDB/moisesdb_v0.1/8a6c9c1f-4865-404f-a805-1949de36a33c/drums/5d18456e-2872-41e3-88dd-640d28f60dce.wav"
+    ],
+    [
+     "cymbals",
+     "./MoisesDB/moisesdb_v0.1/8a6c9c1f-4865-404f-a805-1949de36a33c/drums/8b03ba06-8580-476f-a888-a11e44ed50de.wav"
+    ],
+    [
+     "a-tonal percussion (claps, shakers, congas, cowbell etc)",
+     "./MoisesDB/moisesdb_v0.1/8a6c9c1f-4865-404f-a805-1949de36a33c/percussion/298379b4-f441-4946-b6c8-e33288809d1d.wav"
+    ],
+    [
+     "synth pad",
+     "./MoisesDB/moisesdb_v0.1/8a6c9c1f-4865-404f-a805-1949de36a33c/other_keys/e9ab389e-476f-4113-bfe6-a28ee54d4812.wav"
+    ]
+   ],
+   "artist": "Sunny SIde Up",
+   "name": "The Man In The Moon"
+  },
+  "06bfc6e7-e5ac-4827-bf8e-ffaf1675872f": {
+   "sources": [
+    [
+     "bass guitar",
+     "./MoisesDB/moisesdb_v0.1/06bfc6e7-e5ac-4827-bf8e-ffaf1675872f/bass/2cd54534-21ee-4c05-a9d1-c86449099b23.wav"
+    ],
+    [
+     "acoustic guitar",
+     "./MoisesDB/moisesdb_v0.1/06bfc6e7-e5ac-4827-bf8e-ffaf1675872f/guitar/f734fb5b-0f17-4ef4-825b-3f6faa04d0a6.wav"
+    ],
+    [
+     "lead female singer",
+     "./MoisesDB/moisesdb_v0.1/06bfc6e7-e5ac-4827-bf8e-ffaf1675872f/vocals/640c8d5a-bc48-4a5f-8650-9033f37df635.wav"
+    ],
+    [
+     "snare drum",
+     "./MoisesDB/moisesdb_v0.1/06bfc6e7-e5ac-4827-bf8e-ffaf1675872f/drums/e27c264f-6c02-48e3-85ca-df141b0bb064.wav"
+    ],
+    [
+     "hi hat",
+     "./MoisesDB/moisesdb_v0.1/06bfc6e7-e5ac-4827-bf8e-ffaf1675872f/drums/1bcd0dd0-a7d4-4469-b682-11473777bb37.wav"
+    ],
+    [
+     "kick drum",
+     "./MoisesDB/moisesdb_v0.1/06bfc6e7-e5ac-4827-bf8e-ffaf1675872f/drums/0f99efd6-3885-4249-97b7-f804e841b54f.wav"
+    ],
+    [
+     "cymbals",
+     "./MoisesDB/moisesdb_v0.1/06bfc6e7-e5ac-4827-bf8e-ffaf1675872f/drums/5b92300f-edd9-4815-8749-d4c936df2b58.wav"
+    ],
+    [
+     "a-tonal percussion (claps, shakers, congas, cowbell etc)",
+     "./MoisesDB/moisesdb_v0.1/06bfc6e7-e5ac-4827-bf8e-ffaf1675872f/percussion/c7f626fe-ef11-4f3e-8c86-f8e0e3c41af2.wav"
+    ]
+   ],
+   "artist": "Sunny SIde Up",
+   "name": "Jack In The Box"
+  },
+  "0358fd1e-244a-4422-9a42-29b5d68f6e4b": {
+   "sources": [
+    [
+     "acoustic guitar",
+     "./MoisesDB/moisesdb_v0.1/0358fd1e-244a-4422-9a42-29b5d68f6e4b/guitar/be62f673-b648-43d9-8af7-29c650cad0ef.wav"
+    ],
+    [
+     "distorted electric guitar",
+     "./MoisesDB/moisesdb_v0.1/0358fd1e-244a-4422-9a42-29b5d68f6e4b/guitar/823ef386-e9f0-4ee4-9bf2-99d82f056bf0.wav"
+    ],
+    [
+     "lead male singer",
+     "./MoisesDB/moisesdb_v0.1/0358fd1e-244a-4422-9a42-29b5d68f6e4b/vocals/fc65a9d8-8365-4e8b-b706-cd160a2e956d.wav"
+    ],
+    [
+     "kick drum",
+     "./MoisesDB/moisesdb_v0.1/0358fd1e-244a-4422-9a42-29b5d68f6e4b/drums/9da6b01c-86d6-440d-a5cb-4502b469dde0.wav"
+    ],
+    [
+     "snare drum",
+     "./MoisesDB/moisesdb_v0.1/0358fd1e-244a-4422-9a42-29b5d68f6e4b/drums/09d32b5c-7741-4640-8ee5-2b15668751a5.wav"
+    ],
+    [
+     "pitched percussion (mallets, glockenspiel, ...)",
+     "./MoisesDB/moisesdb_v0.1/0358fd1e-244a-4422-9a42-29b5d68f6e4b/percussion/9fb19e6b-4e0d-4c32-a4df-00f46e6ad4e9.wav"
+    ],
+    [
+     "grand piano",
+     "./MoisesDB/moisesdb_v0.1/0358fd1e-244a-4422-9a42-29b5d68f6e4b/piano/c2f9ff20-b8e7-4216-9e5c-a579a739d3a7.wav"
+    ],
+    [
+     "synth lead",
+     "./MoisesDB/moisesdb_v0.1/0358fd1e-244a-4422-9a42-29b5d68f6e4b/other_keys/b5b2143d-8028-4822-bc45-8f5b5cb53909.wav"
+    ]
+   ],
+   "artist": "Frank O Pinions",
+   "name": "What Are The Odds"
+  },
+  "05e7af85-9721-4b42-952a-ccd34feb6033": {
+   "sources": [
+    [
+     "bass guitar",
+     "./MoisesDB/moisesdb_v0.1/05e7af85-9721-4b42-952a-ccd34feb6033/bass/f6389627-5114-4745-8df8-f3f2e1b1116b.wav"
+    ],
+    [
+     "acoustic guitar",
+     "./MoisesDB/moisesdb_v0.1/05e7af85-9721-4b42-952a-ccd34feb6033/guitar/fc9ac0de-d0c9-4b50-943e-3f7e9e88f2e2.wav"
+    ],
+    [
+     "distorted electric guitar",
+     "./MoisesDB/moisesdb_v0.1/05e7af85-9721-4b42-952a-ccd34feb6033/guitar/460134ce-3da3-4a62-9c94-a1735eb10e78.wav"
+    ],
+    [
+     "lead male singer",
+     "./MoisesDB/moisesdb_v0.1/05e7af85-9721-4b42-952a-ccd34feb6033/vocals/3b965019-c56a-48bf-8077-7e91c042c693.wav"
+    ],
+    [
+     "overheads",
+     "./MoisesDB/moisesdb_v0.1/05e7af85-9721-4b42-952a-ccd34feb6033/drums/d12809a0-8fa5-49bf-8a28-c5cfaafbf509.wav"
+    ],
+    [
+     "kick drum",
+     "./MoisesDB/moisesdb_v0.1/05e7af85-9721-4b42-952a-ccd34feb6033/drums/1d2875ef-7d6e-41dc-8d2d-54601080252b.wav"
+    ],
+    [
+     "toms",
+     "./MoisesDB/moisesdb_v0.1/05e7af85-9721-4b42-952a-ccd34feb6033/drums/146f8fa0-f5e8-4f86-80c1-103ab3472a27.wav"
+    ],
+    [
+     "snare drum",
+     "./MoisesDB/moisesdb_v0.1/05e7af85-9721-4b42-952a-ccd34feb6033/drums/1e25afd9-f5bc-4d94-b1f5-50e75165ce05.wav"
+    ]
+   ],
+   "artist": "Battlestar",
+   "name": "Distant Eyes"
+  },
+  "215391aa-1168-42dd-9cab-f8b0c6ff566b": {
+   "sources": [
+    [
+     "bass guitar",
+     "./MoisesDB/moisesdb_v0.1/215391aa-1168-42dd-9cab-f8b0c6ff566b/bass/696adc94-146b-4767-85bf-d79412413cd5.wav"
+    ],
+    [
+     "clean electric guitar",
+     "./MoisesDB/moisesdb_v0.1/215391aa-1168-42dd-9cab-f8b0c6ff566b/guitar/43d51956-ceb3-463f-8ccc-16b3658f1600.wav"
+    ],
+    [
+     "lead male singer",
+     "./MoisesDB/moisesdb_v0.1/215391aa-1168-42dd-9cab-f8b0c6ff566b/vocals/275e3011-a764-4d22-90e1-fbfaadc96c0e.wav"
+    ],
+    [
+     "hi hat",
+     "./MoisesDB/moisesdb_v0.1/215391aa-1168-42dd-9cab-f8b0c6ff566b/drums/d82b6bef-0a8c-457d-b6eb-0c346e9a183b.wav"
+    ],
+    [
+     "kick drum",
+     "./MoisesDB/moisesdb_v0.1/215391aa-1168-42dd-9cab-f8b0c6ff566b/drums/f11baf40-1e60-4f9b-9e7f-bc853df1eb01.wav"
+    ],
+    [
+     "snare drum",
+     "./MoisesDB/moisesdb_v0.1/215391aa-1168-42dd-9cab-f8b0c6ff566b/drums/b2dd1db4-065f-48b0-ae23-bc76a19fdb81.wav"
+    ],
+    [
+     "a-tonal percussion (claps, shakers, congas, cowbell etc)",
+     "./MoisesDB/moisesdb_v0.1/215391aa-1168-42dd-9cab-f8b0c6ff566b/percussion/7810aedf-f694-402e-b98b-a05ec382b56e.wav"
+    ],
+    [
+     "synth lead",
+     "./MoisesDB/moisesdb_v0.1/215391aa-1168-42dd-9cab-f8b0c6ff566b/other_keys/f7377afc-8b75-4725-83b3-c666dd61b8ff.wav"
+    ]
+   ],
+   "artist": "Modified Freq",
+   "name": "Real"
+  },
+  "f0c565c5-fc73-4da1-b979-0fac0167f671": {
+   "sources": [
+    [
+     "bass guitar",
+     "./MoisesDB/moisesdb_v0.1/f0c565c5-fc73-4da1-b979-0fac0167f671/bass/101b72c5-2984-4be2-9642-e692015c5c0c.wav"
+    ],
+    [
+     "acoustic guitar",
+     "./MoisesDB/moisesdb_v0.1/f0c565c5-fc73-4da1-b979-0fac0167f671/guitar/bc6b609c-5e11-4757-99e0-01e30aee823d.wav"
+    ],
+    [
+     "lead female singer",
+     "./MoisesDB/moisesdb_v0.1/f0c565c5-fc73-4da1-b979-0fac0167f671/vocals/ae9ea42d-66df-4f45-9410-6e27167476c0.wav"
+    ],
+    [
+     "snare drum",
+     "./MoisesDB/moisesdb_v0.1/f0c565c5-fc73-4da1-b979-0fac0167f671/drums/b6a810c8-21f2-44c1-85cd-fd5f0092234d.wav"
+    ],
+    [
+     "hi hat",
+     "./MoisesDB/moisesdb_v0.1/f0c565c5-fc73-4da1-b979-0fac0167f671/drums/1f31394c-0334-4d67-b972-563fae3a2602.wav"
+    ],
+    [
+     "kick drum",
+     "./MoisesDB/moisesdb_v0.1/f0c565c5-fc73-4da1-b979-0fac0167f671/drums/f2e01ec8-8ff6-4ae5-a1a2-ad9d488d12e5.wav"
+    ],
+    [
+     "cymbals",
+     "./MoisesDB/moisesdb_v0.1/f0c565c5-fc73-4da1-b979-0fac0167f671/drums/fb0c2713-47dd-4530-ac38-0a58e91e216c.wav"
+    ],
+    [
+     "a-tonal percussion (claps, shakers, congas, cowbell etc)",
+     "./MoisesDB/moisesdb_v0.1/f0c565c5-fc73-4da1-b979-0fac0167f671/percussion/2452461a-a379-40da-bba1-bac7a6d1439e.wav"
+    ]
+   ],
+   "artist": "Sunny SIde Up",
+   "name": "Diddle Dumpling My Son John"
+  },
+  "491c1ff5-1e7b-4046-8029-a82d4a8aefb4": {
+   "sources": [
+    [
+     "bass guitar",
+     "./MoisesDB/moisesdb_v0.1/491c1ff5-1e7b-4046-8029-a82d4a8aefb4/bass/b6ea1154-f05d-4e0c-9b98-8e471086ae20.wav"
+    ],
+    [
+     "acoustic guitar",
+     "./MoisesDB/moisesdb_v0.1/491c1ff5-1e7b-4046-8029-a82d4a8aefb4/guitar/2d5112fe-1b8e-4363-a775-ab32c9858136.wav"
+    ],
+    [
+     "lead male singer",
+     "./MoisesDB/moisesdb_v0.1/491c1ff5-1e7b-4046-8029-a82d4a8aefb4/vocals/76302a6a-932e-418e-974a-b4488c80c04a.wav"
+    ],
+    [
+     "full acoustic drumkit",
+     "./MoisesDB/moisesdb_v0.1/491c1ff5-1e7b-4046-8029-a82d4a8aefb4/drums/43a7b9c4-7abb-4d8a-972b-2b5139d052af.wav"
+    ],
+    [
+     "grand piano",
+     "./MoisesDB/moisesdb_v0.1/491c1ff5-1e7b-4046-8029-a82d4a8aefb4/piano/1ab7ec00-de5d-4331-be1b-2b88ac7c68a9.wav"
+    ],
+    [
+     "organ, electric organ",
+     "./MoisesDB/moisesdb_v0.1/491c1ff5-1e7b-4046-8029-a82d4a8aefb4/other_keys/a855bc59-0844-4231-9b15-3801eafd378a.wav"
+    ],
+    [
+     "pitched percussion (mallets, glockenspiel, ...)",
+     "./MoisesDB/moisesdb_v0.1/491c1ff5-1e7b-4046-8029-a82d4a8aefb4/percussion/a78fe70b-6880-4ea8-a4e6-0fcfef9f0edb.wav"
+    ]
+   ],
+   "artist": "Andy Bennett",
+   "name": "Let You Down Again"
+  },
+  "28748b6e-6125-42f7-998d-2ad734e39b6c": {
+   "sources": [
+    [
+     "bass guitar",
+     "./MoisesDB/moisesdb_v0.1/28748b6e-6125-42f7-998d-2ad734e39b6c/bass/ed79ec4c-5a1e-495d-9bfb-dc8ff9cad3df.wav"
+    ],
+    [
+     "bass synthesizer (moog etc)",
+     "./MoisesDB/moisesdb_v0.1/28748b6e-6125-42f7-998d-2ad734e39b6c/bass/02e4e949-9ab3-4823-ad2c-bb128252fc19.wav"
+    ],
+    [
+     "bass synthesizer (moog etc)",
+     "./MoisesDB/moisesdb_v0.1/28748b6e-6125-42f7-998d-2ad734e39b6c/bass/ed462280-9679-41b6-bffa-2878155ba679.wav"
+    ],
+    [
+     "bass synthesizer (moog etc)",
+     "./MoisesDB/moisesdb_v0.1/28748b6e-6125-42f7-998d-2ad734e39b6c/bass/7b40509e-03e5-42d5-8022-d63f5f130244.wav"
+    ],
+    [
+     "bass synthesizer (moog etc)",
+     "./MoisesDB/moisesdb_v0.1/28748b6e-6125-42f7-998d-2ad734e39b6c/bass/72e687a2-0f28-4396-abb5-becca6af1443.wav"
+    ],
+    [
+     "lead female singer",
+     "./MoisesDB/moisesdb_v0.1/28748b6e-6125-42f7-998d-2ad734e39b6c/vocals/83e618cd-18c6-43b7-a9a3-6593ea36dedc.wav"
+    ],
+    [
+     "toms",
+     "./MoisesDB/moisesdb_v0.1/28748b6e-6125-42f7-998d-2ad734e39b6c/drums/a99cd225-12de-434a-8214-3b389e11a206.wav"
+    ],
+    [
+     "snare drum",
+     "./MoisesDB/moisesdb_v0.1/28748b6e-6125-42f7-998d-2ad734e39b6c/drums/df89be1a-84cb-4fb7-a47d-1dbf2efb95ae.wav"
+    ],
+    [
+     "overheads",
+     "./MoisesDB/moisesdb_v0.1/28748b6e-6125-42f7-998d-2ad734e39b6c/drums/6b6755c7-f746-4215-8e25-17d64e6b15dc.wav"
+    ],
+    [
+     "kick drum",
+     "./MoisesDB/moisesdb_v0.1/28748b6e-6125-42f7-998d-2ad734e39b6c/drums/bf98e41c-c959-4ece-8c85-f3529e658b78.wav"
+    ],
+    [
+     "drum machine",
+     "./MoisesDB/moisesdb_v0.1/28748b6e-6125-42f7-998d-2ad734e39b6c/drums/14702491-a328-44c7-9581-7c0654bf2849.wav"
+    ],
+    [
+     "a-tonal percussion (claps, shakers, congas, cowbell etc)",
+     "./MoisesDB/moisesdb_v0.1/28748b6e-6125-42f7-998d-2ad734e39b6c/percussion/ef363fad-5edb-4697-9023-420fda0ff03a.wav"
+    ],
+    [
+     "other sounds (hapischord, melotron etc)",
+     "./MoisesDB/moisesdb_v0.1/28748b6e-6125-42f7-998d-2ad734e39b6c/other_keys/620cb276-d924-4327-bd78-b54dc46e085c.wav"
+    ],
+    [
+     "synth pad",
+     "./MoisesDB/moisesdb_v0.1/28748b6e-6125-42f7-998d-2ad734e39b6c/other_keys/27281734-bc48-4c07-bdce-ad3d719c5b47.wav"
+    ],
+    [
+     "fx processed sound, scratches, gun shots, explosions etc",
+     "./MoisesDB/moisesdb_v0.1/28748b6e-6125-42f7-998d-2ad734e39b6c/other/c59d1a0e-a2ad-4d8b-8510-241c4b917727.wav"
+    ],
+    [
+     "fx processed sound, scratches, gun shots, explosions etc",
+     "./MoisesDB/moisesdb_v0.1/28748b6e-6125-42f7-998d-2ad734e39b6c/other/94a95149-58de-4c7c-a0b2-8bc9a3e69dea.wav"
+    ],
+    [
+     "fx processed sound, scratches, gun shots, explosions etc",
+     "./MoisesDB/moisesdb_v0.1/28748b6e-6125-42f7-998d-2ad734e39b6c/other/5e38b9d6-e828-4ba6-8583-70859bf548d6.wav"
+    ]
+   ],
+   "artist": "Holy Magick",
+   "name": "Stolen Car"
+  },
+  "1f98fe4d-26c7-460f-9f68-33964bc4d8d3": {
+   "sources": [
+    [
+     "bass guitar",
+     "./MoisesDB/moisesdb_v0.1/1f98fe4d-26c7-460f-9f68-33964bc4d8d3/bass/733d6965-2c61-4da2-bd67-1ef2c34347b2.wav"
+    ],
+    [
+     "distorted electric guitar",
+     "./MoisesDB/moisesdb_v0.1/1f98fe4d-26c7-460f-9f68-33964bc4d8d3/guitar/c1ee77ca-b7de-4d30-af6d-54bfee608396.wav"
+    ],
+    [
+     "lead male singer",
+     "./MoisesDB/moisesdb_v0.1/1f98fe4d-26c7-460f-9f68-33964bc4d8d3/vocals/e9d5da80-3ac0-46bb-a62f-ee423d74a7e7.wav"
+    ],
+    [
+     "background vocals",
+     "./MoisesDB/moisesdb_v0.1/1f98fe4d-26c7-460f-9f68-33964bc4d8d3/vocals/b1cb99f6-c10a-488c-9ec5-b68b24f2807b.wav"
+    ],
+    [
+     "snare drum",
+     "./MoisesDB/moisesdb_v0.1/1f98fe4d-26c7-460f-9f68-33964bc4d8d3/drums/5895d3be-fd9b-4fa1-bc99-2c1bc56ca807.wav"
+    ],
+    [
+     "kick drum",
+     "./MoisesDB/moisesdb_v0.1/1f98fe4d-26c7-460f-9f68-33964bc4d8d3/drums/722950e3-0c35-487e-bbf3-f23c7ff09f25.wav"
+    ],
+    [
+     "cymbals",
+     "./MoisesDB/moisesdb_v0.1/1f98fe4d-26c7-460f-9f68-33964bc4d8d3/drums/de388cd2-653e-4430-abc2-55d2cabbf73d.wav"
+    ]
+   ],
+   "artist": "Modified Freq",
+   "name": "Demise Of Bruno"
+  },
+  "125fc63d-9b69-4170-a46a-42c91bc28446": {
+   "sources": [
+    [
+     "bass guitar",
+     "./MoisesDB/moisesdb_v0.1/125fc63d-9b69-4170-a46a-42c91bc28446/bass/d04f72d9-44a2-4ec4-958a-bc128b0cc63b.wav"
+    ],
+    [
+     "clean electric guitar",
+     "./MoisesDB/moisesdb_v0.1/125fc63d-9b69-4170-a46a-42c91bc28446/guitar/1e9793b7-d817-47a3-81da-33883b3849da.wav"
+    ],
+    [
+     "lead female singer",
+     "./MoisesDB/moisesdb_v0.1/125fc63d-9b69-4170-a46a-42c91bc28446/vocals/4307181a-6cde-4879-a4c1-cd49b163d1d2.wav"
+    ],
+    [
+     "kick drum",
+     "./MoisesDB/moisesdb_v0.1/125fc63d-9b69-4170-a46a-42c91bc28446/drums/c98b4663-495c-4587-b774-0984e0ce2d90.wav"
+    ],
+    [
+     "snare drum",
+     "./MoisesDB/moisesdb_v0.1/125fc63d-9b69-4170-a46a-42c91bc28446/drums/764166fe-3578-4628-b30d-c2012ca3559f.wav"
+    ],
+    [
+     "overheads",
+     "./MoisesDB/moisesdb_v0.1/125fc63d-9b69-4170-a46a-42c91bc28446/drums/a2a52bd7-bc7b-4270-93dd-5513bc80c75a.wav"
+    ],
+    [
+     "reeds (saxophone, clarinets, oboe, english horn, bagpipe)",
+     "./MoisesDB/moisesdb_v0.1/125fc63d-9b69-4170-a46a-42c91bc28446/wind/23ffbbf0-8fc1-44e7-841b-aa483eb144b2.wav"
+    ]
+   ],
+   "artist": "Centenary",
+   "name": "At Night"
+  },
+  "6b48c9de-fa34-4635-9718-04e01a03a0fe": {
+   "sources": [
+    [
+     "bass guitar",
+     "./MoisesDB/moisesdb_v0.1/6b48c9de-fa34-4635-9718-04e01a03a0fe/bass/728ce589-222d-4c5f-a9ed-91afa2c5c9ae.wav"
+    ],
+    [
+     "distorted electric guitar",
+     "./MoisesDB/moisesdb_v0.1/6b48c9de-fa34-4635-9718-04e01a03a0fe/guitar/738ca7f0-115e-4ea1-af03-1fb1f9e1e3d1.wav"
+    ],
+    [
+     "lead male singer",
+     "./MoisesDB/moisesdb_v0.1/6b48c9de-fa34-4635-9718-04e01a03a0fe/vocals/9dc25dda-bf69-409a-badc-7544658f581f.wav"
+    ],
+    [
+     "background vocals",
+     "./MoisesDB/moisesdb_v0.1/6b48c9de-fa34-4635-9718-04e01a03a0fe/vocals/07a95327-5699-47aa-bab6-09f035cfaa09.wav"
+    ],
+    [
+     "overheads",
+     "./MoisesDB/moisesdb_v0.1/6b48c9de-fa34-4635-9718-04e01a03a0fe/drums/98259546-9370-4586-90a5-5f0d62946847.wav"
+    ],
+    [
+     "kick drum",
+     "./MoisesDB/moisesdb_v0.1/6b48c9de-fa34-4635-9718-04e01a03a0fe/drums/454fc294-4669-4c79-a43b-584f3d89b452.wav"
+    ],
+    [
+     "toms",
+     "./MoisesDB/moisesdb_v0.1/6b48c9de-fa34-4635-9718-04e01a03a0fe/drums/d2b6d4fa-29c2-4208-aeb1-5ecaf4f14d05.wav"
+    ],
+    [
+     "snare drum",
+     "./MoisesDB/moisesdb_v0.1/6b48c9de-fa34-4635-9718-04e01a03a0fe/drums/0a8863cb-1167-4741-80ac-54c763a3d7e1.wav"
+    ]
+   ],
+   "artist": " Ritual Slaughter",
+   "name": "Resistance"
+  },
+  "dc61c44e-a771-47a9-8934-a0eb8f3e08ac": {
+   "sources": [
+    [
+     "bass guitar",
+     "./MoisesDB/moisesdb_v0.1/dc61c44e-a771-47a9-8934-a0eb8f3e08ac/bass/858687d1-b3f9-492c-9d56-b3bbbe0ce26e.wav"
+    ],
+    [
+     "distorted electric guitar",
+     "./MoisesDB/moisesdb_v0.1/dc61c44e-a771-47a9-8934-a0eb8f3e08ac/guitar/ab6a1c0c-90ea-4a4a-886b-b24f4ab589fc.wav"
+    ],
+    [
+     "lead male singer",
+     "./MoisesDB/moisesdb_v0.1/dc61c44e-a771-47a9-8934-a0eb8f3e08ac/vocals/8f8a85de-9f23-4881-b5fc-d2ade6f4ee65.wav"
+    ],
+    [
+     "snare drum",
+     "./MoisesDB/moisesdb_v0.1/dc61c44e-a771-47a9-8934-a0eb8f3e08ac/drums/cc733b92-a9f3-4e7a-be83-e01e30953ce5.wav"
+    ],
+    [
+     "kick drum",
+     "./MoisesDB/moisesdb_v0.1/dc61c44e-a771-47a9-8934-a0eb8f3e08ac/drums/36b79654-a514-40dd-8f46-5c4366ca42e2.wav"
+    ],
+    [
+     "toms",
+     "./MoisesDB/moisesdb_v0.1/dc61c44e-a771-47a9-8934-a0eb8f3e08ac/drums/0cefd990-853e-4b89-8abc-8ff377cb0dd1.wav"
+    ],
+    [
+     "cymbals",
+     "./MoisesDB/moisesdb_v0.1/dc61c44e-a771-47a9-8934-a0eb8f3e08ac/drums/a432430b-8dc0-4171-b0b3-2ba91780eb78.wav"
+    ],
+    [
+     "synth lead",
+     "./MoisesDB/moisesdb_v0.1/dc61c44e-a771-47a9-8934-a0eb8f3e08ac/other_keys/f27ab994-a7bd-4457-ae91-fa7dd32df48e.wav"
+    ]
+   ],
+   "artist": "Modified Freq",
+   "name": "Take You Away"
+  },
+  "4380ad97-2620-4419-a011-ddfa29a87f54": {
+   "sources": [
+    [
+     "bass guitar",
+     "./MoisesDB/moisesdb_v0.1/4380ad97-2620-4419-a011-ddfa29a87f54/bass/fd953b87-b519-4d08-b969-bec38abb0cfc.wav"
+    ],
+    [
+     "acoustic guitar",
+     "./MoisesDB/moisesdb_v0.1/4380ad97-2620-4419-a011-ddfa29a87f54/guitar/81cf6c3f-6b34-4c3d-99d3-fc1d06eff08f.wav"
+    ],
+    [
+     "lead male singer",
+     "./MoisesDB/moisesdb_v0.1/4380ad97-2620-4419-a011-ddfa29a87f54/vocals/3a4f652b-7f1b-4278-bf16-84ddf4e77680.wav"
+    ],
+    [
+     "background vocals",
+     "./MoisesDB/moisesdb_v0.1/4380ad97-2620-4419-a011-ddfa29a87f54/vocals/d54fe3e9-2f8a-487e-a1f6-ac0d6f424b4f.wav"
+    ],
+    [
+     "toms",
+     "./MoisesDB/moisesdb_v0.1/4380ad97-2620-4419-a011-ddfa29a87f54/drums/4e31beb3-c345-47bd-9606-4d780df500f9.wav"
+    ],
+    [
+     "snare drum",
+     "./MoisesDB/moisesdb_v0.1/4380ad97-2620-4419-a011-ddfa29a87f54/drums/0888514f-83a6-49bf-beed-8da021fe9403.wav"
+    ],
+    [
+     "overheads",
+     "./MoisesDB/moisesdb_v0.1/4380ad97-2620-4419-a011-ddfa29a87f54/drums/74d8302d-7bd6-4c72-b79f-af4d85c655ae.wav"
+    ],
+    [
+     "kick drum",
+     "./MoisesDB/moisesdb_v0.1/4380ad97-2620-4419-a011-ddfa29a87f54/drums/e3aea461-0018-4044-8e13-bae2be2f5769.wav"
+    ],
+    [
+     "hi hat",
+     "./MoisesDB/moisesdb_v0.1/4380ad97-2620-4419-a011-ddfa29a87f54/drums/636e21dc-aa82-4175-84d5-5b0e02a51e18.wav"
+    ],
+    [
+     "a-tonal percussion (claps, shakers, congas, cowbell etc)",
+     "./MoisesDB/moisesdb_v0.1/4380ad97-2620-4419-a011-ddfa29a87f54/percussion/80926076-6500-4df7-b968-70c18bb7a6a7.wav"
+    ],
+    [
+     "electric piano (rhodes, wurlitzer, piano sound alike)",
+     "./MoisesDB/moisesdb_v0.1/4380ad97-2620-4419-a011-ddfa29a87f54/piano/a6e55da5-8364-4dcd-ae0f-c41a15b1521f.wav"
+    ],
+    [
+     "grand piano",
+     "./MoisesDB/moisesdb_v0.1/4380ad97-2620-4419-a011-ddfa29a87f54/piano/8e9971cf-d7a4-40a0-be27-d6fda4157f38.wav"
+    ],
+    [
+     "string section",
+     "./MoisesDB/moisesdb_v0.1/4380ad97-2620-4419-a011-ddfa29a87f54/bowed_strings/3f938c53-2ca3-4878-a754-de6b5656ec79.wav"
+    ]
+   ],
+   "artist": "Firefly",
+   "name": "Search And You Shall Find"
+  },
+  "3c557409-3a34-43c2-9159-5421bbad5ecb": {
+   "sources": [
+    [
+     "bass guitar",
+     "./MoisesDB/moisesdb_v0.1/3c557409-3a34-43c2-9159-5421bbad5ecb/bass/2ca5026e-bea4-4e98-94a6-aa698c9440e5.wav"
+    ],
+    [
+     "distorted electric guitar",
+     "./MoisesDB/moisesdb_v0.1/3c557409-3a34-43c2-9159-5421bbad5ecb/guitar/041f708e-d207-47ca-a9a7-12c9d59b1a37.wav"
+    ],
+    [
+     "lead male singer",
+     "./MoisesDB/moisesdb_v0.1/3c557409-3a34-43c2-9159-5421bbad5ecb/vocals/c596d7a8-65b1-4f86-9a30-d22d1ef72bbc.wav"
+    ],
+    [
+     "background vocals",
+     "./MoisesDB/moisesdb_v0.1/3c557409-3a34-43c2-9159-5421bbad5ecb/vocals/e1a5d2e1-7d84-4e62-92fb-8c229ab2069d.wav"
+    ],
+    [
+     "overheads",
+     "./MoisesDB/moisesdb_v0.1/3c557409-3a34-43c2-9159-5421bbad5ecb/drums/e94933ff-68a9-461d-af01-4f84a52d7f19.wav"
+    ],
+    [
+     "kick drum",
+     "./MoisesDB/moisesdb_v0.1/3c557409-3a34-43c2-9159-5421bbad5ecb/drums/02c88e4a-60c2-4bd5-80f1-0aefa547ca54.wav"
+    ],
+    [
+     "toms",
+     "./MoisesDB/moisesdb_v0.1/3c557409-3a34-43c2-9159-5421bbad5ecb/drums/c92c0f39-7b8a-4503-a28d-63c9dbda13bf.wav"
+    ],
+    [
+     "snare drum",
+     "./MoisesDB/moisesdb_v0.1/3c557409-3a34-43c2-9159-5421bbad5ecb/drums/1d013979-3a79-4339-9b87-6cf0d9068bda.wav"
+    ]
+   ],
+   "artist": "Ritual Slaughter",
+   "name": "Neptunus"
+  },
+  "606e3380-b062-4b74-88ac-b60d6f4d0a37": {
+   "sources": [
+    [
+     "bass guitar",
+     "./MoisesDB/moisesdb_v0.1/606e3380-b062-4b74-88ac-b60d6f4d0a37/bass/9e6ca688-30d0-4359-af61-f26617c032f5.wav"
+    ],
+    [
+     "acoustic guitar",
+     "./MoisesDB/moisesdb_v0.1/606e3380-b062-4b74-88ac-b60d6f4d0a37/guitar/0c557463-80c1-4a7d-8575-c1348c92ea1a.wav"
+    ],
+    [
+     "lead male singer",
+     "./MoisesDB/moisesdb_v0.1/606e3380-b062-4b74-88ac-b60d6f4d0a37/vocals/a0612b95-ab17-429d-b757-976deba6a766.wav"
+    ],
+    [
+     "full acoustic drumkit",
+     "./MoisesDB/moisesdb_v0.1/606e3380-b062-4b74-88ac-b60d6f4d0a37/drums/d290c18b-60a3-4cc0-b0a6-8bda2f92abe9.wav"
+    ]
+   ],
+   "artist": "Andy Bennett",
+   "name": "Grace"
+  },
+  "93dda0e8-dd76-49e4-b08f-54a82387cdf6": {
+   "sources": [
+    [
+     "bass guitar",
+     "./MoisesDB/moisesdb_v0.1/93dda0e8-dd76-49e4-b08f-54a82387cdf6/bass/76aec4b7-0ded-4b96-b8a2-a5ce364f9c68.wav"
+    ],
+    [
+     "bass synthesizer (moog etc)",
+     "./MoisesDB/moisesdb_v0.1/93dda0e8-dd76-49e4-b08f-54a82387cdf6/bass/df42daf4-4386-4fd9-87b8-8b516b6f244f.wav"
+    ],
+    [
+     "clean electric guitar",
+     "./MoisesDB/moisesdb_v0.1/93dda0e8-dd76-49e4-b08f-54a82387cdf6/guitar/729e8994-d5d7-40f1-b339-c666b81e54e4.wav"
+    ],
+    [
+     "clean electric guitar",
+     "./MoisesDB/moisesdb_v0.1/93dda0e8-dd76-49e4-b08f-54a82387cdf6/guitar/4d6de58d-bbe1-4c62-8398-f68d22718636.wav"
+    ],
+    [
+     "clean electric guitar",
+     "./MoisesDB/moisesdb_v0.1/93dda0e8-dd76-49e4-b08f-54a82387cdf6/guitar/96cde1c6-6d83-402b-baba-b1b57dc6f46a.wav"
+    ],
+    [
+     "clean electric guitar",
+     "./MoisesDB/moisesdb_v0.1/93dda0e8-dd76-49e4-b08f-54a82387cdf6/guitar/3faa40e8-a84c-46c9-a7f5-55c7de30b9b2.wav"
+    ],
+    [
+     "clean electric guitar",
+     "./MoisesDB/moisesdb_v0.1/93dda0e8-dd76-49e4-b08f-54a82387cdf6/guitar/10e0e302-a03b-41a8-b7e1-47576439a33b.wav"
+    ],
+    [
+     "distorted electric guitar",
+     "./MoisesDB/moisesdb_v0.1/93dda0e8-dd76-49e4-b08f-54a82387cdf6/guitar/0741ba39-00e1-4347-a3b9-806cfb193f20.wav"
+    ],
+    [
+     "distorted electric guitar",
+     "./MoisesDB/moisesdb_v0.1/93dda0e8-dd76-49e4-b08f-54a82387cdf6/guitar/7b87172c-311a-4adc-817e-08ca0cf8d417.wav"
+    ],
+    [
+     "lead female singer",
+     "./MoisesDB/moisesdb_v0.1/93dda0e8-dd76-49e4-b08f-54a82387cdf6/vocals/66109004-9336-40a0-85ce-7c47fe148209.wav"
+    ],
+    [
+     "drum machine",
+     "./MoisesDB/moisesdb_v0.1/93dda0e8-dd76-49e4-b08f-54a82387cdf6/drums/76eb02ed-11e6-4adf-8dc2-7c4d1461a7bb.wav"
+    ],
+    [
+     "full acoustic drumkit",
+     "./MoisesDB/moisesdb_v0.1/93dda0e8-dd76-49e4-b08f-54a82387cdf6/drums/9eb2ac77-577c-473d-ba29-d125bcd9f271.wav"
+    ],
+    [
+     "electric piano (rhodes, wurlitzer, piano sound alike)",
+     "./MoisesDB/moisesdb_v0.1/93dda0e8-dd76-49e4-b08f-54a82387cdf6/piano/ccb4dd72-6add-4d17-80d8-24e1e1e137f3.wav"
+    ],
+    [
+     "organ, electric organ",
+     "./MoisesDB/moisesdb_v0.1/93dda0e8-dd76-49e4-b08f-54a82387cdf6/other_keys/aa446c45-84c8-4b7e-9f05-57c1e77ef25b.wav"
+    ],
+    [
+     "other sounds (hapischord, melotron etc)",
+     "./MoisesDB/moisesdb_v0.1/93dda0e8-dd76-49e4-b08f-54a82387cdf6/other_keys/67cd4619-21d8-4274-bd3c-449262368991.wav"
+    ],
+    [
+     "string section",
+     "./MoisesDB/moisesdb_v0.1/93dda0e8-dd76-49e4-b08f-54a82387cdf6/bowed_strings/2f06b95c-87ea-4bd5-a398-76736b5c4e5b.wav"
+    ]
+   ],
+   "artist": "Holy Magick",
+   "name": "Darkest Heart"
+  },
+  "6de41c50-0c49-4528-b60b-75c45d3630f4": {
+   "sources": [
+    [
+     "bass guitar",
+     "./MoisesDB/moisesdb_v0.1/6de41c50-0c49-4528-b60b-75c45d3630f4/bass/8af02b8f-10c9-4046-9ec9-f66fa05ea6de.wav"
+    ],
+    [
+     "distorted electric guitar",
+     "./MoisesDB/moisesdb_v0.1/6de41c50-0c49-4528-b60b-75c45d3630f4/guitar/f9abedb9-5638-46fe-b9c1-11b0627f8561.wav"
+    ],
+    [
+     "lead male singer",
+     "./MoisesDB/moisesdb_v0.1/6de41c50-0c49-4528-b60b-75c45d3630f4/vocals/f4884bb1-50ad-4654-b037-dd613a766886.wav"
+    ],
+    [
+     "overheads",
+     "./MoisesDB/moisesdb_v0.1/6de41c50-0c49-4528-b60b-75c45d3630f4/drums/3b039a30-3ba6-4378-8163-cdb1b7e83181.wav"
+    ],
+    [
+     "kick drum",
+     "./MoisesDB/moisesdb_v0.1/6de41c50-0c49-4528-b60b-75c45d3630f4/drums/0d469889-ae2f-475d-8376-2c97f1021f80.wav"
+    ],
+    [
+     "toms",
+     "./MoisesDB/moisesdb_v0.1/6de41c50-0c49-4528-b60b-75c45d3630f4/drums/26e75dec-3b3f-48bd-8772-0cf9ace0c6bb.wav"
+    ],
+    [
+     "snare drum",
+     "./MoisesDB/moisesdb_v0.1/6de41c50-0c49-4528-b60b-75c45d3630f4/drums/a9afb60e-f5f6-41eb-9fc2-8171822df8a3.wav"
+    ]
+   ],
+   "artist": "Frank Sermon",
+   "name": "Salvage"
+  },
+  "11845abc-8ca3-4fb2-bd84-521aeeff56f4": {
+   "sources": [
+    [
+     "acoustic guitar",
+     "./MoisesDB/moisesdb_v0.1/11845abc-8ca3-4fb2-bd84-521aeeff56f4/guitar/7dc42afc-d9e0-43b2-98fb-ea6d57b0adb2.wav"
+    ],
+    [
+     "lead male singer",
+     "./MoisesDB/moisesdb_v0.1/11845abc-8ca3-4fb2-bd84-521aeeff56f4/vocals/c9c54570-bea1-47f7-9f87-b7fac40d4de5.wav"
+    ],
+    [
+     "toms",
+     "./MoisesDB/moisesdb_v0.1/11845abc-8ca3-4fb2-bd84-521aeeff56f4/drums/d4b22d9b-3f2a-4ad6-b8d3-109f26190874.wav"
+    ],
+    [
+     "snare drum",
+     "./MoisesDB/moisesdb_v0.1/11845abc-8ca3-4fb2-bd84-521aeeff56f4/drums/1a6fd9d5-c2a1-455c-bcd9-1c3dff12a528.wav"
+    ],
+    [
+     "overheads",
+     "./MoisesDB/moisesdb_v0.1/11845abc-8ca3-4fb2-bd84-521aeeff56f4/drums/7c5216d8-ce5e-4eea-8a2e-af89cde4901a.wav"
+    ],
+    [
+     "kick drum",
+     "./MoisesDB/moisesdb_v0.1/11845abc-8ca3-4fb2-bd84-521aeeff56f4/drums/0880ac7e-dfe1-482a-ad12-e46c44df52c3.wav"
+    ],
+    [
+     "hi hat",
+     "./MoisesDB/moisesdb_v0.1/11845abc-8ca3-4fb2-bd84-521aeeff56f4/drums/03f21d95-1c4d-41d5-b2be-e3e0b3174d6e.wav"
+    ],
+    [
+     "contrabass double bass (bass of instrings)",
+     "./MoisesDB/moisesdb_v0.1/11845abc-8ca3-4fb2-bd84-521aeeff56f4/bass/b91fadcf-9876-47dd-9111-1e3efcd0fcd0.wav"
+    ],
+    [
+     "organ, electric organ",
+     "./MoisesDB/moisesdb_v0.1/11845abc-8ca3-4fb2-bd84-521aeeff56f4/other_keys/877905f3-241c-4ae0-b10c-dae8a50b510b.wav"
+    ]
+   ],
+   "artist": "Andy Bennett",
+   "name": "End Of The Affair"
+  },
+  "704f1de9-1d02-4c2b-af05-107a7700a51d": {
+   "sources": [
+    [
+     "bass guitar",
+     "./MoisesDB/moisesdb_v0.1/704f1de9-1d02-4c2b-af05-107a7700a51d/bass/ecc3e9fe-b392-4520-89ec-1c0ca4ee4fb7.wav"
+    ],
+    [
+     "acoustic guitar",
+     "./MoisesDB/moisesdb_v0.1/704f1de9-1d02-4c2b-af05-107a7700a51d/guitar/b782c46b-ad9d-4c80-a520-a54f42551732.wav"
+    ],
+    [
+     "lead male singer",
+     "./MoisesDB/moisesdb_v0.1/704f1de9-1d02-4c2b-af05-107a7700a51d/vocals/e4b1d17f-466c-4619-87a0-62206ae7faf2.wav"
+    ],
+    [
+     "background vocals",
+     "./MoisesDB/moisesdb_v0.1/704f1de9-1d02-4c2b-af05-107a7700a51d/vocals/c48d864f-c94d-4149-8589-b8b20e5d68b0.wav"
+    ],
+    [
+     "snare drum",
+     "./MoisesDB/moisesdb_v0.1/704f1de9-1d02-4c2b-af05-107a7700a51d/drums/afeb923f-ed10-41d9-bd69-519c08891780.wav"
+    ],
+    [
+     "kick drum",
+     "./MoisesDB/moisesdb_v0.1/704f1de9-1d02-4c2b-af05-107a7700a51d/drums/8c338cf3-5875-4ad2-b417-10a19814ab0e.wav"
+    ],
+    [
+     "cymbals",
+     "./MoisesDB/moisesdb_v0.1/704f1de9-1d02-4c2b-af05-107a7700a51d/drums/95deb33c-e111-40b1-a835-7a95c70da68f.wav"
+    ]
+   ],
+   "artist": "The Followers",
+   "name": "Long Live Rock And Roll"
+  },
+  "35983cdd-3903-46cb-b184-f96274ced57b": {
+   "sources": [
+    [
+     "bass guitar",
+     "./MoisesDB/moisesdb_v0.1/35983cdd-3903-46cb-b184-f96274ced57b/bass/25c0bf39-f668-437f-a8eb-96613488a8ed.wav"
+    ],
+    [
+     "bass synthesizer (moog etc)",
+     "./MoisesDB/moisesdb_v0.1/35983cdd-3903-46cb-b184-f96274ced57b/bass/0845f45a-6b36-46b0-9d04-830bc94ccaf1.wav"
+    ],
+    [
+     "distorted electric guitar",
+     "./MoisesDB/moisesdb_v0.1/35983cdd-3903-46cb-b184-f96274ced57b/guitar/e84815dd-0c25-4175-85a1-d94bb2b2cdb0.wav"
+    ],
+    [
+     "distorted electric guitar",
+     "./MoisesDB/moisesdb_v0.1/35983cdd-3903-46cb-b184-f96274ced57b/guitar/2e051ff7-0648-48cf-8a51-76e4c0de4fef.wav"
+    ],
+    [
+     "lead male singer",
+     "./MoisesDB/moisesdb_v0.1/35983cdd-3903-46cb-b184-f96274ced57b/vocals/1ba1f530-239e-4605-a5f4-bf05f6a6582c.wav"
+    ],
+    [
+     "background vocals",
+     "./MoisesDB/moisesdb_v0.1/35983cdd-3903-46cb-b184-f96274ced57b/vocals/a0542f4d-1a97-4e7e-87cb-50f9987b716e.wav"
+    ],
+    [
+     "toms",
+     "./MoisesDB/moisesdb_v0.1/35983cdd-3903-46cb-b184-f96274ced57b/drums/d3f7a83c-f4af-4b01-a291-9fc35e387e9b.wav"
+    ],
+    [
+     "snare drum",
+     "./MoisesDB/moisesdb_v0.1/35983cdd-3903-46cb-b184-f96274ced57b/drums/032cd5a3-5ae5-44d7-9a6a-9d947555663a.wav"
+    ],
+    [
+     "cymbals",
+     "./MoisesDB/moisesdb_v0.1/35983cdd-3903-46cb-b184-f96274ced57b/drums/c76276d4-cfd8-43ee-ad17-fe9c480d3cf0.wav"
+    ],
+    [
+     "kick drum",
+     "./MoisesDB/moisesdb_v0.1/35983cdd-3903-46cb-b184-f96274ced57b/drums/87f0161e-15cb-4546-a9d1-5e98ea893466.wav"
+    ],
+    [
+     "hi hat",
+     "./MoisesDB/moisesdb_v0.1/35983cdd-3903-46cb-b184-f96274ced57b/drums/0631cc86-7f26-4efc-9bf3-21e455dbf796.wav"
+    ],
+    [
+     "a-tonal percussion (claps, shakers, congas, cowbell etc)",
+     "./MoisesDB/moisesdb_v0.1/35983cdd-3903-46cb-b184-f96274ced57b/percussion/191de8f1-bca8-4ec7-9dc0-37b7d1c6f66c.wav"
+    ],
+    [
+     "grand piano",
+     "./MoisesDB/moisesdb_v0.1/35983cdd-3903-46cb-b184-f96274ced57b/piano/9ea45dc2-5d02-4635-b14e-7313e2df17e3.wav"
+    ],
+    [
+     "synth pad",
+     "./MoisesDB/moisesdb_v0.1/35983cdd-3903-46cb-b184-f96274ced57b/other_keys/df7df1c8-f383-45cf-807c-4806c743820d.wav"
+    ],
+    [
+     "fx processed sound, scratches, gun shots, explosions etc",
+     "./MoisesDB/moisesdb_v0.1/35983cdd-3903-46cb-b184-f96274ced57b/other/f0266cfa-1c00-49f7-95ed-1557c1f6b2ef.wav"
+    ]
+   ],
+   "artist": "ProRata",
+   "name": "Broken"
+  },
+  "aa600069-0a98-45e6-94fa-4000bfe46c25": {
+   "sources": [
+    [
+     "bass guitar",
+     "./MoisesDB/moisesdb_v0.1/aa600069-0a98-45e6-94fa-4000bfe46c25/bass/ce31f856-7b64-46f2-a1d9-ea4fc44c4f5e.wav"
+    ],
+    [
+     "acoustic guitar",
+     "./MoisesDB/moisesdb_v0.1/aa600069-0a98-45e6-94fa-4000bfe46c25/guitar/ed07446f-f1aa-4d3f-899d-26fec2331aeb.wav"
+    ],
+    [
+     "clean electric guitar",
+     "./MoisesDB/moisesdb_v0.1/aa600069-0a98-45e6-94fa-4000bfe46c25/guitar/46d37d04-a0c3-49f6-ba91-f5e5c47a03ef.wav"
+    ],
+    [
+     "lead male singer",
+     "./MoisesDB/moisesdb_v0.1/aa600069-0a98-45e6-94fa-4000bfe46c25/vocals/a1bec17c-9aad-41c8-a0c4-9308f50b7a56.wav"
+    ],
+    [
+     "toms",
+     "./MoisesDB/moisesdb_v0.1/aa600069-0a98-45e6-94fa-4000bfe46c25/drums/83b45303-b0ee-474b-aca8-47ef6a604ff5.wav"
+    ],
+    [
+     "snare drum",
+     "./MoisesDB/moisesdb_v0.1/aa600069-0a98-45e6-94fa-4000bfe46c25/drums/2b1f1075-b47f-4d40-aa14-8f2c1ca89c93.wav"
+    ],
+    [
+     "overheads",
+     "./MoisesDB/moisesdb_v0.1/aa600069-0a98-45e6-94fa-4000bfe46c25/drums/0fa78e9c-6b28-4816-9d07-627bd2322125.wav"
+    ],
+    [
+     "kick drum",
+     "./MoisesDB/moisesdb_v0.1/aa600069-0a98-45e6-94fa-4000bfe46c25/drums/b111baec-b377-4705-a68d-1d6a960719c8.wav"
+    ],
+    [
+     "hi hat",
+     "./MoisesDB/moisesdb_v0.1/aa600069-0a98-45e6-94fa-4000bfe46c25/drums/51cf8fe9-3a37-4a54-be28-d5f6bb2a9ed6.wav"
+    ],
+    [
+     "electric piano (rhodes, wurlitzer, piano sound alike)",
+     "./MoisesDB/moisesdb_v0.1/aa600069-0a98-45e6-94fa-4000bfe46c25/piano/4043ee3b-c521-4f1f-9887-1bc954665daa.wav"
+    ],
+    [
+     "string section",
+     "./MoisesDB/moisesdb_v0.1/aa600069-0a98-45e6-94fa-4000bfe46c25/bowed_strings/f06f2b1c-f329-4b1f-898b-b1f20d58d3cf.wav"
+    ],
+    [
+     "brass (trumpet, trombone, french horn, brass etc)",
+     "./MoisesDB/moisesdb_v0.1/aa600069-0a98-45e6-94fa-4000bfe46c25/wind/c6dbf551-f50c-4a82-b4e7-1534a107df21.wav"
+    ]
+   ],
+   "artist": "Firefly",
+   "name": "Incommunicado"
+  },
+  "a56d9450-3a26-485c-8ac3-24b6b54e2c1d": {
+   "sources": [
+    [
+     "bass guitar",
+     "./MoisesDB/moisesdb_v0.1/a56d9450-3a26-485c-8ac3-24b6b54e2c1d/bass/e927bdfe-027d-4775-8ec5-0156609aab1a.wav"
+    ],
+    [
+     "acoustic guitar",
+     "./MoisesDB/moisesdb_v0.1/a56d9450-3a26-485c-8ac3-24b6b54e2c1d/guitar/240543c9-aa3e-4407-a714-6e8a34cb320d.wav"
+    ],
+    [
+     "lead female singer",
+     "./MoisesDB/moisesdb_v0.1/a56d9450-3a26-485c-8ac3-24b6b54e2c1d/vocals/49c48b9a-fe7b-4461-95bd-86af3fb63e7b.wav"
+    ],
+    [
+     "snare drum",
+     "./MoisesDB/moisesdb_v0.1/a56d9450-3a26-485c-8ac3-24b6b54e2c1d/drums/b1283edf-06fc-4d5a-b386-a52786118f58.wav"
+    ],
+    [
+     "hi hat",
+     "./MoisesDB/moisesdb_v0.1/a56d9450-3a26-485c-8ac3-24b6b54e2c1d/drums/96598073-e0a1-4883-bcc9-61288e5fe8ba.wav"
+    ],
+    [
+     "kick drum",
+     "./MoisesDB/moisesdb_v0.1/a56d9450-3a26-485c-8ac3-24b6b54e2c1d/drums/499b9d4c-57d4-4b2c-8d84-09d591c84738.wav"
+    ],
+    [
+     "cymbals",
+     "./MoisesDB/moisesdb_v0.1/a56d9450-3a26-485c-8ac3-24b6b54e2c1d/drums/061bf68b-45b1-49ab-a74d-5b50d2d8a304.wav"
+    ]
+   ],
+   "artist": "Sunny SIde Up",
+   "name": "Little Boy Blue"
+  },
+  "5a6df5c7-a58a-479e-bdfb-c5946c221933": {
+   "sources": [
+    [
+     "bass guitar",
+     "./MoisesDB/moisesdb_v0.1/5a6df5c7-a58a-479e-bdfb-c5946c221933/bass/31e59e5b-e8fa-482f-9b06-b42d17baf799.wav"
+    ],
+    [
+     "lead male singer",
+     "./MoisesDB/moisesdb_v0.1/5a6df5c7-a58a-479e-bdfb-c5946c221933/vocals/baf75f9e-d13e-4840-9c90-58085c9bd60e.wav"
+    ],
+    [
+     "background vocals",
+     "./MoisesDB/moisesdb_v0.1/5a6df5c7-a58a-479e-bdfb-c5946c221933/vocals/a8404411-e1fe-4788-b91d-2e79f41cf109.wav"
+    ],
+    [
+     "toms",
+     "./MoisesDB/moisesdb_v0.1/5a6df5c7-a58a-479e-bdfb-c5946c221933/drums/c8f03b4a-dd02-4dd4-9645-e20463984640.wav"
+    ],
+    [
+     "snare drum",
+     "./MoisesDB/moisesdb_v0.1/5a6df5c7-a58a-479e-bdfb-c5946c221933/drums/fdca3f87-f7b7-4d6d-b7ef-00937a468b52.wav"
+    ],
+    [
+     "overheads",
+     "./MoisesDB/moisesdb_v0.1/5a6df5c7-a58a-479e-bdfb-c5946c221933/drums/70281c2f-df9c-4861-ab8f-bc32b92eb51e.wav"
+    ],
+    [
+     "kick drum",
+     "./MoisesDB/moisesdb_v0.1/5a6df5c7-a58a-479e-bdfb-c5946c221933/drums/f00e6022-0a92-41ab-83b2-0fa11d079f66.wav"
+    ],
+    [
+     "hi hat",
+     "./MoisesDB/moisesdb_v0.1/5a6df5c7-a58a-479e-bdfb-c5946c221933/drums/24f0a0ea-cdd5-40d7-9e75-519afb65c1f8.wav"
+    ],
+    [
+     "a-tonal percussion (claps, shakers, congas, cowbell etc)",
+     "./MoisesDB/moisesdb_v0.1/5a6df5c7-a58a-479e-bdfb-c5946c221933/percussion/29e17a1b-4c4a-48db-97e2-e7df2e3af447.wav"
+    ],
+    [
+     "grand piano",
+     "./MoisesDB/moisesdb_v0.1/5a6df5c7-a58a-479e-bdfb-c5946c221933/piano/a31585f4-73cc-4377-b2ec-66df1597d597.wav"
+    ],
+    [
+     "other sounds (hapischord, melotron etc)",
+     "./MoisesDB/moisesdb_v0.1/5a6df5c7-a58a-479e-bdfb-c5946c221933/other_keys/e0e6fcf2-6ef7-44c0-bd72-63d3910e4bb3.wav"
+    ],
+    [
+     "organ, electric organ",
+     "./MoisesDB/moisesdb_v0.1/5a6df5c7-a58a-479e-bdfb-c5946c221933/other_keys/b2f5de5b-8e4e-42f3-94c8-04708a724ff7.wav"
+    ],
+    [
+     "banjo, mandolin, ukulele, harp etc",
+     "./MoisesDB/moisesdb_v0.1/5a6df5c7-a58a-479e-bdfb-c5946c221933/other_plucked/d98ff66a-d17f-4414-ba84-72cc1a51f65c.wav"
+    ],
+    [
+     "brass (trumpet, trombone, french horn, brass etc)",
+     "./MoisesDB/moisesdb_v0.1/5a6df5c7-a58a-479e-bdfb-c5946c221933/wind/01150717-0baa-4e22-ba05-2bd623a480a4.wav"
+    ],
+    [
+     "other wind",
+     "./MoisesDB/moisesdb_v0.1/5a6df5c7-a58a-479e-bdfb-c5946c221933/wind/ad2ae77a-b7ee-4b2d-9677-33708e8b1a13.wav"
+    ],
+    [
+     "acoustic guitar",
+     "./MoisesDB/moisesdb_v0.1/5a6df5c7-a58a-479e-bdfb-c5946c221933/guitar/66e14102-11c2-4524-baa8-553c3cf66f39.wav"
+    ],
+    [
+     "distorted electric guitar",
+     "./MoisesDB/moisesdb_v0.1/5a6df5c7-a58a-479e-bdfb-c5946c221933/guitar/1483954e-c08f-4811-ba32-4b09d50a4904.wav"
+    ]
+   ],
+   "artist": "Firefly",
+   "name": "Cruising"
+  },
+  "07fb2df2-91d6-458d-9230-9638b4edac08": {
+   "sources": [
+    [
+     "bass guitar",
+     "./MoisesDB/moisesdb_v0.1/07fb2df2-91d6-458d-9230-9638b4edac08/bass/5a240c03-740b-44be-8960-cbe2efb6eab9.wav"
+    ],
+    [
+     "acoustic guitar",
+     "./MoisesDB/moisesdb_v0.1/07fb2df2-91d6-458d-9230-9638b4edac08/guitar/a8f098b6-2b2f-4897-a13d-5c08f6a5adc8.wav"
+    ],
+    [
+     "clean electric guitar",
+     "./MoisesDB/moisesdb_v0.1/07fb2df2-91d6-458d-9230-9638b4edac08/guitar/92e78b24-70cf-493b-b366-544ea5fdfa72.wav"
+    ],
+    [
+     "lead male singer",
+     "./MoisesDB/moisesdb_v0.1/07fb2df2-91d6-458d-9230-9638b4edac08/vocals/a32a51ba-66e1-4019-9c3d-c136594170c3.wav"
+    ],
+    [
+     "toms",
+     "./MoisesDB/moisesdb_v0.1/07fb2df2-91d6-458d-9230-9638b4edac08/drums/68faaa3e-0016-4b72-8886-fcba9ace08fd.wav"
+    ],
+    [
+     "snare drum",
+     "./MoisesDB/moisesdb_v0.1/07fb2df2-91d6-458d-9230-9638b4edac08/drums/07ce0eeb-2205-4a34-bfd6-f761888716b9.wav"
+    ],
+    [
+     "overheads",
+     "./MoisesDB/moisesdb_v0.1/07fb2df2-91d6-458d-9230-9638b4edac08/drums/7365a7e1-2bd7-4b62-82fa-947e04ca86d7.wav"
+    ],
+    [
+     "kick drum",
+     "./MoisesDB/moisesdb_v0.1/07fb2df2-91d6-458d-9230-9638b4edac08/drums/5f093bb3-b195-4bad-a2e9-706f2d1cdc33.wav"
+    ],
+    [
+     "hi hat",
+     "./MoisesDB/moisesdb_v0.1/07fb2df2-91d6-458d-9230-9638b4edac08/drums/22b8c625-80e7-4479-814a-8a1068fe22cc.wav"
+    ],
+    [
+     "grand piano",
+     "./MoisesDB/moisesdb_v0.1/07fb2df2-91d6-458d-9230-9638b4edac08/piano/17b841a6-e7fb-4c05-81b2-ed0a3f118630.wav"
+    ],
+    [
+     "string section",
+     "./MoisesDB/moisesdb_v0.1/07fb2df2-91d6-458d-9230-9638b4edac08/bowed_strings/f86a181c-3844-4bff-9b6c-3911647701c9.wav"
+    ]
+   ],
+   "artist": "Firefly",
+   "name": "Not A Day Goes By"
+  },
+  "5640831d-7853-4d06-8166-988e2844b652": {
+   "sources": [
+    [
+     "bass guitar",
+     "./MoisesDB/moisesdb_v0.1/5640831d-7853-4d06-8166-988e2844b652/bass/45de5cb6-aa76-42c1-bf6f-1dd774f9465b.wav"
+    ],
+    [
+     "bass synthesizer (moog etc)",
+     "./MoisesDB/moisesdb_v0.1/5640831d-7853-4d06-8166-988e2844b652/bass/a6bb76e5-282f-4479-ad10-647c118aac9f.wav"
+    ],
+    [
+     "distorted electric guitar",
+     "./MoisesDB/moisesdb_v0.1/5640831d-7853-4d06-8166-988e2844b652/guitar/bd0b5d7b-032d-47c8-b1dd-e31c6ef9860f.wav"
+    ],
+    [
+     "lead female singer",
+     "./MoisesDB/moisesdb_v0.1/5640831d-7853-4d06-8166-988e2844b652/vocals/baa161e6-9c85-4612-ae91-a1194ad21127.wav"
+    ],
+    [
+     "background vocals",
+     "./MoisesDB/moisesdb_v0.1/5640831d-7853-4d06-8166-988e2844b652/vocals/c6a13b6c-26cc-4af0-ac06-91d62f91fded.wav"
+    ],
+    [
+     "full acoustic drumkit",
+     "./MoisesDB/moisesdb_v0.1/5640831d-7853-4d06-8166-988e2844b652/drums/c789eeeb-1a98-4279-9f3f-eac9337c3ece.wav"
+    ],
+    [
+     "synth lead",
+     "./MoisesDB/moisesdb_v0.1/5640831d-7853-4d06-8166-988e2844b652/other_keys/4277365e-fea5-4748-a442-c98301c4ef97.wav"
+    ],
+    [
+     "synth lead",
+     "./MoisesDB/moisesdb_v0.1/5640831d-7853-4d06-8166-988e2844b652/other_keys/98df9a80-14cf-487e-82ec-9a244bac0db5.wav"
+    ],
+    [
+     "synth lead",
+     "./MoisesDB/moisesdb_v0.1/5640831d-7853-4d06-8166-988e2844b652/other_keys/f8927ac6-0f67-4299-a73b-0f8feb24b380.wav"
+    ],
+    [
+     "synth lead",
+     "./MoisesDB/moisesdb_v0.1/5640831d-7853-4d06-8166-988e2844b652/other_keys/5e590861-6900-4244-95c3-eac404ef0baf.wav"
+    ],
+    [
+     "organ, electric organ",
+     "./MoisesDB/moisesdb_v0.1/5640831d-7853-4d06-8166-988e2844b652/other_keys/4962fb9b-2190-4667-8217-9fc2d561a2aa.wav"
+    ]
+   ],
+   "artist": "Holy Magick",
+   "name": "Even Though"
+  },
+  "bb45cf1a-4c58-4fe3-88ea-97ef27527507": {
+   "sources": [
+    [
+     "bass guitar",
+     "./MoisesDB/moisesdb_v0.1/bb45cf1a-4c58-4fe3-88ea-97ef27527507/bass/32d7c453-c947-45d7-a996-6b3fb71b7ca5.wav"
+    ],
+    [
+     "clean electric guitar",
+     "./MoisesDB/moisesdb_v0.1/bb45cf1a-4c58-4fe3-88ea-97ef27527507/guitar/128e9318-854e-49c5-b7d8-c37ce377afa0.wav"
+    ],
+    [
+     "lead female singer",
+     "./MoisesDB/moisesdb_v0.1/bb45cf1a-4c58-4fe3-88ea-97ef27527507/vocals/aafe7592-4a27-4e68-a336-46f6bbc4e857.wav"
+    ],
+    [
+     "background vocals",
+     "./MoisesDB/moisesdb_v0.1/bb45cf1a-4c58-4fe3-88ea-97ef27527507/vocals/721078fc-be8d-4be6-ae21-f9f68056f065.wav"
+    ],
+    [
+     "drum machine",
+     "./MoisesDB/moisesdb_v0.1/bb45cf1a-4c58-4fe3-88ea-97ef27527507/drums/72413ab9-cacf-4d34-a14e-ee81ba9974de.wav"
+    ],
+    [
+     "electric piano (rhodes, wurlitzer, piano sound alike)",
+     "./MoisesDB/moisesdb_v0.1/bb45cf1a-4c58-4fe3-88ea-97ef27527507/piano/8cfe1959-daf2-4367-9bd1-49653c9092c1.wav"
+    ],
+    [
+     "synth lead",
+     "./MoisesDB/moisesdb_v0.1/bb45cf1a-4c58-4fe3-88ea-97ef27527507/other_keys/3a8273cb-0fc9-46e5-bdb1-cc724c3fb98e.wav"
+    ],
+    [
+     "synth pad",
+     "./MoisesDB/moisesdb_v0.1/bb45cf1a-4c58-4fe3-88ea-97ef27527507/other_keys/1415d211-8705-4c0d-88f5-0777a57101c7.wav"
+    ],
+    [
+     "string section",
+     "./MoisesDB/moisesdb_v0.1/bb45cf1a-4c58-4fe3-88ea-97ef27527507/bowed_strings/d152a8cc-8eee-4014-bf4c-9d0148f595f9.wav"
+    ]
+   ],
+   "artist": "Firefly",
+   "name": "East To West"
+  },
+  "7bfa233c-24ed-4c7a-9096-11e3aa00c55d": {
+   "sources": [
+    [
+     "bass guitar",
+     "./MoisesDB/moisesdb_v0.1/7bfa233c-24ed-4c7a-9096-11e3aa00c55d/bass/dd265e13-f5ec-49bd-86f7-3e6197145e65.wav"
+    ],
+    [
+     "acoustic guitar",
+     "./MoisesDB/moisesdb_v0.1/7bfa233c-24ed-4c7a-9096-11e3aa00c55d/guitar/072220bf-4206-4a9d-a9b6-390fd8f0d442.wav"
+    ],
+    [
+     "distorted electric guitar",
+     "./MoisesDB/moisesdb_v0.1/7bfa233c-24ed-4c7a-9096-11e3aa00c55d/guitar/c1b04171-bbb4-4838-8aa0-d375832ec583.wav"
+    ],
+    [
+     "distorted electric guitar",
+     "./MoisesDB/moisesdb_v0.1/7bfa233c-24ed-4c7a-9096-11e3aa00c55d/guitar/ef8b34e0-327e-4006-ada7-87ed1bbc9a4c.wav"
+    ],
+    [
+     "lead male singer",
+     "./MoisesDB/moisesdb_v0.1/7bfa233c-24ed-4c7a-9096-11e3aa00c55d/vocals/3149af52-17c6-431d-8b67-6fe78af2f32f.wav"
+    ],
+    [
+     "background vocals",
+     "./MoisesDB/moisesdb_v0.1/7bfa233c-24ed-4c7a-9096-11e3aa00c55d/vocals/df270105-995f-4796-926a-ece9a6f9b07b.wav"
+    ],
+    [
+     "toms",
+     "./MoisesDB/moisesdb_v0.1/7bfa233c-24ed-4c7a-9096-11e3aa00c55d/drums/d5619d48-a8a2-482a-9afd-330f05954422.wav"
+    ],
+    [
+     "snare drum",
+     "./MoisesDB/moisesdb_v0.1/7bfa233c-24ed-4c7a-9096-11e3aa00c55d/drums/ab5a835d-618c-4b91-bc0c-709d8108ab31.wav"
+    ],
+    [
+     "overheads",
+     "./MoisesDB/moisesdb_v0.1/7bfa233c-24ed-4c7a-9096-11e3aa00c55d/drums/15e175fa-2159-4a00-acac-282117440c37.wav"
+    ],
+    [
+     "kick drum",
+     "./MoisesDB/moisesdb_v0.1/7bfa233c-24ed-4c7a-9096-11e3aa00c55d/drums/28738258-0d74-417a-a030-d96e1d2b821d.wav"
+    ],
+    [
+     "hi hat",
+     "./MoisesDB/moisesdb_v0.1/7bfa233c-24ed-4c7a-9096-11e3aa00c55d/drums/2fa928a0-29f8-40f2-a63c-eb06a4d23ffb.wav"
+    ],
+    [
+     "a-tonal percussion (claps, shakers, congas, cowbell etc)",
+     "./MoisesDB/moisesdb_v0.1/7bfa233c-24ed-4c7a-9096-11e3aa00c55d/percussion/889e7ef5-146d-4621-85e7-0eb506792633.wav"
+    ],
+    [
+     "grand piano",
+     "./MoisesDB/moisesdb_v0.1/7bfa233c-24ed-4c7a-9096-11e3aa00c55d/piano/e12727f6-d57c-47ca-955b-beb866154acb.wav"
+    ],
+    [
+     "string section",
+     "./MoisesDB/moisesdb_v0.1/7bfa233c-24ed-4c7a-9096-11e3aa00c55d/bowed_strings/5e9c64e4-1154-4510-ad83-0718474bc35f.wav"
+    ],
+    [
+     "brass (trumpet, trombone, french horn, brass etc)",
+     "./MoisesDB/moisesdb_v0.1/7bfa233c-24ed-4c7a-9096-11e3aa00c55d/wind/34230ff4-d7a8-4c2f-a304-6c8a318fc5d6.wav"
+    ],
+    [
+     "reeds (saxophone, clarinets, oboe, english horn, bagpipe)",
+     "./MoisesDB/moisesdb_v0.1/7bfa233c-24ed-4c7a-9096-11e3aa00c55d/wind/7ea78e0f-a3e7-42ae-bf05-e98b7b5ce50b.wav"
+    ]
+   ],
+   "artist": "Firefly",
+   "name": "Song For Anyone"
+  },
+  "a1dcaeb2-f4e6-4818-b490-09f44d624afc": {
+   "sources": [
+    [
+     "bass guitar",
+     "./MoisesDB/moisesdb_v0.1/a1dcaeb2-f4e6-4818-b490-09f44d624afc/bass/0ab2070d-6cc5-463b-933f-c16e3540dbae.wav"
+    ],
+    [
+     "clean electric guitar",
+     "./MoisesDB/moisesdb_v0.1/a1dcaeb2-f4e6-4818-b490-09f44d624afc/guitar/fbd3a1b2-3f71-4837-ad48-971ebf1bf6c7.wav"
+    ],
+    [
+     "lead male singer",
+     "./MoisesDB/moisesdb_v0.1/a1dcaeb2-f4e6-4818-b490-09f44d624afc/vocals/27893d17-d4c5-4fcc-9ab2-cdb26e70d044.wav"
+    ],
+    [
+     "background vocals",
+     "./MoisesDB/moisesdb_v0.1/a1dcaeb2-f4e6-4818-b490-09f44d624afc/vocals/92db30f7-2bab-4bb5-a8e2-642a731dbdb7.wav"
+    ],
+    [
+     "toms",
+     "./MoisesDB/moisesdb_v0.1/a1dcaeb2-f4e6-4818-b490-09f44d624afc/drums/25c31aaa-cd7e-40e6-84ac-b541220f7f00.wav"
+    ],
+    [
+     "snare drum",
+     "./MoisesDB/moisesdb_v0.1/a1dcaeb2-f4e6-4818-b490-09f44d624afc/drums/2e75ad71-d0dd-4f78-881b-e87b932ce080.wav"
+    ],
+    [
+     "overheads",
+     "./MoisesDB/moisesdb_v0.1/a1dcaeb2-f4e6-4818-b490-09f44d624afc/drums/9c432b87-f484-4078-aa98-2a65a7e41575.wav"
+    ],
+    [
+     "full acoustic drumkit",
+     "./MoisesDB/moisesdb_v0.1/a1dcaeb2-f4e6-4818-b490-09f44d624afc/drums/f8b6dd88-2f93-4eac-a8eb-3a0bea495e45.wav"
+    ],
+    [
+     "kick drum",
+     "./MoisesDB/moisesdb_v0.1/a1dcaeb2-f4e6-4818-b490-09f44d624afc/drums/6625b2c3-aeda-4d49-9516-df245ea8ecb7.wav"
+    ]
+   ],
+   "artist": "Vinegar Stroke",
+   "name": "Spicy"
+  },
+  "adb5e3fd-d039-42e4-b09b-fd0784fa0c82": {
+   "sources": [
+    [
+     "bass guitar",
+     "./MoisesDB/moisesdb_v0.1/adb5e3fd-d039-42e4-b09b-fd0784fa0c82/bass/83925cd3-8420-46ca-918a-6fe3f61546a7.wav"
+    ],
+    [
+     "clean electric guitar",
+     "./MoisesDB/moisesdb_v0.1/adb5e3fd-d039-42e4-b09b-fd0784fa0c82/guitar/3a595679-7df6-4d32-90e7-6b86699242c4.wav"
+    ],
+    [
+     "clean electric guitar",
+     "./MoisesDB/moisesdb_v0.1/adb5e3fd-d039-42e4-b09b-fd0784fa0c82/guitar/e111cb3d-d9b2-42b7-8326-7ab3bf8bb63a.wav"
+    ],
+    [
+     "lead male singer",
+     "./MoisesDB/moisesdb_v0.1/adb5e3fd-d039-42e4-b09b-fd0784fa0c82/vocals/a5a3f3fc-eebc-4874-849c-566bcb85638e.wav"
+    ],
+    [
+     "other (vocoder, beatboxing etc)",
+     "./MoisesDB/moisesdb_v0.1/adb5e3fd-d039-42e4-b09b-fd0784fa0c82/vocals/ede73412-9b37-4030-8f65-d01a48909c33.wav"
+    ],
+    [
+     "background vocals",
+     "./MoisesDB/moisesdb_v0.1/adb5e3fd-d039-42e4-b09b-fd0784fa0c82/vocals/7135dbe3-920a-46b8-89ca-958f9210acd3.wav"
+    ],
+    [
+     "snare drum",
+     "./MoisesDB/moisesdb_v0.1/adb5e3fd-d039-42e4-b09b-fd0784fa0c82/drums/e65be609-773b-4a53-a6ad-37a3774ecded.wav"
+    ],
+    [
+     "hi hat",
+     "./MoisesDB/moisesdb_v0.1/adb5e3fd-d039-42e4-b09b-fd0784fa0c82/drums/174d71af-7ff9-4e1f-b385-83b00d08dc19.wav"
+    ],
+    [
+     "kick drum",
+     "./MoisesDB/moisesdb_v0.1/adb5e3fd-d039-42e4-b09b-fd0784fa0c82/drums/dd8681d7-5bf2-471d-a8c3-c2af21d84ade.wav"
+    ],
+    [
+     "cymbals",
+     "./MoisesDB/moisesdb_v0.1/adb5e3fd-d039-42e4-b09b-fd0784fa0c82/drums/7b0463c5-b0f2-47e0-b52b-ee49a7f14bf6.wav"
+    ],
+    [
+     "a-tonal percussion (claps, shakers, congas, cowbell etc)",
+     "./MoisesDB/moisesdb_v0.1/adb5e3fd-d039-42e4-b09b-fd0784fa0c82/percussion/7b156fcd-b660-4839-adc2-d1233aa0242e.wav"
+    ],
+    [
+     "electric piano (rhodes, wurlitzer, piano sound alike)",
+     "./MoisesDB/moisesdb_v0.1/adb5e3fd-d039-42e4-b09b-fd0784fa0c82/piano/8b3a0415-1a1f-4292-a068-163738a54efb.wav"
+    ],
+    [
+     "grand piano",
+     "./MoisesDB/moisesdb_v0.1/adb5e3fd-d039-42e4-b09b-fd0784fa0c82/piano/31330789-2bea-4c98-9d4d-e42e3c22298a.wav"
+    ],
+    [
+     "synth lead",
+     "./MoisesDB/moisesdb_v0.1/adb5e3fd-d039-42e4-b09b-fd0784fa0c82/other_keys/30d3ac9e-77d0-4d9c-9aa2-ba11ad42138f.wav"
+    ],
+    [
+     "organ, electric organ",
+     "./MoisesDB/moisesdb_v0.1/adb5e3fd-d039-42e4-b09b-fd0784fa0c82/other_keys/4bb675cd-2df8-4523-9353-af7e359f2c39.wav"
+    ],
+    [
+     "fx processed sound, scratches, gun shots, explosions etc",
+     "./MoisesDB/moisesdb_v0.1/adb5e3fd-d039-42e4-b09b-fd0784fa0c82/other/36055991-6091-4b7e-aadf-b758e9e4a90c.wav"
+    ]
+   ],
+   "artist": " Rivum",
+   "name": "Never Gonna Stop"
+  },
+  "7dd515b0-e218-425d-b8bf-a75056237d6a": {
+   "sources": [
+    [
+     "lead male singer",
+     "./MoisesDB/moisesdb_v0.1/7dd515b0-e218-425d-b8bf-a75056237d6a/vocals/08d531b2-ebd6-4584-b045-1e3052ebffc9.wav"
+    ],
+    [
+     "grand piano",
+     "./MoisesDB/moisesdb_v0.1/7dd515b0-e218-425d-b8bf-a75056237d6a/piano/e3798f98-4d6b-4bbd-b9bf-6ae317875a6f.wav"
+    ]
+   ],
+   "artist": "Firefly",
+   "name": "Gloria's Swan Song"
+  }
+ },
+ "stem_paths": {
+  "bass_guitar": [
+   "./MoisesDB/moisesdb_v0.1/1a32e987-cae8-458f-9c26-d9a6abf5348d/bass/64af4955-93c8-4528-9305-5b977c5cab7c.wav",
+   "./MoisesDB/moisesdb_v0.1/25789239-1075-43b9-bfc9-51dff4a29590/bass/d2279fee-2f38-48ab-9adc-9ed16ad55e9b.wav",
+   "./MoisesDB/moisesdb_v0.1/3c3b5fdb-f15e-4ba4-884a-b083ce2426c6/bass/138374df-3d18-44aa-86be-5635ce1d1234.wav",
+   "./MoisesDB/moisesdb_v0.1/8042b88a-6179-406b-9ec4-b45a4cdd4a71/bass/17312f8e-7543-4a54-b601-c7071d4da0c0.wav",
+   "./MoisesDB/moisesdb_v0.1/ad9bbefc-8762-46c9-b847-da14b10802b6/bass/7571d6d6-8ca8-4493-b298-25978406a825.wav",
+   "./MoisesDB/moisesdb_v0.1/1afe1b3b-3e2e-48d3-b859-f50e222cbaf4/bass/7ed0a774-b921-485b-828f-eb64fdba068c.wav",
+   "./MoisesDB/moisesdb_v0.1/78ef22ce-472f-4f82-8656-16df73b9465f/bass/19ef1d12-693b-4285-afa1-71baf630a2ab.wav",
+   "./MoisesDB/moisesdb_v0.1/a199697c-3cdc-47c7-a9c7-c1b07dd6c9dd/bass/6de76146-f1b0-4f8e-bc85-7597c2532a24.wav",
+   "./MoisesDB/moisesdb_v0.1/dda2c057-6d73-43fa-a130-d7d6562c09ca/bass/aef88f56-6092-43bb-9cd4-1c309a22d34d.wav",
+   "./MoisesDB/moisesdb_v0.1/c6d73235-1dd5-4085-a3b3-50a3466c6168/bass/a51b0eec-edf0-4c8a-b6db-44de428da94b.wav",
+   "./MoisesDB/moisesdb_v0.1/88b545e5-4d06-4d55-a306-1bd3a2915ee5/bass/d151b65f-927e-4421-b266-8c8f8c88ed2d.wav",
+   "./MoisesDB/moisesdb_v0.1/c70471f9-9c4a-41c9-b8f8-20ac38847a8e/bass/1ed51fb2-6b5c-4972-8005-38209f622d04.wav",
+   "./MoisesDB/moisesdb_v0.1/fc3c9e48-e2ac-4088-af65-68404baa7f12/bass/a12d3a88-9032-4741-b053-409e572ccf2f.wav",
+   "./MoisesDB/moisesdb_v0.1/0d528a19-cb0f-4421-b250-444f9343e51c/bass/1667836a-8b38-4143-bd77-5609cf5b08d5.wav",
+   "./MoisesDB/moisesdb_v0.1/4999a0bf-a753-4e0e-85b1-690259dabf96/bass/3e483c1f-846f-4dc1-87d2-e954d1910b5a.wav",
+   "./MoisesDB/moisesdb_v0.1/3e656eec-84d4-4a45-b410-d3817d849f92/bass/d2190616-281a-4a53-8427-4264474499aa.wav",
+   "./MoisesDB/moisesdb_v0.1/8a6c9c1f-4865-404f-a805-1949de36a33c/bass/6ee553ba-9c92-4785-bd49-24d384b30237.wav",
+   "./MoisesDB/moisesdb_v0.1/06bfc6e7-e5ac-4827-bf8e-ffaf1675872f/bass/2cd54534-21ee-4c05-a9d1-c86449099b23.wav",
+   "./MoisesDB/moisesdb_v0.1/05e7af85-9721-4b42-952a-ccd34feb6033/bass/f6389627-5114-4745-8df8-f3f2e1b1116b.wav",
+   "./MoisesDB/moisesdb_v0.1/215391aa-1168-42dd-9cab-f8b0c6ff566b/bass/696adc94-146b-4767-85bf-d79412413cd5.wav",
+   "./MoisesDB/moisesdb_v0.1/f0c565c5-fc73-4da1-b979-0fac0167f671/bass/101b72c5-2984-4be2-9642-e692015c5c0c.wav",
+   "./MoisesDB/moisesdb_v0.1/491c1ff5-1e7b-4046-8029-a82d4a8aefb4/bass/b6ea1154-f05d-4e0c-9b98-8e471086ae20.wav",
+   "./MoisesDB/moisesdb_v0.1/28748b6e-6125-42f7-998d-2ad734e39b6c/bass/ed79ec4c-5a1e-495d-9bfb-dc8ff9cad3df.wav",
+   "./MoisesDB/moisesdb_v0.1/1f98fe4d-26c7-460f-9f68-33964bc4d8d3/bass/733d6965-2c61-4da2-bd67-1ef2c34347b2.wav",
+   "./MoisesDB/moisesdb_v0.1/125fc63d-9b69-4170-a46a-42c91bc28446/bass/d04f72d9-44a2-4ec4-958a-bc128b0cc63b.wav",
+   "./MoisesDB/moisesdb_v0.1/6b48c9de-fa34-4635-9718-04e01a03a0fe/bass/728ce589-222d-4c5f-a9ed-91afa2c5c9ae.wav",
+   "./MoisesDB/moisesdb_v0.1/dc61c44e-a771-47a9-8934-a0eb8f3e08ac/bass/858687d1-b3f9-492c-9d56-b3bbbe0ce26e.wav",
+   "./MoisesDB/moisesdb_v0.1/4380ad97-2620-4419-a011-ddfa29a87f54/bass/fd953b87-b519-4d08-b969-bec38abb0cfc.wav",
+   "./MoisesDB/moisesdb_v0.1/3c557409-3a34-43c2-9159-5421bbad5ecb/bass/2ca5026e-bea4-4e98-94a6-aa698c9440e5.wav",
+   "./MoisesDB/moisesdb_v0.1/606e3380-b062-4b74-88ac-b60d6f4d0a37/bass/9e6ca688-30d0-4359-af61-f26617c032f5.wav",
+   "./MoisesDB/moisesdb_v0.1/93dda0e8-dd76-49e4-b08f-54a82387cdf6/bass/76aec4b7-0ded-4b96-b8a2-a5ce364f9c68.wav",
+   "./MoisesDB/moisesdb_v0.1/6de41c50-0c49-4528-b60b-75c45d3630f4/bass/8af02b8f-10c9-4046-9ec9-f66fa05ea6de.wav",
+   "./MoisesDB/moisesdb_v0.1/704f1de9-1d02-4c2b-af05-107a7700a51d/bass/ecc3e9fe-b392-4520-89ec-1c0ca4ee4fb7.wav",
+   "./MoisesDB/moisesdb_v0.1/35983cdd-3903-46cb-b184-f96274ced57b/bass/25c0bf39-f668-437f-a8eb-96613488a8ed.wav",
+   "./MoisesDB/moisesdb_v0.1/aa600069-0a98-45e6-94fa-4000bfe46c25/bass/ce31f856-7b64-46f2-a1d9-ea4fc44c4f5e.wav",
+   "./MoisesDB/moisesdb_v0.1/a56d9450-3a26-485c-8ac3-24b6b54e2c1d/bass/e927bdfe-027d-4775-8ec5-0156609aab1a.wav",
+   "./MoisesDB/moisesdb_v0.1/5a6df5c7-a58a-479e-bdfb-c5946c221933/bass/31e59e5b-e8fa-482f-9b06-b42d17baf799.wav",
+   "./MoisesDB/moisesdb_v0.1/07fb2df2-91d6-458d-9230-9638b4edac08/bass/5a240c03-740b-44be-8960-cbe2efb6eab9.wav",
+   "./MoisesDB/moisesdb_v0.1/5640831d-7853-4d06-8166-988e2844b652/bass/45de5cb6-aa76-42c1-bf6f-1dd774f9465b.wav",
+   "./MoisesDB/moisesdb_v0.1/bb45cf1a-4c58-4fe3-88ea-97ef27527507/bass/32d7c453-c947-45d7-a996-6b3fb71b7ca5.wav",
+   "./MoisesDB/moisesdb_v0.1/7bfa233c-24ed-4c7a-9096-11e3aa00c55d/bass/dd265e13-f5ec-49bd-86f7-3e6197145e65.wav",
+   "./MoisesDB/moisesdb_v0.1/a1dcaeb2-f4e6-4818-b490-09f44d624afc/bass/0ab2070d-6cc5-463b-933f-c16e3540dbae.wav",
+   "./MoisesDB/moisesdb_v0.1/adb5e3fd-d039-42e4-b09b-fd0784fa0c82/bass/83925cd3-8420-46ca-918a-6fe3f61546a7.wav"
+  ],
+  "acoustic_guitar": [
+   "./MoisesDB/moisesdb_v0.1/1a32e987-cae8-458f-9c26-d9a6abf5348d/guitar/ffc9457b-8372-4cb4-a4eb-089aa8cf2c17.wav",
+   "./MoisesDB/moisesdb_v0.1/8f36f17f-c033-4c1b-a793-80dce43d507b/guitar/b34f48ee-af64-4595-8385-5964f9b2c504.wav",
+   "./MoisesDB/moisesdb_v0.1/8042b88a-6179-406b-9ec4-b45a4cdd4a71/guitar/7b9677da-c9de-4821-8164-2908ade552d6.wav",
+   "./MoisesDB/moisesdb_v0.1/1afe1b3b-3e2e-48d3-b859-f50e222cbaf4/guitar/ddb98745-9efe-4dc6-b03c-839c2a1b979b.wav",
+   "./MoisesDB/moisesdb_v0.1/a199697c-3cdc-47c7-a9c7-c1b07dd6c9dd/guitar/aebf409b-bdca-4af9-92e1-468cfb0eab35.wav",
+   "./MoisesDB/moisesdb_v0.1/48c78ca6-18e9-42f2-9f05-fdbee90a7786/guitar/1799dd7f-b741-4cbe-ad3b-d33d19d4c375.wav",
+   "./MoisesDB/moisesdb_v0.1/3e656eec-84d4-4a45-b410-d3817d849f92/guitar/12c1d2c2-0dc0-4d0f-a7a3-0fbf8b2ff15c.wav",
+   "./MoisesDB/moisesdb_v0.1/8a6c9c1f-4865-404f-a805-1949de36a33c/guitar/af260af1-6c22-4765-b0d6-6a135663d2a3.wav",
+   "./MoisesDB/moisesdb_v0.1/06bfc6e7-e5ac-4827-bf8e-ffaf1675872f/guitar/f734fb5b-0f17-4ef4-825b-3f6faa04d0a6.wav",
+   "./MoisesDB/moisesdb_v0.1/0358fd1e-244a-4422-9a42-29b5d68f6e4b/guitar/be62f673-b648-43d9-8af7-29c650cad0ef.wav",
+   "./MoisesDB/moisesdb_v0.1/05e7af85-9721-4b42-952a-ccd34feb6033/guitar/fc9ac0de-d0c9-4b50-943e-3f7e9e88f2e2.wav",
+   "./MoisesDB/moisesdb_v0.1/f0c565c5-fc73-4da1-b979-0fac0167f671/guitar/bc6b609c-5e11-4757-99e0-01e30aee823d.wav",
+   "./MoisesDB/moisesdb_v0.1/491c1ff5-1e7b-4046-8029-a82d4a8aefb4/guitar/2d5112fe-1b8e-4363-a775-ab32c9858136.wav",
+   "./MoisesDB/moisesdb_v0.1/4380ad97-2620-4419-a011-ddfa29a87f54/guitar/81cf6c3f-6b34-4c3d-99d3-fc1d06eff08f.wav",
+   "./MoisesDB/moisesdb_v0.1/606e3380-b062-4b74-88ac-b60d6f4d0a37/guitar/0c557463-80c1-4a7d-8575-c1348c92ea1a.wav",
+   "./MoisesDB/moisesdb_v0.1/11845abc-8ca3-4fb2-bd84-521aeeff56f4/guitar/7dc42afc-d9e0-43b2-98fb-ea6d57b0adb2.wav",
+   "./MoisesDB/moisesdb_v0.1/704f1de9-1d02-4c2b-af05-107a7700a51d/guitar/b782c46b-ad9d-4c80-a520-a54f42551732.wav",
+   "./MoisesDB/moisesdb_v0.1/aa600069-0a98-45e6-94fa-4000bfe46c25/guitar/ed07446f-f1aa-4d3f-899d-26fec2331aeb.wav",
+   "./MoisesDB/moisesdb_v0.1/a56d9450-3a26-485c-8ac3-24b6b54e2c1d/guitar/240543c9-aa3e-4407-a714-6e8a34cb320d.wav",
+   "./MoisesDB/moisesdb_v0.1/5a6df5c7-a58a-479e-bdfb-c5946c221933/guitar/66e14102-11c2-4524-baa8-553c3cf66f39.wav",
+   "./MoisesDB/moisesdb_v0.1/07fb2df2-91d6-458d-9230-9638b4edac08/guitar/a8f098b6-2b2f-4897-a13d-5c08f6a5adc8.wav",
+   "./MoisesDB/moisesdb_v0.1/7bfa233c-24ed-4c7a-9096-11e3aa00c55d/guitar/072220bf-4206-4a9d-a9b6-390fd8f0d442.wav"
+  ],
+  "lead_male_singer": [
+   "./MoisesDB/moisesdb_v0.1/1a32e987-cae8-458f-9c26-d9a6abf5348d/vocals/7988bd23-22bb-4047-9671-efe84716f0b9.wav",
+   "./MoisesDB/moisesdb_v0.1/25789239-1075-43b9-bfc9-51dff4a29590/vocals/9579cdc5-6a6e-4daa-9d66-eb687a9f7b81.wav",
+   "./MoisesDB/moisesdb_v0.1/8f36f17f-c033-4c1b-a793-80dce43d507b/vocals/8308f1bf-e064-425a-9a90-c1e6344f741c.wav",
+   "./MoisesDB/moisesdb_v0.1/3c3b5fdb-f15e-4ba4-884a-b083ce2426c6/vocals/42307f6c-f78e-4bc6-8f4d-505822216cc5.wav",
+   "./MoisesDB/moisesdb_v0.1/8042b88a-6179-406b-9ec4-b45a4cdd4a71/vocals/7cb13229-ac10-434b-b1a9-59415e5a3536.wav",
+   "./MoisesDB/moisesdb_v0.1/ad9bbefc-8762-46c9-b847-da14b10802b6/vocals/2fea06f8-518c-44af-ac4f-910099ecc0e6.wav",
+   "./MoisesDB/moisesdb_v0.1/1afe1b3b-3e2e-48d3-b859-f50e222cbaf4/vocals/610a5ff5-9d7c-42cf-9689-b20eea0322a2.wav",
+   "./MoisesDB/moisesdb_v0.1/a199697c-3cdc-47c7-a9c7-c1b07dd6c9dd/vocals/8c6aede4-fa86-4b7b-b670-caea96238bba.wav",
+   "./MoisesDB/moisesdb_v0.1/dda2c057-6d73-43fa-a130-d7d6562c09ca/vocals/1d722cb1-451e-4f1a-8a27-22c6206356d2.wav",
+   "./MoisesDB/moisesdb_v0.1/88b545e5-4d06-4d55-a306-1bd3a2915ee5/vocals/c5e50c76-f576-438a-abcf-b33e5fb30981.wav",
+   "./MoisesDB/moisesdb_v0.1/48c78ca6-18e9-42f2-9f05-fdbee90a7786/vocals/a11bc35d-d85f-4158-8426-efc6b8abad12.wav",
+   "./MoisesDB/moisesdb_v0.1/fc3c9e48-e2ac-4088-af65-68404baa7f12/vocals/f6e9adb6-f320-4ce2-803b-1d423cfe3c57.wav",
+   "./MoisesDB/moisesdb_v0.1/0d528a19-cb0f-4421-b250-444f9343e51c/vocals/0dcb5878-0060-4c09-a69d-0b59b069d978.wav",
+   "./MoisesDB/moisesdb_v0.1/4999a0bf-a753-4e0e-85b1-690259dabf96/vocals/6913beb2-fa82-4480-a10c-5c6c0e561756.wav",
+   "./MoisesDB/moisesdb_v0.1/3e656eec-84d4-4a45-b410-d3817d849f92/vocals/ac29eaa4-98c6-4c3f-88f3-fb9f73174d6e.wav",
+   "./MoisesDB/moisesdb_v0.1/0358fd1e-244a-4422-9a42-29b5d68f6e4b/vocals/fc65a9d8-8365-4e8b-b706-cd160a2e956d.wav",
+   "./MoisesDB/moisesdb_v0.1/05e7af85-9721-4b42-952a-ccd34feb6033/vocals/3b965019-c56a-48bf-8077-7e91c042c693.wav",
+   "./MoisesDB/moisesdb_v0.1/215391aa-1168-42dd-9cab-f8b0c6ff566b/vocals/275e3011-a764-4d22-90e1-fbfaadc96c0e.wav",
+   "./MoisesDB/moisesdb_v0.1/491c1ff5-1e7b-4046-8029-a82d4a8aefb4/vocals/76302a6a-932e-418e-974a-b4488c80c04a.wav",
+   "./MoisesDB/moisesdb_v0.1/1f98fe4d-26c7-460f-9f68-33964bc4d8d3/vocals/e9d5da80-3ac0-46bb-a62f-ee423d74a7e7.wav",
+   "./MoisesDB/moisesdb_v0.1/6b48c9de-fa34-4635-9718-04e01a03a0fe/vocals/9dc25dda-bf69-409a-badc-7544658f581f.wav",
+   "./MoisesDB/moisesdb_v0.1/dc61c44e-a771-47a9-8934-a0eb8f3e08ac/vocals/8f8a85de-9f23-4881-b5fc-d2ade6f4ee65.wav",
+   "./MoisesDB/moisesdb_v0.1/4380ad97-2620-4419-a011-ddfa29a87f54/vocals/3a4f652b-7f1b-4278-bf16-84ddf4e77680.wav",
+   "./MoisesDB/moisesdb_v0.1/3c557409-3a34-43c2-9159-5421bbad5ecb/vocals/c596d7a8-65b1-4f86-9a30-d22d1ef72bbc.wav",
+   "./MoisesDB/moisesdb_v0.1/606e3380-b062-4b74-88ac-b60d6f4d0a37/vocals/a0612b95-ab17-429d-b757-976deba6a766.wav",
+   "./MoisesDB/moisesdb_v0.1/6de41c50-0c49-4528-b60b-75c45d3630f4/vocals/f4884bb1-50ad-4654-b037-dd613a766886.wav",
+   "./MoisesDB/moisesdb_v0.1/11845abc-8ca3-4fb2-bd84-521aeeff56f4/vocals/c9c54570-bea1-47f7-9f87-b7fac40d4de5.wav",
+   "./MoisesDB/moisesdb_v0.1/704f1de9-1d02-4c2b-af05-107a7700a51d/vocals/e4b1d17f-466c-4619-87a0-62206ae7faf2.wav",
+   "./MoisesDB/moisesdb_v0.1/35983cdd-3903-46cb-b184-f96274ced57b/vocals/1ba1f530-239e-4605-a5f4-bf05f6a6582c.wav",
+   "./MoisesDB/moisesdb_v0.1/aa600069-0a98-45e6-94fa-4000bfe46c25/vocals/a1bec17c-9aad-41c8-a0c4-9308f50b7a56.wav",
+   "./MoisesDB/moisesdb_v0.1/5a6df5c7-a58a-479e-bdfb-c5946c221933/vocals/baf75f9e-d13e-4840-9c90-58085c9bd60e.wav",
+   "./MoisesDB/moisesdb_v0.1/07fb2df2-91d6-458d-9230-9638b4edac08/vocals/a32a51ba-66e1-4019-9c3d-c136594170c3.wav",
+   "./MoisesDB/moisesdb_v0.1/7bfa233c-24ed-4c7a-9096-11e3aa00c55d/vocals/3149af52-17c6-431d-8b67-6fe78af2f32f.wav",
+   "./MoisesDB/moisesdb_v0.1/a1dcaeb2-f4e6-4818-b490-09f44d624afc/vocals/27893d17-d4c5-4fcc-9ab2-cdb26e70d044.wav",
+   "./MoisesDB/moisesdb_v0.1/adb5e3fd-d039-42e4-b09b-fd0784fa0c82/vocals/a5a3f3fc-eebc-4874-849c-566bcb85638e.wav"
+  ],
+  "toms": [
+   "./MoisesDB/moisesdb_v0.1/1a32e987-cae8-458f-9c26-d9a6abf5348d/drums/b7f38ba6-7d24-4758-8716-cf347f70753d.wav",
+   "./MoisesDB/moisesdb_v0.1/25789239-1075-43b9-bfc9-51dff4a29590/drums/511c0f78-739c-4819-8501-fa88c4de72d3.wav",
+   "./MoisesDB/moisesdb_v0.1/3c3b5fdb-f15e-4ba4-884a-b083ce2426c6/drums/012fa6d0-af5f-4ff4-87ee-0aafdd77e860.wav",
+   "./MoisesDB/moisesdb_v0.1/8042b88a-6179-406b-9ec4-b45a4cdd4a71/drums/c784bd04-684e-4722-a63d-b60280aa9d62.wav",
+   "./MoisesDB/moisesdb_v0.1/ad9bbefc-8762-46c9-b847-da14b10802b6/drums/f82736e1-0aa4-4c87-9ae0-fb5e7a7c3624.wav",
+   "./MoisesDB/moisesdb_v0.1/1afe1b3b-3e2e-48d3-b859-f50e222cbaf4/drums/429372bc-763d-46a5-aac7-62764c5d2359.wav",
+   "./MoisesDB/moisesdb_v0.1/c70471f9-9c4a-41c9-b8f8-20ac38847a8e/drums/8a96cce7-8f26-4d3e-b090-3d25c4676e40.wav",
+   "./MoisesDB/moisesdb_v0.1/48c78ca6-18e9-42f2-9f05-fdbee90a7786/drums/bdd2ca4b-1bdd-44c2-ad30-ac9e11cbf538.wav",
+   "./MoisesDB/moisesdb_v0.1/fc3c9e48-e2ac-4088-af65-68404baa7f12/drums/4bcfa31c-f793-4bbc-ad82-944266edbee4.wav",
+   "./MoisesDB/moisesdb_v0.1/0d528a19-cb0f-4421-b250-444f9343e51c/drums/12cee703-3760-4bb4-acb3-33de0920b74b.wav",
+   "./MoisesDB/moisesdb_v0.1/4999a0bf-a753-4e0e-85b1-690259dabf96/drums/8686bc67-30da-46a9-a4ed-f789e13627bc.wav",
+   "./MoisesDB/moisesdb_v0.1/3e656eec-84d4-4a45-b410-d3817d849f92/drums/2be36750-99ec-4bca-85ea-831c35cf2f87.wav",
+   "./MoisesDB/moisesdb_v0.1/05e7af85-9721-4b42-952a-ccd34feb6033/drums/146f8fa0-f5e8-4f86-80c1-103ab3472a27.wav",
+   "./MoisesDB/moisesdb_v0.1/28748b6e-6125-42f7-998d-2ad734e39b6c/drums/a99cd225-12de-434a-8214-3b389e11a206.wav",
+   "./MoisesDB/moisesdb_v0.1/6b48c9de-fa34-4635-9718-04e01a03a0fe/drums/d2b6d4fa-29c2-4208-aeb1-5ecaf4f14d05.wav",
+   "./MoisesDB/moisesdb_v0.1/dc61c44e-a771-47a9-8934-a0eb8f3e08ac/drums/0cefd990-853e-4b89-8abc-8ff377cb0dd1.wav",
+   "./MoisesDB/moisesdb_v0.1/4380ad97-2620-4419-a011-ddfa29a87f54/drums/4e31beb3-c345-47bd-9606-4d780df500f9.wav",
+   "./MoisesDB/moisesdb_v0.1/3c557409-3a34-43c2-9159-5421bbad5ecb/drums/c92c0f39-7b8a-4503-a28d-63c9dbda13bf.wav",
+   "./MoisesDB/moisesdb_v0.1/6de41c50-0c49-4528-b60b-75c45d3630f4/drums/26e75dec-3b3f-48bd-8772-0cf9ace0c6bb.wav",
+   "./MoisesDB/moisesdb_v0.1/11845abc-8ca3-4fb2-bd84-521aeeff56f4/drums/d4b22d9b-3f2a-4ad6-b8d3-109f26190874.wav",
+   "./MoisesDB/moisesdb_v0.1/35983cdd-3903-46cb-b184-f96274ced57b/drums/d3f7a83c-f4af-4b01-a291-9fc35e387e9b.wav",
+   "./MoisesDB/moisesdb_v0.1/aa600069-0a98-45e6-94fa-4000bfe46c25/drums/83b45303-b0ee-474b-aca8-47ef6a604ff5.wav",
+   "./MoisesDB/moisesdb_v0.1/5a6df5c7-a58a-479e-bdfb-c5946c221933/drums/c8f03b4a-dd02-4dd4-9645-e20463984640.wav",
+   "./MoisesDB/moisesdb_v0.1/07fb2df2-91d6-458d-9230-9638b4edac08/drums/68faaa3e-0016-4b72-8886-fcba9ace08fd.wav",
+   "./MoisesDB/moisesdb_v0.1/7bfa233c-24ed-4c7a-9096-11e3aa00c55d/drums/d5619d48-a8a2-482a-9afd-330f05954422.wav",
+   "./MoisesDB/moisesdb_v0.1/a1dcaeb2-f4e6-4818-b490-09f44d624afc/drums/25c31aaa-cd7e-40e6-84ac-b541220f7f00.wav"
+  ],
+  "snare_drum": [
+   "./MoisesDB/moisesdb_v0.1/1a32e987-cae8-458f-9c26-d9a6abf5348d/drums/3d779c5a-bbfc-43bd-96d6-0c0cb84d3c61.wav",
+   "./MoisesDB/moisesdb_v0.1/25789239-1075-43b9-bfc9-51dff4a29590/drums/5490959d-a7c9-49a7-a7de-2d97442d3f0d.wav",
+   "./MoisesDB/moisesdb_v0.1/8f36f17f-c033-4c1b-a793-80dce43d507b/drums/9cb665f0-7d4f-4bf2-8636-323bbabaeaa8.wav",
+   "./MoisesDB/moisesdb_v0.1/3c3b5fdb-f15e-4ba4-884a-b083ce2426c6/drums/9d40cbed-02d3-4dc5-8b59-967094b756f1.wav",
+   "./MoisesDB/moisesdb_v0.1/8042b88a-6179-406b-9ec4-b45a4cdd4a71/drums/83583dbe-e7f0-498d-b64e-4d6637e11f10.wav",
+   "./MoisesDB/moisesdb_v0.1/ad9bbefc-8762-46c9-b847-da14b10802b6/drums/53732f0e-7c67-4215-aaff-96bfdc29adb8.wav",
+   "./MoisesDB/moisesdb_v0.1/78ef22ce-472f-4f82-8656-16df73b9465f/drums/beb29dc2-bb25-45c5-bf77-7e4c10e64b6f.wav",
+   "./MoisesDB/moisesdb_v0.1/a199697c-3cdc-47c7-a9c7-c1b07dd6c9dd/drums/cfb5079c-481c-4ccd-8004-cde142809656.wav",
+   "./MoisesDB/moisesdb_v0.1/dda2c057-6d73-43fa-a130-d7d6562c09ca/drums/2b7f685b-42ef-434d-9bf1-620259451125.wav",
+   "./MoisesDB/moisesdb_v0.1/c6d73235-1dd5-4085-a3b3-50a3466c6168/drums/fbf044e8-262b-49e4-8b48-b40ade9cd7d0.wav",
+   "./MoisesDB/moisesdb_v0.1/88b545e5-4d06-4d55-a306-1bd3a2915ee5/drums/3f3c84a5-e98f-4b66-aac5-59f984206078.wav",
+   "./MoisesDB/moisesdb_v0.1/c70471f9-9c4a-41c9-b8f8-20ac38847a8e/drums/990ca1b2-6d65-4d8b-80c1-3180545f737e.wav",
+   "./MoisesDB/moisesdb_v0.1/48c78ca6-18e9-42f2-9f05-fdbee90a7786/drums/52068ec7-4ae9-4318-a564-27643d064a66.wav",
+   "./MoisesDB/moisesdb_v0.1/fc3c9e48-e2ac-4088-af65-68404baa7f12/drums/ea86b607-ec83-45b7-980f-5658f1aed8e6.wav",
+   "./MoisesDB/moisesdb_v0.1/0d528a19-cb0f-4421-b250-444f9343e51c/drums/ebd2b268-294a-4a53-bc6d-b1f6233c9f68.wav",
+   "./MoisesDB/moisesdb_v0.1/4999a0bf-a753-4e0e-85b1-690259dabf96/drums/a39a3eb6-180a-4373-814f-32e84a273a3a.wav",
+   "./MoisesDB/moisesdb_v0.1/3e656eec-84d4-4a45-b410-d3817d849f92/drums/7ef14902-5223-4374-a0bf-275c9f5d2b55.wav",
+   "./MoisesDB/moisesdb_v0.1/8a6c9c1f-4865-404f-a805-1949de36a33c/drums/8d1c7bf0-69dd-4fb5-a74b-2da1331b899c.wav",
+   "./MoisesDB/moisesdb_v0.1/06bfc6e7-e5ac-4827-bf8e-ffaf1675872f/drums/e27c264f-6c02-48e3-85ca-df141b0bb064.wav",
+   "./MoisesDB/moisesdb_v0.1/0358fd1e-244a-4422-9a42-29b5d68f6e4b/drums/09d32b5c-7741-4640-8ee5-2b15668751a5.wav",
+   "./MoisesDB/moisesdb_v0.1/05e7af85-9721-4b42-952a-ccd34feb6033/drums/1e25afd9-f5bc-4d94-b1f5-50e75165ce05.wav",
+   "./MoisesDB/moisesdb_v0.1/215391aa-1168-42dd-9cab-f8b0c6ff566b/drums/b2dd1db4-065f-48b0-ae23-bc76a19fdb81.wav",
+   "./MoisesDB/moisesdb_v0.1/f0c565c5-fc73-4da1-b979-0fac0167f671/drums/b6a810c8-21f2-44c1-85cd-fd5f0092234d.wav",
+   "./MoisesDB/moisesdb_v0.1/28748b6e-6125-42f7-998d-2ad734e39b6c/drums/df89be1a-84cb-4fb7-a47d-1dbf2efb95ae.wav",
+   "./MoisesDB/moisesdb_v0.1/1f98fe4d-26c7-460f-9f68-33964bc4d8d3/drums/5895d3be-fd9b-4fa1-bc99-2c1bc56ca807.wav",
+   "./MoisesDB/moisesdb_v0.1/125fc63d-9b69-4170-a46a-42c91bc28446/drums/764166fe-3578-4628-b30d-c2012ca3559f.wav",
+   "./MoisesDB/moisesdb_v0.1/6b48c9de-fa34-4635-9718-04e01a03a0fe/drums/0a8863cb-1167-4741-80ac-54c763a3d7e1.wav",
+   "./MoisesDB/moisesdb_v0.1/dc61c44e-a771-47a9-8934-a0eb8f3e08ac/drums/cc733b92-a9f3-4e7a-be83-e01e30953ce5.wav",
+   "./MoisesDB/moisesdb_v0.1/4380ad97-2620-4419-a011-ddfa29a87f54/drums/0888514f-83a6-49bf-beed-8da021fe9403.wav",
+   "./MoisesDB/moisesdb_v0.1/3c557409-3a34-43c2-9159-5421bbad5ecb/drums/1d013979-3a79-4339-9b87-6cf0d9068bda.wav",
+   "./MoisesDB/moisesdb_v0.1/6de41c50-0c49-4528-b60b-75c45d3630f4/drums/a9afb60e-f5f6-41eb-9fc2-8171822df8a3.wav",
+   "./MoisesDB/moisesdb_v0.1/11845abc-8ca3-4fb2-bd84-521aeeff56f4/drums/1a6fd9d5-c2a1-455c-bcd9-1c3dff12a528.wav",
+   "./MoisesDB/moisesdb_v0.1/704f1de9-1d02-4c2b-af05-107a7700a51d/drums/afeb923f-ed10-41d9-bd69-519c08891780.wav",
+   "./MoisesDB/moisesdb_v0.1/35983cdd-3903-46cb-b184-f96274ced57b/drums/032cd5a3-5ae5-44d7-9a6a-9d947555663a.wav",
+   "./MoisesDB/moisesdb_v0.1/aa600069-0a98-45e6-94fa-4000bfe46c25/drums/2b1f1075-b47f-4d40-aa14-8f2c1ca89c93.wav",
+   "./MoisesDB/moisesdb_v0.1/a56d9450-3a26-485c-8ac3-24b6b54e2c1d/drums/b1283edf-06fc-4d5a-b386-a52786118f58.wav",
+   "./MoisesDB/moisesdb_v0.1/5a6df5c7-a58a-479e-bdfb-c5946c221933/drums/fdca3f87-f7b7-4d6d-b7ef-00937a468b52.wav",
+   "./MoisesDB/moisesdb_v0.1/07fb2df2-91d6-458d-9230-9638b4edac08/drums/07ce0eeb-2205-4a34-bfd6-f761888716b9.wav",
+   "./MoisesDB/moisesdb_v0.1/7bfa233c-24ed-4c7a-9096-11e3aa00c55d/drums/ab5a835d-618c-4b91-bc0c-709d8108ab31.wav",
+   "./MoisesDB/moisesdb_v0.1/a1dcaeb2-f4e6-4818-b490-09f44d624afc/drums/2e75ad71-d0dd-4f78-881b-e87b932ce080.wav",
+   "./MoisesDB/moisesdb_v0.1/adb5e3fd-d039-42e4-b09b-fd0784fa0c82/drums/e65be609-773b-4a53-a6ad-37a3774ecded.wav"
+  ],
+  "overheads": [
+   "./MoisesDB/moisesdb_v0.1/1a32e987-cae8-458f-9c26-d9a6abf5348d/drums/3c51e62c-aa6b-40c6-b997-06b9a0c8f313.wav",
+   "./MoisesDB/moisesdb_v0.1/25789239-1075-43b9-bfc9-51dff4a29590/drums/be316848-ed58-4178-9953-5df1dd497689.wav",
+   "./MoisesDB/moisesdb_v0.1/ad9bbefc-8762-46c9-b847-da14b10802b6/drums/bd2908bd-bbfc-46de-b893-1a354b34ba7c.wav",
+   "./MoisesDB/moisesdb_v0.1/1afe1b3b-3e2e-48d3-b859-f50e222cbaf4/drums/c29a7e8e-3670-4eda-9d3e-a33b69b608a9.wav",
+   "./MoisesDB/moisesdb_v0.1/1afe1b3b-3e2e-48d3-b859-f50e222cbaf4/drums/77097d5a-311c-4482-890a-534343ad6a11.wav",
+   "./MoisesDB/moisesdb_v0.1/78ef22ce-472f-4f82-8656-16df73b9465f/drums/e7f60bfc-f986-4097-851f-132bcff5a9ba.wav",
+   "./MoisesDB/moisesdb_v0.1/c6d73235-1dd5-4085-a3b3-50a3466c6168/drums/78a1d789-0bbd-4658-9422-f90b5e411299.wav",
+   "./MoisesDB/moisesdb_v0.1/88b545e5-4d06-4d55-a306-1bd3a2915ee5/drums/a309a621-616f-42fa-a99c-a64ea67e2ff5.wav",
+   "./MoisesDB/moisesdb_v0.1/c70471f9-9c4a-41c9-b8f8-20ac38847a8e/drums/f76f4319-2659-4d98-86fe-2753a991d2a9.wav",
+   "./MoisesDB/moisesdb_v0.1/48c78ca6-18e9-42f2-9f05-fdbee90a7786/drums/0fc9c69f-9312-42ca-aa31-e81b1ca4a8bc.wav",
+   "./MoisesDB/moisesdb_v0.1/3e656eec-84d4-4a45-b410-d3817d849f92/drums/1aacb509-85aa-449d-bb35-d682c4a57d3e.wav",
+   "./MoisesDB/moisesdb_v0.1/05e7af85-9721-4b42-952a-ccd34feb6033/drums/d12809a0-8fa5-49bf-8a28-c5cfaafbf509.wav",
+   "./MoisesDB/moisesdb_v0.1/28748b6e-6125-42f7-998d-2ad734e39b6c/drums/6b6755c7-f746-4215-8e25-17d64e6b15dc.wav",
+   "./MoisesDB/moisesdb_v0.1/125fc63d-9b69-4170-a46a-42c91bc28446/drums/a2a52bd7-bc7b-4270-93dd-5513bc80c75a.wav",
+   "./MoisesDB/moisesdb_v0.1/6b48c9de-fa34-4635-9718-04e01a03a0fe/drums/98259546-9370-4586-90a5-5f0d62946847.wav",
+   "./MoisesDB/moisesdb_v0.1/4380ad97-2620-4419-a011-ddfa29a87f54/drums/74d8302d-7bd6-4c72-b79f-af4d85c655ae.wav",
+   "./MoisesDB/moisesdb_v0.1/3c557409-3a34-43c2-9159-5421bbad5ecb/drums/e94933ff-68a9-461d-af01-4f84a52d7f19.wav",
+   "./MoisesDB/moisesdb_v0.1/6de41c50-0c49-4528-b60b-75c45d3630f4/drums/3b039a30-3ba6-4378-8163-cdb1b7e83181.wav",
+   "./MoisesDB/moisesdb_v0.1/11845abc-8ca3-4fb2-bd84-521aeeff56f4/drums/7c5216d8-ce5e-4eea-8a2e-af89cde4901a.wav",
+   "./MoisesDB/moisesdb_v0.1/aa600069-0a98-45e6-94fa-4000bfe46c25/drums/0fa78e9c-6b28-4816-9d07-627bd2322125.wav",
+   "./MoisesDB/moisesdb_v0.1/5a6df5c7-a58a-479e-bdfb-c5946c221933/drums/70281c2f-df9c-4861-ab8f-bc32b92eb51e.wav",
+   "./MoisesDB/moisesdb_v0.1/07fb2df2-91d6-458d-9230-9638b4edac08/drums/7365a7e1-2bd7-4b62-82fa-947e04ca86d7.wav",
+   "./MoisesDB/moisesdb_v0.1/7bfa233c-24ed-4c7a-9096-11e3aa00c55d/drums/15e175fa-2159-4a00-acac-282117440c37.wav",
+   "./MoisesDB/moisesdb_v0.1/a1dcaeb2-f4e6-4818-b490-09f44d624afc/drums/9c432b87-f484-4078-aa98-2a65a7e41575.wav"
+  ],
+  "kick_drum": [
+   "./MoisesDB/moisesdb_v0.1/1a32e987-cae8-458f-9c26-d9a6abf5348d/drums/063be701-187e-43fc-ae69-ddab7dc53678.wav",
+   "./MoisesDB/moisesdb_v0.1/25789239-1075-43b9-bfc9-51dff4a29590/drums/1ceb53e7-a57b-4b77-858d-ffddd846fcaf.wav",
+   "./MoisesDB/moisesdb_v0.1/8f36f17f-c033-4c1b-a793-80dce43d507b/drums/d49deb85-dea3-47b6-b4aa-d4ede32bfeac.wav",
+   "./MoisesDB/moisesdb_v0.1/3c3b5fdb-f15e-4ba4-884a-b083ce2426c6/drums/c00ca202-3e25-4467-96a7-7291723beb69.wav",
+   "./MoisesDB/moisesdb_v0.1/8042b88a-6179-406b-9ec4-b45a4cdd4a71/drums/2347c3fc-825d-4652-9f20-4d4ffc666ed2.wav",
+   "./MoisesDB/moisesdb_v0.1/ad9bbefc-8762-46c9-b847-da14b10802b6/drums/790f313a-7cb8-4831-add1-1c8b64df2bf7.wav",
+   "./MoisesDB/moisesdb_v0.1/1afe1b3b-3e2e-48d3-b859-f50e222cbaf4/drums/f66eee41-a2b3-4041-a3c2-4310552d052a.wav",
+   "./MoisesDB/moisesdb_v0.1/78ef22ce-472f-4f82-8656-16df73b9465f/drums/5f5bffd4-751c-45d8-b661-7b13a8fdb657.wav",
+   "./MoisesDB/moisesdb_v0.1/a199697c-3cdc-47c7-a9c7-c1b07dd6c9dd/drums/47c2bcb2-3f45-49c9-aeec-c0a8975f5ae0.wav",
+   "./MoisesDB/moisesdb_v0.1/dda2c057-6d73-43fa-a130-d7d6562c09ca/drums/31b69cd1-1b53-4f72-89a3-9815a7f3181a.wav",
+   "./MoisesDB/moisesdb_v0.1/c6d73235-1dd5-4085-a3b3-50a3466c6168/drums/6ae48790-0e5e-4a38-9d8b-b375b9ee04ea.wav",
+   "./MoisesDB/moisesdb_v0.1/88b545e5-4d06-4d55-a306-1bd3a2915ee5/drums/d6fcf50e-39d6-47f1-9438-d8b2fba4dbe1.wav",
+   "./MoisesDB/moisesdb_v0.1/c70471f9-9c4a-41c9-b8f8-20ac38847a8e/drums/8c12a2dd-8f62-4378-9ea7-433ead8a7b8a.wav",
+   "./MoisesDB/moisesdb_v0.1/48c78ca6-18e9-42f2-9f05-fdbee90a7786/drums/ac203c39-52fc-4966-9b1c-785d0f97aa8f.wav",
+   "./MoisesDB/moisesdb_v0.1/fc3c9e48-e2ac-4088-af65-68404baa7f12/drums/f46a775f-cef0-4e7f-8d6b-1e1972bf567e.wav",
+   "./MoisesDB/moisesdb_v0.1/0d528a19-cb0f-4421-b250-444f9343e51c/drums/05a94652-6b10-4c6d-a8ee-a706e17c7539.wav",
+   "./MoisesDB/moisesdb_v0.1/4999a0bf-a753-4e0e-85b1-690259dabf96/drums/b12d3c13-42be-439d-987a-cc8e723df16d.wav",
+   "./MoisesDB/moisesdb_v0.1/3e656eec-84d4-4a45-b410-d3817d849f92/drums/52ef949c-e6d7-46f1-905c-bc8181688673.wav",
+   "./MoisesDB/moisesdb_v0.1/8a6c9c1f-4865-404f-a805-1949de36a33c/drums/5d18456e-2872-41e3-88dd-640d28f60dce.wav",
+   "./MoisesDB/moisesdb_v0.1/06bfc6e7-e5ac-4827-bf8e-ffaf1675872f/drums/0f99efd6-3885-4249-97b7-f804e841b54f.wav",
+   "./MoisesDB/moisesdb_v0.1/0358fd1e-244a-4422-9a42-29b5d68f6e4b/drums/9da6b01c-86d6-440d-a5cb-4502b469dde0.wav",
+   "./MoisesDB/moisesdb_v0.1/05e7af85-9721-4b42-952a-ccd34feb6033/drums/1d2875ef-7d6e-41dc-8d2d-54601080252b.wav",
+   "./MoisesDB/moisesdb_v0.1/215391aa-1168-42dd-9cab-f8b0c6ff566b/drums/f11baf40-1e60-4f9b-9e7f-bc853df1eb01.wav",
+   "./MoisesDB/moisesdb_v0.1/f0c565c5-fc73-4da1-b979-0fac0167f671/drums/f2e01ec8-8ff6-4ae5-a1a2-ad9d488d12e5.wav",
+   "./MoisesDB/moisesdb_v0.1/28748b6e-6125-42f7-998d-2ad734e39b6c/drums/bf98e41c-c959-4ece-8c85-f3529e658b78.wav",
+   "./MoisesDB/moisesdb_v0.1/1f98fe4d-26c7-460f-9f68-33964bc4d8d3/drums/722950e3-0c35-487e-bbf3-f23c7ff09f25.wav",
+   "./MoisesDB/moisesdb_v0.1/125fc63d-9b69-4170-a46a-42c91bc28446/drums/c98b4663-495c-4587-b774-0984e0ce2d90.wav",
+   "./MoisesDB/moisesdb_v0.1/6b48c9de-fa34-4635-9718-04e01a03a0fe/drums/454fc294-4669-4c79-a43b-584f3d89b452.wav",
+   "./MoisesDB/moisesdb_v0.1/dc61c44e-a771-47a9-8934-a0eb8f3e08ac/drums/36b79654-a514-40dd-8f46-5c4366ca42e2.wav",
+   "./MoisesDB/moisesdb_v0.1/4380ad97-2620-4419-a011-ddfa29a87f54/drums/e3aea461-0018-4044-8e13-bae2be2f5769.wav",
+   "./MoisesDB/moisesdb_v0.1/3c557409-3a34-43c2-9159-5421bbad5ecb/drums/02c88e4a-60c2-4bd5-80f1-0aefa547ca54.wav",
+   "./MoisesDB/moisesdb_v0.1/6de41c50-0c49-4528-b60b-75c45d3630f4/drums/0d469889-ae2f-475d-8376-2c97f1021f80.wav",
+   "./MoisesDB/moisesdb_v0.1/11845abc-8ca3-4fb2-bd84-521aeeff56f4/drums/0880ac7e-dfe1-482a-ad12-e46c44df52c3.wav",
+   "./MoisesDB/moisesdb_v0.1/704f1de9-1d02-4c2b-af05-107a7700a51d/drums/8c338cf3-5875-4ad2-b417-10a19814ab0e.wav",
+   "./MoisesDB/moisesdb_v0.1/35983cdd-3903-46cb-b184-f96274ced57b/drums/87f0161e-15cb-4546-a9d1-5e98ea893466.wav",
+   "./MoisesDB/moisesdb_v0.1/aa600069-0a98-45e6-94fa-4000bfe46c25/drums/b111baec-b377-4705-a68d-1d6a960719c8.wav",
+   "./MoisesDB/moisesdb_v0.1/a56d9450-3a26-485c-8ac3-24b6b54e2c1d/drums/499b9d4c-57d4-4b2c-8d84-09d591c84738.wav",
+   "./MoisesDB/moisesdb_v0.1/5a6df5c7-a58a-479e-bdfb-c5946c221933/drums/f00e6022-0a92-41ab-83b2-0fa11d079f66.wav",
+   "./MoisesDB/moisesdb_v0.1/07fb2df2-91d6-458d-9230-9638b4edac08/drums/5f093bb3-b195-4bad-a2e9-706f2d1cdc33.wav",
+   "./MoisesDB/moisesdb_v0.1/7bfa233c-24ed-4c7a-9096-11e3aa00c55d/drums/28738258-0d74-417a-a030-d96e1d2b821d.wav",
+   "./MoisesDB/moisesdb_v0.1/a1dcaeb2-f4e6-4818-b490-09f44d624afc/drums/6625b2c3-aeda-4d49-9516-df245ea8ecb7.wav",
+   "./MoisesDB/moisesdb_v0.1/adb5e3fd-d039-42e4-b09b-fd0784fa0c82/drums/dd8681d7-5bf2-471d-a8c3-c2af21d84ade.wav"
+  ],
+  "hi_hat": [
+   "./MoisesDB/moisesdb_v0.1/1a32e987-cae8-458f-9c26-d9a6abf5348d/drums/3563633d-8a0c-4af3-a87f-7f3d8873dd80.wav",
+   "./MoisesDB/moisesdb_v0.1/8f36f17f-c033-4c1b-a793-80dce43d507b/drums/57673447-2eb8-4965-90d7-473bbdb41699.wav",
+   "./MoisesDB/moisesdb_v0.1/3c3b5fdb-f15e-4ba4-884a-b083ce2426c6/drums/56351395-8f1c-4e1b-8adc-bde641d082ab.wav",
+   "./MoisesDB/moisesdb_v0.1/8042b88a-6179-406b-9ec4-b45a4cdd4a71/drums/d75c2113-a86c-47df-a22b-bf648cb14f7b.wav",
+   "./MoisesDB/moisesdb_v0.1/1afe1b3b-3e2e-48d3-b859-f50e222cbaf4/drums/d319e235-87fa-4472-9c72-82211def8594.wav",
+   "./MoisesDB/moisesdb_v0.1/a199697c-3cdc-47c7-a9c7-c1b07dd6c9dd/drums/07048947-83ef-4885-afcb-7a6f1f0abc3b.wav",
+   "./MoisesDB/moisesdb_v0.1/48c78ca6-18e9-42f2-9f05-fdbee90a7786/drums/a93690f2-eb27-4740-9bc3-79bdb19faf42.wav",
+   "./MoisesDB/moisesdb_v0.1/fc3c9e48-e2ac-4088-af65-68404baa7f12/drums/8bf497f6-2cfa-4c82-872c-97de6bf24e36.wav",
+   "./MoisesDB/moisesdb_v0.1/0d528a19-cb0f-4421-b250-444f9343e51c/drums/72894dd4-2999-49a6-a177-8a790749508b.wav",
+   "./MoisesDB/moisesdb_v0.1/4999a0bf-a753-4e0e-85b1-690259dabf96/drums/2b208408-4572-4eef-9a25-6e6cc159a0ef.wav",
+   "./MoisesDB/moisesdb_v0.1/3e656eec-84d4-4a45-b410-d3817d849f92/drums/cc724fae-07b7-4219-9c52-35e4a0059cad.wav",
+   "./MoisesDB/moisesdb_v0.1/8a6c9c1f-4865-404f-a805-1949de36a33c/drums/693d8e42-caab-40ee-ac87-3f861ce3a548.wav",
+   "./MoisesDB/moisesdb_v0.1/06bfc6e7-e5ac-4827-bf8e-ffaf1675872f/drums/1bcd0dd0-a7d4-4469-b682-11473777bb37.wav",
+   "./MoisesDB/moisesdb_v0.1/215391aa-1168-42dd-9cab-f8b0c6ff566b/drums/d82b6bef-0a8c-457d-b6eb-0c346e9a183b.wav",
+   "./MoisesDB/moisesdb_v0.1/f0c565c5-fc73-4da1-b979-0fac0167f671/drums/1f31394c-0334-4d67-b972-563fae3a2602.wav",
+   "./MoisesDB/moisesdb_v0.1/4380ad97-2620-4419-a011-ddfa29a87f54/drums/636e21dc-aa82-4175-84d5-5b0e02a51e18.wav",
+   "./MoisesDB/moisesdb_v0.1/11845abc-8ca3-4fb2-bd84-521aeeff56f4/drums/03f21d95-1c4d-41d5-b2be-e3e0b3174d6e.wav",
+   "./MoisesDB/moisesdb_v0.1/35983cdd-3903-46cb-b184-f96274ced57b/drums/0631cc86-7f26-4efc-9bf3-21e455dbf796.wav",
+   "./MoisesDB/moisesdb_v0.1/aa600069-0a98-45e6-94fa-4000bfe46c25/drums/51cf8fe9-3a37-4a54-be28-d5f6bb2a9ed6.wav",
+   "./MoisesDB/moisesdb_v0.1/a56d9450-3a26-485c-8ac3-24b6b54e2c1d/drums/96598073-e0a1-4883-bcc9-61288e5fe8ba.wav",
+   "./MoisesDB/moisesdb_v0.1/5a6df5c7-a58a-479e-bdfb-c5946c221933/drums/24f0a0ea-cdd5-40d7-9e75-519afb65c1f8.wav",
+   "./MoisesDB/moisesdb_v0.1/07fb2df2-91d6-458d-9230-9638b4edac08/drums/22b8c625-80e7-4479-814a-8a1068fe22cc.wav",
+   "./MoisesDB/moisesdb_v0.1/7bfa233c-24ed-4c7a-9096-11e3aa00c55d/drums/2fa928a0-29f8-40f2-a63c-eb06a4d23ffb.wav",
+   "./MoisesDB/moisesdb_v0.1/adb5e3fd-d039-42e4-b09b-fd0784fa0c82/drums/174d71af-7ff9-4e1f-b385-83b00d08dc19.wav"
+  ],
+  "grand_piano": [
+   "./MoisesDB/moisesdb_v0.1/1a32e987-cae8-458f-9c26-d9a6abf5348d/piano/789762e8-7a5a-44d9-ba29-81cd9fdaccd5.wav",
+   "./MoisesDB/moisesdb_v0.1/8f36f17f-c033-4c1b-a793-80dce43d507b/piano/7e554d96-e7e6-4b2f-a2f4-fc601289b3e7.wav",
+   "./MoisesDB/moisesdb_v0.1/a199697c-3cdc-47c7-a9c7-c1b07dd6c9dd/piano/e4ef2dcf-45d9-4f35-b248-ff143c1b962a.wav",
+   "./MoisesDB/moisesdb_v0.1/c70471f9-9c4a-41c9-b8f8-20ac38847a8e/piano/880dd354-8b0c-4899-9661-4b2b728e23a5.wav",
+   "./MoisesDB/moisesdb_v0.1/fc3c9e48-e2ac-4088-af65-68404baa7f12/piano/9aad9be3-db8f-4f48-a16b-375397ad88e2.wav",
+   "./MoisesDB/moisesdb_v0.1/3e656eec-84d4-4a45-b410-d3817d849f92/piano/4ea6a8b3-fd4b-496d-a8a3-f19fb63d8a1c.wav",
+   "./MoisesDB/moisesdb_v0.1/0358fd1e-244a-4422-9a42-29b5d68f6e4b/piano/c2f9ff20-b8e7-4216-9e5c-a579a739d3a7.wav",
+   "./MoisesDB/moisesdb_v0.1/491c1ff5-1e7b-4046-8029-a82d4a8aefb4/piano/1ab7ec00-de5d-4331-be1b-2b88ac7c68a9.wav",
+   "./MoisesDB/moisesdb_v0.1/4380ad97-2620-4419-a011-ddfa29a87f54/piano/8e9971cf-d7a4-40a0-be27-d6fda4157f38.wav",
+   "./MoisesDB/moisesdb_v0.1/35983cdd-3903-46cb-b184-f96274ced57b/piano/9ea45dc2-5d02-4635-b14e-7313e2df17e3.wav",
+   "./MoisesDB/moisesdb_v0.1/5a6df5c7-a58a-479e-bdfb-c5946c221933/piano/a31585f4-73cc-4377-b2ec-66df1597d597.wav",
+   "./MoisesDB/moisesdb_v0.1/07fb2df2-91d6-458d-9230-9638b4edac08/piano/17b841a6-e7fb-4c05-81b2-ed0a3f118630.wav",
+   "./MoisesDB/moisesdb_v0.1/7bfa233c-24ed-4c7a-9096-11e3aa00c55d/piano/e12727f6-d57c-47ca-955b-beb866154acb.wav",
+   "./MoisesDB/moisesdb_v0.1/adb5e3fd-d039-42e4-b09b-fd0784fa0c82/piano/31330789-2bea-4c98-9d4d-e42e3c22298a.wav"
+  ],
+  "distorted_electric_guitar": [
+   "./MoisesDB/moisesdb_v0.1/25789239-1075-43b9-bfc9-51dff4a29590/guitar/57c8cb32-bbdc-4381-adca-8d07104e88eb.wav",
+   "./MoisesDB/moisesdb_v0.1/3c3b5fdb-f15e-4ba4-884a-b083ce2426c6/guitar/a7522bdb-9727-4dee-94d0-a5cc9c43b457.wav",
+   "./MoisesDB/moisesdb_v0.1/ad9bbefc-8762-46c9-b847-da14b10802b6/guitar/7989b129-518e-40ea-afdb-388ba9cf6045.wav",
+   "./MoisesDB/moisesdb_v0.1/1afe1b3b-3e2e-48d3-b859-f50e222cbaf4/guitar/7140f01c-96d1-4619-aff3-353b251d2bb8.wav",
+   "./MoisesDB/moisesdb_v0.1/dda2c057-6d73-43fa-a130-d7d6562c09ca/guitar/af72ecda-2978-4d4d-89dc-a8ce8b2a9ac3.wav",
+   "./MoisesDB/moisesdb_v0.1/88b545e5-4d06-4d55-a306-1bd3a2915ee5/guitar/52f90bb3-5e6d-43c8-a4ea-7d24dce31b24.wav",
+   "./MoisesDB/moisesdb_v0.1/88b545e5-4d06-4d55-a306-1bd3a2915ee5/guitar/135f070c-3ef3-48de-ad2e-e2c916af545f.wav",
+   "./MoisesDB/moisesdb_v0.1/c70471f9-9c4a-41c9-b8f8-20ac38847a8e/guitar/df574252-34db-480c-a179-8340d572c05f.wav",
+   "./MoisesDB/moisesdb_v0.1/c70471f9-9c4a-41c9-b8f8-20ac38847a8e/guitar/37f72978-d441-43ad-9df3-416b5a6d8e52.wav",
+   "./MoisesDB/moisesdb_v0.1/0d528a19-cb0f-4421-b250-444f9343e51c/guitar/3eadd83e-6c34-4220-bc84-761ab5b96af0.wav",
+   "./MoisesDB/moisesdb_v0.1/0d528a19-cb0f-4421-b250-444f9343e51c/guitar/8d9f7f6f-8b2d-4b31-a3bd-02b691a7ff1c.wav",
+   "./MoisesDB/moisesdb_v0.1/4999a0bf-a753-4e0e-85b1-690259dabf96/guitar/4ea44891-d98d-486c-ad7c-3e371cb70c75.wav",
+   "./MoisesDB/moisesdb_v0.1/4999a0bf-a753-4e0e-85b1-690259dabf96/guitar/189e0534-5e05-494d-a74a-3a4f701636ad.wav",
+   "./MoisesDB/moisesdb_v0.1/3e656eec-84d4-4a45-b410-d3817d849f92/guitar/2fa345a7-6634-42b7-96a6-6e2a42450ca5.wav",
+   "./MoisesDB/moisesdb_v0.1/0358fd1e-244a-4422-9a42-29b5d68f6e4b/guitar/823ef386-e9f0-4ee4-9bf2-99d82f056bf0.wav",
+   "./MoisesDB/moisesdb_v0.1/05e7af85-9721-4b42-952a-ccd34feb6033/guitar/460134ce-3da3-4a62-9c94-a1735eb10e78.wav",
+   "./MoisesDB/moisesdb_v0.1/1f98fe4d-26c7-460f-9f68-33964bc4d8d3/guitar/c1ee77ca-b7de-4d30-af6d-54bfee608396.wav",
+   "./MoisesDB/moisesdb_v0.1/6b48c9de-fa34-4635-9718-04e01a03a0fe/guitar/738ca7f0-115e-4ea1-af03-1fb1f9e1e3d1.wav",
+   "./MoisesDB/moisesdb_v0.1/dc61c44e-a771-47a9-8934-a0eb8f3e08ac/guitar/ab6a1c0c-90ea-4a4a-886b-b24f4ab589fc.wav",
+   "./MoisesDB/moisesdb_v0.1/3c557409-3a34-43c2-9159-5421bbad5ecb/guitar/041f708e-d207-47ca-a9a7-12c9d59b1a37.wav",
+   "./MoisesDB/moisesdb_v0.1/93dda0e8-dd76-49e4-b08f-54a82387cdf6/guitar/0741ba39-00e1-4347-a3b9-806cfb193f20.wav",
+   "./MoisesDB/moisesdb_v0.1/93dda0e8-dd76-49e4-b08f-54a82387cdf6/guitar/7b87172c-311a-4adc-817e-08ca0cf8d417.wav",
+   "./MoisesDB/moisesdb_v0.1/6de41c50-0c49-4528-b60b-75c45d3630f4/guitar/f9abedb9-5638-46fe-b9c1-11b0627f8561.wav",
+   "./MoisesDB/moisesdb_v0.1/35983cdd-3903-46cb-b184-f96274ced57b/guitar/e84815dd-0c25-4175-85a1-d94bb2b2cdb0.wav",
+   "./MoisesDB/moisesdb_v0.1/35983cdd-3903-46cb-b184-f96274ced57b/guitar/2e051ff7-0648-48cf-8a51-76e4c0de4fef.wav",
+   "./MoisesDB/moisesdb_v0.1/5a6df5c7-a58a-479e-bdfb-c5946c221933/guitar/1483954e-c08f-4811-ba32-4b09d50a4904.wav",
+   "./MoisesDB/moisesdb_v0.1/5640831d-7853-4d06-8166-988e2844b652/guitar/bd0b5d7b-032d-47c8-b1dd-e31c6ef9860f.wav",
+   "./MoisesDB/moisesdb_v0.1/7bfa233c-24ed-4c7a-9096-11e3aa00c55d/guitar/c1b04171-bbb4-4838-8aa0-d375832ec583.wav",
+   "./MoisesDB/moisesdb_v0.1/7bfa233c-24ed-4c7a-9096-11e3aa00c55d/guitar/ef8b34e0-327e-4006-ada7-87ed1bbc9a4c.wav"
+  ],
+  "background_vocals": [
+   "./MoisesDB/moisesdb_v0.1/25789239-1075-43b9-bfc9-51dff4a29590/vocals/8edb11c8-edd1-4d1d-9125-ed422d8b558a.wav",
+   "./MoisesDB/moisesdb_v0.1/3c3b5fdb-f15e-4ba4-884a-b083ce2426c6/vocals/4182259d-c3c3-4f6f-89bd-d90ee44fb02e.wav",
+   "./MoisesDB/moisesdb_v0.1/8042b88a-6179-406b-9ec4-b45a4cdd4a71/vocals/986fc49e-bdad-4465-92cc-0dae7c398cb7.wav",
+   "./MoisesDB/moisesdb_v0.1/1afe1b3b-3e2e-48d3-b859-f50e222cbaf4/vocals/1644aa89-beb4-4562-b845-d0ace6e4eed1.wav",
+   "./MoisesDB/moisesdb_v0.1/a199697c-3cdc-47c7-a9c7-c1b07dd6c9dd/vocals/082097eb-c142-419d-a3a6-f502c3872c1d.wav",
+   "./MoisesDB/moisesdb_v0.1/fc3c9e48-e2ac-4088-af65-68404baa7f12/vocals/f2da844f-37cf-48f9-9d9c-52b85261178b.wav",
+   "./MoisesDB/moisesdb_v0.1/0d528a19-cb0f-4421-b250-444f9343e51c/vocals/036b9cf0-e33e-48fa-b5ac-fdec34e2158a.wav",
+   "./MoisesDB/moisesdb_v0.1/4999a0bf-a753-4e0e-85b1-690259dabf96/vocals/0141ed1f-3b8d-4eba-a743-5968510c728b.wav",
+   "./MoisesDB/moisesdb_v0.1/3e656eec-84d4-4a45-b410-d3817d849f92/vocals/dc1ec64e-8ed4-464b-8290-bff2b3bbf369.wav",
+   "./MoisesDB/moisesdb_v0.1/1f98fe4d-26c7-460f-9f68-33964bc4d8d3/vocals/b1cb99f6-c10a-488c-9ec5-b68b24f2807b.wav",
+   "./MoisesDB/moisesdb_v0.1/6b48c9de-fa34-4635-9718-04e01a03a0fe/vocals/07a95327-5699-47aa-bab6-09f035cfaa09.wav",
+   "./MoisesDB/moisesdb_v0.1/4380ad97-2620-4419-a011-ddfa29a87f54/vocals/d54fe3e9-2f8a-487e-a1f6-ac0d6f424b4f.wav",
+   "./MoisesDB/moisesdb_v0.1/3c557409-3a34-43c2-9159-5421bbad5ecb/vocals/e1a5d2e1-7d84-4e62-92fb-8c229ab2069d.wav",
+   "./MoisesDB/moisesdb_v0.1/704f1de9-1d02-4c2b-af05-107a7700a51d/vocals/c48d864f-c94d-4149-8589-b8b20e5d68b0.wav",
+   "./MoisesDB/moisesdb_v0.1/35983cdd-3903-46cb-b184-f96274ced57b/vocals/a0542f4d-1a97-4e7e-87cb-50f9987b716e.wav",
+   "./MoisesDB/moisesdb_v0.1/5a6df5c7-a58a-479e-bdfb-c5946c221933/vocals/a8404411-e1fe-4788-b91d-2e79f41cf109.wav",
+   "./MoisesDB/moisesdb_v0.1/5640831d-7853-4d06-8166-988e2844b652/vocals/c6a13b6c-26cc-4af0-ac06-91d62f91fded.wav",
+   "./MoisesDB/moisesdb_v0.1/bb45cf1a-4c58-4fe3-88ea-97ef27527507/vocals/721078fc-be8d-4be6-ae21-f9f68056f065.wav",
+   "./MoisesDB/moisesdb_v0.1/7bfa233c-24ed-4c7a-9096-11e3aa00c55d/vocals/df270105-995f-4796-926a-ece9a6f9b07b.wav",
+   "./MoisesDB/moisesdb_v0.1/a1dcaeb2-f4e6-4818-b490-09f44d624afc/vocals/92db30f7-2bab-4bb5-a8e2-642a731dbdb7.wav",
+   "./MoisesDB/moisesdb_v0.1/adb5e3fd-d039-42e4-b09b-fd0784fa0c82/vocals/7135dbe3-920a-46b8-89ca-958f9210acd3.wav"
+  ],
+  "organ,_electric_organ": [
+   "./MoisesDB/moisesdb_v0.1/25789239-1075-43b9-bfc9-51dff4a29590/other_keys/369aed96-50b2-4f3d-aa91-92fac9fa00ee.wav",
+   "./MoisesDB/moisesdb_v0.1/c70471f9-9c4a-41c9-b8f8-20ac38847a8e/other_keys/8f318a1b-3929-468b-a138-0ae1f09d1675.wav",
+   "./MoisesDB/moisesdb_v0.1/c70471f9-9c4a-41c9-b8f8-20ac38847a8e/other_keys/6d9134e3-7228-4208-91d3-951e6fdcfb17.wav",
+   "./MoisesDB/moisesdb_v0.1/3e656eec-84d4-4a45-b410-d3817d849f92/other_keys/272c2f39-1c8b-49aa-84ee-5c27556797d8.wav",
+   "./MoisesDB/moisesdb_v0.1/491c1ff5-1e7b-4046-8029-a82d4a8aefb4/other_keys/a855bc59-0844-4231-9b15-3801eafd378a.wav",
+   "./MoisesDB/moisesdb_v0.1/93dda0e8-dd76-49e4-b08f-54a82387cdf6/other_keys/aa446c45-84c8-4b7e-9f05-57c1e77ef25b.wav",
+   "./MoisesDB/moisesdb_v0.1/11845abc-8ca3-4fb2-bd84-521aeeff56f4/other_keys/877905f3-241c-4ae0-b10c-dae8a50b510b.wav",
+   "./MoisesDB/moisesdb_v0.1/5a6df5c7-a58a-479e-bdfb-c5946c221933/other_keys/b2f5de5b-8e4e-42f3-94c8-04708a724ff7.wav",
+   "./MoisesDB/moisesdb_v0.1/5640831d-7853-4d06-8166-988e2844b652/other_keys/4962fb9b-2190-4667-8217-9fc2d561a2aa.wav",
+   "./MoisesDB/moisesdb_v0.1/adb5e3fd-d039-42e4-b09b-fd0784fa0c82/other_keys/4bb675cd-2df8-4523-9353-af7e359f2c39.wav"
+  ],
+  "contrabass_double_bass_(bass_of_instrings)": [
+   "./MoisesDB/moisesdb_v0.1/8f36f17f-c033-4c1b-a793-80dce43d507b/bass/a2852e09-46de-4b66-9e20-1e5f13d0b899.wav",
+   "./MoisesDB/moisesdb_v0.1/48c78ca6-18e9-42f2-9f05-fdbee90a7786/bass/208781eb-b722-4235-80fc-6cc79f40282e.wav",
+   "./MoisesDB/moisesdb_v0.1/11845abc-8ca3-4fb2-bd84-521aeeff56f4/bass/b91fadcf-9876-47dd-9111-1e3efcd0fcd0.wav"
+  ],
+  "clean_electric_guitar": [
+   "./MoisesDB/moisesdb_v0.1/8f36f17f-c033-4c1b-a793-80dce43d507b/guitar/9ec1f9ef-ccb4-448c-b491-9448fd9cfa07.wav",
+   "./MoisesDB/moisesdb_v0.1/8042b88a-6179-406b-9ec4-b45a4cdd4a71/guitar/437f3c86-ec46-4a2d-9a31-6b462c22ed0f.wav",
+   "./MoisesDB/moisesdb_v0.1/8042b88a-6179-406b-9ec4-b45a4cdd4a71/guitar/6241177a-fb70-4588-b690-b5a3e8092317.wav",
+   "./MoisesDB/moisesdb_v0.1/1afe1b3b-3e2e-48d3-b859-f50e222cbaf4/guitar/5faabb79-9f30-41c4-aa05-65004872a776.wav",
+   "./MoisesDB/moisesdb_v0.1/78ef22ce-472f-4f82-8656-16df73b9465f/guitar/0c73c482-9cbb-417e-bdbc-f083782dc35a.wav",
+   "./MoisesDB/moisesdb_v0.1/a199697c-3cdc-47c7-a9c7-c1b07dd6c9dd/guitar/1ae686be-b783-4150-a0a3-b0cb7b0ed9a9.wav",
+   "./MoisesDB/moisesdb_v0.1/c6d73235-1dd5-4085-a3b3-50a3466c6168/guitar/4c782a02-c70b-4d34-902d-b2aca57b48a7.wav",
+   "./MoisesDB/moisesdb_v0.1/c70471f9-9c4a-41c9-b8f8-20ac38847a8e/guitar/e28635d3-3148-40eb-b36d-c771b7a4de45.wav",
+   "./MoisesDB/moisesdb_v0.1/c70471f9-9c4a-41c9-b8f8-20ac38847a8e/guitar/d45e68cb-b2ce-4c38-ba00-421afdf21e62.wav",
+   "./MoisesDB/moisesdb_v0.1/fc3c9e48-e2ac-4088-af65-68404baa7f12/guitar/b0b0ee76-0b51-424a-98ca-66bd4f48099c.wav",
+   "./MoisesDB/moisesdb_v0.1/fc3c9e48-e2ac-4088-af65-68404baa7f12/guitar/02283002-4bc6-448a-81ab-1e8aed2afcf9.wav",
+   "./MoisesDB/moisesdb_v0.1/0d528a19-cb0f-4421-b250-444f9343e51c/guitar/9517b60d-9f82-4ede-bb37-bf2e878b240f.wav",
+   "./MoisesDB/moisesdb_v0.1/3e656eec-84d4-4a45-b410-d3817d849f92/guitar/ff956022-ea72-47ac-b3ed-4a4f4e5d4f4e.wav",
+   "./MoisesDB/moisesdb_v0.1/3e656eec-84d4-4a45-b410-d3817d849f92/guitar/bd7bf906-2862-4dfd-84c0-92ecbc13e1c3.wav",
+   "./MoisesDB/moisesdb_v0.1/215391aa-1168-42dd-9cab-f8b0c6ff566b/guitar/43d51956-ceb3-463f-8ccc-16b3658f1600.wav",
+   "./MoisesDB/moisesdb_v0.1/125fc63d-9b69-4170-a46a-42c91bc28446/guitar/1e9793b7-d817-47a3-81da-33883b3849da.wav",
+   "./MoisesDB/moisesdb_v0.1/93dda0e8-dd76-49e4-b08f-54a82387cdf6/guitar/729e8994-d5d7-40f1-b339-c666b81e54e4.wav",
+   "./MoisesDB/moisesdb_v0.1/93dda0e8-dd76-49e4-b08f-54a82387cdf6/guitar/4d6de58d-bbe1-4c62-8398-f68d22718636.wav",
+   "./MoisesDB/moisesdb_v0.1/93dda0e8-dd76-49e4-b08f-54a82387cdf6/guitar/96cde1c6-6d83-402b-baba-b1b57dc6f46a.wav",
+   "./MoisesDB/moisesdb_v0.1/93dda0e8-dd76-49e4-b08f-54a82387cdf6/guitar/3faa40e8-a84c-46c9-a7f5-55c7de30b9b2.wav",
+   "./MoisesDB/moisesdb_v0.1/93dda0e8-dd76-49e4-b08f-54a82387cdf6/guitar/10e0e302-a03b-41a8-b7e1-47576439a33b.wav",
+   "./MoisesDB/moisesdb_v0.1/aa600069-0a98-45e6-94fa-4000bfe46c25/guitar/46d37d04-a0c3-49f6-ba91-f5e5c47a03ef.wav",
+   "./MoisesDB/moisesdb_v0.1/07fb2df2-91d6-458d-9230-9638b4edac08/guitar/92e78b24-70cf-493b-b366-544ea5fdfa72.wav",
+   "./MoisesDB/moisesdb_v0.1/bb45cf1a-4c58-4fe3-88ea-97ef27527507/guitar/128e9318-854e-49c5-b7d8-c37ce377afa0.wav",
+   "./MoisesDB/moisesdb_v0.1/a1dcaeb2-f4e6-4818-b490-09f44d624afc/guitar/fbd3a1b2-3f71-4837-ad48-971ebf1bf6c7.wav",
+   "./MoisesDB/moisesdb_v0.1/adb5e3fd-d039-42e4-b09b-fd0784fa0c82/guitar/3a595679-7df6-4d32-90e7-6b86699242c4.wav",
+   "./MoisesDB/moisesdb_v0.1/adb5e3fd-d039-42e4-b09b-fd0784fa0c82/guitar/e111cb3d-d9b2-42b7-8326-7ab3bf8bb63a.wav"
+  ],
+  "cymbals": [
+   "./MoisesDB/moisesdb_v0.1/8f36f17f-c033-4c1b-a793-80dce43d507b/drums/e40eb3a2-2fec-4dae-8041-0d653bb30cf9.wav",
+   "./MoisesDB/moisesdb_v0.1/3c3b5fdb-f15e-4ba4-884a-b083ce2426c6/drums/a5d06545-1f28-4039-b1de-6229f32a75f6.wav",
+   "./MoisesDB/moisesdb_v0.1/8042b88a-6179-406b-9ec4-b45a4cdd4a71/drums/ac9c9f4e-8d66-448e-be0a-71690a5025c6.wav",
+   "./MoisesDB/moisesdb_v0.1/a199697c-3cdc-47c7-a9c7-c1b07dd6c9dd/drums/2e61c6fa-1d11-4f29-b19c-65e7a3e34a7a.wav",
+   "./MoisesDB/moisesdb_v0.1/dda2c057-6d73-43fa-a130-d7d6562c09ca/drums/9c03aa9c-fbe5-4e76-a213-b878d4f5e803.wav",
+   "./MoisesDB/moisesdb_v0.1/fc3c9e48-e2ac-4088-af65-68404baa7f12/drums/9bae4b8c-a4fc-4249-ac21-6b695e50d9e1.wav",
+   "./MoisesDB/moisesdb_v0.1/0d528a19-cb0f-4421-b250-444f9343e51c/drums/aeef6072-c480-42a6-9885-fee23af36e6f.wav",
+   "./MoisesDB/moisesdb_v0.1/4999a0bf-a753-4e0e-85b1-690259dabf96/drums/90012aff-aa73-46cc-a581-b94bd11bf16a.wav",
+   "./MoisesDB/moisesdb_v0.1/8a6c9c1f-4865-404f-a805-1949de36a33c/drums/8b03ba06-8580-476f-a888-a11e44ed50de.wav",
+   "./MoisesDB/moisesdb_v0.1/06bfc6e7-e5ac-4827-bf8e-ffaf1675872f/drums/5b92300f-edd9-4815-8749-d4c936df2b58.wav",
+   "./MoisesDB/moisesdb_v0.1/f0c565c5-fc73-4da1-b979-0fac0167f671/drums/fb0c2713-47dd-4530-ac38-0a58e91e216c.wav",
+   "./MoisesDB/moisesdb_v0.1/1f98fe4d-26c7-460f-9f68-33964bc4d8d3/drums/de388cd2-653e-4430-abc2-55d2cabbf73d.wav",
+   "./MoisesDB/moisesdb_v0.1/dc61c44e-a771-47a9-8934-a0eb8f3e08ac/drums/a432430b-8dc0-4171-b0b3-2ba91780eb78.wav",
+   "./MoisesDB/moisesdb_v0.1/704f1de9-1d02-4c2b-af05-107a7700a51d/drums/95deb33c-e111-40b1-a835-7a95c70da68f.wav",
+   "./MoisesDB/moisesdb_v0.1/35983cdd-3903-46cb-b184-f96274ced57b/drums/c76276d4-cfd8-43ee-ad17-fe9c480d3cf0.wav",
+   "./MoisesDB/moisesdb_v0.1/a56d9450-3a26-485c-8ac3-24b6b54e2c1d/drums/061bf68b-45b1-49ab-a74d-5b50d2d8a304.wav",
+   "./MoisesDB/moisesdb_v0.1/adb5e3fd-d039-42e4-b09b-fd0784fa0c82/drums/7b0463c5-b0f2-47e0-b52b-ee49a7f14bf6.wav"
+  ],
+  "viola_(solo)": [
+   "./MoisesDB/moisesdb_v0.1/8f36f17f-c033-4c1b-a793-80dce43d507b/bowed_strings/9aa3c81c-269e-415d-b2c8-aaa4d209f796.wav"
+  ],
+  "brass_(trumpet,_trombone,_french_horn,_brass_etc)": [
+   "./MoisesDB/moisesdb_v0.1/8f36f17f-c033-4c1b-a793-80dce43d507b/wind/b4fbfd60-4579-48df-bcc6-e608ce27eb8c.wav",
+   "./MoisesDB/moisesdb_v0.1/fc3c9e48-e2ac-4088-af65-68404baa7f12/wind/5e0f2b1e-adfe-430b-a271-71e42776e433.wav",
+   "./MoisesDB/moisesdb_v0.1/aa600069-0a98-45e6-94fa-4000bfe46c25/wind/c6dbf551-f50c-4a82-b4e7-1534a107df21.wav",
+   "./MoisesDB/moisesdb_v0.1/5a6df5c7-a58a-479e-bdfb-c5946c221933/wind/01150717-0baa-4e22-ba05-2bd623a480a4.wav",
+   "./MoisesDB/moisesdb_v0.1/7bfa233c-24ed-4c7a-9096-11e3aa00c55d/wind/34230ff4-d7a8-4c2f-a304-6c8a318fc5d6.wav"
+  ],
+  "bass_synthesizer_(moog_etc)": [
+   "./MoisesDB/moisesdb_v0.1/8042b88a-6179-406b-9ec4-b45a4cdd4a71/bass/1da1c3b2-0fe1-46a4-a311-8b55772aee61.wav",
+   "./MoisesDB/moisesdb_v0.1/fc3c9e48-e2ac-4088-af65-68404baa7f12/bass/78cea825-f501-408c-8cf0-46498c2b8017.wav",
+   "./MoisesDB/moisesdb_v0.1/4999a0bf-a753-4e0e-85b1-690259dabf96/bass/8b5a5c95-6e9e-40a3-9f0b-00d2bedd9b2f.wav",
+   "./MoisesDB/moisesdb_v0.1/28748b6e-6125-42f7-998d-2ad734e39b6c/bass/02e4e949-9ab3-4823-ad2c-bb128252fc19.wav",
+   "./MoisesDB/moisesdb_v0.1/28748b6e-6125-42f7-998d-2ad734e39b6c/bass/ed462280-9679-41b6-bffa-2878155ba679.wav",
+   "./MoisesDB/moisesdb_v0.1/28748b6e-6125-42f7-998d-2ad734e39b6c/bass/7b40509e-03e5-42d5-8022-d63f5f130244.wav",
+   "./MoisesDB/moisesdb_v0.1/28748b6e-6125-42f7-998d-2ad734e39b6c/bass/72e687a2-0f28-4396-abb5-becca6af1443.wav",
+   "./MoisesDB/moisesdb_v0.1/93dda0e8-dd76-49e4-b08f-54a82387cdf6/bass/df42daf4-4386-4fd9-87b8-8b516b6f244f.wav",
+   "./MoisesDB/moisesdb_v0.1/35983cdd-3903-46cb-b184-f96274ced57b/bass/0845f45a-6b36-46b0-9d04-830bc94ccaf1.wav",
+   "./MoisesDB/moisesdb_v0.1/5640831d-7853-4d06-8166-988e2844b652/bass/a6bb76e5-282f-4479-ad10-647c118aac9f.wav"
+  ],
+  "drum_machine": [
+   "./MoisesDB/moisesdb_v0.1/8042b88a-6179-406b-9ec4-b45a4cdd4a71/drums/4bcddac6-d1da-49b4-b670-edb3022f5941.wav",
+   "./MoisesDB/moisesdb_v0.1/a199697c-3cdc-47c7-a9c7-c1b07dd6c9dd/drums/d32b0d65-2b78-4491-a96c-cc1eae8965ce.wav",
+   "./MoisesDB/moisesdb_v0.1/4999a0bf-a753-4e0e-85b1-690259dabf96/drums/3e5a09c8-55b8-4bd0-a7b9-bf28e24890f3.wav",
+   "./MoisesDB/moisesdb_v0.1/28748b6e-6125-42f7-998d-2ad734e39b6c/drums/14702491-a328-44c7-9581-7c0654bf2849.wav",
+   "./MoisesDB/moisesdb_v0.1/93dda0e8-dd76-49e4-b08f-54a82387cdf6/drums/76eb02ed-11e6-4adf-8dc2-7c4d1461a7bb.wav",
+   "./MoisesDB/moisesdb_v0.1/bb45cf1a-4c58-4fe3-88ea-97ef27527507/drums/72413ab9-cacf-4d34-a14e-ee81ba9974de.wav"
+  ],
+  "a-tonal_percussion_(claps,_shakers,_congas,_cowbell_etc)": [
+   "./MoisesDB/moisesdb_v0.1/8042b88a-6179-406b-9ec4-b45a4cdd4a71/percussion/2e5dbecf-4d9a-4bc4-8caa-a84a247fc665.wav",
+   "./MoisesDB/moisesdb_v0.1/c70471f9-9c4a-41c9-b8f8-20ac38847a8e/percussion/3a9edef5-6bf5-4666-8d56-790a0f75f0c1.wav",
+   "./MoisesDB/moisesdb_v0.1/c70471f9-9c4a-41c9-b8f8-20ac38847a8e/percussion/7bb23b67-e177-46d0-935f-37ade4c9cc69.wav",
+   "./MoisesDB/moisesdb_v0.1/48c78ca6-18e9-42f2-9f05-fdbee90a7786/percussion/b86c3036-d1c7-4301-adbd-267199a73ca0.wav",
+   "./MoisesDB/moisesdb_v0.1/fc3c9e48-e2ac-4088-af65-68404baa7f12/percussion/58666b82-177d-410d-8c3e-fe84b2ab1fc3.wav",
+   "./MoisesDB/moisesdb_v0.1/8a6c9c1f-4865-404f-a805-1949de36a33c/percussion/298379b4-f441-4946-b6c8-e33288809d1d.wav",
+   "./MoisesDB/moisesdb_v0.1/06bfc6e7-e5ac-4827-bf8e-ffaf1675872f/percussion/c7f626fe-ef11-4f3e-8c86-f8e0e3c41af2.wav",
+   "./MoisesDB/moisesdb_v0.1/215391aa-1168-42dd-9cab-f8b0c6ff566b/percussion/7810aedf-f694-402e-b98b-a05ec382b56e.wav",
+   "./MoisesDB/moisesdb_v0.1/f0c565c5-fc73-4da1-b979-0fac0167f671/percussion/2452461a-a379-40da-bba1-bac7a6d1439e.wav",
+   "./MoisesDB/moisesdb_v0.1/28748b6e-6125-42f7-998d-2ad734e39b6c/percussion/ef363fad-5edb-4697-9023-420fda0ff03a.wav",
+   "./MoisesDB/moisesdb_v0.1/4380ad97-2620-4419-a011-ddfa29a87f54/percussion/80926076-6500-4df7-b968-70c18bb7a6a7.wav",
+   "./MoisesDB/moisesdb_v0.1/35983cdd-3903-46cb-b184-f96274ced57b/percussion/191de8f1-bca8-4ec7-9dc0-37b7d1c6f66c.wav",
+   "./MoisesDB/moisesdb_v0.1/5a6df5c7-a58a-479e-bdfb-c5946c221933/percussion/29e17a1b-4c4a-48db-97e2-e7df2e3af447.wav",
+   "./MoisesDB/moisesdb_v0.1/7bfa233c-24ed-4c7a-9096-11e3aa00c55d/percussion/889e7ef5-146d-4621-85e7-0eb506792633.wav",
+   "./MoisesDB/moisesdb_v0.1/adb5e3fd-d039-42e4-b09b-fd0784fa0c82/percussion/7b156fcd-b660-4839-adc2-d1233aa0242e.wav"
+  ],
+  "synth_lead": [
+   "./MoisesDB/moisesdb_v0.1/8042b88a-6179-406b-9ec4-b45a4cdd4a71/other_keys/0f32628c-73ec-45ee-85e3-775fac0f437b.wav",
+   "./MoisesDB/moisesdb_v0.1/fc3c9e48-e2ac-4088-af65-68404baa7f12/other_keys/f16096cc-671e-4d93-8263-6c302ac509da.wav",
+   "./MoisesDB/moisesdb_v0.1/4999a0bf-a753-4e0e-85b1-690259dabf96/other_keys/b281e764-4bb1-4337-9e24-ee559762487b.wav",
+   "./MoisesDB/moisesdb_v0.1/4999a0bf-a753-4e0e-85b1-690259dabf96/other_keys/c07009e9-49ec-47fe-ae5c-44264510ee83.wav",
+   "./MoisesDB/moisesdb_v0.1/0358fd1e-244a-4422-9a42-29b5d68f6e4b/other_keys/b5b2143d-8028-4822-bc45-8f5b5cb53909.wav",
+   "./MoisesDB/moisesdb_v0.1/215391aa-1168-42dd-9cab-f8b0c6ff566b/other_keys/f7377afc-8b75-4725-83b3-c666dd61b8ff.wav",
+   "./MoisesDB/moisesdb_v0.1/dc61c44e-a771-47a9-8934-a0eb8f3e08ac/other_keys/f27ab994-a7bd-4457-ae91-fa7dd32df48e.wav",
+   "./MoisesDB/moisesdb_v0.1/5640831d-7853-4d06-8166-988e2844b652/other_keys/4277365e-fea5-4748-a442-c98301c4ef97.wav",
+   "./MoisesDB/moisesdb_v0.1/5640831d-7853-4d06-8166-988e2844b652/other_keys/98df9a80-14cf-487e-82ec-9a244bac0db5.wav",
+   "./MoisesDB/moisesdb_v0.1/5640831d-7853-4d06-8166-988e2844b652/other_keys/f8927ac6-0f67-4299-a73b-0f8feb24b380.wav",
+   "./MoisesDB/moisesdb_v0.1/5640831d-7853-4d06-8166-988e2844b652/other_keys/5e590861-6900-4244-95c3-eac404ef0baf.wav",
+   "./MoisesDB/moisesdb_v0.1/bb45cf1a-4c58-4fe3-88ea-97ef27527507/other_keys/3a8273cb-0fc9-46e5-bdb1-cc724c3fb98e.wav",
+   "./MoisesDB/moisesdb_v0.1/adb5e3fd-d039-42e4-b09b-fd0784fa0c82/other_keys/30d3ac9e-77d0-4d9c-9aa2-ba11ad42138f.wav"
+  ],
+  "synth_pad": [
+   "./MoisesDB/moisesdb_v0.1/8042b88a-6179-406b-9ec4-b45a4cdd4a71/other_keys/9a1b45d6-8ebc-4801-9465-bdace72b98a1.wav",
+   "./MoisesDB/moisesdb_v0.1/ad9bbefc-8762-46c9-b847-da14b10802b6/other_keys/d7e738dd-1887-4964-9a9c-8d483ef9db38.wav",
+   "./MoisesDB/moisesdb_v0.1/fc3c9e48-e2ac-4088-af65-68404baa7f12/other_keys/7ff62664-75a5-4aec-b32d-8fa78483eba5.wav",
+   "./MoisesDB/moisesdb_v0.1/fc3c9e48-e2ac-4088-af65-68404baa7f12/other_keys/daa3132c-425f-48f3-917b-31601274c0a9.wav",
+   "./MoisesDB/moisesdb_v0.1/4999a0bf-a753-4e0e-85b1-690259dabf96/other_keys/c8f15201-ff5e-4e4f-8223-e69b487cc15a.wav",
+   "./MoisesDB/moisesdb_v0.1/4999a0bf-a753-4e0e-85b1-690259dabf96/other_keys/1dd11a13-9736-497a-87ba-ee5a542a1e0f.wav",
+   "./MoisesDB/moisesdb_v0.1/4999a0bf-a753-4e0e-85b1-690259dabf96/other_keys/7c0dac47-436c-4e58-9e79-774a16e0515b.wav",
+   "./MoisesDB/moisesdb_v0.1/8a6c9c1f-4865-404f-a805-1949de36a33c/other_keys/e9ab389e-476f-4113-bfe6-a28ee54d4812.wav",
+   "./MoisesDB/moisesdb_v0.1/28748b6e-6125-42f7-998d-2ad734e39b6c/other_keys/27281734-bc48-4c07-bdce-ad3d719c5b47.wav",
+   "./MoisesDB/moisesdb_v0.1/35983cdd-3903-46cb-b184-f96274ced57b/other_keys/df7df1c8-f383-45cf-807c-4806c743820d.wav",
+   "./MoisesDB/moisesdb_v0.1/bb45cf1a-4c58-4fe3-88ea-97ef27527507/other_keys/1415d211-8705-4c0d-88f5-0777a57101c7.wav"
+  ],
+  "fx_processed_sound,_scratches,_gun_shots,_explosions_etc": [
+   "./MoisesDB/moisesdb_v0.1/8042b88a-6179-406b-9ec4-b45a4cdd4a71/other/1b7792bf-9497-4d5f-948e-4b9445995048.wav",
+   "./MoisesDB/moisesdb_v0.1/a199697c-3cdc-47c7-a9c7-c1b07dd6c9dd/other/94f18417-97c7-4699-83b6-6f78e683f28f.wav",
+   "./MoisesDB/moisesdb_v0.1/4999a0bf-a753-4e0e-85b1-690259dabf96/other/18c180a7-08e2-409c-b691-0998a6e62191.wav",
+   "./MoisesDB/moisesdb_v0.1/4999a0bf-a753-4e0e-85b1-690259dabf96/other/38671c76-3f0d-4a6b-9578-16203c2ca864.wav",
+   "./MoisesDB/moisesdb_v0.1/28748b6e-6125-42f7-998d-2ad734e39b6c/other/c59d1a0e-a2ad-4d8b-8510-241c4b917727.wav",
+   "./MoisesDB/moisesdb_v0.1/28748b6e-6125-42f7-998d-2ad734e39b6c/other/94a95149-58de-4c7c-a0b2-8bc9a3e69dea.wav",
+   "./MoisesDB/moisesdb_v0.1/28748b6e-6125-42f7-998d-2ad734e39b6c/other/5e38b9d6-e828-4ba6-8583-70859bf548d6.wav",
+   "./MoisesDB/moisesdb_v0.1/35983cdd-3903-46cb-b184-f96274ced57b/other/f0266cfa-1c00-49f7-95ed-1557c1f6b2ef.wav",
+   "./MoisesDB/moisesdb_v0.1/adb5e3fd-d039-42e4-b09b-fd0784fa0c82/other/36055991-6091-4b7e-aadf-b758e9e4a90c.wav"
+  ],
+  "electric_piano_(rhodes,_wurlitzer,_piano_sound_alike)": [
+   "./MoisesDB/moisesdb_v0.1/1afe1b3b-3e2e-48d3-b859-f50e222cbaf4/piano/4020ae67-d534-40ec-aec2-5ac9bb93fe50.wav",
+   "./MoisesDB/moisesdb_v0.1/4380ad97-2620-4419-a011-ddfa29a87f54/piano/a6e55da5-8364-4dcd-ae0f-c41a15b1521f.wav",
+   "./MoisesDB/moisesdb_v0.1/93dda0e8-dd76-49e4-b08f-54a82387cdf6/piano/ccb4dd72-6add-4d17-80d8-24e1e1e137f3.wav",
+   "./MoisesDB/moisesdb_v0.1/aa600069-0a98-45e6-94fa-4000bfe46c25/piano/4043ee3b-c521-4f1f-9887-1bc954665daa.wav",
+   "./MoisesDB/moisesdb_v0.1/bb45cf1a-4c58-4fe3-88ea-97ef27527507/piano/8cfe1959-daf2-4367-9bd1-49653c9092c1.wav",
+   "./MoisesDB/moisesdb_v0.1/adb5e3fd-d039-42e4-b09b-fd0784fa0c82/piano/8b3a0415-1a1f-4292-a068-163738a54efb.wav"
+  ],
+  "string_section": [
+   "./MoisesDB/moisesdb_v0.1/1afe1b3b-3e2e-48d3-b859-f50e222cbaf4/bowed_strings/b24f13d3-add5-4d16-9986-c27fa59b77fb.wav",
+   "./MoisesDB/moisesdb_v0.1/a199697c-3cdc-47c7-a9c7-c1b07dd6c9dd/bowed_strings/6897baaa-b548-4ee3-9035-43b3ba7c3b52.wav",
+   "./MoisesDB/moisesdb_v0.1/3e656eec-84d4-4a45-b410-d3817d849f92/bowed_strings/3ac9ba9b-dd52-4856-8465-b54a71af0dca.wav",
+   "./MoisesDB/moisesdb_v0.1/4380ad97-2620-4419-a011-ddfa29a87f54/bowed_strings/3f938c53-2ca3-4878-a754-de6b5656ec79.wav",
+   "./MoisesDB/moisesdb_v0.1/93dda0e8-dd76-49e4-b08f-54a82387cdf6/bowed_strings/2f06b95c-87ea-4bd5-a398-76736b5c4e5b.wav",
+   "./MoisesDB/moisesdb_v0.1/aa600069-0a98-45e6-94fa-4000bfe46c25/bowed_strings/f06f2b1c-f329-4b1f-898b-b1f20d58d3cf.wav",
+   "./MoisesDB/moisesdb_v0.1/07fb2df2-91d6-458d-9230-9638b4edac08/bowed_strings/f86a181c-3844-4bff-9b6c-3911647701c9.wav",
+   "./MoisesDB/moisesdb_v0.1/bb45cf1a-4c58-4fe3-88ea-97ef27527507/bowed_strings/d152a8cc-8eee-4014-bf4c-9d0148f595f9.wav",
+   "./MoisesDB/moisesdb_v0.1/7bfa233c-24ed-4c7a-9096-11e3aa00c55d/bowed_strings/5e9c64e4-1154-4510-ad83-0718474bc35f.wav"
+  ],
+  "lead_female_singer": [
+   "./MoisesDB/moisesdb_v0.1/78ef22ce-472f-4f82-8656-16df73b9465f/vocals/b7c34503-aedd-4098-87f3-38eed8e80e0f.wav",
+   "./MoisesDB/moisesdb_v0.1/c6d73235-1dd5-4085-a3b3-50a3466c6168/vocals/3d547647-3cec-4e1b-adf6-d64561fec1b2.wav",
+   "./MoisesDB/moisesdb_v0.1/c70471f9-9c4a-41c9-b8f8-20ac38847a8e/vocals/8d8c949a-dd62-49bf-98ea-5d35af405232.wav",
+   "./MoisesDB/moisesdb_v0.1/8a6c9c1f-4865-404f-a805-1949de36a33c/vocals/229a29e3-4ea1-4cb0-a4c2-637e6f2cb1dd.wav",
+   "./MoisesDB/moisesdb_v0.1/06bfc6e7-e5ac-4827-bf8e-ffaf1675872f/vocals/640c8d5a-bc48-4a5f-8650-9033f37df635.wav",
+   "./MoisesDB/moisesdb_v0.1/f0c565c5-fc73-4da1-b979-0fac0167f671/vocals/ae9ea42d-66df-4f45-9410-6e27167476c0.wav",
+   "./MoisesDB/moisesdb_v0.1/28748b6e-6125-42f7-998d-2ad734e39b6c/vocals/83e618cd-18c6-43b7-a9a3-6593ea36dedc.wav",
+   "./MoisesDB/moisesdb_v0.1/125fc63d-9b69-4170-a46a-42c91bc28446/vocals/4307181a-6cde-4879-a4c1-cd49b163d1d2.wav",
+   "./MoisesDB/moisesdb_v0.1/93dda0e8-dd76-49e4-b08f-54a82387cdf6/vocals/66109004-9336-40a0-85ce-7c47fe148209.wav",
+   "./MoisesDB/moisesdb_v0.1/a56d9450-3a26-485c-8ac3-24b6b54e2c1d/vocals/49c48b9a-fe7b-4461-95bd-86af3fb63e7b.wav",
+   "./MoisesDB/moisesdb_v0.1/5640831d-7853-4d06-8166-988e2844b652/vocals/baa161e6-9c85-4612-ae91-a1194ad21127.wav",
+   "./MoisesDB/moisesdb_v0.1/bb45cf1a-4c58-4fe3-88ea-97ef27527507/vocals/aafe7592-4a27-4e68-a336-46f6bbc4e857.wav"
+  ],
+  "reeds_(saxophone,_clarinets,_oboe,_english_horn,_bagpipe)": [
+   "./MoisesDB/moisesdb_v0.1/78ef22ce-472f-4f82-8656-16df73b9465f/wind/173981af-a135-4fa7-ad72-1d78c7c36f11.wav",
+   "./MoisesDB/moisesdb_v0.1/c6d73235-1dd5-4085-a3b3-50a3466c6168/wind/7e0b254d-d655-4c02-af67-d6543c007662.wav",
+   "./MoisesDB/moisesdb_v0.1/125fc63d-9b69-4170-a46a-42c91bc28446/wind/23ffbbf0-8fc1-44e7-841b-aa483eb144b2.wav",
+   "./MoisesDB/moisesdb_v0.1/7bfa233c-24ed-4c7a-9096-11e3aa00c55d/wind/7ea78e0f-a3e7-42ae-bf05-e98b7b5ce50b.wav"
+  ],
+  "other_strings": [
+   "./MoisesDB/moisesdb_v0.1/c70471f9-9c4a-41c9-b8f8-20ac38847a8e/bowed_strings/31556311-7dc7-4513-a719-e2f89e6c5eef.wav"
+  ],
+  "other_sounds_(hapischord,_melotron_etc)": [
+   "./MoisesDB/moisesdb_v0.1/48c78ca6-18e9-42f2-9f05-fdbee90a7786/other_keys/d11887e8-1535-4ed0-b68b-875b48af5d35.wav",
+   "./MoisesDB/moisesdb_v0.1/28748b6e-6125-42f7-998d-2ad734e39b6c/other_keys/620cb276-d924-4327-bd78-b54dc46e085c.wav",
+   "./MoisesDB/moisesdb_v0.1/93dda0e8-dd76-49e4-b08f-54a82387cdf6/other_keys/67cd4619-21d8-4274-bd3c-449262368991.wav",
+   "./MoisesDB/moisesdb_v0.1/5a6df5c7-a58a-479e-bdfb-c5946c221933/other_keys/e0e6fcf2-6ef7-44c0-bd72-63d3910e4bb3.wav"
+  ],
+  "flutes_(piccolo,_bamboo_flute,_panpipes,_flutes_etc)": [
+   "./MoisesDB/moisesdb_v0.1/48c78ca6-18e9-42f2-9f05-fdbee90a7786/wind/e31b1703-d0e4-4c2e-bb6f-51303948df96.wav"
+  ],
+  "pitched_percussion_(mallets,_glockenspiel,_...)": [
+   "./MoisesDB/moisesdb_v0.1/0358fd1e-244a-4422-9a42-29b5d68f6e4b/percussion/9fb19e6b-4e0d-4c32-a4df-00f46e6ad4e9.wav",
+   "./MoisesDB/moisesdb_v0.1/491c1ff5-1e7b-4046-8029-a82d4a8aefb4/percussion/a78fe70b-6880-4ea8-a4e6-0fcfef9f0edb.wav"
+  ],
+  "full_acoustic_drumkit": [
+   "./MoisesDB/moisesdb_v0.1/491c1ff5-1e7b-4046-8029-a82d4a8aefb4/drums/43a7b9c4-7abb-4d8a-972b-2b5139d052af.wav",
+   "./MoisesDB/moisesdb_v0.1/606e3380-b062-4b74-88ac-b60d6f4d0a37/drums/d290c18b-60a3-4cc0-b0a6-8bda2f92abe9.wav",
+   "./MoisesDB/moisesdb_v0.1/93dda0e8-dd76-49e4-b08f-54a82387cdf6/drums/9eb2ac77-577c-473d-ba29-d125bcd9f271.wav",
+   "./MoisesDB/moisesdb_v0.1/5640831d-7853-4d06-8166-988e2844b652/drums/c789eeeb-1a98-4279-9f3f-eac9337c3ece.wav",
+   "./MoisesDB/moisesdb_v0.1/a1dcaeb2-f4e6-4818-b490-09f44d624afc/drums/f8b6dd88-2f93-4eac-a8eb-3a0bea495e45.wav"
+  ],
+  "banjo,_mandolin,_ukulele,_harp_etc": [
+   "./MoisesDB/moisesdb_v0.1/5a6df5c7-a58a-479e-bdfb-c5946c221933/other_plucked/d98ff66a-d17f-4414-ba84-72cc1a51f65c.wav"
+  ],
+  "other_wind": [
+   "./MoisesDB/moisesdb_v0.1/5a6df5c7-a58a-479e-bdfb-c5946c221933/wind/ad2ae77a-b7ee-4b2d-9677-33708e8b1a13.wav"
+  ],
+  "other_(vocoder,_beatboxing_etc)": [
+   "./MoisesDB/moisesdb_v0.1/adb5e3fd-d039-42e4-b09b-fd0784fa0c82/vocals/ede73412-9b37-4030-8f65-d01a48909c33.wav"
+  ]
+ },
+ "stem_tax": {
+  "bass": [
+   "bass_guitar",
+   "bass_synthesizer_(moog_etc)",
+   "contrabass_double_bass_(bass_of_instrings)"
+  ],
+  "bowed strings": [
+   "other_strings",
+   "string_section",
+   "viola_(solo)"
+  ],
+  "drums": [
+   "cymbals",
+   "drum_machine",
+   "full_acoustic_drumkit",
+   "hi_hat",
+   "kick_drum",
+   "overheads",
+   "snare_drum",
+   "toms"
+  ],
+  "guitar": [
+   "acoustic_guitar",
+   "clean_electric_guitar",
+   "distorted_electric_guitar"
+  ],
+  "other": [
+   "fx_processed_sound,_scratches,_gun_shots,_explosions_etc"
+  ],
+  "other keys": [
+   "organ,_electric_organ",
+   "other_sounds_(hapischord,_melotron_etc)",
+   "synth_lead",
+   "synth_pad"
+  ],
+  "other plucked": [
+   "banjo,_mandolin,_ukulele,_harp_etc"
+  ],
+  "percussion": [
+   "a-tonal_percussion_(claps,_shakers,_congas,_cowbell_etc)",
+   "pitched_percussion_(mallets,_glockenspiel,_...)"
+  ],
+  "piano": [
+   "grand_piano",
+   "electric_piano_(rhodes,_wurlitzer,_piano_sound_alike)"
+  ],
+  "vocals": [
+   "background_vocals",
+   "lead_female_singer",
+   "lead_male_singer",
+   "other_(vocoder,_beatboxing_etc)"
+  ],
+  "wind": [
+   "brass_(trumpet,_trombone,_french_horn,_brass_etc)",
+   "flutes_(piccolo,_bamboo_flute,_panpipes,_flutes_etc)",
+   "other_wind",
+   "reeds_(saxophone,_clarinets,_oboe,_english_horn,_bagpipe)"
+  ]
+ }
+}

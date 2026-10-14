@@ -1,0 +1,21 @@
+# Latent flow-matching DiT separator on DAC-VAE latents.
+
+defaults:
+- backbone: DiT_separator
+- _self_
+_target_: query_conditioned_dit.separator.LatentFlowSeparator
+query_model:
+  _target_: query_conditioned_bslocoformer.query_model.PasstWrapper
+query_adapter:
+  _target_: query_conditioned_bslocoformer.query_model.PcaAdapter
+  pca_pkl: src/query_conditioned_bslocoformer/pca_params_train.pkl
+codec:
+  _target_: query_conditioned_dit.codec.DacVaeCodec
+  model_id: facebook/dacvae-watermarked
+  audio_sr: 44100
+  bf16: true
+  compile: true
+latent_scale: 0.7013
+t_min: 0.0001
+t_max: 1.0
+p_mix_drop: 0.1

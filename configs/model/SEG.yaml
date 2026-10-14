@@ -1,0 +1,25 @@
+# Stem embedding generator (SEG): recursive flow matching over PCA-128 PaSST
+# embeddings, conditioned on the mixture and the previously generated queries.
+
+defaults:
+- backbone: SEG_DiT
+- _self_
+_target_: source_embedding_generator.recursive_fm.RecursiveFMGenerator
+query_model:
+  _target_: query_conditioned_bslocoformer.query_model.PasstWrapper
+query_adapter:
+  _target_: query_conditioned_bslocoformer.query_model.PcaAdapter
+  pca_pkl: src/query_conditioned_bslocoformer/pca_params_train.pkl
+mixture_encoder:
+  _target_: source_embedding_generator.mixture_encoder.DacVaeMixtureEncoder
+  audio_sr: ${model.sample_rate}
+stop_cos: 0.9
+sample_rate: 44100
+use_mixture_passt: true
+use_residual_embedding: false
+init_from: null
+init_use_ema: true
+diffusion_params:
+  sigma_data: 2.5333
+  t_min: 0.0001
+  t_max: 1.0

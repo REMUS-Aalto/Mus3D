@@ -1,0 +1,47 @@
+[project]
+name = "mus3d"
+version = "0.1.0"
+description = "MuS3D: music source separation via stem discovery"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    # models and training
+    "torch>=2.12.0",
+    "torchaudio>=2.11.0",
+    "accelerate>=1.14.0",
+    "ema-pytorch>=0.7.9",
+    "einops>=0.8.2",
+    "hydra-core>=1.3.3",
+    "omegaconf>=2.3.1",
+    "wandb>=0.27.2",
+    "numpy>=2.4.6",
+    "scipy>=1.17.1",
+    "tqdm>=4.68.3",
+    "packaging>=26.2",
+    # pretrained frozen encoders and checkpoints
+    "hear21passt>=0.0.26",           # PaSST query encoder
+    "dacvae",                        # DAC-VAE codec (DiT separator, SEG conditioning)
+    "transformers>=5.14.1",          # MERT (evaluation)
+    "huggingface-hub>=1.19.0",       # SAM-Audio checkpoint download
+    # audio I/O, features and augmentation
+    "soundfile>=0.14.0",
+    "librosa>=0.11.0",
+    "spafe>=0.3.3",                  # band-split filterbanks (BS-Locoformer)
+    "pymixconsole",
+    "numba>=0.65.1",
+    "audiomentations>=0.43.1",       # pitch shift
+    # classifiers, evaluation and dataset preparation
+    "scikit-learn>=1.9.0",
+    "matplotlib>=3.9.0",
+    "pandas>=3.0.5",
+    "pyyaml>=6.0.3",
+]
+
+[tool.uv.sources]
+pymixconsole = { git = "https://github.com/csteinmetz1/pymixconsole" }
+dacvae = { git = "https://github.com/facebookresearch/dacvae", rev = "414c20785fc3a28373073ea8ef7a1316eeeaca6e" }
+
+[tool.uv]
+# descript-audiotools (a dacvae dependency) pins protobuf<3.20, which conflicts
+# with wandb; the DAC-VAE code path does not use protobuf.
+override-dependencies = ["protobuf>=5.29"]

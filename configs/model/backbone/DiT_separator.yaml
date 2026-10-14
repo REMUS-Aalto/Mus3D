@@ -1,0 +1,15 @@
+# SAM-Audio-large DiT (2.2B) with query + level conditioning via adaLN modulation
+# (cross-attention removed). `init_from`: the released SAM-Audio checkpoint (Hugging Face
+# repo id or local checkpoint.pt), converted when the model is built.
+
+_target_: query_conditioned_dit.modulation_backbone.QueryLevelModulatedSamAudioDiT
+latent_dim: 128
+cond_dim: 128
+dim: 2816
+n_layers: 22
+n_heads: 22
+dropout: 0.0
+qk_norm: true
+max_positions: 10000
+flip_time: true
+init_from: facebook/sam-audio-large

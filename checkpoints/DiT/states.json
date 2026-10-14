@@ -1,0 +1,7 @@
+{
+  "global_step": 310001,
+  "best_metrics": 1.1716270543634892,
+  "prev_metrics": Infinity,
+  "latest_metrics": 1.3308777214959264,
+  "best_metric_kind": "val_si_sdr_latent_target"
+}

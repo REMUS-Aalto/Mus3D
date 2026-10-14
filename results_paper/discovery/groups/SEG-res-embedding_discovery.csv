@@ -1,0 +1,1066 @@
+song,segment_index,predicted_names
+0358fd1e-244a-4422-9a42-29b5d68f6e4b,0,drums|guitar
+0358fd1e-244a-4422-9a42-29b5d68f6e4b,1,bass|guitar|drums
+0358fd1e-244a-4422-9a42-29b5d68f6e4b,2,drums|guitar
+0358fd1e-244a-4422-9a42-29b5d68f6e4b,3,vocals|guitar|drums|bass
+0358fd1e-244a-4422-9a42-29b5d68f6e4b,4,vocals|drums|guitar
+0358fd1e-244a-4422-9a42-29b5d68f6e4b,5,vocals|guitar|percussion
+0358fd1e-244a-4422-9a42-29b5d68f6e4b,6,drums|drums|guitar|vocals
+0358fd1e-244a-4422-9a42-29b5d68f6e4b,7,guitar|vocals|drums
+0358fd1e-244a-4422-9a42-29b5d68f6e4b,8,guitar|drums|piano
+0358fd1e-244a-4422-9a42-29b5d68f6e4b,9,drums|guitar|vocals
+0358fd1e-244a-4422-9a42-29b5d68f6e4b,10,guitar|drums|vocals
+0358fd1e-244a-4422-9a42-29b5d68f6e4b,11,drums|guitar|vocals|bass
+0358fd1e-244a-4422-9a42-29b5d68f6e4b,12,vocals|piano|drums|guitar
+0358fd1e-244a-4422-9a42-29b5d68f6e4b,13,vocals|drums|guitar
+0358fd1e-244a-4422-9a42-29b5d68f6e4b,14,bass|drums|guitar|piano
+0358fd1e-244a-4422-9a42-29b5d68f6e4b,15,drums|guitar|drums|drums
+0358fd1e-244a-4422-9a42-29b5d68f6e4b,16,vocals|guitar|drums
+0358fd1e-244a-4422-9a42-29b5d68f6e4b,17,drums|guitar|vocals
+0358fd1e-244a-4422-9a42-29b5d68f6e4b,18,guitar|drums|bass|vocals
+0358fd1e-244a-4422-9a42-29b5d68f6e4b,19,piano|guitar|vocals|drums
+0358fd1e-244a-4422-9a42-29b5d68f6e4b,20,drums|guitar|piano
+0358fd1e-244a-4422-9a42-29b5d68f6e4b,21,bass|guitar|piano|drums
+0358fd1e-244a-4422-9a42-29b5d68f6e4b,22,guitar|drums|vocals
+0358fd1e-244a-4422-9a42-29b5d68f6e4b,23,guitar|vocals|bass
+0358fd1e-244a-4422-9a42-29b5d68f6e4b,24,drums|guitar|bass
+0358fd1e-244a-4422-9a42-29b5d68f6e4b,25,drums|bass|vocals|guitar
+0358fd1e-244a-4422-9a42-29b5d68f6e4b,26,other keys|guitar|vocals|drums|bass
+0358fd1e-244a-4422-9a42-29b5d68f6e4b,27,bass|guitar|drums|guitar
+0358fd1e-244a-4422-9a42-29b5d68f6e4b,28,guitar|other|other|bass|drums
+0358fd1e-244a-4422-9a42-29b5d68f6e4b,29,vocals|guitar|other|guitar|drums|bass
+0358fd1e-244a-4422-9a42-29b5d68f6e4b,30,drums|vocals|guitar|other keys
+0358fd1e-244a-4422-9a42-29b5d68f6e4b,31,other keys|drums|drums
+05e7af85-9721-4b42-952a-ccd34feb6033,0,guitar|bass|drums
+05e7af85-9721-4b42-952a-ccd34feb6033,1,guitar|guitar|bass|drums
+05e7af85-9721-4b42-952a-ccd34feb6033,2,guitar|guitar|percussion|drums|vocals|bass
+05e7af85-9721-4b42-952a-ccd34feb6033,3,bass|guitar|vocals|drums
+05e7af85-9721-4b42-952a-ccd34feb6033,4,guitar|percussion|vocals|bass|drums|guitar|other keys
+05e7af85-9721-4b42-952a-ccd34feb6033,5,bowed strings|vocals|guitar|drums|bass
+05e7af85-9721-4b42-952a-ccd34feb6033,6,drums|guitar|bass|vocals|percussion
+05e7af85-9721-4b42-952a-ccd34feb6033,7,bass|guitar|vocals|guitar|drums
+05e7af85-9721-4b42-952a-ccd34feb6033,8,guitar|vocals|bass|drums|piano
+05e7af85-9721-4b42-952a-ccd34feb6033,9,bass|guitar|drums|bass|vocals
+05e7af85-9721-4b42-952a-ccd34feb6033,10,vocals|guitar|bass|drums
+05e7af85-9721-4b42-952a-ccd34feb6033,11,vocals|guitar|bass|bowed strings|drums
+05e7af85-9721-4b42-952a-ccd34feb6033,12,bass|guitar|vocals|drums
+05e7af85-9721-4b42-952a-ccd34feb6033,13,vocals|bass|drums|guitar
+05e7af85-9721-4b42-952a-ccd34feb6033,14,other keys|bass|guitar|drums
+05e7af85-9721-4b42-952a-ccd34feb6033,15,bass|other|drums|guitar|vocals
+05e7af85-9721-4b42-952a-ccd34feb6033,16,guitar|vocals|bass|drums
+06bfc6e7-e5ac-4827-bf8e-ffaf1675872f,0,drums|bass|percussion|guitar
+06bfc6e7-e5ac-4827-bf8e-ffaf1675872f,1,guitar|drums|vocals|other keys|bass|drums
+06bfc6e7-e5ac-4827-bf8e-ffaf1675872f,2,percussion|guitar|drums|bass|vocals|other keys
+06bfc6e7-e5ac-4827-bf8e-ffaf1675872f,3,drums|vocals|bass|guitar|other keys
+06bfc6e7-e5ac-4827-bf8e-ffaf1675872f,4,guitar|vocals|drums|bass
+07fb2df2-91d6-458d-9230-9638b4edac08,0,guitar|vocals|drums|piano
+07fb2df2-91d6-458d-9230-9638b4edac08,1,drums|guitar|bass
+07fb2df2-91d6-458d-9230-9638b4edac08,2,drums|guitar|vocals|guitar|piano
+07fb2df2-91d6-458d-9230-9638b4edac08,3,drums|piano|guitar|vocals
+07fb2df2-91d6-458d-9230-9638b4edac08,4,guitar|guitar|drums|piano|vocals
+07fb2df2-91d6-458d-9230-9638b4edac08,5,drums|guitar|bass|vocals
+07fb2df2-91d6-458d-9230-9638b4edac08,6,guitar|piano|bass|drums|guitar|vocals
+07fb2df2-91d6-458d-9230-9638b4edac08,7,piano|drums|guitar|vocals|guitar|piano|bass
+07fb2df2-91d6-458d-9230-9638b4edac08,8,drums|piano|bass|wind|guitar|vocals
+07fb2df2-91d6-458d-9230-9638b4edac08,9,piano|guitar|drums|bass|guitar|vocals
+07fb2df2-91d6-458d-9230-9638b4edac08,10,vocals|bass|guitar|drums|piano|guitar
+07fb2df2-91d6-458d-9230-9638b4edac08,11,guitar|percussion|bass|drums|guitar|vocals
+07fb2df2-91d6-458d-9230-9638b4edac08,12,bass|guitar|drums|guitar|vocals|piano
+07fb2df2-91d6-458d-9230-9638b4edac08,13,drums|guitar|bass|other keys|guitar
+07fb2df2-91d6-458d-9230-9638b4edac08,14,drums|drums|vocals|guitar
+07fb2df2-91d6-458d-9230-9638b4edac08,15,guitar|bass|drums|vocals
+07fb2df2-91d6-458d-9230-9638b4edac08,16,piano|drums|guitar|drums|vocals|guitar
+07fb2df2-91d6-458d-9230-9638b4edac08,17,drums|percussion|bass|guitar|guitar|vocals
+07fb2df2-91d6-458d-9230-9638b4edac08,18,guitar|wind|guitar|guitar|vocals|drums
+07fb2df2-91d6-458d-9230-9638b4edac08,19,guitar|piano|guitar|drums|bass|vocals
+0d528a19-cb0f-4421-b250-444f9343e51c,0,vocals|guitar
+0d528a19-cb0f-4421-b250-444f9343e51c,1,vocals|guitar
+0d528a19-cb0f-4421-b250-444f9343e51c,2,piano|guitar|bass|drums|vocals
+0d528a19-cb0f-4421-b250-444f9343e51c,3,bass|vocals|drums|guitar
+0d528a19-cb0f-4421-b250-444f9343e51c,4,percussion|guitar|bass|drums|vocals
+0d528a19-cb0f-4421-b250-444f9343e51c,5,bass|other keys|vocals|drums|guitar
+0d528a19-cb0f-4421-b250-444f9343e51c,6,guitar|bass|vocals|drums|other keys
+0d528a19-cb0f-4421-b250-444f9343e51c,7,bass|drums|guitar|vocals
+11845abc-8ca3-4fb2-bd84-521aeeff56f4,0,drums|guitar|bass|vocals|guitar
+11845abc-8ca3-4fb2-bd84-521aeeff56f4,1,guitar|bass|drums|vocals|piano
+11845abc-8ca3-4fb2-bd84-521aeeff56f4,2,drums|guitar|bass|vocals|piano
+11845abc-8ca3-4fb2-bd84-521aeeff56f4,3,drums|vocals|guitar|bass|piano
+11845abc-8ca3-4fb2-bd84-521aeeff56f4,4,guitar|drums|vocals|bowed strings|bowed strings|bowed strings
+11845abc-8ca3-4fb2-bd84-521aeeff56f4,5,vocals|guitar|bass|drums
+11845abc-8ca3-4fb2-bd84-521aeeff56f4,6,drums|vocals|guitar|bass|piano
+11845abc-8ca3-4fb2-bd84-521aeeff56f4,7,drums|guitar|bass|piano
+11845abc-8ca3-4fb2-bd84-521aeeff56f4,8,vocals|bass|guitar|drums
+11845abc-8ca3-4fb2-bd84-521aeeff56f4,9,drums|vocals|guitar|bass
+11845abc-8ca3-4fb2-bd84-521aeeff56f4,10,percussion|guitar|vocals|drums|bass
+11845abc-8ca3-4fb2-bd84-521aeeff56f4,11,bass|wind|vocals|guitar|drums
+11845abc-8ca3-4fb2-bd84-521aeeff56f4,12,drums|guitar|bowed strings|vocals|bass
+11845abc-8ca3-4fb2-bd84-521aeeff56f4,13,wind|guitar|drums|bass|vocals
+11845abc-8ca3-4fb2-bd84-521aeeff56f4,14,bass|guitar|vocals|piano|drums
+11845abc-8ca3-4fb2-bd84-521aeeff56f4,15,drums|piano|guitar|guitar|bass
+11845abc-8ca3-4fb2-bd84-521aeeff56f4,16,percussion|bowed strings|bass|drums|vocals|guitar
+11845abc-8ca3-4fb2-bd84-521aeeff56f4,17,bass|drums|guitar|vocals
+11845abc-8ca3-4fb2-bd84-521aeeff56f4,18,guitar|drums|bass|piano|vocals
+11845abc-8ca3-4fb2-bd84-521aeeff56f4,19,guitar|drums|bass|guitar|vocals
+11845abc-8ca3-4fb2-bd84-521aeeff56f4,20,piano|bowed strings|bass|guitar|drums
+11845abc-8ca3-4fb2-bd84-521aeeff56f4,21,guitar|bass
+125fc63d-9b69-4170-a46a-42c91bc28446,0,drums|bass|wind|guitar
+125fc63d-9b69-4170-a46a-42c91bc28446,1,vocals|drums|bass|wind|guitar
+125fc63d-9b69-4170-a46a-42c91bc28446,2,bowed strings|bass|drums|vocals
+125fc63d-9b69-4170-a46a-42c91bc28446,3,vocals|guitar|wind|wind|drums
+125fc63d-9b69-4170-a46a-42c91bc28446,4,bass|vocals|wind|drums
+125fc63d-9b69-4170-a46a-42c91bc28446,5,guitar|drums|vocals|bass
+125fc63d-9b69-4170-a46a-42c91bc28446,6,drums|piano|guitar|guitar|vocals
+125fc63d-9b69-4170-a46a-42c91bc28446,7,vocals|guitar|guitar|drums|wind|bass
+125fc63d-9b69-4170-a46a-42c91bc28446,8,vocals|guitar|bass|drums
+125fc63d-9b69-4170-a46a-42c91bc28446,9,drums|vocals|bass|guitar
+125fc63d-9b69-4170-a46a-42c91bc28446,10,wind|vocals|guitar|drums|bass
+125fc63d-9b69-4170-a46a-42c91bc28446,11,drums|guitar|bass|vocals
+125fc63d-9b69-4170-a46a-42c91bc28446,12,bass|vocals|drums|guitar
+125fc63d-9b69-4170-a46a-42c91bc28446,13,drums|guitar|wind|bass
+125fc63d-9b69-4170-a46a-42c91bc28446,14,bowed strings|vocals|bass|piano|drums
+125fc63d-9b69-4170-a46a-42c91bc28446,15,guitar|vocals|guitar|drums|bass
+125fc63d-9b69-4170-a46a-42c91bc28446,16,guitar|vocals|drums|bass
+125fc63d-9b69-4170-a46a-42c91bc28446,17,bass|wind|drums|guitar
+1a32e987-cae8-458f-9c26-d9a6abf5348d,0,guitar
+1a32e987-cae8-458f-9c26-d9a6abf5348d,1,guitar|vocals
+1a32e987-cae8-458f-9c26-d9a6abf5348d,2,guitar|piano|vocals
+1a32e987-cae8-458f-9c26-d9a6abf5348d,3,drums|piano|guitar|vocals|bass|piano
+1a32e987-cae8-458f-9c26-d9a6abf5348d,4,drums|guitar|bass|piano|vocals
+1a32e987-cae8-458f-9c26-d9a6abf5348d,5,vocals|drums|guitar|bass
+1a32e987-cae8-458f-9c26-d9a6abf5348d,6,guitar|guitar|drums|guitar|bass|vocals
+1a32e987-cae8-458f-9c26-d9a6abf5348d,7,drums|percussion|bass|guitar|vocals|piano
+1a32e987-cae8-458f-9c26-d9a6abf5348d,8,piano|guitar|guitar|drums|bass|vocals
+1a32e987-cae8-458f-9c26-d9a6abf5348d,9,bass|drums|piano|guitar|vocals
+1a32e987-cae8-458f-9c26-d9a6abf5348d,10,vocals|drums|guitar|bass|guitar
+1a32e987-cae8-458f-9c26-d9a6abf5348d,11,guitar|vocals|bass|drums|piano
+1a32e987-cae8-458f-9c26-d9a6abf5348d,12,drums|vocals|guitar|bass|wind
+1a32e987-cae8-458f-9c26-d9a6abf5348d,13,vocals|bass|drums|guitar
+1a32e987-cae8-458f-9c26-d9a6abf5348d,14,bass|guitar|vocals|piano|guitar|drums
+1a32e987-cae8-458f-9c26-d9a6abf5348d,15,guitar|vocals|bass|drums|guitar
+1a32e987-cae8-458f-9c26-d9a6abf5348d,16,drums|piano|bass|guitar|vocals
+1a32e987-cae8-458f-9c26-d9a6abf5348d,17,drums|bass|guitar|drums|vocals
+1a32e987-cae8-458f-9c26-d9a6abf5348d,18,drums|guitar|bass|guitar|vocals
+1a32e987-cae8-458f-9c26-d9a6abf5348d,19,piano|bass|guitar|vocals|drums
+1a32e987-cae8-458f-9c26-d9a6abf5348d,20,guitar|guitar|drums|bass|piano|vocals
+1a32e987-cae8-458f-9c26-d9a6abf5348d,21,bass|guitar|guitar|vocals|drums
+1a32e987-cae8-458f-9c26-d9a6abf5348d,22,vocals|bass|piano|guitar|drums
+1a32e987-cae8-458f-9c26-d9a6abf5348d,23,piano|drums|vocals|guitar|bass
+1afe1b3b-3e2e-48d3-b859-f50e222cbaf4,0,guitar|drums
+1afe1b3b-3e2e-48d3-b859-f50e222cbaf4,1,other keys|guitar|drums|bass|vocals
+1afe1b3b-3e2e-48d3-b859-f50e222cbaf4,2,drums|bass|guitar|vocals
+1afe1b3b-3e2e-48d3-b859-f50e222cbaf4,3,guitar|bass|drums|piano|vocals
+1afe1b3b-3e2e-48d3-b859-f50e222cbaf4,4,guitar|bass|drums|guitar|vocals
+1afe1b3b-3e2e-48d3-b859-f50e222cbaf4,5,drums|guitar|bass|vocals|piano|guitar
+1afe1b3b-3e2e-48d3-b859-f50e222cbaf4,6,piano|bass|drums|guitar|vocals
+1afe1b3b-3e2e-48d3-b859-f50e222cbaf4,7,bass|drums|drums|other keys|piano|vocals|guitar
+1afe1b3b-3e2e-48d3-b859-f50e222cbaf4,8,guitar|drums|percussion|bass|guitar|vocals
+1afe1b3b-3e2e-48d3-b859-f50e222cbaf4,9,bass|guitar|vocals|drums|percussion
+1afe1b3b-3e2e-48d3-b859-f50e222cbaf4,10,guitar|vocals|bass|drums|guitar|other keys
+1afe1b3b-3e2e-48d3-b859-f50e222cbaf4,11,guitar|bass|vocals|piano|guitar|drums
+1afe1b3b-3e2e-48d3-b859-f50e222cbaf4,12,guitar|vocals|drums|bass|guitar
+1afe1b3b-3e2e-48d3-b859-f50e222cbaf4,13,drums|guitar|piano|bass|vocals
+1afe1b3b-3e2e-48d3-b859-f50e222cbaf4,14,drums|bass|drums|guitar|vocals|guitar
+1afe1b3b-3e2e-48d3-b859-f50e222cbaf4,15,drums|bass|vocals|other keys|guitar|guitar
+1afe1b3b-3e2e-48d3-b859-f50e222cbaf4,16,bass|guitar|piano|drums
+1afe1b3b-3e2e-48d3-b859-f50e222cbaf4,17,drums|guitar|vocals|bass|bass
+1afe1b3b-3e2e-48d3-b859-f50e222cbaf4,18,bass|guitar|piano|vocals|drums
+1afe1b3b-3e2e-48d3-b859-f50e222cbaf4,19,bass|guitar|drums|guitar|piano|vocals
+1afe1b3b-3e2e-48d3-b859-f50e222cbaf4,20,drums|bass|piano|guitar|percussion|vocals
+1afe1b3b-3e2e-48d3-b859-f50e222cbaf4,21,piano|drums|vocals|bass|guitar|bowed strings
+1afe1b3b-3e2e-48d3-b859-f50e222cbaf4,22,guitar|vocals|bass|guitar|drums
+1f98fe4d-26c7-460f-9f68-33964bc4d8d3,0,guitar|drums
+1f98fe4d-26c7-460f-9f68-33964bc4d8d3,1,other keys|drums|guitar|vocals
+1f98fe4d-26c7-460f-9f68-33964bc4d8d3,2,drums|vocals|guitar
+1f98fe4d-26c7-460f-9f68-33964bc4d8d3,3,vocals|drums|bass|guitar
+1f98fe4d-26c7-460f-9f68-33964bc4d8d3,4,drums|vocals|other keys|bass|guitar
+1f98fe4d-26c7-460f-9f68-33964bc4d8d3,5,guitar|bass|vocals|other|drums
+1f98fe4d-26c7-460f-9f68-33964bc4d8d3,6,guitar|vocals|drums|bass
+1f98fe4d-26c7-460f-9f68-33964bc4d8d3,7,drums|bass|other keys|vocals
+1f98fe4d-26c7-460f-9f68-33964bc4d8d3,8,vocals|guitar|drums|bass
+1f98fe4d-26c7-460f-9f68-33964bc4d8d3,9,vocals|other keys|drums|bass
+1f98fe4d-26c7-460f-9f68-33964bc4d8d3,10,bass|guitar|vocals|drums|piano
+1f98fe4d-26c7-460f-9f68-33964bc4d8d3,11,drums|vocals|guitar
+1f98fe4d-26c7-460f-9f68-33964bc4d8d3,12,drums|other keys|vocals|bass
+1f98fe4d-26c7-460f-9f68-33964bc4d8d3,13,bowed strings|vocals|drums|guitar
+1f98fe4d-26c7-460f-9f68-33964bc4d8d3,14,vocals|drums|bass|guitar
+1f98fe4d-26c7-460f-9f68-33964bc4d8d3,15,bass|guitar|vocals|drums
+1f98fe4d-26c7-460f-9f68-33964bc4d8d3,16,drums|guitar|bass|vocals
+1f98fe4d-26c7-460f-9f68-33964bc4d8d3,17,guitar|drums|vocals|guitar
+1f98fe4d-26c7-460f-9f68-33964bc4d8d3,18,vocals|guitar|bass|drums
+1f98fe4d-26c7-460f-9f68-33964bc4d8d3,19,guitar|drums|guitar|vocals
+215391aa-1168-42dd-9cab-f8b0c6ff566b,0,bass|drums|percussion
+215391aa-1168-42dd-9cab-f8b0c6ff566b,1,bass|other keys|drums
+215391aa-1168-42dd-9cab-f8b0c6ff566b,2,other keys|other keys|drums|bass
+215391aa-1168-42dd-9cab-f8b0c6ff566b,3,guitar|bass|drums|vocals
+215391aa-1168-42dd-9cab-f8b0c6ff566b,4,drums|other|bass|other keys|vocals
+215391aa-1168-42dd-9cab-f8b0c6ff566b,5,other keys|bass|percussion|drums|vocals
+215391aa-1168-42dd-9cab-f8b0c6ff566b,6,drums|bass|vocals|other keys
+215391aa-1168-42dd-9cab-f8b0c6ff566b,7,drums|guitar|vocals
+215391aa-1168-42dd-9cab-f8b0c6ff566b,8,guitar|bass|vocals|drums|other keys
+215391aa-1168-42dd-9cab-f8b0c6ff566b,9,drums|vocals|guitar|bass
+215391aa-1168-42dd-9cab-f8b0c6ff566b,10,drums|other keys|guitar|vocals
+215391aa-1168-42dd-9cab-f8b0c6ff566b,11,other keys|vocals|drums|bass|other
+215391aa-1168-42dd-9cab-f8b0c6ff566b,12,vocals|bass|drums|other keys
+215391aa-1168-42dd-9cab-f8b0c6ff566b,13,vocals|guitar|drums|bass
+215391aa-1168-42dd-9cab-f8b0c6ff566b,14,bass|other keys|drums|vocals
+215391aa-1168-42dd-9cab-f8b0c6ff566b,15,bass|vocals|bass|drums|other keys
+215391aa-1168-42dd-9cab-f8b0c6ff566b,16,drums|vocals|guitar|other keys
+215391aa-1168-42dd-9cab-f8b0c6ff566b,17,drums|bass|vocals|guitar
+215391aa-1168-42dd-9cab-f8b0c6ff566b,18,drums|vocals|other keys
+215391aa-1168-42dd-9cab-f8b0c6ff566b,19,drums|bass|vocals|other keys
+215391aa-1168-42dd-9cab-f8b0c6ff566b,20,guitar|drums|vocals|bowed strings
+25789239-1075-43b9-bfc9-51dff4a29590,0,bass|drums|vocals
+25789239-1075-43b9-bfc9-51dff4a29590,1,guitar|drums|bass
+25789239-1075-43b9-bfc9-51dff4a29590,2,bass|vocals|drums|guitar
+25789239-1075-43b9-bfc9-51dff4a29590,3,bass|vocals|drums|guitar
+25789239-1075-43b9-bfc9-51dff4a29590,4,other|vocals|drums|drums|bass
+25789239-1075-43b9-bfc9-51dff4a29590,5,other keys|vocals|other|vocals|bass|drums
+25789239-1075-43b9-bfc9-51dff4a29590,6,vocals|guitar|drums|bass
+25789239-1075-43b9-bfc9-51dff4a29590,7,bass|other keys|guitar|drums|vocals
+25789239-1075-43b9-bfc9-51dff4a29590,8,drums|guitar|vocals|bass|other keys
+25789239-1075-43b9-bfc9-51dff4a29590,9,guitar|bass|vocals|other keys|drums
+25789239-1075-43b9-bfc9-51dff4a29590,10,drums|bass|guitar|other keys|drums
+25789239-1075-43b9-bfc9-51dff4a29590,11,drums|bass|guitar
+25789239-1075-43b9-bfc9-51dff4a29590,12,drums|guitar
+25789239-1075-43b9-bfc9-51dff4a29590,13,bass|drums|guitar
+25789239-1075-43b9-bfc9-51dff4a29590,14,bass|vocals|drums|guitar
+25789239-1075-43b9-bfc9-51dff4a29590,15,guitar|vocals|drums|bass
+25789239-1075-43b9-bfc9-51dff4a29590,16,drums|bass|guitar
+28748b6e-6125-42f7-998d-2ad734e39b6c,0,bass
+28748b6e-6125-42f7-998d-2ad734e39b6c,1,drums|bass|guitar|other keys
+28748b6e-6125-42f7-998d-2ad734e39b6c,2,other keys|drums|bass|other keys
+28748b6e-6125-42f7-998d-2ad734e39b6c,3,bass|drums|other keys|guitar
+28748b6e-6125-42f7-998d-2ad734e39b6c,4,drums|other keys|other keys|bass
+28748b6e-6125-42f7-998d-2ad734e39b6c,5,other keys|guitar|piano|piano|drums|bass
+28748b6e-6125-42f7-998d-2ad734e39b6c,6,guitar|bass|drums|vocals
+28748b6e-6125-42f7-998d-2ad734e39b6c,7,piano|drums|vocals|bass|bass|piano
+28748b6e-6125-42f7-998d-2ad734e39b6c,8,guitar|vocals|drums|other keys|bass
+28748b6e-6125-42f7-998d-2ad734e39b6c,9,other keys|bass|drums|vocals|other keys
+28748b6e-6125-42f7-998d-2ad734e39b6c,10,other keys|drums|guitar|bass|other keys|other keys|vocals
+28748b6e-6125-42f7-998d-2ad734e39b6c,11,other keys|guitar|drums|vocals|drums|bass
+28748b6e-6125-42f7-998d-2ad734e39b6c,12,drums|other keys|piano|bass|percussion|guitar|vocals
+28748b6e-6125-42f7-998d-2ad734e39b6c,13,bass|vocals|other|drums|other keys
+28748b6e-6125-42f7-998d-2ad734e39b6c,14,drums|bass|piano|vocals|other keys|other keys
+28748b6e-6125-42f7-998d-2ad734e39b6c,15,drums|other|drums|guitar|bass|vocals
+28748b6e-6125-42f7-998d-2ad734e39b6c,16,bass|drums|vocals|piano|other|guitar
+28748b6e-6125-42f7-998d-2ad734e39b6c,17,guitar|bass|drums|other keys|other keys|other keys
+28748b6e-6125-42f7-998d-2ad734e39b6c,18,percussion|other keys|other keys|other keys|bass|drums|guitar
+28748b6e-6125-42f7-998d-2ad734e39b6c,19,other|bass|drums|other plucked|other keys
+35983cdd-3903-46cb-b184-f96274ced57b,0,other keys
+35983cdd-3903-46cb-b184-f96274ced57b,1,other keys|guitar|percussion|bass|drums|other keys
+35983cdd-3903-46cb-b184-f96274ced57b,2,other keys|guitar|drums|percussion|bass|vocals
+35983cdd-3903-46cb-b184-f96274ced57b,3,other keys|guitar|guitar|vocals|drums|percussion|bass
+35983cdd-3903-46cb-b184-f96274ced57b,4,guitar|drums|vocals|bass
+35983cdd-3903-46cb-b184-f96274ced57b,5,guitar|other keys|vocals|other|drums|bass
+35983cdd-3903-46cb-b184-f96274ced57b,6,guitar|vocals|bass|drums
+35983cdd-3903-46cb-b184-f96274ced57b,7,guitar|drums|bass|vocals|guitar
+35983cdd-3903-46cb-b184-f96274ced57b,8,guitar|piano|vocals|bass|drums
+35983cdd-3903-46cb-b184-f96274ced57b,9,vocals|percussion|drums|percussion|bass
+35983cdd-3903-46cb-b184-f96274ced57b,10,guitar|drums|vocals|bass
+35983cdd-3903-46cb-b184-f96274ced57b,11,guitar|bass|vocals|drums
+35983cdd-3903-46cb-b184-f96274ced57b,12,guitar|vocals|bass|drums
+35983cdd-3903-46cb-b184-f96274ced57b,13,vocals|bass|guitar|drums
+35983cdd-3903-46cb-b184-f96274ced57b,14,guitar|bass|drums|vocals|drums
+35983cdd-3903-46cb-b184-f96274ced57b,15,bass|other keys|vocals|guitar|drums
+35983cdd-3903-46cb-b184-f96274ced57b,16,drums|vocals|bass|guitar
+35983cdd-3903-46cb-b184-f96274ced57b,17,other|vocals|bowed strings|percussion|guitar|drums|guitar
+35983cdd-3903-46cb-b184-f96274ced57b,18,guitar|bass|drums|vocals|other keys
+35983cdd-3903-46cb-b184-f96274ced57b,19,vocals|drums|bass|guitar|other keys
+35983cdd-3903-46cb-b184-f96274ced57b,20,drums|bass|guitar
+3c3b5fdb-f15e-4ba4-884a-b083ce2426c6,0,guitar|drums|bass
+3c3b5fdb-f15e-4ba4-884a-b083ce2426c6,1,guitar|vocals|other|drums|bass
+3c3b5fdb-f15e-4ba4-884a-b083ce2426c6,2,drums|bass|vocals|guitar
+3c3b5fdb-f15e-4ba4-884a-b083ce2426c6,3,guitar|bass|drums|vocals
+3c3b5fdb-f15e-4ba4-884a-b083ce2426c6,4,drums|guitar|bass
+3c3b5fdb-f15e-4ba4-884a-b083ce2426c6,5,bass|vocals|guitar|other keys|drums
+3c3b5fdb-f15e-4ba4-884a-b083ce2426c6,6,drums|guitar|bass|vocals|guitar
+3c3b5fdb-f15e-4ba4-884a-b083ce2426c6,7,guitar|vocals|drums|bass
+3c3b5fdb-f15e-4ba4-884a-b083ce2426c6,8,guitar|bass|vocals|drums
+3c3b5fdb-f15e-4ba4-884a-b083ce2426c6,9,guitar|guitar|drums|other
+3c3b5fdb-f15e-4ba4-884a-b083ce2426c6,10,bass|drums|guitar|vocals
+3c3b5fdb-f15e-4ba4-884a-b083ce2426c6,11,drums|bass|vocals|guitar
+3c3b5fdb-f15e-4ba4-884a-b083ce2426c6,12,guitar|bass|drums|vocals
+3c3b5fdb-f15e-4ba4-884a-b083ce2426c6,13,guitar|guitar|drums|bass|vocals
+3c3b5fdb-f15e-4ba4-884a-b083ce2426c6,14,guitar|other|bass|vocals|drums
+3c3b5fdb-f15e-4ba4-884a-b083ce2426c6,15,drums|bass|guitar|vocals
+3c3b5fdb-f15e-4ba4-884a-b083ce2426c6,16,other keys|percussion|guitar|bass|drums|drums
+3c3b5fdb-f15e-4ba4-884a-b083ce2426c6,17,drums|guitar|other keys|bass
+3c557409-3a34-43c2-9159-5421bbad5ecb,0,guitar
+3c557409-3a34-43c2-9159-5421bbad5ecb,1,other keys
+3c557409-3a34-43c2-9159-5421bbad5ecb,2,drums|bass|guitar
+3c557409-3a34-43c2-9159-5421bbad5ecb,3,bass|guitar|drums
+3c557409-3a34-43c2-9159-5421bbad5ecb,4,drums|guitar|bass
+3c557409-3a34-43c2-9159-5421bbad5ecb,5,drums|guitar|bass
+3c557409-3a34-43c2-9159-5421bbad5ecb,6,guitar|drums|bass
+3c557409-3a34-43c2-9159-5421bbad5ecb,7,drums|guitar|bass
+3c557409-3a34-43c2-9159-5421bbad5ecb,8,drums|bass|guitar
+3c557409-3a34-43c2-9159-5421bbad5ecb,9,drums|bass|guitar
+3c557409-3a34-43c2-9159-5421bbad5ecb,10,bass|drums|guitar
+3c557409-3a34-43c2-9159-5421bbad5ecb,11,drums|guitar
+3c557409-3a34-43c2-9159-5421bbad5ecb,12,bass|drums|guitar
+3c557409-3a34-43c2-9159-5421bbad5ecb,13,drums|bass|guitar|vocals
+3c557409-3a34-43c2-9159-5421bbad5ecb,14,vocals|bass|drums|guitar
+3c557409-3a34-43c2-9159-5421bbad5ecb,15,drums|vocals|guitar|bass
+3c557409-3a34-43c2-9159-5421bbad5ecb,16,drums|guitar|vocals|bass
+3c557409-3a34-43c2-9159-5421bbad5ecb,17,bass|drums|guitar
+3c557409-3a34-43c2-9159-5421bbad5ecb,18,bass|drums|guitar
+3c557409-3a34-43c2-9159-5421bbad5ecb,19,drums|guitar|bass
+3c557409-3a34-43c2-9159-5421bbad5ecb,20,bass|drums|guitar
+3c557409-3a34-43c2-9159-5421bbad5ecb,21,drums|vocals|guitar|bass
+3c557409-3a34-43c2-9159-5421bbad5ecb,22,guitar|bass|drums|vocals
+3c557409-3a34-43c2-9159-5421bbad5ecb,23,drums|vocals|bass|guitar
+3c557409-3a34-43c2-9159-5421bbad5ecb,24,bass|drums|guitar|vocals
+3c557409-3a34-43c2-9159-5421bbad5ecb,25,drums|guitar|bass
+3c557409-3a34-43c2-9159-5421bbad5ecb,26,drums|bass|vocals|guitar
+3c557409-3a34-43c2-9159-5421bbad5ecb,27,vocals|bass|drums|guitar
+3c557409-3a34-43c2-9159-5421bbad5ecb,28,drums|bass|guitar|vocals
+3c557409-3a34-43c2-9159-5421bbad5ecb,29,drums|bass|vocals|guitar
+3c557409-3a34-43c2-9159-5421bbad5ecb,30,guitar|vocals|bass|drums
+3c557409-3a34-43c2-9159-5421bbad5ecb,31,bass|guitar|drums
+3c557409-3a34-43c2-9159-5421bbad5ecb,32,guitar|drums|bass
+3c557409-3a34-43c2-9159-5421bbad5ecb,33,bass|guitar|drums|vocals
+3c557409-3a34-43c2-9159-5421bbad5ecb,34,guitar|drums|bass|vocals
+3c557409-3a34-43c2-9159-5421bbad5ecb,35,vocals|guitar|bass|drums
+3c557409-3a34-43c2-9159-5421bbad5ecb,36,bass|drums|guitar|vocals
+3c557409-3a34-43c2-9159-5421bbad5ecb,37,drums|guitar
+3c557409-3a34-43c2-9159-5421bbad5ecb,38,drums|bass|vocals|guitar
+3c557409-3a34-43c2-9159-5421bbad5ecb,39,drums|bass|guitar|vocals
+3c557409-3a34-43c2-9159-5421bbad5ecb,40,vocals|bass|drums|guitar
+3c557409-3a34-43c2-9159-5421bbad5ecb,41,guitar|drums|bass|vocals
+3c557409-3a34-43c2-9159-5421bbad5ecb,42,drums|guitar|vocals|bass
+3c557409-3a34-43c2-9159-5421bbad5ecb,43,drums|guitar
+3c557409-3a34-43c2-9159-5421bbad5ecb,44,bass|drums|guitar
+3c557409-3a34-43c2-9159-5421bbad5ecb,45,guitar|drums
+3c557409-3a34-43c2-9159-5421bbad5ecb,46,drums|bass|guitar
+3c557409-3a34-43c2-9159-5421bbad5ecb,47,bass|drums|guitar
+3c557409-3a34-43c2-9159-5421bbad5ecb,48,drums|bass|guitar
+3c557409-3a34-43c2-9159-5421bbad5ecb,49,guitar|bass|drums
+3c557409-3a34-43c2-9159-5421bbad5ecb,50,drums|guitar|bass
+3c557409-3a34-43c2-9159-5421bbad5ecb,51,guitar|drums|vocals|bass
+3c557409-3a34-43c2-9159-5421bbad5ecb,52,guitar|bass|drums
+3c557409-3a34-43c2-9159-5421bbad5ecb,53,guitar|drums|vocals|bass
+3c557409-3a34-43c2-9159-5421bbad5ecb,54,bass|guitar|drums
+3c557409-3a34-43c2-9159-5421bbad5ecb,55,guitar|vocals|bass|drums
+3c557409-3a34-43c2-9159-5421bbad5ecb,56,bass|drums|guitar
+3c557409-3a34-43c2-9159-5421bbad5ecb,57,drums|guitar|bass
+3c557409-3a34-43c2-9159-5421bbad5ecb,58,bass
+3e656eec-84d4-4a45-b410-d3817d849f92,0,drums|guitar|vocals
+3e656eec-84d4-4a45-b410-d3817d849f92,1,drums|piano|bass|vocals
+3e656eec-84d4-4a45-b410-d3817d849f92,2,guitar|vocals|drums
+3e656eec-84d4-4a45-b410-d3817d849f92,3,drums|guitar|vocals
+3e656eec-84d4-4a45-b410-d3817d849f92,4,bass|drums|other keys|piano|vocals|guitar
+3e656eec-84d4-4a45-b410-d3817d849f92,5,bass|vocals|guitar|piano|drums|drums
+3e656eec-84d4-4a45-b410-d3817d849f92,6,bass|drums|guitar|vocals|piano
+3e656eec-84d4-4a45-b410-d3817d849f92,7,bass|piano|guitar|drums|vocals
+3e656eec-84d4-4a45-b410-d3817d849f92,8,guitar|piano|drums|piano|guitar|vocals|bass
+3e656eec-84d4-4a45-b410-d3817d849f92,9,vocals|drums|bass|piano|guitar|guitar
+3e656eec-84d4-4a45-b410-d3817d849f92,10,bass|guitar|drums|other keys|vocals|piano|guitar
+3e656eec-84d4-4a45-b410-d3817d849f92,11,guitar|drums|vocals|bass
+3e656eec-84d4-4a45-b410-d3817d849f92,12,vocals|guitar|guitar|bass|drums
+3e656eec-84d4-4a45-b410-d3817d849f92,13,guitar|piano|drums|bass|vocals
+3e656eec-84d4-4a45-b410-d3817d849f92,14,drums|guitar|bass|guitar|piano|drums|vocals|other|drums
+3e656eec-84d4-4a45-b410-d3817d849f92,15,piano|guitar|drums|vocals|bass
+3e656eec-84d4-4a45-b410-d3817d849f92,16,guitar|piano|vocals|bass
+3e656eec-84d4-4a45-b410-d3817d849f92,17,guitar|drums|drums|guitar|vocals|bass|piano
+3e656eec-84d4-4a45-b410-d3817d849f92,18,vocals|guitar|bass|drums
+3e656eec-84d4-4a45-b410-d3817d849f92,19,drums|guitar|bass|vocals
+3e656eec-84d4-4a45-b410-d3817d849f92,20,bass|piano|piano|vocals|guitar|drums
+3e656eec-84d4-4a45-b410-d3817d849f92,21,bass|drums|guitar|vocals|guitar
+3e656eec-84d4-4a45-b410-d3817d849f92,22,bass|guitar|drums|vocals
+3e656eec-84d4-4a45-b410-d3817d849f92,23,drums|bass|guitar|vocals|guitar
+4380ad97-2620-4419-a011-ddfa29a87f54,0,piano
+4380ad97-2620-4419-a011-ddfa29a87f54,1,piano|drums|bass|other keys|piano
+4380ad97-2620-4419-a011-ddfa29a87f54,2,piano|bass|drums|vocals
+4380ad97-2620-4419-a011-ddfa29a87f54,3,drums|vocals|guitar|bass
+4380ad97-2620-4419-a011-ddfa29a87f54,4,piano|guitar|drums|bass|vocals
+4380ad97-2620-4419-a011-ddfa29a87f54,5,piano|vocals|drums|bass|guitar
+4380ad97-2620-4419-a011-ddfa29a87f54,6,bass|vocals|guitar|drums|piano
+4380ad97-2620-4419-a011-ddfa29a87f54,7,bass|guitar|drums|guitar|piano|vocals|percussion|drums
+4380ad97-2620-4419-a011-ddfa29a87f54,8,vocals|guitar|bass|drums|other keys
+4380ad97-2620-4419-a011-ddfa29a87f54,9,drums|piano|bass|piano|guitar|vocals|other keys
+4380ad97-2620-4419-a011-ddfa29a87f54,10,bass|guitar|drums|piano
+4380ad97-2620-4419-a011-ddfa29a87f54,11,drums|guitar|bass|piano
+4380ad97-2620-4419-a011-ddfa29a87f54,12,bass|drums|guitar
+4380ad97-2620-4419-a011-ddfa29a87f54,13,drums|guitar|piano|drums|bass
+4380ad97-2620-4419-a011-ddfa29a87f54,14,drums|guitar|vocals|bass
+4380ad97-2620-4419-a011-ddfa29a87f54,15,bass|vocals|drums|guitar|guitar
+4380ad97-2620-4419-a011-ddfa29a87f54,16,piano|drums|bass|vocals|drums|guitar
+4380ad97-2620-4419-a011-ddfa29a87f54,17,drums|vocals|percussion|bass|piano|guitar
+4380ad97-2620-4419-a011-ddfa29a87f54,18,bass|vocals|piano|guitar|drums
+4380ad97-2620-4419-a011-ddfa29a87f54,19,vocals|bass|piano|drums|guitar
+4380ad97-2620-4419-a011-ddfa29a87f54,20,drums|guitar|vocals|bass|drums
+48c78ca6-18e9-42f2-9f05-fdbee90a7786,0,guitar
+48c78ca6-18e9-42f2-9f05-fdbee90a7786,1,vocals|bass|drums|guitar
+48c78ca6-18e9-42f2-9f05-fdbee90a7786,2,vocals|guitar|drums|bass
+48c78ca6-18e9-42f2-9f05-fdbee90a7786,3,drums|bass|bowed strings|guitar|vocals
+48c78ca6-18e9-42f2-9f05-fdbee90a7786,4,drums|guitar|bass|vocals
+48c78ca6-18e9-42f2-9f05-fdbee90a7786,5,bass|vocals|piano|drums|guitar
+48c78ca6-18e9-42f2-9f05-fdbee90a7786,6,vocals|other keys|drums|bass
+48c78ca6-18e9-42f2-9f05-fdbee90a7786,7,bowed strings|vocals|guitar|drums|bass
+48c78ca6-18e9-42f2-9f05-fdbee90a7786,8,guitar|other keys|vocals|bass|drums
+48c78ca6-18e9-42f2-9f05-fdbee90a7786,9,guitar|drums|bass|vocals
+48c78ca6-18e9-42f2-9f05-fdbee90a7786,10,percussion|guitar|drums|other keys|guitar|bass
+48c78ca6-18e9-42f2-9f05-fdbee90a7786,11,guitar|drums|other keys|bass|other keys
+48c78ca6-18e9-42f2-9f05-fdbee90a7786,12,bass|guitar|drums|percussion|drums|other keys
+48c78ca6-18e9-42f2-9f05-fdbee90a7786,13,drums|vocals|guitar|piano
+48c78ca6-18e9-42f2-9f05-fdbee90a7786,14,vocals|bass|drums|bass
+48c78ca6-18e9-42f2-9f05-fdbee90a7786,15,bass|vocals|wind|drums|guitar
+48c78ca6-18e9-42f2-9f05-fdbee90a7786,16,guitar|drums|piano|bowed strings|bass
+491c1ff5-1e7b-4046-8029-a82d4a8aefb4,0,drums|guitar|piano|vocals|bass
+491c1ff5-1e7b-4046-8029-a82d4a8aefb4,1,guitar|piano|drums|vocals
+491c1ff5-1e7b-4046-8029-a82d4a8aefb4,2,vocals|guitar|bass|piano
+491c1ff5-1e7b-4046-8029-a82d4a8aefb4,3,drums|vocals|guitar|bass|piano
+491c1ff5-1e7b-4046-8029-a82d4a8aefb4,4,guitar|other plucked|drums|bass|vocals|piano
+491c1ff5-1e7b-4046-8029-a82d4a8aefb4,5,guitar|piano|bass|vocals|drums
+491c1ff5-1e7b-4046-8029-a82d4a8aefb4,6,guitar|vocals|bass
+491c1ff5-1e7b-4046-8029-a82d4a8aefb4,7,drums|guitar|vocals|bass|piano
+491c1ff5-1e7b-4046-8029-a82d4a8aefb4,8,drums|piano|vocals|guitar|bass
+491c1ff5-1e7b-4046-8029-a82d4a8aefb4,9,bass|vocals|drums|piano
+491c1ff5-1e7b-4046-8029-a82d4a8aefb4,10,drums
+491c1ff5-1e7b-4046-8029-a82d4a8aefb4,11,drums
+491c1ff5-1e7b-4046-8029-a82d4a8aefb4,12,drums
+491c1ff5-1e7b-4046-8029-a82d4a8aefb4,13,drums
+491c1ff5-1e7b-4046-8029-a82d4a8aefb4,14,drums
+491c1ff5-1e7b-4046-8029-a82d4a8aefb4,15,drums
+491c1ff5-1e7b-4046-8029-a82d4a8aefb4,16,drums
+491c1ff5-1e7b-4046-8029-a82d4a8aefb4,17,drums
+491c1ff5-1e7b-4046-8029-a82d4a8aefb4,18,drums
+491c1ff5-1e7b-4046-8029-a82d4a8aefb4,19,drums
+491c1ff5-1e7b-4046-8029-a82d4a8aefb4,20,drums
+491c1ff5-1e7b-4046-8029-a82d4a8aefb4,21,drums
+491c1ff5-1e7b-4046-8029-a82d4a8aefb4,22,drums
+491c1ff5-1e7b-4046-8029-a82d4a8aefb4,23,drums
+491c1ff5-1e7b-4046-8029-a82d4a8aefb4,24,drums
+4999a0bf-a753-4e0e-85b1-690259dabf96,0,other keys
+4999a0bf-a753-4e0e-85b1-690259dabf96,1,bowed strings|bass|other|drums|other keys|piano|other keys|vocals
+4999a0bf-a753-4e0e-85b1-690259dabf96,2,guitar|vocals|bass|other keys|drums
+4999a0bf-a753-4e0e-85b1-690259dabf96,3,drums|piano|vocals|guitar|other keys|bass
+4999a0bf-a753-4e0e-85b1-690259dabf96,4,bass|drums|vocals
+4999a0bf-a753-4e0e-85b1-690259dabf96,5,drums|bass|other keys|bass|vocals
+4999a0bf-a753-4e0e-85b1-690259dabf96,6,bass|other keys|drums|vocals
+4999a0bf-a753-4e0e-85b1-690259dabf96,7,other|guitar|bass|percussion|bowed strings|piano|other keys|drums|vocals|other
+4999a0bf-a753-4e0e-85b1-690259dabf96,8,other|vocals|other keys|bass|drums
+4999a0bf-a753-4e0e-85b1-690259dabf96,9,drums|vocals|bass|guitar|other keys|other
+4999a0bf-a753-4e0e-85b1-690259dabf96,10,drums|bass|drums|bowed strings|piano|drums|guitar|vocals
+4999a0bf-a753-4e0e-85b1-690259dabf96,11,other keys|vocals|bass|other keys|drums
+4999a0bf-a753-4e0e-85b1-690259dabf96,12,guitar|bass|vocals|drums|other keys
+4999a0bf-a753-4e0e-85b1-690259dabf96,13,drums|vocals|other keys
+4999a0bf-a753-4e0e-85b1-690259dabf96,14,drums|guitar|other|piano|vocals|bass
+4999a0bf-a753-4e0e-85b1-690259dabf96,15,bass|vocals|drums|guitar|other keys
+4999a0bf-a753-4e0e-85b1-690259dabf96,16,drums|guitar|vocals|bass
+4999a0bf-a753-4e0e-85b1-690259dabf96,17,drums|vocals|bass|guitar
+4999a0bf-a753-4e0e-85b1-690259dabf96,18,drums|guitar|vocals|guitar|bass
+4999a0bf-a753-4e0e-85b1-690259dabf96,19,bass|guitar|other|other|other keys|other|other keys|drums
+4999a0bf-a753-4e0e-85b1-690259dabf96,20,bass|other|vocals
+5640831d-7853-4d06-8166-988e2844b652,0,drums|vocals|other keys|bass
+5640831d-7853-4d06-8166-988e2844b652,1,vocals|drums|other keys|bass
+5640831d-7853-4d06-8166-988e2844b652,2,other keys|drums|bass|vocals|other keys
+5640831d-7853-4d06-8166-988e2844b652,3,other keys|bass|drums|vocals
+5640831d-7853-4d06-8166-988e2844b652,4,other keys|drums|other keys|bass|vocals
+5640831d-7853-4d06-8166-988e2844b652,5,other|other|other keys|drums|vocals|bass
+5640831d-7853-4d06-8166-988e2844b652,6,other|other keys|other|drums|bass|other keys
+5640831d-7853-4d06-8166-988e2844b652,7,bass|vocals|drums|guitar
+5640831d-7853-4d06-8166-988e2844b652,8,bass|vocals|other keys|drums
+5640831d-7853-4d06-8166-988e2844b652,9,bass|drums|vocals|guitar
+5640831d-7853-4d06-8166-988e2844b652,10,guitar|percussion|drums|bass|vocals|guitar
+5640831d-7853-4d06-8166-988e2844b652,11,other keys|guitar|bass|other|vocals
+5640831d-7853-4d06-8166-988e2844b652,12,other|guitar|other keys|bass|drums|other keys
+5640831d-7853-4d06-8166-988e2844b652,13,drums|other keys|bass|other keys|percussion|vocals|other|guitar
+5640831d-7853-4d06-8166-988e2844b652,14,other keys|other keys|vocals|guitar|bass|percussion|drums
+5640831d-7853-4d06-8166-988e2844b652,15,other keys|percussion|bass|other keys|drums|other keys|other|other keys|vocals
+5640831d-7853-4d06-8166-988e2844b652,16,other keys|other keys|bass|drums|drums|vocals
+5640831d-7853-4d06-8166-988e2844b652,17,guitar|other keys|vocals|drums|bass
+5a6df5c7-a58a-479e-bdfb-c5946c221933,0,guitar|bowed strings|bass|other keys|piano|vocals|drums
+5a6df5c7-a58a-479e-bdfb-c5946c221933,1,drums|vocals|bass|bowed strings|guitar|guitar|piano
+5a6df5c7-a58a-479e-bdfb-c5946c221933,2,bass|piano|bowed strings|guitar|drums|other keys|percussion|other keys|vocals|drums
+5a6df5c7-a58a-479e-bdfb-c5946c221933,3,vocals|piano|guitar|bass|piano|drums
+5a6df5c7-a58a-479e-bdfb-c5946c221933,4,bass|vocals|bowed strings|drums|guitar|piano
+5a6df5c7-a58a-479e-bdfb-c5946c221933,5,vocals|bass|piano|drums
+5a6df5c7-a58a-479e-bdfb-c5946c221933,6,drums|bass|piano|drums|guitar|vocals
+5a6df5c7-a58a-479e-bdfb-c5946c221933,7,drums|wind|bass|other keys|vocals|guitar|drums
+5a6df5c7-a58a-479e-bdfb-c5946c221933,8,bass|drums|guitar|other|other keys|vocals
+5a6df5c7-a58a-479e-bdfb-c5946c221933,9,wind|drums|bass|guitar|vocals
+5a6df5c7-a58a-479e-bdfb-c5946c221933,10,piano|drums|bass|percussion|other keys|other keys|vocals
+5a6df5c7-a58a-479e-bdfb-c5946c221933,11,other keys|drums|bowed strings|bass|drums|vocals|piano
+5a6df5c7-a58a-479e-bdfb-c5946c221933,12,piano|drums|vocals|bass|guitar
+5a6df5c7-a58a-479e-bdfb-c5946c221933,13,bass|drums|piano|vocals|guitar
+5a6df5c7-a58a-479e-bdfb-c5946c221933,14,piano|guitar|vocals|drums|piano|bass
+5a6df5c7-a58a-479e-bdfb-c5946c221933,15,drums|piano|bass|guitar|vocals
+5a6df5c7-a58a-479e-bdfb-c5946c221933,16,percussion|bass|drums|piano|other keys|other keys|vocals
+5a6df5c7-a58a-479e-bdfb-c5946c221933,17,guitar|bass|piano|vocals|drums
+606e3380-b062-4b74-88ac-b60d6f4d0a37,0,vocals|guitar|drums|bass
+606e3380-b062-4b74-88ac-b60d6f4d0a37,1,bass|vocals|guitar
+606e3380-b062-4b74-88ac-b60d6f4d0a37,2,guitar|guitar|bass|vocals
+606e3380-b062-4b74-88ac-b60d6f4d0a37,3,bass|vocals|guitar
+606e3380-b062-4b74-88ac-b60d6f4d0a37,4,guitar|vocals|bass
+606e3380-b062-4b74-88ac-b60d6f4d0a37,5,guitar|vocals|bass
+606e3380-b062-4b74-88ac-b60d6f4d0a37,6,guitar|bass|vocals|piano
+606e3380-b062-4b74-88ac-b60d6f4d0a37,7,guitar|vocals|bass|drums
+606e3380-b062-4b74-88ac-b60d6f4d0a37,8,guitar|vocals|drums|bass
+606e3380-b062-4b74-88ac-b60d6f4d0a37,9,bass|other|guitar|vocals|drums
+606e3380-b062-4b74-88ac-b60d6f4d0a37,10,drums|guitar|vocals|bass
+606e3380-b062-4b74-88ac-b60d6f4d0a37,11,guitar|vocals|guitar|bass|drums
+606e3380-b062-4b74-88ac-b60d6f4d0a37,12,vocals|guitar|drums|bass
+606e3380-b062-4b74-88ac-b60d6f4d0a37,13,bass|drums|guitar|vocals
+606e3380-b062-4b74-88ac-b60d6f4d0a37,14,bass|drums|vocals|guitar
+606e3380-b062-4b74-88ac-b60d6f4d0a37,15,bass|drums|vocals|guitar
+606e3380-b062-4b74-88ac-b60d6f4d0a37,16,guitar|drums|bass
+606e3380-b062-4b74-88ac-b60d6f4d0a37,17,guitar|bass|drums
+606e3380-b062-4b74-88ac-b60d6f4d0a37,18,drums|guitar|bass
+606e3380-b062-4b74-88ac-b60d6f4d0a37,19,bass|vocals|drums|guitar|guitar
+606e3380-b062-4b74-88ac-b60d6f4d0a37,20,drums|bass|guitar|vocals|guitar
+606e3380-b062-4b74-88ac-b60d6f4d0a37,21,guitar|drums|vocals|bass
+606e3380-b062-4b74-88ac-b60d6f4d0a37,22,guitar|drums|guitar|vocals|bass
+606e3380-b062-4b74-88ac-b60d6f4d0a37,23,drums|drums|guitar|vocals|bass
+606e3380-b062-4b74-88ac-b60d6f4d0a37,24,guitar|vocals|drums
+6b48c9de-fa34-4635-9718-04e01a03a0fe,0,guitar
+6b48c9de-fa34-4635-9718-04e01a03a0fe,1,guitar|bass|drums
+6b48c9de-fa34-4635-9718-04e01a03a0fe,2,guitar|drums|vocals|bass
+6b48c9de-fa34-4635-9718-04e01a03a0fe,3,vocals|piano|bass|drums|guitar
+6b48c9de-fa34-4635-9718-04e01a03a0fe,4,bass|drums|vocals|guitar
+6b48c9de-fa34-4635-9718-04e01a03a0fe,5,vocals|guitar|bass|drums
+6b48c9de-fa34-4635-9718-04e01a03a0fe,6,guitar|drums|vocals|bass
+6b48c9de-fa34-4635-9718-04e01a03a0fe,7,vocals|drums|guitar|bass
+6b48c9de-fa34-4635-9718-04e01a03a0fe,8,guitar|drums|vocals|bass
+6b48c9de-fa34-4635-9718-04e01a03a0fe,9,guitar|drums|bass|vocals
+6b48c9de-fa34-4635-9718-04e01a03a0fe,10,drums|bass|guitar|vocals
+6b48c9de-fa34-4635-9718-04e01a03a0fe,11,bass|guitar|vocals|drums
+6b48c9de-fa34-4635-9718-04e01a03a0fe,12,vocals|bass|drums|guitar
+6b48c9de-fa34-4635-9718-04e01a03a0fe,13,vocals|guitar|bass|drums
+6b48c9de-fa34-4635-9718-04e01a03a0fe,14,drums|bass|vocals|guitar
+6b48c9de-fa34-4635-9718-04e01a03a0fe,15,guitar|drums|vocals|bass
+6b48c9de-fa34-4635-9718-04e01a03a0fe,16,bass|vocals|guitar|drums
+6b48c9de-fa34-4635-9718-04e01a03a0fe,17,drums|guitar|bass
+6b48c9de-fa34-4635-9718-04e01a03a0fe,18,guitar|drums|bass
+6b48c9de-fa34-4635-9718-04e01a03a0fe,19,guitar|vocals|drums|bass
+6b48c9de-fa34-4635-9718-04e01a03a0fe,20,vocals|bass|drums|guitar
+6b48c9de-fa34-4635-9718-04e01a03a0fe,21,bass|vocals|drums|guitar
+6b48c9de-fa34-4635-9718-04e01a03a0fe,22,guitar|drums|bass|vocals
+6b48c9de-fa34-4635-9718-04e01a03a0fe,23,bass|vocals|drums
+6b48c9de-fa34-4635-9718-04e01a03a0fe,24,bass|drums|guitar|vocals
+6b48c9de-fa34-4635-9718-04e01a03a0fe,25,bass|guitar|drums|vocals
+6b48c9de-fa34-4635-9718-04e01a03a0fe,26,drums|guitar|drums|vocals|bass
+6b48c9de-fa34-4635-9718-04e01a03a0fe,27,guitar|bass|drums|vocals
+6de41c50-0c49-4528-b60b-75c45d3630f4,0,drums|bass
+6de41c50-0c49-4528-b60b-75c45d3630f4,1,bass|guitar|drums
+6de41c50-0c49-4528-b60b-75c45d3630f4,2,guitar|bass|drums
+6de41c50-0c49-4528-b60b-75c45d3630f4,3,guitar|drums|bass|bass
+6de41c50-0c49-4528-b60b-75c45d3630f4,4,guitar|bass|drums|vocals
+6de41c50-0c49-4528-b60b-75c45d3630f4,5,vocals|bass|guitar|drums
+6de41c50-0c49-4528-b60b-75c45d3630f4,6,bass|drums|guitar
+6de41c50-0c49-4528-b60b-75c45d3630f4,7,vocals|bass|drums|guitar
+6de41c50-0c49-4528-b60b-75c45d3630f4,8,guitar|vocals|drums|bass
+6de41c50-0c49-4528-b60b-75c45d3630f4,9,drums|bass|guitar|vocals
+6de41c50-0c49-4528-b60b-75c45d3630f4,10,bass|drums|guitar|vocals
+6de41c50-0c49-4528-b60b-75c45d3630f4,11,guitar|drums|bass|vocals
+6de41c50-0c49-4528-b60b-75c45d3630f4,12,guitar|bass|drums
+6de41c50-0c49-4528-b60b-75c45d3630f4,13,guitar|bass|drums|vocals
+6de41c50-0c49-4528-b60b-75c45d3630f4,14,bass|guitar|vocals|drums
+6de41c50-0c49-4528-b60b-75c45d3630f4,15,vocals|drums|bass|guitar
+6de41c50-0c49-4528-b60b-75c45d3630f4,16,bass|drums|guitar
+6de41c50-0c49-4528-b60b-75c45d3630f4,17,guitar|drums|vocals|bass
+6de41c50-0c49-4528-b60b-75c45d3630f4,18,drums|bass|vocals|guitar
+6de41c50-0c49-4528-b60b-75c45d3630f4,19,bass|vocals|drums|guitar
+6de41c50-0c49-4528-b60b-75c45d3630f4,20,guitar|bass|drums|vocals|vocals
+6de41c50-0c49-4528-b60b-75c45d3630f4,21,drums|guitar|bass|vocals
+6de41c50-0c49-4528-b60b-75c45d3630f4,22,bass|guitar|drums
+6de41c50-0c49-4528-b60b-75c45d3630f4,23,guitar|vocals|drums|bass
+6de41c50-0c49-4528-b60b-75c45d3630f4,24,drums|bass|guitar
+6de41c50-0c49-4528-b60b-75c45d3630f4,25,guitar|drums|bass
+6de41c50-0c49-4528-b60b-75c45d3630f4,26,guitar|vocals|bass|drums
+6de41c50-0c49-4528-b60b-75c45d3630f4,27,vocals|bass|guitar|drums
+704f1de9-1d02-4c2b-af05-107a7700a51d,0,bass|drums|guitar
+704f1de9-1d02-4c2b-af05-107a7700a51d,1,guitar|drums|bass
+704f1de9-1d02-4c2b-af05-107a7700a51d,2,drums|guitar|bass|vocals
+704f1de9-1d02-4c2b-af05-107a7700a51d,3,guitar|drums|bass|vocals
+704f1de9-1d02-4c2b-af05-107a7700a51d,4,guitar|guitar|drums|bass|vocals
+704f1de9-1d02-4c2b-af05-107a7700a51d,5,drums|bass|guitar|vocals
+704f1de9-1d02-4c2b-af05-107a7700a51d,6,piano|drums|guitar|vocals|bass
+704f1de9-1d02-4c2b-af05-107a7700a51d,7,guitar|bass|drums|vocals
+704f1de9-1d02-4c2b-af05-107a7700a51d,8,drums|guitar|bass|vocals
+704f1de9-1d02-4c2b-af05-107a7700a51d,9,guitar|drums|bass
+704f1de9-1d02-4c2b-af05-107a7700a51d,10,guitar|vocals|drums|bass
+704f1de9-1d02-4c2b-af05-107a7700a51d,11,bass|vocals|drums|guitar
+704f1de9-1d02-4c2b-af05-107a7700a51d,12,guitar|drums|vocals|bass
+704f1de9-1d02-4c2b-af05-107a7700a51d,13,vocals|bass|guitar|drums
+704f1de9-1d02-4c2b-af05-107a7700a51d,14,drums|guitar|vocals|bass
+704f1de9-1d02-4c2b-af05-107a7700a51d,15,bass|drums|guitar|vocals
+704f1de9-1d02-4c2b-af05-107a7700a51d,16,drums|guitar|bass
+704f1de9-1d02-4c2b-af05-107a7700a51d,17,guitar|bass|drums
+704f1de9-1d02-4c2b-af05-107a7700a51d,18,bass|guitar|drums
+704f1de9-1d02-4c2b-af05-107a7700a51d,19,guitar|bass|drums
+704f1de9-1d02-4c2b-af05-107a7700a51d,20,bass|guitar|drums
+704f1de9-1d02-4c2b-af05-107a7700a51d,21,bass|drums|guitar
+704f1de9-1d02-4c2b-af05-107a7700a51d,22,drums|guitar|vocals
+704f1de9-1d02-4c2b-af05-107a7700a51d,23,guitar|vocals|drums
+704f1de9-1d02-4c2b-af05-107a7700a51d,24,vocals|other keys|drums|guitar|bass
+704f1de9-1d02-4c2b-af05-107a7700a51d,25,vocals|guitar|bass|drums|guitar
+704f1de9-1d02-4c2b-af05-107a7700a51d,26,guitar|bass|vocals|drums
+704f1de9-1d02-4c2b-af05-107a7700a51d,27,guitar|piano|vocals|bass|drums
+78ef22ce-472f-4f82-8656-16df73b9465f,0,guitar|bass|drums
+78ef22ce-472f-4f82-8656-16df73b9465f,1,bass|guitar|drums|vocals
+78ef22ce-472f-4f82-8656-16df73b9465f,2,drums|guitar|bass|vocals
+78ef22ce-472f-4f82-8656-16df73b9465f,3,guitar|vocals|drums|bass|other plucked
+78ef22ce-472f-4f82-8656-16df73b9465f,4,guitar|other keys|drums|vocals|other|bass|guitar
+78ef22ce-472f-4f82-8656-16df73b9465f,5,guitar|drums|bass|vocals
+78ef22ce-472f-4f82-8656-16df73b9465f,6,drums|guitar|drums|vocals|bass
+78ef22ce-472f-4f82-8656-16df73b9465f,7,drums|guitar|guitar|bass|vocals
+78ef22ce-472f-4f82-8656-16df73b9465f,8,bass|vocals|guitar|drums
+78ef22ce-472f-4f82-8656-16df73b9465f,9,bass|guitar|vocals|guitar|drums
+78ef22ce-472f-4f82-8656-16df73b9465f,10,drums|wind|bass|guitar
+78ef22ce-472f-4f82-8656-16df73b9465f,11,drums|bass|wind|drums
+78ef22ce-472f-4f82-8656-16df73b9465f,12,guitar|drums|drums|bass|wind
+78ef22ce-472f-4f82-8656-16df73b9465f,13,bass|guitar|drums|vocals|wind
+78ef22ce-472f-4f82-8656-16df73b9465f,14,percussion|guitar|vocals|percussion|bass|drums
+78ef22ce-472f-4f82-8656-16df73b9465f,15,guitar|bass|vocals|drums
+78ef22ce-472f-4f82-8656-16df73b9465f,16,bass|vocals|guitar|drums
+78ef22ce-472f-4f82-8656-16df73b9465f,17,drums|bass|guitar|vocals
+7bfa233c-24ed-4c7a-9096-11e3aa00c55d,0,vocals|piano
+7bfa233c-24ed-4c7a-9096-11e3aa00c55d,1,piano|vocals
+7bfa233c-24ed-4c7a-9096-11e3aa00c55d,2,piano|vocals
+7bfa233c-24ed-4c7a-9096-11e3aa00c55d,3,bowed strings|piano|vocals
+7bfa233c-24ed-4c7a-9096-11e3aa00c55d,4,piano|vocals|bass|bowed strings
+7bfa233c-24ed-4c7a-9096-11e3aa00c55d,5,piano|vocals
+7bfa233c-24ed-4c7a-9096-11e3aa00c55d,6,piano|guitar|vocals|bass
+7bfa233c-24ed-4c7a-9096-11e3aa00c55d,7,drums|vocals|piano|bass|wind|other keys
+7bfa233c-24ed-4c7a-9096-11e3aa00c55d,8,drums|guitar|guitar|bass|wind|vocals|drums
+7bfa233c-24ed-4c7a-9096-11e3aa00c55d,9,guitar|bass|piano|drums|vocals
+7bfa233c-24ed-4c7a-9096-11e3aa00c55d,10,bass|vocals|drums|guitar|piano
+7bfa233c-24ed-4c7a-9096-11e3aa00c55d,11,guitar|piano|guitar|drums|vocals|bass
+7bfa233c-24ed-4c7a-9096-11e3aa00c55d,12,bass|guitar|guitar|piano|vocals|drums
+7bfa233c-24ed-4c7a-9096-11e3aa00c55d,13,guitar|bass|guitar|vocals|drums|piano|piano
+7bfa233c-24ed-4c7a-9096-11e3aa00c55d,14,bass|guitar|drums|other keys|vocals|piano
+7bfa233c-24ed-4c7a-9096-11e3aa00c55d,15,drums|piano|guitar|guitar|vocals|bass
+7bfa233c-24ed-4c7a-9096-11e3aa00c55d,16,bass|guitar|bowed strings|guitar|piano|vocals|drums
+7bfa233c-24ed-4c7a-9096-11e3aa00c55d,17,drums|piano|wind|vocals|bass
+7bfa233c-24ed-4c7a-9096-11e3aa00c55d,18,vocals
+7bfa233c-24ed-4c7a-9096-11e3aa00c55d,19,other keys|drums|vocals|piano|bass
+7bfa233c-24ed-4c7a-9096-11e3aa00c55d,20,piano|vocals|guitar|bass|drums
+7bfa233c-24ed-4c7a-9096-11e3aa00c55d,21,piano|drums|guitar|bass|vocals
+7bfa233c-24ed-4c7a-9096-11e3aa00c55d,22,drums|piano|bass|vocals
+7bfa233c-24ed-4c7a-9096-11e3aa00c55d,23,vocals|wind|drums|guitar|bass
+7bfa233c-24ed-4c7a-9096-11e3aa00c55d,24,bass|vocals|wind|piano|wind|drums
+7bfa233c-24ed-4c7a-9096-11e3aa00c55d,25,guitar|bass|drums|piano|vocals
+7bfa233c-24ed-4c7a-9096-11e3aa00c55d,26,guitar|vocals|other keys|guitar|drums
+7bfa233c-24ed-4c7a-9096-11e3aa00c55d,27,bass|piano|guitar|vocals
+7bfa233c-24ed-4c7a-9096-11e3aa00c55d,28,guitar|vocals|piano|other keys|drums|bass
+7bfa233c-24ed-4c7a-9096-11e3aa00c55d,29,bowed strings|bass|guitar|vocals|drums
+7bfa233c-24ed-4c7a-9096-11e3aa00c55d,30,bass|piano|vocals
+7dd515b0-e218-425d-b8bf-a75056237d6a,0,piano|vocals
+7dd515b0-e218-425d-b8bf-a75056237d6a,1,vocals|piano
+7dd515b0-e218-425d-b8bf-a75056237d6a,2,piano|vocals
+7dd515b0-e218-425d-b8bf-a75056237d6a,3,piano|piano|vocals
+7dd515b0-e218-425d-b8bf-a75056237d6a,4,piano|guitar|vocals
+7dd515b0-e218-425d-b8bf-a75056237d6a,5,guitar|piano|bass|vocals
+7dd515b0-e218-425d-b8bf-a75056237d6a,6,piano|vocals|guitar
+7dd515b0-e218-425d-b8bf-a75056237d6a,7,vocals|piano|bass
+7dd515b0-e218-425d-b8bf-a75056237d6a,8,other keys|vocals|bass|piano
+7dd515b0-e218-425d-b8bf-a75056237d6a,9,piano|guitar|vocals|bass
+7dd515b0-e218-425d-b8bf-a75056237d6a,10,piano|vocals|bass
+7dd515b0-e218-425d-b8bf-a75056237d6a,11,piano|vocals
+7dd515b0-e218-425d-b8bf-a75056237d6a,12,guitar|piano|vocals
+7dd515b0-e218-425d-b8bf-a75056237d6a,13,vocals|piano
+8042b88a-6179-406b-9ec4-b45a4cdd4a71,0,guitar
+8042b88a-6179-406b-9ec4-b45a4cdd4a71,1,guitar
+8042b88a-6179-406b-9ec4-b45a4cdd4a71,2,other keys|drums|vocals|drums|piano
+8042b88a-6179-406b-9ec4-b45a4cdd4a71,3,guitar|vocals|percussion|drums|bass
+8042b88a-6179-406b-9ec4-b45a4cdd4a71,4,vocals|guitar|drums|bass
+8042b88a-6179-406b-9ec4-b45a4cdd4a71,5,vocals|bass|guitar|drums
+8042b88a-6179-406b-9ec4-b45a4cdd4a71,6,bass|drums|guitar|vocals|other keys|other|other
+8042b88a-6179-406b-9ec4-b45a4cdd4a71,7,drums|other keys|piano|vocals|bass|other keys|other keys
+8042b88a-6179-406b-9ec4-b45a4cdd4a71,8,bass|drums|vocals|piano|other keys
+8042b88a-6179-406b-9ec4-b45a4cdd4a71,9,piano|vocals|bass|other|other keys|guitar|drums|other keys|bass
+8042b88a-6179-406b-9ec4-b45a4cdd4a71,10,bass|guitar|vocals|drums|drums|other keys
+8042b88a-6179-406b-9ec4-b45a4cdd4a71,11,guitar|percussion|bass|drums|vocals
+8042b88a-6179-406b-9ec4-b45a4cdd4a71,12,guitar|drums|vocals|guitar
+8042b88a-6179-406b-9ec4-b45a4cdd4a71,13,bass|drums|other keys|vocals|other keys|drums|percussion
+8042b88a-6179-406b-9ec4-b45a4cdd4a71,14,drums|other keys|vocals|piano|percussion|other|bass
+8042b88a-6179-406b-9ec4-b45a4cdd4a71,15,guitar|drums|other keys|other keys|vocals|bass|piano
+8042b88a-6179-406b-9ec4-b45a4cdd4a71,16,vocals|bass|bass|piano|drums
+8042b88a-6179-406b-9ec4-b45a4cdd4a71,17,bass|drums|drums|guitar|vocals
+8042b88a-6179-406b-9ec4-b45a4cdd4a71,18,other keys|drums|guitar|bass|other|vocals
+8042b88a-6179-406b-9ec4-b45a4cdd4a71,19,guitar|drums|bass|other keys|vocals
+8042b88a-6179-406b-9ec4-b45a4cdd4a71,20,piano|bass|drums|other keys|other keys|vocals|other
+8042b88a-6179-406b-9ec4-b45a4cdd4a71,21,bass|drums|piano|vocals|other keys
+8042b88a-6179-406b-9ec4-b45a4cdd4a71,22,bass|piano|drums|other|guitar|other keys|other keys|other|other plucked|vocals
+8042b88a-6179-406b-9ec4-b45a4cdd4a71,23,piano|drums|guitar|vocals
+8042b88a-6179-406b-9ec4-b45a4cdd4a71,24,guitar|drums|vocals|bass
+88b545e5-4d06-4d55-a306-1bd3a2915ee5,0,drums|guitar|bass
+88b545e5-4d06-4d55-a306-1bd3a2915ee5,1,bass|guitar|drums
+88b545e5-4d06-4d55-a306-1bd3a2915ee5,2,drums|vocals|bass|guitar
+88b545e5-4d06-4d55-a306-1bd3a2915ee5,3,guitar|drums|vocals|bass
+88b545e5-4d06-4d55-a306-1bd3a2915ee5,4,vocals|drums|bass|guitar
+88b545e5-4d06-4d55-a306-1bd3a2915ee5,5,guitar|vocals|bass|drums
+88b545e5-4d06-4d55-a306-1bd3a2915ee5,6,drums|vocals|guitar|bass
+88b545e5-4d06-4d55-a306-1bd3a2915ee5,7,bass|drums|vocals|guitar
+88b545e5-4d06-4d55-a306-1bd3a2915ee5,8,guitar|bass|vocals|drums
+88b545e5-4d06-4d55-a306-1bd3a2915ee5,9,guitar|bass|vocals|drums
+88b545e5-4d06-4d55-a306-1bd3a2915ee5,10,guitar|vocals|drums|bass
+88b545e5-4d06-4d55-a306-1bd3a2915ee5,11,guitar|vocals|bass|drums
+88b545e5-4d06-4d55-a306-1bd3a2915ee5,12,drums|vocals|guitar|bass
+88b545e5-4d06-4d55-a306-1bd3a2915ee5,13,drums|guitar|bass|vocals
+88b545e5-4d06-4d55-a306-1bd3a2915ee5,14,bass|guitar|vocals|drums
+88b545e5-4d06-4d55-a306-1bd3a2915ee5,15,vocals|bass|guitar|other keys|drums
+88b545e5-4d06-4d55-a306-1bd3a2915ee5,16,bass|drums|other|vocals
+88b545e5-4d06-4d55-a306-1bd3a2915ee5,17,vocals|guitar|bass|drums
+88b545e5-4d06-4d55-a306-1bd3a2915ee5,18,drums|vocals|guitar|bass
+88b545e5-4d06-4d55-a306-1bd3a2915ee5,19,guitar|bass|drums|vocals
+88b545e5-4d06-4d55-a306-1bd3a2915ee5,20,drums|guitar|bass
+88b545e5-4d06-4d55-a306-1bd3a2915ee5,21,guitar|drums|bass
+88b545e5-4d06-4d55-a306-1bd3a2915ee5,22,guitar|bass|drums
+88b545e5-4d06-4d55-a306-1bd3a2915ee5,23,bass|guitar|drums
+88b545e5-4d06-4d55-a306-1bd3a2915ee5,24,drums|guitar
+88b545e5-4d06-4d55-a306-1bd3a2915ee5,25,guitar|drums|bass
+88b545e5-4d06-4d55-a306-1bd3a2915ee5,26,drums|bass|guitar
+88b545e5-4d06-4d55-a306-1bd3a2915ee5,27,bass|guitar|drums
+88b545e5-4d06-4d55-a306-1bd3a2915ee5,28,guitar|drums|guitar
+88b545e5-4d06-4d55-a306-1bd3a2915ee5,29,guitar|bass|drums|vocals
+88b545e5-4d06-4d55-a306-1bd3a2915ee5,30,drums|guitar|vocals|bass|guitar
+88b545e5-4d06-4d55-a306-1bd3a2915ee5,31,guitar|bass|vocals|drums
+88b545e5-4d06-4d55-a306-1bd3a2915ee5,32,drums|vocals|guitar|bass
+88b545e5-4d06-4d55-a306-1bd3a2915ee5,33,guitar|vocals|drums|bass
+88b545e5-4d06-4d55-a306-1bd3a2915ee5,34,percussion|drums|bass|guitar|vocals
+88b545e5-4d06-4d55-a306-1bd3a2915ee5,35,bass|vocals|drums|guitar
+8a6c9c1f-4865-404f-a805-1949de36a33c,0,bass|drums|guitar
+8a6c9c1f-4865-404f-a805-1949de36a33c,1,drums|vocals|other keys|guitar
+8a6c9c1f-4865-404f-a805-1949de36a33c,2,guitar|drums|vocals|other keys|bass|percussion
+8a6c9c1f-4865-404f-a805-1949de36a33c,3,guitar|bass|vocals|drums|drums|drums
+8a6c9c1f-4865-404f-a805-1949de36a33c,4,guitar|bass|vocals|other keys|drums
+8a6c9c1f-4865-404f-a805-1949de36a33c,5,bass|percussion|drums|other keys|guitar|vocals
+8a6c9c1f-4865-404f-a805-1949de36a33c,6,vocals|other keys|drums|percussion|bass|guitar
+8a6c9c1f-4865-404f-a805-1949de36a33c,7,drums|bass|vocals|guitar|drums
+8a6c9c1f-4865-404f-a805-1949de36a33c,8,guitar|vocals|drums|bass|other keys|drums
+8a6c9c1f-4865-404f-a805-1949de36a33c,9,other keys|drums|guitar|bass
+8f36f17f-c033-4c1b-a793-80dce43d507b,0,drums|other plucked|guitar|piano|bass
+8f36f17f-c033-4c1b-a793-80dce43d507b,1,guitar|vocals|drums|bass
+8f36f17f-c033-4c1b-a793-80dce43d507b,2,guitar|bass|drums|vocals|guitar
+8f36f17f-c033-4c1b-a793-80dce43d507b,3,percussion|drums|guitar|bass|vocals
+8f36f17f-c033-4c1b-a793-80dce43d507b,4,guitar|vocals|guitar|bass|drums
+8f36f17f-c033-4c1b-a793-80dce43d507b,5,guitar|drums|bass|vocals
+8f36f17f-c033-4c1b-a793-80dce43d507b,6,bass|drums|vocals|bowed strings|guitar
+8f36f17f-c033-4c1b-a793-80dce43d507b,7,bass|piano|vocals|drums|wind|guitar
+8f36f17f-c033-4c1b-a793-80dce43d507b,8,piano|vocals|drums|guitar|bass
+8f36f17f-c033-4c1b-a793-80dce43d507b,9,bass|guitar|drums|vocals
+8f36f17f-c033-4c1b-a793-80dce43d507b,10,drums|bass|guitar|vocals
+8f36f17f-c033-4c1b-a793-80dce43d507b,11,other keys|guitar|drums|other|vocals|guitar|drums
+8f36f17f-c033-4c1b-a793-80dce43d507b,12,vocals|drums|bass|piano|guitar
+8f36f17f-c033-4c1b-a793-80dce43d507b,13,other keys|drums|bass|other|bowed strings|vocals
+8f36f17f-c033-4c1b-a793-80dce43d507b,14,drums|guitar|piano|bass|vocals|guitar
+8f36f17f-c033-4c1b-a793-80dce43d507b,15,drums|other plucked|other plucked|other plucked|guitar|other keys|vocals
+8f36f17f-c033-4c1b-a793-80dce43d507b,16,guitar|drums|other keys|guitar|bass
+8f36f17f-c033-4c1b-a793-80dce43d507b,17,bowed strings|guitar|drums|piano
+8f36f17f-c033-4c1b-a793-80dce43d507b,18,guitar|drums|bass|piano|other keys
+8f36f17f-c033-4c1b-a793-80dce43d507b,19,bass|drums|other keys|guitar|bowed strings
+8f36f17f-c033-4c1b-a793-80dce43d507b,20,other keys|bass|piano|drums
+8f36f17f-c033-4c1b-a793-80dce43d507b,21,guitar|drums|vocals|other|guitar|other keys|bass
+8f36f17f-c033-4c1b-a793-80dce43d507b,22,other keys|other|drums|wind|guitar|vocals|bass
+8f36f17f-c033-4c1b-a793-80dce43d507b,23,other keys|guitar|vocals|drums|other keys|bowed strings|guitar|piano
+8f36f17f-c033-4c1b-a793-80dce43d507b,24,drums|piano|guitar|vocals|other keys|bass
+8f36f17f-c033-4c1b-a793-80dce43d507b,25,bass|other plucked|vocals|other
+8f36f17f-c033-4c1b-a793-80dce43d507b,26,piano|other plucked|vocals|bass
+8f36f17f-c033-4c1b-a793-80dce43d507b,27,drums|piano|guitar|bass|other|vocals
+8f36f17f-c033-4c1b-a793-80dce43d507b,28,bass|percussion|guitar
+8f36f17f-c033-4c1b-a793-80dce43d507b,29,guitar|bass
+93dda0e8-dd76-49e4-b08f-54a82387cdf6,0,other keys|bass
+93dda0e8-dd76-49e4-b08f-54a82387cdf6,1,bass|piano|other keys|vocals
+93dda0e8-dd76-49e4-b08f-54a82387cdf6,2,other keys|other keys|piano|vocals|other keys
+93dda0e8-dd76-49e4-b08f-54a82387cdf6,3,other keys|vocals|bass|piano|other keys
+93dda0e8-dd76-49e4-b08f-54a82387cdf6,4,drums|guitar|vocals|other keys|bass
+93dda0e8-dd76-49e4-b08f-54a82387cdf6,5,other keys|drums|other keys|vocals|bass
+93dda0e8-dd76-49e4-b08f-54a82387cdf6,6,other keys|drums|bass|vocals|guitar
+93dda0e8-dd76-49e4-b08f-54a82387cdf6,7,bass|other keys|vocals|drums|guitar|other keys
+93dda0e8-dd76-49e4-b08f-54a82387cdf6,8,drums|vocals|guitar|bass|drums
+93dda0e8-dd76-49e4-b08f-54a82387cdf6,9,guitar|vocals|bass|piano|drums|percussion
+93dda0e8-dd76-49e4-b08f-54a82387cdf6,10,piano|guitar|vocals|bass|drums
+93dda0e8-dd76-49e4-b08f-54a82387cdf6,11,guitar|drums|other|bass|vocals|other keys
+93dda0e8-dd76-49e4-b08f-54a82387cdf6,12,bass|vocals|guitar|drums|piano|other keys
+93dda0e8-dd76-49e4-b08f-54a82387cdf6,13,vocals|guitar|bass|other keys|drums
+93dda0e8-dd76-49e4-b08f-54a82387cdf6,14,drums|guitar|bass|vocals|other keys
+93dda0e8-dd76-49e4-b08f-54a82387cdf6,15,bass|drums|guitar|guitar
+93dda0e8-dd76-49e4-b08f-54a82387cdf6,16,guitar|bass|drums
+93dda0e8-dd76-49e4-b08f-54a82387cdf6,17,drums|other keys|piano|guitar|bass
+93dda0e8-dd76-49e4-b08f-54a82387cdf6,18,bass|drums|bass|guitar
+93dda0e8-dd76-49e4-b08f-54a82387cdf6,19,bowed strings
+a199697c-3cdc-47c7-a9c7-c1b07dd6c9dd,0,guitar
+a199697c-3cdc-47c7-a9c7-c1b07dd6c9dd,1,guitar
+a199697c-3cdc-47c7-a9c7-c1b07dd6c9dd,2,piano|guitar
+a199697c-3cdc-47c7-a9c7-c1b07dd6c9dd,3,drums|bass|guitar|other keys|piano
+a199697c-3cdc-47c7-a9c7-c1b07dd6c9dd,4,piano|guitar|other keys|drums|vocals|bass
+a199697c-3cdc-47c7-a9c7-c1b07dd6c9dd,5,guitar|other keys|bass|piano|drums|vocals
+a199697c-3cdc-47c7-a9c7-c1b07dd6c9dd,6,bass|other keys|other plucked|piano|other|bowed strings|drums|vocals
+a199697c-3cdc-47c7-a9c7-c1b07dd6c9dd,7,bass|piano|bowed strings|vocals|drums|other keys
+a199697c-3cdc-47c7-a9c7-c1b07dd6c9dd,8,drums|bass|guitar|drums|vocals
+a199697c-3cdc-47c7-a9c7-c1b07dd6c9dd,9,vocals|bowed strings|drums|bass|guitar|other plucked|piano
+a199697c-3cdc-47c7-a9c7-c1b07dd6c9dd,10,other keys|other keys|guitar|drums|percussion|guitar|other|drums|vocals|bass
+a199697c-3cdc-47c7-a9c7-c1b07dd6c9dd,11,bass|drums|piano|guitar|vocals|other keys|percussion|other keys
+a199697c-3cdc-47c7-a9c7-c1b07dd6c9dd,12,guitar|percussion|guitar|guitar|drums|drums|piano|vocals
+a199697c-3cdc-47c7-a9c7-c1b07dd6c9dd,13,other plucked|other|drums|bass|bowed strings|vocals|guitar
+a199697c-3cdc-47c7-a9c7-c1b07dd6c9dd,14,guitar|piano|bass|vocals|drums|drums
+a199697c-3cdc-47c7-a9c7-c1b07dd6c9dd,15,drums|guitar|piano|bass|bass|guitar|vocals
+a199697c-3cdc-47c7-a9c7-c1b07dd6c9dd,16,piano|other|drums|bass|vocals|guitar
+a199697c-3cdc-47c7-a9c7-c1b07dd6c9dd,17,piano|bass|guitar|other keys|drums|vocals|other
+a199697c-3cdc-47c7-a9c7-c1b07dd6c9dd,18,drums|guitar|other keys|piano|bowed strings|vocals|percussion|bass|other|percussion
+a199697c-3cdc-47c7-a9c7-c1b07dd6c9dd,19,other|drums|vocals|piano|guitar|other keys|guitar|other keys|drums
+a199697c-3cdc-47c7-a9c7-c1b07dd6c9dd,20,piano|bass|drums|vocals
+a199697c-3cdc-47c7-a9c7-c1b07dd6c9dd,21,other keys|piano
+a1dcaeb2-f4e6-4818-b490-09f44d624afc,0,bass|drums
+a1dcaeb2-f4e6-4818-b490-09f44d624afc,1,vocals|drums|bass|guitar
+a1dcaeb2-f4e6-4818-b490-09f44d624afc,2,bass|guitar|drums|vocals
+a1dcaeb2-f4e6-4818-b490-09f44d624afc,3,vocals|drums|guitar|bass
+a1dcaeb2-f4e6-4818-b490-09f44d624afc,4,vocals|drums|bass|guitar
+a1dcaeb2-f4e6-4818-b490-09f44d624afc,5,vocals|guitar|bass|drums
+a1dcaeb2-f4e6-4818-b490-09f44d624afc,6,wind|drums|bass|guitar|vocals
+a1dcaeb2-f4e6-4818-b490-09f44d624afc,7,vocals|guitar|drums|bass
+a1dcaeb2-f4e6-4818-b490-09f44d624afc,8,drums|vocals|guitar|bass
+a1dcaeb2-f4e6-4818-b490-09f44d624afc,9,drums|guitar|vocals|bass
+a1dcaeb2-f4e6-4818-b490-09f44d624afc,10,drums|bass|guitar|vocals
+a1dcaeb2-f4e6-4818-b490-09f44d624afc,11,drums|guitar|bass|vocals|guitar|drums
+a1dcaeb2-f4e6-4818-b490-09f44d624afc,12,vocals|bass|guitar|drums|other keys
+a1dcaeb2-f4e6-4818-b490-09f44d624afc,13,vocals|guitar|bass|other keys|drums
+a1dcaeb2-f4e6-4818-b490-09f44d624afc,14,other keys|bass|vocals|guitar|drums
+a1dcaeb2-f4e6-4818-b490-09f44d624afc,15,guitar|drums|bass
+a1dcaeb2-f4e6-4818-b490-09f44d624afc,16,drums|bass|guitar
+a1dcaeb2-f4e6-4818-b490-09f44d624afc,17,guitar|drums|bass
+a1dcaeb2-f4e6-4818-b490-09f44d624afc,18,drums|bass|guitar
+a1dcaeb2-f4e6-4818-b490-09f44d624afc,19,bass|drums|guitar
+a1dcaeb2-f4e6-4818-b490-09f44d624afc,20,guitar|other keys|bass|drums|vocals
+a1dcaeb2-f4e6-4818-b490-09f44d624afc,21,guitar|drums|vocals|bass
+a1dcaeb2-f4e6-4818-b490-09f44d624afc,22,guitar|bass|drums|vocals
+a1dcaeb2-f4e6-4818-b490-09f44d624afc,23,guitar|drums|bass
+a56d9450-3a26-485c-8ac3-24b6b54e2c1d,0,piano|bass|guitar|drums|percussion
+a56d9450-3a26-485c-8ac3-24b6b54e2c1d,1,vocals|other keys|drums|guitar|bass
+a56d9450-3a26-485c-8ac3-24b6b54e2c1d,2,vocals|guitar|drums|drums|bass
+a56d9450-3a26-485c-8ac3-24b6b54e2c1d,3,guitar|drums|bass
+a56d9450-3a26-485c-8ac3-24b6b54e2c1d,4,other keys|vocals|guitar|bass|drums|drums
+a56d9450-3a26-485c-8ac3-24b6b54e2c1d,5,vocals|bass|drums|percussion|guitar
+a56d9450-3a26-485c-8ac3-24b6b54e2c1d,6,drums|guitar|bass|vocals
+aa600069-0a98-45e6-94fa-4000bfe46c25,0,piano|guitar|bass|piano|drums|other keys
+aa600069-0a98-45e6-94fa-4000bfe46c25,1,piano|guitar|guitar|drums|bass|vocals
+aa600069-0a98-45e6-94fa-4000bfe46c25,2,drums|guitar|vocals|bass|guitar|drums
+aa600069-0a98-45e6-94fa-4000bfe46c25,3,piano|bass|drums|guitar|vocals
+aa600069-0a98-45e6-94fa-4000bfe46c25,4,guitar|drums|bass|vocals
+aa600069-0a98-45e6-94fa-4000bfe46c25,5,guitar|bass|piano|drums|percussion|vocals|guitar
+aa600069-0a98-45e6-94fa-4000bfe46c25,6,drums|guitar|bass|guitar|vocals|percussion
+aa600069-0a98-45e6-94fa-4000bfe46c25,7,bass|guitar|vocals|drums
+aa600069-0a98-45e6-94fa-4000bfe46c25,8,bass|drums|piano|vocals|guitar
+aa600069-0a98-45e6-94fa-4000bfe46c25,9,drums|other keys|guitar|bass|piano|vocals
+aa600069-0a98-45e6-94fa-4000bfe46c25,10,piano|bass|guitar|drums|vocals
+aa600069-0a98-45e6-94fa-4000bfe46c25,11,vocals|drums|bass|piano|piano
+aa600069-0a98-45e6-94fa-4000bfe46c25,12,other keys|drums|bass|guitar|vocals
+aa600069-0a98-45e6-94fa-4000bfe46c25,13,drums|vocals|piano|bass|drums|guitar
+aa600069-0a98-45e6-94fa-4000bfe46c25,14,guitar|vocals|drums|piano|drums|bass
+aa600069-0a98-45e6-94fa-4000bfe46c25,15,drums|guitar|piano|vocals|bass
+aa600069-0a98-45e6-94fa-4000bfe46c25,16,piano|drums|bass|drums|guitar|guitar
+aa600069-0a98-45e6-94fa-4000bfe46c25,17,drums|guitar|vocals|bass|drums
+aa600069-0a98-45e6-94fa-4000bfe46c25,18,bowed strings|drums|vocals|guitar|bass|piano
+aa600069-0a98-45e6-94fa-4000bfe46c25,19,bass|vocals|drums|drums|guitar|piano
+aa600069-0a98-45e6-94fa-4000bfe46c25,20,bass|guitar|vocals|drums|drums
+aa600069-0a98-45e6-94fa-4000bfe46c25,21,percussion|guitar|drums|bass|percussion|guitar
+aa600069-0a98-45e6-94fa-4000bfe46c25,22,guitar|drums
+ad9bbefc-8762-46c9-b847-da14b10802b6,0,drums|bass
+ad9bbefc-8762-46c9-b847-da14b10802b6,1,drums|guitar|wind|bass
+ad9bbefc-8762-46c9-b847-da14b10802b6,2,drums|guitar|vocals|bass
+ad9bbefc-8762-46c9-b847-da14b10802b6,3,drums|piano|bass|guitar|other|vocals
+ad9bbefc-8762-46c9-b847-da14b10802b6,4,guitar|bass|vocals|drums
+ad9bbefc-8762-46c9-b847-da14b10802b6,5,vocals|guitar|drums|bass
+ad9bbefc-8762-46c9-b847-da14b10802b6,6,guitar|drums|vocals|bass|drums
+ad9bbefc-8762-46c9-b847-da14b10802b6,7,drums|vocals|guitar|bass
+ad9bbefc-8762-46c9-b847-da14b10802b6,8,guitar|guitar|vocals|drums|bass
+ad9bbefc-8762-46c9-b847-da14b10802b6,9,bass|guitar|guitar|drums
+ad9bbefc-8762-46c9-b847-da14b10802b6,10,drums|bass|guitar
+ad9bbefc-8762-46c9-b847-da14b10802b6,11,guitar|drums|vocals|bass
+ad9bbefc-8762-46c9-b847-da14b10802b6,12,guitar|vocals|drums|bass
+ad9bbefc-8762-46c9-b847-da14b10802b6,13,other keys|drums|guitar|bass
+ad9bbefc-8762-46c9-b847-da14b10802b6,14,drums|bass|guitar
+ad9bbefc-8762-46c9-b847-da14b10802b6,15,bass|guitar|drums
+adb5e3fd-d039-42e4-b09b-fd0784fa0c82,0,other|other keys
+adb5e3fd-d039-42e4-b09b-fd0784fa0c82,1,drums|other plucked|guitar|other keys|other keys|vocals|piano|other keys|drums
+adb5e3fd-d039-42e4-b09b-fd0784fa0c82,2,bass|other keys|drums|other keys|other|guitar|vocals
+adb5e3fd-d039-42e4-b09b-fd0784fa0c82,3,bass|drums|guitar|piano|other|other|other|other keys|vocals|other keys|guitar
+adb5e3fd-d039-42e4-b09b-fd0784fa0c82,4,other|drums|piano|bass|other|vocals
+adb5e3fd-d039-42e4-b09b-fd0784fa0c82,5,piano|guitar|drums|vocals|bass
+adb5e3fd-d039-42e4-b09b-fd0784fa0c82,6,bass|vocals|other keys|other|guitar|drums|bowed strings
+adb5e3fd-d039-42e4-b09b-fd0784fa0c82,7,other keys|vocals|bass|guitar|other keys|drums
+adb5e3fd-d039-42e4-b09b-fd0784fa0c82,8,bass|drums|vocals|other keys|wind
+adb5e3fd-d039-42e4-b09b-fd0784fa0c82,9,other keys|bass|drums|other|guitar|vocals
+adb5e3fd-d039-42e4-b09b-fd0784fa0c82,10,bass|piano|vocals|guitar|piano|other|drums
+adb5e3fd-d039-42e4-b09b-fd0784fa0c82,11,bass|vocals|guitar|drums
+adb5e3fd-d039-42e4-b09b-fd0784fa0c82,12,drums|other keys|drums|vocals|bass|drums|other|other keys|bowed strings
+adb5e3fd-d039-42e4-b09b-fd0784fa0c82,13,bass|bowed strings|other keys|other keys|drums|vocals
+adb5e3fd-d039-42e4-b09b-fd0784fa0c82,14,bowed strings|vocals|percussion|guitar|wind|other plucked|bass|drums
+adb5e3fd-d039-42e4-b09b-fd0784fa0c82,15,bass|other keys|other|percussion|other keys|drums|vocals
+adb5e3fd-d039-42e4-b09b-fd0784fa0c82,16,other keys|bass|drums|vocals|bowed strings|guitar|bass|other plucked
+adb5e3fd-d039-42e4-b09b-fd0784fa0c82,17,bass|vocals|drums|piano|other|other keys
+adb5e3fd-d039-42e4-b09b-fd0784fa0c82,18,drums|bass|other keys|other keys|vocals
+adb5e3fd-d039-42e4-b09b-fd0784fa0c82,19,drums|bass|guitar|vocals|percussion|drums|other keys
+adb5e3fd-d039-42e4-b09b-fd0784fa0c82,20,other|other keys|other keys|drums|drums|guitar|bass|other|vocals
+adb5e3fd-d039-42e4-b09b-fd0784fa0c82,21,vocals|drums|other keys|other|bass
+bb45cf1a-4c58-4fe3-88ea-97ef27527507,0,vocals|piano|other keys
+bb45cf1a-4c58-4fe3-88ea-97ef27527507,1,piano|other|drums|bass|bass|vocals
+bb45cf1a-4c58-4fe3-88ea-97ef27527507,2,piano|piano|piano|percussion|drums|bass|vocals
+bb45cf1a-4c58-4fe3-88ea-97ef27527507,3,other keys|bass|drums|other keys|vocals|piano|guitar|piano
+bb45cf1a-4c58-4fe3-88ea-97ef27527507,4,piano|other|percussion|vocals|drums|bass|other keys|bass|drums
+bb45cf1a-4c58-4fe3-88ea-97ef27527507,5,piano|drums|other keys|bass|drums|vocals
+bb45cf1a-4c58-4fe3-88ea-97ef27527507,6,drums|vocals|piano|bass
+bb45cf1a-4c58-4fe3-88ea-97ef27527507,7,guitar|other|drums|bass|piano|other keys|vocals
+bb45cf1a-4c58-4fe3-88ea-97ef27527507,8,bass|guitar|other keys|piano|bass|drums|percussion|vocals
+bb45cf1a-4c58-4fe3-88ea-97ef27527507,9,other keys|percussion|vocals|drums|bass|other|piano
+bb45cf1a-4c58-4fe3-88ea-97ef27527507,10,vocals|other keys|other keys|drums|bass
+bb45cf1a-4c58-4fe3-88ea-97ef27527507,11,bass|guitar|drums|other|vocals|bass|other keys
+bb45cf1a-4c58-4fe3-88ea-97ef27527507,12,drums|bass|other keys|drums|vocals|piano
+bb45cf1a-4c58-4fe3-88ea-97ef27527507,13,piano|vocals
+bb45cf1a-4c58-4fe3-88ea-97ef27527507,14,piano|drums|bass|guitar|other keys|vocals
+bb45cf1a-4c58-4fe3-88ea-97ef27527507,15,vocals|drums|bass|piano
+bb45cf1a-4c58-4fe3-88ea-97ef27527507,16,drums|other keys|vocals|other keys|bass|other keys
+bb45cf1a-4c58-4fe3-88ea-97ef27527507,17,vocals|piano|bass|other keys|other keys|drums
+bb45cf1a-4c58-4fe3-88ea-97ef27527507,18,guitar|percussion|bass|vocals|other
+c6d73235-1dd5-4085-a3b3-50a3466c6168,0,drums|guitar|wind
+c6d73235-1dd5-4085-a3b3-50a3466c6168,1,bass|wind|guitar|drums
+c6d73235-1dd5-4085-a3b3-50a3466c6168,2,bass|guitar|drums|vocals
+c6d73235-1dd5-4085-a3b3-50a3466c6168,3,guitar|bass|drums|vocals|wind
+c6d73235-1dd5-4085-a3b3-50a3466c6168,4,vocals|drums|guitar|bass
+c6d73235-1dd5-4085-a3b3-50a3466c6168,5,guitar|bass|vocals|drums
+c6d73235-1dd5-4085-a3b3-50a3466c6168,6,guitar|vocals|wind|drums|bass
+c6d73235-1dd5-4085-a3b3-50a3466c6168,7,vocals|guitar|wind|bass|drums
+c6d73235-1dd5-4085-a3b3-50a3466c6168,8,drums|wind|bass|guitar|drums|vocals
+c6d73235-1dd5-4085-a3b3-50a3466c6168,9,guitar|vocals|drums|bass|wind
+c6d73235-1dd5-4085-a3b3-50a3466c6168,10,bass|percussion|guitar|drums|vocals|guitar
+c6d73235-1dd5-4085-a3b3-50a3466c6168,11,guitar|wind|bass|drums|vocals
+c6d73235-1dd5-4085-a3b3-50a3466c6168,12,vocals|guitar|bass|drums|wind
+c6d73235-1dd5-4085-a3b3-50a3466c6168,13,vocals|drums|piano|guitar|bass
+c6d73235-1dd5-4085-a3b3-50a3466c6168,14,drums|guitar|bass|vocals
+c6d73235-1dd5-4085-a3b3-50a3466c6168,15,wind|drums|bass|guitar
+c6d73235-1dd5-4085-a3b3-50a3466c6168,16,guitar|guitar|drums|bass|wind
+c6d73235-1dd5-4085-a3b3-50a3466c6168,17,bass|guitar|wind
+c6d73235-1dd5-4085-a3b3-50a3466c6168,18,drums|guitar|vocals|bass
+c6d73235-1dd5-4085-a3b3-50a3466c6168,19,guitar|wind|drums|bass|vocals
+c6d73235-1dd5-4085-a3b3-50a3466c6168,20,drums|guitar|wind|bass
+c70471f9-9c4a-41c9-b8f8-20ac38847a8e,0,piano|guitar|other keys
+c70471f9-9c4a-41c9-b8f8-20ac38847a8e,1,bass|vocals|guitar|drums|drums
+c70471f9-9c4a-41c9-b8f8-20ac38847a8e,2,drums|vocals|guitar|drums|bass|guitar|other keys
+c70471f9-9c4a-41c9-b8f8-20ac38847a8e,3,drums|bass|vocals|piano|guitar|guitar|other keys
+c70471f9-9c4a-41c9-b8f8-20ac38847a8e,4,guitar|guitar|bass|drums|other keys|vocals
+c70471f9-9c4a-41c9-b8f8-20ac38847a8e,5,guitar|drums|vocals|other keys|bass|other keys
+c70471f9-9c4a-41c9-b8f8-20ac38847a8e,6,guitar|drums|vocals|bass|other keys
+c70471f9-9c4a-41c9-b8f8-20ac38847a8e,7,other keys|drums|guitar|guitar|vocals
+c70471f9-9c4a-41c9-b8f8-20ac38847a8e,8,bass|drums|vocals|guitar|other keys|piano
+c70471f9-9c4a-41c9-b8f8-20ac38847a8e,9,drums|percussion|vocals|bass|guitar
+c70471f9-9c4a-41c9-b8f8-20ac38847a8e,10,guitar|bass|drums|vocals|other keys
+c70471f9-9c4a-41c9-b8f8-20ac38847a8e,11,bass|vocals|drums|guitar
+c70471f9-9c4a-41c9-b8f8-20ac38847a8e,12,bass|drums|other keys|vocals|guitar|piano
+c70471f9-9c4a-41c9-b8f8-20ac38847a8e,13,bass|drums|piano|guitar|vocals
+c70471f9-9c4a-41c9-b8f8-20ac38847a8e,14,drums|bass|other keys|guitar|vocals|guitar
+c70471f9-9c4a-41c9-b8f8-20ac38847a8e,15,piano|bass|vocals|drums|guitar
+c70471f9-9c4a-41c9-b8f8-20ac38847a8e,16,other keys|drums|other keys|guitar
+c70471f9-9c4a-41c9-b8f8-20ac38847a8e,17,guitar|vocals|bass|other keys|drums
+c70471f9-9c4a-41c9-b8f8-20ac38847a8e,18,guitar|vocals|guitar|drums|guitar|bass|other keys
+c70471f9-9c4a-41c9-b8f8-20ac38847a8e,19,bass|piano|guitar|drums|vocals
+c70471f9-9c4a-41c9-b8f8-20ac38847a8e,20,vocals|drums|other keys|piano|other keys|guitar|bass
+c70471f9-9c4a-41c9-b8f8-20ac38847a8e,21,guitar|guitar|other keys|vocals|drums
+c70471f9-9c4a-41c9-b8f8-20ac38847a8e,22,bass|other keys|other keys|piano|vocals|drums
+c70471f9-9c4a-41c9-b8f8-20ac38847a8e,23,vocals|drums|piano|other keys|guitar
+c70471f9-9c4a-41c9-b8f8-20ac38847a8e,24,vocals|guitar
+c70471f9-9c4a-41c9-b8f8-20ac38847a8e,25,vocals|piano|guitar
+c70471f9-9c4a-41c9-b8f8-20ac38847a8e,26,guitar|piano
+dc61c44e-a771-47a9-8934-a0eb8f3e08ac,0,drums|other keys|other keys
+dc61c44e-a771-47a9-8934-a0eb8f3e08ac,1,guitar|guitar|drums
+dc61c44e-a771-47a9-8934-a0eb8f3e08ac,2,vocals|drums|piano|other|guitar|bass
+dc61c44e-a771-47a9-8934-a0eb8f3e08ac,3,drums|vocals|guitar
+dc61c44e-a771-47a9-8934-a0eb8f3e08ac,4,guitar|drums|bass|other|other keys
+dc61c44e-a771-47a9-8934-a0eb8f3e08ac,5,bass|guitar|vocals|drums
+dc61c44e-a771-47a9-8934-a0eb8f3e08ac,6,percussion|guitar|other keys|drums
+dc61c44e-a771-47a9-8934-a0eb8f3e08ac,7,guitar|guitar|vocals|drums
+dc61c44e-a771-47a9-8934-a0eb8f3e08ac,8,drums|vocals|guitar|bass
+dc61c44e-a771-47a9-8934-a0eb8f3e08ac,9,drums|guitar|vocals
+dc61c44e-a771-47a9-8934-a0eb8f3e08ac,10,bass|drums|guitar
+dc61c44e-a771-47a9-8934-a0eb8f3e08ac,11,drums|guitar|bass|vocals
+dc61c44e-a771-47a9-8934-a0eb8f3e08ac,12,bass|vocals|guitar|drums
+dc61c44e-a771-47a9-8934-a0eb8f3e08ac,13,guitar|guitar|percussion|bass|drums
+dc61c44e-a771-47a9-8934-a0eb8f3e08ac,14,guitar|guitar|drums|guitar|vocals
+dc61c44e-a771-47a9-8934-a0eb8f3e08ac,15,vocals|guitar|drums|bass
+dc61c44e-a771-47a9-8934-a0eb8f3e08ac,16,percussion|drums|vocals|guitar|guitar
+dc61c44e-a771-47a9-8934-a0eb8f3e08ac,17,guitar|drums|other keys
+dc61c44e-a771-47a9-8934-a0eb8f3e08ac,18,drums|piano|guitar
+dda2c057-6d73-43fa-a130-d7d6562c09ca,0,drums|bass
+dda2c057-6d73-43fa-a130-d7d6562c09ca,1,drums|bass
+dda2c057-6d73-43fa-a130-d7d6562c09ca,2,bass|vocals|drums
+dda2c057-6d73-43fa-a130-d7d6562c09ca,3,bass|drums|other keys|vocals
+dda2c057-6d73-43fa-a130-d7d6562c09ca,4,vocals|drums|bass
+dda2c057-6d73-43fa-a130-d7d6562c09ca,5,vocals|bass|drums
+dda2c057-6d73-43fa-a130-d7d6562c09ca,6,bass|vocals|drums|bass
+dda2c057-6d73-43fa-a130-d7d6562c09ca,7,vocals|drums|bass|piano
+dda2c057-6d73-43fa-a130-d7d6562c09ca,8,bass|drums|piano|vocals
+dda2c057-6d73-43fa-a130-d7d6562c09ca,9,bass|guitar|vocals|drums
+dda2c057-6d73-43fa-a130-d7d6562c09ca,10,drums|piano|vocals|bass
+dda2c057-6d73-43fa-a130-d7d6562c09ca,11,guitar|bass|drums|vocals
+dda2c057-6d73-43fa-a130-d7d6562c09ca,12,vocals|drums|bass
+dda2c057-6d73-43fa-a130-d7d6562c09ca,13,drums|guitar|vocals|bass
+dda2c057-6d73-43fa-a130-d7d6562c09ca,14,drums|vocals|bass
+dda2c057-6d73-43fa-a130-d7d6562c09ca,15,guitar|drums|bass|vocals
+dda2c057-6d73-43fa-a130-d7d6562c09ca,16,drums|vocals|bass
+dda2c057-6d73-43fa-a130-d7d6562c09ca,17,bass|drums|vocals
+dda2c057-6d73-43fa-a130-d7d6562c09ca,18,drums|bass|vocals|piano
+dda2c057-6d73-43fa-a130-d7d6562c09ca,19,other keys|bass|drums|vocals|vocals
+dda2c057-6d73-43fa-a130-d7d6562c09ca,20,drums|vocals|bass|piano
+dda2c057-6d73-43fa-a130-d7d6562c09ca,21,drums|vocals|guitar|bass
+dda2c057-6d73-43fa-a130-d7d6562c09ca,22,bass|drums|vocals|piano
+dda2c057-6d73-43fa-a130-d7d6562c09ca,23,bass|drums|vocals|piano
+dda2c057-6d73-43fa-a130-d7d6562c09ca,24,vocals|other|drums|bass|piano
+dda2c057-6d73-43fa-a130-d7d6562c09ca,25,vocals|bass|piano|drums
+dda2c057-6d73-43fa-a130-d7d6562c09ca,26,drums|bass|vocals|guitar
+dda2c057-6d73-43fa-a130-d7d6562c09ca,27,other plucked|drums|bass|vocals
+dda2c057-6d73-43fa-a130-d7d6562c09ca,28,drums|bass|vocals|guitar
+dda2c057-6d73-43fa-a130-d7d6562c09ca,29,bass|vocals|drums
+dda2c057-6d73-43fa-a130-d7d6562c09ca,30,bass|vocals|guitar|drums
+dda2c057-6d73-43fa-a130-d7d6562c09ca,31,drums|guitar|bass
+dda2c057-6d73-43fa-a130-d7d6562c09ca,32,guitar|drums|bass|percussion
+dda2c057-6d73-43fa-a130-d7d6562c09ca,33,guitar|guitar|bass|drums
+dda2c057-6d73-43fa-a130-d7d6562c09ca,34,guitar|piano|bass|drums
+dda2c057-6d73-43fa-a130-d7d6562c09ca,35,drums|bass|guitar
+dda2c057-6d73-43fa-a130-d7d6562c09ca,36,drums|guitar|other keys
+dda2c057-6d73-43fa-a130-d7d6562c09ca,37,piano|guitar|drums|bass
+dda2c057-6d73-43fa-a130-d7d6562c09ca,38,piano|drums|guitar|bass
+dda2c057-6d73-43fa-a130-d7d6562c09ca,39,drums|guitar|vocals|bass
+dda2c057-6d73-43fa-a130-d7d6562c09ca,40,percussion|drums|vocals|bass|guitar
+dda2c057-6d73-43fa-a130-d7d6562c09ca,41,drums|piano|guitar|bass|vocals
+dda2c057-6d73-43fa-a130-d7d6562c09ca,42,drums|bass|vocals|piano
+dda2c057-6d73-43fa-a130-d7d6562c09ca,43,bass|guitar|drums|vocals
+dda2c057-6d73-43fa-a130-d7d6562c09ca,44,bass|vocals|drums|guitar
+dda2c057-6d73-43fa-a130-d7d6562c09ca,45,bass|drums|piano|vocals
+dda2c057-6d73-43fa-a130-d7d6562c09ca,46,drums|bass|vocals
+dda2c057-6d73-43fa-a130-d7d6562c09ca,47,drums|piano|guitar|other|bass
+dda2c057-6d73-43fa-a130-d7d6562c09ca,48,vocals|drums|bass|guitar
+dda2c057-6d73-43fa-a130-d7d6562c09ca,49,piano|bass|vocals|drums
+dda2c057-6d73-43fa-a130-d7d6562c09ca,50,drums|bass|guitar|vocals
+dda2c057-6d73-43fa-a130-d7d6562c09ca,51,drums|bass|vocals|guitar
+dda2c057-6d73-43fa-a130-d7d6562c09ca,52,piano|drums|bass|vocals
+dda2c057-6d73-43fa-a130-d7d6562c09ca,53,vocals|bass|drums
+dda2c057-6d73-43fa-a130-d7d6562c09ca,54,vocals|drums|bass|drums
+dda2c057-6d73-43fa-a130-d7d6562c09ca,55,vocals|drums|bass
+f0c565c5-fc73-4da1-b979-0fac0167f671,0,bass|guitar|drums|drums|percussion
+f0c565c5-fc73-4da1-b979-0fac0167f671,1,drums|guitar|bass|vocals
+f0c565c5-fc73-4da1-b979-0fac0167f671,2,drums|vocals|bass|guitar
+f0c565c5-fc73-4da1-b979-0fac0167f671,3,drums|bass|guitar|vocals
+f0c565c5-fc73-4da1-b979-0fac0167f671,4,vocals|other keys|drums|bass|guitar
+f0c565c5-fc73-4da1-b979-0fac0167f671,5,vocals|bass|percussion|drums|guitar
+fc3c9e48-e2ac-4088-af65-68404baa7f12,0,piano
+fc3c9e48-e2ac-4088-af65-68404baa7f12,1,vocals|piano
+fc3c9e48-e2ac-4088-af65-68404baa7f12,2,percussion|bass|vocals|piano|drums
+fc3c9e48-e2ac-4088-af65-68404baa7f12,3,bass|other keys|piano|piano|drums|vocals
+fc3c9e48-e2ac-4088-af65-68404baa7f12,4,vocals|bass|guitar|other keys|drums|drums
+fc3c9e48-e2ac-4088-af65-68404baa7f12,5,vocals|wind|piano
+fc3c9e48-e2ac-4088-af65-68404baa7f12,6,bass|vocals|piano
+fc3c9e48-e2ac-4088-af65-68404baa7f12,7,other|other|piano|other keys|drums|bass|vocals|other keys
+fc3c9e48-e2ac-4088-af65-68404baa7f12,8,guitar|bass|vocals|drums|piano
+fc3c9e48-e2ac-4088-af65-68404baa7f12,9,other keys|bass|vocals|drums|other keys|other keys|other keys
+fc3c9e48-e2ac-4088-af65-68404baa7f12,10,bass|guitar|other keys|drums|piano|vocals
+fc3c9e48-e2ac-4088-af65-68404baa7f12,11,wind|piano|wind|vocals|bass
+fc3c9e48-e2ac-4088-af65-68404baa7f12,12,vocals|piano|other keys
+fc3c9e48-e2ac-4088-af65-68404baa7f12,13,wind|piano|vocals|bass
+fc3c9e48-e2ac-4088-af65-68404baa7f12,14,bass|guitar|piano|other keys|drums|vocals|percussion
+fc3c9e48-e2ac-4088-af65-68404baa7f12,15,piano|bass|guitar|other keys|percussion|drums|vocals
+fc3c9e48-e2ac-4088-af65-68404baa7f12,16,drums|guitar|piano|bass|guitar|drums|vocals
+fc3c9e48-e2ac-4088-af65-68404baa7f12,17,wind|drums|drums|guitar|wind|bass|vocals|guitar|other keys
+fc3c9e48-e2ac-4088-af65-68404baa7f12,18,piano|vocals|bass
+fc3c9e48-e2ac-4088-af65-68404baa7f12,19,wind|vocals|piano|wind|bass
+fc3c9e48-e2ac-4088-af65-68404baa7f12,20,vocals|piano|wind|wind

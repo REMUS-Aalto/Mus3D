@@ -1,0 +1,14 @@
+# Stem embedding generator. Train with: bash train_seg.sh
+
+defaults:
+- model: SEG
+- data: seg
+- optimizer: SEG
+- trainer: SEG
+- _self_
+hydra:
+  output_subdir: null
+  run:
+    dir: .
+  sweep:
+    dir: .

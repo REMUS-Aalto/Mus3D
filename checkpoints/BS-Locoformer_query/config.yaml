@@ -1,0 +1,258 @@
+model:
+  backbone:
+    _target_: query_conditioned_bslocoformer.backbone.LevelConditionedBanditBSLocoformer
+    n_chan: 2
+    masking: true
+    sample_rate: 44100
+    n_bands: 64
+    emb_dim: 128
+    mlp_dim: 512
+    transformer_blocks: 6
+    ffn_hidden_dim:
+    - 192
+    - 192
+    attention_heads: 8
+    norm_groups: 8
+  loss:
+    _target_: query_conditioned_bslocoformer.loss.ThresSNRLossWithInactiveSource
+    n_src: 1
+    solve_perm: false
+    zeroref_weight: 0.1
+    only_denominator: false
+  _target_: query_conditioned_bslocoformer.regression.Regressor
+  query_model:
+    _target_: query_conditioned_bslocoformer.query_model.PasstWrapper
+  query_adapter:
+    _target_: query_conditioned_bslocoformer.query_model.PcaAdapter
+data:
+  train:
+    _target_: data.audio_effects.EffectChainDataset
+    p_apply: 0.5
+    sample_rate: 44100
+    count_probs:
+    - 0.02
+    - 0.45
+    - 0.33
+    - 0.15
+    - 0.05
+    p_effects: 0.5
+    impulse_responses:
+      filtered_v2: configs/data/ir_index_filtered_v2.csv
+    dataset:
+      _target_: data.moisesdb.MoisesDBOriginalMixSeparationDataset
+      dset_dir: data
+      sample_size: 441000
+      sample_rate: 44100
+      min_rms: 0.0001
+      rel_floor_db: -50.0
+      min_active_tracks: 2
+      merge_same_leaf: true
+      p_track_dropout: 0.5
+      min_keep_frac: 0.6
+      song_weighting: units
+      min_slots: 2
+      items_per_segment: 2
+      gain_db: 6.0
+      k_bias: 1.0
+      p_stem: 0.15
+      dset_info: dataset/splits/moisesdb_medleydb_albumdb_train.json
+    audio_effects:
+    - _target_: data.audio_effects.common_audioeffects.SteepLowpass
+      sample_rates:
+      - 44100
+      - 48000
+      normalize: rms
+      weight: 0.8
+      parameter_ranges:
+        cutoff:
+          min: 8000.0
+          max: 18000.0
+    - _target_: data.audio_effects.common_audioeffects.SteepHighpass
+      sample_rates:
+      - 44100
+      - 48000
+      normalize: rms
+      weight: 0.5
+      parameter_ranges:
+        cutoff:
+          min: 20.0
+          max: 120.0
+    - _target_: data.audio_effects.common_audioeffects.Bandpass
+      sample_rates:
+      - 44100
+      - 48000
+      normalize: rms
+      weight: 0.3
+      parameter_ranges:
+        low:
+          min: 40.0
+          max: 150.0
+        high:
+          min: 8000.0
+          max: 16000.0
+    - _target_: data.audio_effects.common_audioeffects.Equaliser
+      n_channels: 2
+      sample_rates:
+      - 44100
+      - 48000
+      normalize: rms
+      weight: 1.0
+      parameter_ranges:
+        gain_range:
+          min: -6.0
+          max: 6.0
+        q_range:
+          min: 0.4
+          max: 2.0
+        low_shelf_freq:
+          min: 30.0
+          max: 200.0
+        first_band_freq:
+          min: 200.0
+          max: 1000.0
+        second_band_freq:
+          min: 1000.0
+          max: 3000.0
+        third_band_freq:
+          min: 3000.0
+          max: 8000.0
+        high_shelf_freq:
+          min: 5000.0
+          max: 12000.0
+    - _target_: data.audio_effects.common_audioeffects.ConvolutionalReverb
+      sample_rates:
+      - 44100
+      - 48000
+      weight: 0.6
+    - _target_: data.audio_effects.common_audioeffects.Compressor
+      sample_rates:
+      - 44100
+      - 48000
+      normalize: rms
+      weight: 0.8
+      parameter_ranges:
+        threshold:
+          min: -35.0
+          max: 0.0
+        attack_time:
+          min: 0.1
+          max: 80.0
+        release_time:
+          min: 20.0
+          max: 500.0
+        ratio:
+          min: 1.5
+          max: 8.0
+        makeup_gain:
+          min: -3.0
+          max: 12.0
+    - _target_: data.audio_effects.common_audioeffects.Tremolo
+      sample_rates:
+      - 44100
+      - 48000
+      weight: 0.3
+      parameter_ranges:
+        rate_hz:
+          min: 4.0
+          max: 14.0
+        depth:
+          min: 0.05
+          max: 0.4
+    - _target_: data.audio_effects.common_audioeffects.WidthReduction
+      weight: 0.3
+      parameter_ranges:
+        side_gain:
+          min: 0.0
+          max: 1.0
+    - _target_: data.audio_effects.common_audioeffects.BalanceShift
+      weight: 0.3
+      parameter_ranges:
+        lr_gain_db:
+          min: -12.0
+          max: 12.0
+    - _target_: data.audio_effects.common_audioeffects.ChannelDropout
+      weight: 0.2
+    - _target_: data.audio_effects.common_audioeffects.Monauralize
+      n_channels: 2
+      weight: 0.3
+    - _target_: data.audio_effects.common_audioeffects.SwapChannels
+      n_channels: 2
+      weight: 0.2
+    - _target_: data.audio_effects.common_audioeffects.Haas
+      sample_rates:
+      - 44100
+      - 48000
+      weight: 0.3
+    - _target_: data.audio_effects.common_audioeffects.Panner
+      sample_rates:
+      - 44100
+      - 48000
+      weight: 0.3
+    - _target_: data.audio_effects.pitch.PitchShift
+      sample_rates:
+      - 44100
+      - 48000
+      normalize: rms
+      weight: 0.4
+      min_semitones: -2.0
+      max_semitones: 2.0
+      method: signalsmith_stretch
+    _recursive_: false
+    silence_rms: 1.0e-05
+    match_rms: true
+  val:
+    _target_: data.moisesdb.MoisesDBOriginalMixDataset
+    dset_dir: data
+    sample_size: 441000
+    sample_rate: 44100
+    k_max: null
+    min_rms: 0.0001
+    rel_floor_db: -50.0
+    min_active_tracks: 2
+    merge_same_leaf: true
+    p_track_dropout: 0.0
+    dset_info: dataset/splits/moisesdb-val-no_bleed.json
+optimizer:
+  optimizer:
+    _partial_: true
+    _target_: torch.optim.AdamW
+    betas:
+    - 0.8
+    - 0.99
+    lr: 0.0001
+    weight_decay: 0.001
+  scheduler:
+    _partial_: true
+    _target_: utils.scheduler.InverseLR
+    inv_gamma: 100000
+    power: 1.0
+    warmup: 0.9995
+trainer:
+  output_dir: runs/BS-Locoformer_query
+  ckpt_dir: null
+  batch_size: 4
+  num_workers: 8
+  seed: 0
+  debug: false
+  save_ckpt_on_exit: true
+  amp: bf16
+  max_grad_norm: 1.0
+  ema:
+    beta: 0.999
+    update_after_step: 100
+    update_every: 10
+  timestep_sampler: null
+  logger:
+    project_name: reg-query
+    run_name: med-pre_act-orig-new-pca
+  logging:
+    n_step_log: 10
+    n_step_figure: 200
+    n_step_ckpt: 400
+    n_step_sample: 1000
+    n_step_print: 100
+    n_samples_per_step: 2
+    steps:
+    - 1
+    metrics_for_best_ckpt:
+    - loss

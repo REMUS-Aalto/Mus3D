@@ -1,0 +1,37 @@
+# SEG trainer. `separator_ckpt_dir` is optional: it only renders audio in the demos.
+
+output_dir: ???
+ckpt_dir: null
+batch_size: 8
+num_workers: 16
+seed: 0
+debug: false
+save_ckpt_on_exit: true
+separator_ckpt_dir: null
+amp: bf16
+max_grad_norm: 1.0
+ema:
+  beta: 0.9999
+  update_after_step: 1000
+  update_every: 10
+logger:
+  project_name: SEG
+  run_name: seg
+logging:
+  n_step_log: 100
+  n_step_figure: 500
+  n_step_ckpt: 10000
+  n_step_sample: 5000
+  n_step_print: 100
+  n_samples_per_step: 16
+  n_separator_demos: 2
+  recursive_max_steps: 14
+  n_recursive_songs: 16
+  steps:
+  - 32
+  metrics_for_best_ckpt: []
+  best_metric_mode: min
+  separator:
+    sep_steps: 1
+stats_path: src/source_embedding_generator/passt_pca128train_moisesdb_stats.npz
+separator_use_ema: false

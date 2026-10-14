@@ -1,0 +1,16 @@
+# Transformer u_phi of the stem embedding generator (12 layers, 384-d, 12 heads).
+
+_target_: source_embedding_generator.recursive_dit.RecursiveSetDiT
+embedding_dim: 128
+io_channels: 64
+embed_dim: 384
+depth: 12
+num_heads: 12
+max_groups: 16
+cond_channels: 128
+mixture_emb_dim: 128
+chunk_pos_dim: 8
+group_tag_dim: 32
+cfg_dropout_prob: 0.1
+avail_dim: 128
+res_emb_dim: null

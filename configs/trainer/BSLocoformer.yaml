@@ -1,0 +1,30 @@
+# BS-Locoformer trainer (query-conditioned and static).
+
+output_dir: ???
+ckpt_dir: null
+batch_size: 4
+num_workers: 8
+seed: 0
+debug: false
+save_ckpt_on_exit: true
+amp: bf16
+max_grad_norm: 1.0
+ema:
+  beta: 0.999
+  update_after_step: 100
+  update_every: 10
+timestep_sampler: null
+logger:
+  project_name: bslocoformer
+  run_name: bslocoformer-query
+logging:
+  n_step_log: 10
+  n_step_figure: 200
+  n_step_ckpt: 400
+  n_step_sample: 1000
+  n_step_print: 100
+  n_samples_per_step: 2
+  steps:
+  - 1
+  metrics_for_best_ckpt:
+  - loss

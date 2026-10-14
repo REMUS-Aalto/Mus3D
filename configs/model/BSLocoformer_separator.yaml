@@ -1,0 +1,28 @@
+# Query-conditioned BS-Locoformer (medium), query via SwiGLU bias modulation.
+
+backbone:
+  _target_: query_conditioned_bslocoformer.backbone.LevelConditionedBanditBSLocoformer
+  n_chan: 2
+  masking: true
+  sample_rate: 44100
+  n_bands: 64
+  emb_dim: 128
+  mlp_dim: 512
+  transformer_blocks: 6
+  ffn_hidden_dim:
+  - 192
+  - 192
+  attention_heads: 8
+  norm_groups: 8
+loss:
+  _target_: query_conditioned_bslocoformer.loss.ThresSNRLossWithInactiveSource
+  n_src: 1
+  solve_perm: false
+  zeroref_weight: 0.1
+  only_denominator: false
+_target_: query_conditioned_bslocoformer.regression.Regressor
+query_model:
+  _target_: query_conditioned_bslocoformer.query_model.PasstWrapper
+query_adapter:
+  _target_: query_conditioned_bslocoformer.query_model.PcaAdapter
+  pca_pkl: src/query_conditioned_bslocoformer/pca_params_train.pkl

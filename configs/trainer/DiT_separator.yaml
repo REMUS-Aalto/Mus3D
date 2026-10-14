@@ -1,0 +1,39 @@
+# DiT separator trainer.
+
+output_dir: ???
+ckpt_dir: null
+warm_start: false
+allow_fresh_optimizer: false
+batch_size: 16
+num_workers: 32
+prefetch_factor: 2
+seed: 0
+debug: false
+save_ckpt_on_exit: true
+amp: bf16
+max_grad_norm: 1.0
+ema:
+  beta: 0.9999
+  update_after_step: 1000
+  update_every: 10
+timestep_sampler: null
+logger:
+  project_name: LFM
+  run_name: dit-separator
+logging:
+  n_step_log: 100
+  n_step_figure: 10000
+  n_step_ckpt: 2500
+  n_step_sample: 10000
+  n_step_print: 100
+  n_step_val: 5000
+  n_val_t: 4
+  n_samples_per_step: 2
+  steps:
+  - 32
+  demo_modes:
+  - track
+  - stem
+  best_by_val_si_sdr: true
+  metrics_for_best_ckpt:
+  - loss
